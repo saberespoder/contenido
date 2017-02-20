@@ -1,0 +1,58 @@
+// Switch
+
+$switch-background: #fafafa;
+$switch-color: #888b94;
+$switch-color-checked: #00a15f;
+
+$switch-width: 3.7143rem;
+$switch-height: 1.7143rem;
+$switch-border-width: .143rem;
+$switch-trigger-diametr: $switch-height - $switch-border-width * 4;
+$switch-trigger-checked-left: $switch-width - $switch-trigger-diametr - $switch-border-width * 4;
+
+.switch {
+  position: relative;
+  display: block;
+  width: $switch-width;
+  height: $switch-height;
+
+  &-input {
+    display:none;
+  }
+
+  &-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: $switch-height / 2;
+    background-color: $switch-background;
+    border: $switch-border-width solid $switch-color;
+    @include transition-base;
+
+    &::before {
+      content: "";
+      position: absolute;
+      height: $switch-trigger-diametr;
+      width: $switch-trigger-diametr;
+      left: $switch-border-width;
+      bottom: $switch-border-width;
+      border-radius: 50%;
+      background-color: $switch-color;
+      @include transition-base;
+    }
+  }
+
+  &-input:checked + &-slider {
+    border-color: $switch-color-checked;
+  }
+
+  &-input:checked + &-slider:before {
+    background-color: $switch-color-checked;
+    -webkit-transform: translateX($switch-trigger-checked-left);
+    -ms-transform: translateX($switch-trigger-checked-left);
+    transform: translateX($switch-trigger-checked-left);
+  }
+}

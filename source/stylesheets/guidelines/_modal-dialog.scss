@@ -1,0 +1,39 @@
+// Modal dialog
+
+.dialog {
+  padding-bottom: 0.65rem;
+  width: 35.14rem;
+  background-color: #fafafa;
+  border-radius: .15rem;
+  box-shadow: 0 .07rem .15rem 0 rgba(80, 92, 119, 0.2);
+
+  &-content {
+    padding: 2.857rem 5.3rem 2.143rem 2.857rem;
+  }
+
+  &-title {
+    color: #0f1c39;
+    margin-bottom: 1.3rem;
+    font-size: .93rem;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+
+  &-text {
+    color: #888b94;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+
+  &-actions {
+    text-align: right;
+    padding: 0.6rem 1rem;
+  }
+}

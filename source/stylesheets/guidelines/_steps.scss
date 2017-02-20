@@ -1,0 +1,119 @@
+// Steps
+
+$steps-ico-diametr: 4.2857rem;
+$steps-ico-background: #888b94;
+$steps-ico-background-done: #00a15f;
+$steps-ico-check-color-done: #000000;
+
+.steps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.steps-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &-ico {
+    position: relative;
+    margin-right: 1rem;
+    width: $steps-ico-diametr;
+    height: $steps-ico-diametr;
+    color: #fafafa;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: $steps-ico-diametr;
+    text-align: center;
+    letter-spacing: normal;
+    background-color: $steps-ico-background;
+    border-radius: 50%;
+    user-select: none;
+  }
+
+  &-title {
+    margin-right: 1rem;
+    color: #fafafa;
+    font-size: 1.43rem;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: normal;
+    cursor: pointer;
+  }
+
+  &:not(:last-child)::after {
+    content: "";
+    display: block;
+    margin-right: 1rem;
+    width: 10.86rem;
+    height: .07rem;
+    background-color: #979797;
+  }
+}
+
+.steps-item-done {
+
+  .steps-item {
+
+    &-ico {
+      color: $steps-ico-background-done;
+      background-color: $steps-ico-background-done;
+    }
+
+    &-ico::after {
+      content: "";
+      position: absolute;
+      top: 1.5rem;
+      left: 1.2rem;
+      width: 2rem;
+      height: 0.95rem;
+      border: .2rem solid $steps-ico-check-color-done;
+      border-top: none;
+      border-right: none;
+      background: transparent;
+      transform: rotate(-45deg);
+    }
+  }
+}
+
+.steps-item-error {
+
+  .steps-item {
+    
+    &-title {
+      color: #d50642;
+    }
+
+    &-status {
+      max-width: 7rem;
+      color: #d50642;
+      font-size: .786rem;
+      font-weight: 600;
+      line-height: 1.35;
+      letter-spacing: normal;
+    }
+
+    &-ico {
+      width: 0;
+      height: 0;
+      color: transparent;
+      border-style: solid;
+      border-width: 0 2.4rem 4.143rem 2.4rem;
+      border-color: transparent transparent #d50641 transparent;
+      background-color: transparent;
+      border-radius: 0;
+    }
+
+    &-ico::after {
+      content: "!";
+      display: block;
+      position: absolute;
+      left: -0.35rem;
+      top: 0.4rem;
+      color: #000;
+      font-weight: 600;
+      font-size: 2.29rem;
+    }
+  }
+}

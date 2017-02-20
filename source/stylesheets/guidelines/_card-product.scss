@@ -1,0 +1,48 @@
+// Сard product
+
+.card-product {
+  padding-bottom: 0.7rem;
+  width: 24.2857rem;
+  border-radius: .286rem;
+  background-color: #fafafa;
+  overflow: hidden;
+  box-shadow: 0 0.15rem 0.386rem 0 rgba(0, 0, 0, 0.25);
+
+  &-image {
+    width: 24.2857rem;
+    height: 12.143rem;
+    background-color: #e1e1e1;
+  }
+
+  &-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  &-text {
+    padding: 1.4286rem 1.4286rem 0;
+  }
+
+  &-title {
+    color: #0f1c39;
+    margin-bottom: 0.3rem;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+
+  &-description {
+    color: #333333;
+    font-size: .857rem;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+
+  &-actions {
+    text-align: right;
+    padding: 0.6rem;
+  }
+}

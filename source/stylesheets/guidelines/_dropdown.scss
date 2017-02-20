@@ -1,0 +1,83 @@
+// Dropdown
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  &-default {
+    padding: $dropdown-default-padding;
+    min-width: $dropdown-default-min-width;
+    min-height: $dropdown-default-min-height;
+    color: $dropdown-default-font-color;
+    font-size: $dropdown-default-font-size;
+    line-height: $dropdown-default-line-height;
+    text-transform: uppercase;
+    text-align: center;
+    word-wrap: break-word;
+    white-space: normal;
+    background-color: $dropdown-default-background-color;
+    border: $dropdown-default-border;
+    border-radius: $dropdown-default-border-radius;
+    box-shadow: $dropdown-default-box-shadow;
+    cursor: pointer;
+    outline: 0;
+    @include transition-base;
+
+    &::after {
+      content: "";
+      display: inline-block;
+      width: 0;
+      height: 0;
+      margin-left: $dropdown-caret-margin-left;
+      vertical-align: middle;
+      border-style: solid;
+      border-width: $dropdown-caret-border-width;
+      border-color: $dropdown-caret-border-color transparent transparent transparent;
+    }
+
+    &:hover {
+      background-color: $dropdown-default-background-color-hover;
+    }
+  }
+
+  &-list {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    margin: $dropdown-list-margin;
+    padding: $dropdown-list-padding;
+    min-width: -webkit-max-content;
+    min-width: -moz-max-content;
+    min-width: max-content;
+    cursor: auto;
+    outline: 0;
+    background-color: $dropdown-list-background-color;
+    text-align: left;
+    box-shadow: $dropdown-list-box-shadow;
+    border: $dropdown-list-border;
+    border-radius: $dropdown-list-border-radius;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  &-item {
+    color: #0f1c39;
+    padding: $dropdown-item-padding;
+    font-size: $dropdown-item-font-size;
+    line-height: $dropdown-item-line-height;
+    cursor: pointer;
+    @include transition-base;
+
+    &:hover {
+      background-color: $dropdown-item-background-color-hover;
+    }
+
+    @include disabled-hover {
+      color: $dropdown-item-font-color-disabled;
+    }
+  }
+}

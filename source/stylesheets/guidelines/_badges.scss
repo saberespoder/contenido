@@ -1,0 +1,27 @@
+// Badges
+
+.badge {
+  display: inline-block;
+  min-width: 1em;
+  padding: .15em .5em .21rem;
+  font-size: .93em;
+  line-height: 1;
+  color: #fafafa;
+  font-weight: 600;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #777;
+  border-radius: 10px;
+
+  &:empty {
+    display: none;
+  }
+
+  button &,
+  .button & {
+    position: relative;
+    top: -.07rem;
+  }
+}

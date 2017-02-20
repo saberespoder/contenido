@@ -1,0 +1,75 @@
+// Sheet
+
+.sheet-col {
+
+  &-title {
+    width: 25.5rem;
+  }
+
+  &-date {
+    width: 8.8rem;
+  }
+}
+
+.sheet {
+  background-color: #fafafa;
+
+  &-td {
+    padding: 0.72rem 1.4rem 0.75rem;
+    border-bottom: .07rem solid #d8d8d8;
+
+    &-title {
+      color: #0f1c39;
+      font-size: 1.143rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      border-right: .07rem solid #d8d8d8;
+    }
+    &-date {
+      color: #0f1c39;
+      font-size: .93rem;
+      font-weight: 600;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+  }
+
+  &-th {
+    position: relative;
+    padding: 1.2rem 1.4rem 0.9rem;
+    color: #fafafa;
+    font-size: 1.143rem;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: normal;
+    text-transform: uppercase;
+    background-color: #4b5063;
+
+    &-title {
+      border-right: .07rem solid #d8d8d8;
+    }
+    &-date {
+    }
+
+    &-order {
+      position: absolute;
+      padding: .5rem;
+      right: 0.5rem;
+      top: 1.25rem;
+      cursor: pointer;
+    }
+
+    &-order::after {
+      content: "";
+      display: block;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: .357rem .286rem 0 .286rem;
+      border-color: #fafafa transparent transparent transparent;
+    }
+  }
+}
+
+

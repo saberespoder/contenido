@@ -1,0 +1,50 @@
+// Tags
+
+.tag {
+  display: inline-block;
+  position: relative;
+  padding: .1em 1em .2em;
+  color: #0f1c39;
+  font-size: .786rem;
+  font-weight: 600;
+  line-height: 1.64;
+  letter-spacing: .014em;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 2em;
+  background-color: #dee1e8;
+
+  &-y {
+    color: #fafafa;
+    background-color: #ffa000;
+  }
+
+  &-p {
+    color: #fafafa;
+    background-color: #bd6572;
+  }
+
+  &-g {
+    color: #fafafa;
+    background-color: #66bb6a;
+  }
+
+  &-closeable {
+    padding: .1em 3em .2em 1em;
+
+    &::after {
+      content: "";
+      position: absolute;
+      right: 1em;
+      top: 0.45em;
+      width: 1em;
+      height: 1em;
+      background-image: url(../assets/guidelines/icon-close-dark.svg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      cursor: pointer;
+    }
+  }
+}

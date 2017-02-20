@@ -1,0 +1,108 @@
+// Сard event
+
+.card-event {
+  padding: 1rem;
+  width: 19.286rem;
+  border-radius: .286rem;
+  background-color: #fafafa;
+  border-bottom: .2857rem solid #d50642;
+  overflow: hidden;
+  box-shadow: 0 0.15rem 0.386rem 0 rgba(0, 0, 0, 0.25);
+
+  &-header {
+    position: relative;
+    padding: 0 .4286rem 1rem;
+    border-bottom: .1rem solid #d8d8d8;
+
+    &-title {
+      margin-bottom: 0.3rem;
+      color: #0f1c39;
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+
+    &-subtitle {
+      color: #888b94;
+      font-size: .93rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+
+    &-actions {
+      position: absolute;
+      right: 0;
+      top: -0.25rem;
+    }
+
+    &-date {
+      position: absolute;
+      right: 0.5rem;
+      top: 1.65rem;
+      color: #888b94;
+      font-size: .786rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+  }
+
+  &-body {
+    padding: 0.8rem .4286rem;
+
+    &-title {
+      margin-bottom: .3rem;
+      color: #888b94;
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: 1.8rem;
+      letter-spacing: normal;
+    }
+
+    &-title-ico {
+      display: inline-block;
+      margin-right: 0.9rem;
+      width: 1.8rem;
+      height: 1.8rem;
+      vertical-align: top;
+      background-color: #ccc;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+
+    &-text {
+      color: #333333;
+      font-size: .857rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+  }
+
+  &-footer {
+    position: relative;
+    padding: 0.9rem .4286rem 0.46rem;
+    text-align: center;
+
+    &-ico {
+      position: absolute;
+      right: 0.5rem;
+      top: 1.2rem;
+      width: 1.8rem;
+      height: 1.8rem;
+      background-color: #ccc;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+
+    &-button {
+      color: #fafafa;
+      background-color: #d50642;
+      text-transform: none;
+    }
+  }
+}

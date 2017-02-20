@@ -1,0 +1,26 @@
+// Breadcrumbs
+
+.breadcrumbs {
+  color: #979797;
+  font-size: .93rem;
+  font-weight: 100;
+  line-height: normal;
+  letter-spacing: normal;
+
+  &-link {
+    margin: 0 1rem;
+    color: #fafafa;
+    font-size: 1.143rem;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

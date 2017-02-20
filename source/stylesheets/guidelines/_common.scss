@@ -1,0 +1,75 @@
+// Common
+
+// Displays
+.display1 {
+  margin-bottom: 3rem;
+  font-size: $display1-size;
+  font-weight: $display1-weight;
+  line-height: $display1-line-height;
+  letter-spacing: $display1-line-letter-spacing;
+}
+.display2 {
+  margin-bottom: 3rem;
+  font-size: $display2-size;
+  font-weight: $display2-weight;
+  line-height: $display2-line-height;
+  letter-spacing: $display2-line-letter-spacing;
+}
+
+// Headers
+h1,
+.h1 {
+  margin-bottom: 3rem;
+  font-size: $font-size-h1;
+  font-weight: $font-weight-h1;
+  line-height: $line-height-h1;
+  letter-spacing: $letter-spacing-h1;
+}
+h2,
+.h2 {
+  margin-bottom: 2rem;
+  font-size: $font-size-h2;
+  font-weight: $font-weight-h2;
+  line-height: $line-height-h2;
+  letter-spacing: $letter-spacing-h2;
+}
+h3,
+.h3 {
+  margin-bottom: 1.5rem;
+  font-size: $font-size-h3;
+  font-weight: $font-weight-h3;
+  line-height: $line-height-h3;
+  letter-spacing: $letter-spacing-h3;
+}
+
+// Titles
+h4,
+.t1 {
+  font-size: $font-size-t1;
+  font-weight: $font-weight-t1;
+  line-height: $line-height-t1;
+  letter-spacing: $letter-spacing-t1;
+}
+h5,
+.t2 {
+  font-size: $font-size-t2;
+  font-weight: $font-weight-t2;
+  line-height: $line-height-t2;
+  letter-spacing: $letter-spacing-t2;
+}
+
+// Paragraphs
+.p2 {
+  font-size: $font-size-p2;
+  font-weight: $font-weight-p2;
+  line-height: $line-height-p2;
+  letter-spacing: $letter-spacing-p2;
+}
+
+// Caption
+.caption {
+  font-size: $font-size-caption;
+  font-weight: $font-weight-caption;
+  line-height: $line-height-caption;
+  letter-spacing: $letter-spacing-caption;
+}

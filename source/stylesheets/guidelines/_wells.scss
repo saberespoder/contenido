@@ -1,0 +1,18 @@
+// Wells
+
+.wells {
+  width: 40rem;
+  padding: 2.143rem;
+  color: #0f1c39;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  border-radius: .3rem;
+  background-color: #f3f3f3;
+  border: solid .07rem #bcbbba;
+
+  &-sm {
+    padding: .5rem;
+  }
+}

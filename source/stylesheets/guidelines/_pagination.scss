@@ -1,0 +1,90 @@
+// Pagination
+
+$pagination-color: #888b94;
+$pagination-color-hover: #fafafa;
+$pagination-color-active: $pagination-color-hover;
+$pagination-margin: 0 .66rem;
+
+.pagination {
+
+  &-list {
+    text-align: center;
+
+    * {
+      margin: $pagination-margin;
+      vertical-align: middle;
+    }
+  }
+
+  &-prev,
+  &-next {
+    display: inline-block;
+
+    &::after {
+      vertical-align: middle;
+      content: "";
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      @include transition-base;
+    }
+  }
+
+  &-prev {
+
+    &::after {
+      border-width: .2rem .286rem .2rem 0;
+      border-color: transparent $pagination-color transparent transparent;
+    }
+
+    &:hover::after {
+      border-color: transparent $pagination-color-hover transparent transparent;
+    }
+  }
+
+  &-next {
+
+    &::after {
+      border-width: .2rem 0 .2rem .286rem;
+      border-color: transparent transparent transparent $pagination-color;
+    }
+
+    &:hover::after {
+      border-color: transparent transparent transparent $pagination-color-hover;
+    }
+  }
+
+  &-item {
+    color: $pagination-color;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+
+    &:hover {
+      color: $pagination-color-hover;
+    }
+
+    &-active {
+      color: $pagination-color-hover;
+    }
+  }
+
+  &-dots {
+    color: $pagination-color;
+    cursor: default;
+  }
+
+  &-last {
+    color: $pagination-color;
+    font-size: .786rem;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+
+    &:hover {
+      color: $pagination-color-hover;
+    }
+  }
+}

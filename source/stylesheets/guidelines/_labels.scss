@@ -1,0 +1,56 @@
+// labels
+
+.label {
+  display: inline-block;
+  padding: .36em 1em .54em;
+  color: #fafafa;
+  font-size: .786em;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: .014em;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 2em;
+  background-color: #777;
+}
+.label[href]:hover,
+.label[href]:focus {
+  background-color: #5e5e5e;
+}
+.label-primary {
+  background-color: #00548f;
+}
+.label-primary[href]:hover,
+.label-primary[href]:focus {
+  background-color: #286090;
+}
+.label-success {
+  background-color: #00a15f;
+}
+.label-success[href]:hover,
+.label-success[href]:focus {
+  background-color: #449d44;
+}
+.label-low {
+  color: #0f1c39;
+  background-color: #fafafa;
+}
+.label-low[href]:hover,
+.label-low[href]:focus {
+  background-color: #dee1e8;
+}
+.label-warning {
+  background-color: #ffa000;
+}
+.label-warning[href]:hover,
+.label-warning[href]:focus {
+  background-color: #ec971f;
+}
+.label-danger {
+  background-color: #d50642;
+}
+.label-danger[href]:hover,
+.label-danger[href]:focus {
+  background-color: #c9302c;
+}

@@ -1,0 +1,74 @@
+// Task-list
+
+.task-list {
+  margin: 0;
+  padding: 0;
+
+  &-item {
+    position: relative;
+    padding: 1.2rem 1.1rem;
+    width: 27.14rem;
+    height: 6.57141rem;
+    background-color: #fafafa;
+    border-bottom: .1rem solid #d8d8d8;
+
+    &-title {
+      color: #0f1c39;
+      font-size: 1.143rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    &-subtitle {
+      margin-bottom: 0.25rem;
+      color: #0f1c39;
+      font-size: .93rem;
+      font-weight: 600;
+      line-height: normal;
+      letter-spacing: normal;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      opacity: 0.7;
+    }
+
+    &-description {
+      width: 21.8rem;
+      color: #0f1c39;
+      font-size: .786rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    &-time {
+      position: absolute;
+      right: 1.2rem;
+      top: 1.2rem;
+      color: #888b94;
+      font-size: .786rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+
+    &-icon {
+      position: absolute;
+      right: 1.1rem;
+      top: 3.4rem;
+      width: 1.8rem;
+      height: 1.8rem;
+      background-color: #888b94;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+  }
+}

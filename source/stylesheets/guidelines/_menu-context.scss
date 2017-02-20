@@ -1,0 +1,80 @@
+// Menu
+
+$menu-button-dot-diametr: .2857rem;
+$menu-button-dot-color: #888b94;
+$menu-button-dot-color-dark: #fafafa;
+
+.context-menu-button {
+  padding: 0 0 0 0.4rem;
+
+  &:after {
+    content: " \2807 ";
+    color: $menu-button-dot-color;
+    font-size: 1.65rem;
+    cursor: pointer;
+  }
+}
+.context-menu-button-dark {
+
+  &:after {
+    color: $menu-button-dot-color-dark;
+  }
+}
+
+.context {
+
+  &-list {
+    position: absolute;
+    margin: 0;
+    padding: .3rem 0;
+    background-color: #fafafa;
+  }
+
+  &-item {
+    position: relative;
+    padding: 0.47rem 1.1rem;
+    white-space: nowrap;
+
+    &:hover {
+      background-color: #dee1e8;
+    }
+  }
+
+  &-item-submenu {
+    padding: 0.47rem 4.3rem 0.47rem 1.1rem;
+
+    &::before {
+      content: "";
+      display: block;
+      position: absolute;
+      right: 0.6rem;
+      top: 0.95rem;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: .2857rem 0 .2857rem .357rem;
+      border-color: transparent transparent transparent #000000;
+    }
+  }
+
+  &-link {
+    color: #0f1c39;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5;
+    letter-spacing: .007rem;
+  }
+
+  &-item-disabled {
+
+    & .context-link {
+      color: #bcbbba;
+    }
+  }
+
+  &-separator {
+    height: .1429rem;
+    background-color: #d8d8d8;
+  }
+}
+

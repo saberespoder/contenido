@@ -1,0 +1,105 @@
+// Colors
+
+
+// BOOTSTRAP
+// Grayscale and brand colors for use across Bootstrap.
+// Start with assigning color names to specific hex values.
+$white:  #fafafa !default;
+$black:  #000000 !default;
+$red:    #d9534f !default;
+$orange: #f0ad4e !default;
+$yellow: #ffd500 !default;
+$green:  #5cb85c !default;
+$blue:   #0275d8 !default;
+$teal:   #5bc0de !default;
+$pink:   #ff5b77 !default;
+$purple: #613d7c !default;
+
+// Create grayscale
+$gray-dark:     #333333 !default;
+$gray:          #464a4c !default;
+$gray-light:    #636c72 !default;
+$gray-lighter:  #eceeef !default;
+$gray-lightest: #f7f7f9 !default;
+
+// Reassign color vars to semantic color scheme
+$brand-primary: $blue !default;
+$brand-success: $green !default;
+$brand-info:    $teal !default;
+$brand-warning: $orange !default;
+$brand-danger:  $red !default;
+$brand-inverse: $gray-dark !default;
+
+
+// STYLING
+
+// Primary colors
+$primary-color-v1:   #00A15F !default;
+$primary-color-v1-2: #4B5063 !default;
+
+$primary-color-v2:   #66BB6A !default;
+$primary-color-v2-2: #4B5063 !default;
+$primary-color-v2-3: #383838 !default;
+
+// Navigation bg
+$navigation-bg-1-color: $primary-color-v1 !default;
+$navigation-bg-2-color: $primary-color-v1-2 !default;
+$navigation-bg-3-color: $primary-color-v1-2 !default;
+
+// Text
+$font-main-1-color: #333333 !default;
+$font-main-2-color: #0F1C39 !default;
+$font-secondary-color: #FAFAFA !default;
+$font-complementary-color: #888B94 !default;
+$font-highlight-1-color: #00A15F !default;
+$font-highlight-2-color: #D50642 !default;
+
+// Links
+$link-color: #2196F3 !default;
+$link-hover-color: #1D4F7D !default;
+
+// Buttons text
+$button-text-blue-color: #36547D !default;
+$button-text-gray-color: #333333 !default;
+$button-text-red-color: #D50642 !default;
+$button-text-white-color: #FAFAFA !default;
+$button-text-dark-blue-color: #0F1C39 !default;
+
+$button-bg-green-color: #00A15F !default;
+$button-bg-green-hover-color: #00695C !default;
+$button-bg-red-color: #D50642 !default;
+$button-bg-red-hover-color: #AC2041 !default;
+$button-bg-white-color: #FAFAFA !default;
+$button-bg-white-hover-color: #E1E1E1 !default;
+$button-bg-white-hover-color: #8A8A8D !default;
+$button-bg-white-hover-color: #BCBBBA !default;
+$button-bg-white-hover-color: #D50642 !default;
+$button-bg-gray-color: #D2CFCD !default;
+$button-bg-gray-hover-color: #00A15F !default;
+$button-bg-gray-hover-color: #0F1C39 !default;
+
+// Background
+$background-v1-color: #DEE1E8 !default;
+$background-v2-color: #E1E1E1 !default;
+$background-v3-color: #F3F3F3 !default;
+$background-v4-color: #FAFAFA !default;
+$background-v5-color: #4B5063 !default;
+
+// Charts
+$chart-blue1-color: #00385F !default;
+$chart-blue2-color: #00548F !default;
+$chart-blue3-color: #2F76A6 !default;
+$chart-blue4-color: #6498BD !default;
+$chart-blue5-color: #98BBD2 !default;
+
+$chart-red1-color: #5F000C !default;
+$chart-red2-color: #8F0010 !default;
+$chart-red3-color: #A63242 !default;
+$chart-red4-color: #BD6572 !default;
+$chart-red5-color: #D299A2 !default;
+
+$chart-c1-color: #2196F3 !default;
+$chart-c2-color: #022A43 !default;
+$chart-c3-color: #D50642 !default;
+$chart-c4-color: #FFA000 !default;
+$chart-c5-color: #5F39AB !default;

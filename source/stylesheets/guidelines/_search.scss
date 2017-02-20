@@ -1,0 +1,104 @@
+// Search
+
+$search-cancel-width: 1.14rem;
+$search-cancel-height: .15rem;
+
+.search {
+  position: relative;
+  display: inline-block;
+
+  &-input {
+    padding: 0 3rem 0 1.43rem;
+    width: 22.143rem;
+    height: 2.43rem;
+    color: #0f1c39;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    border-radius: .286rem;
+    background-color: #fafafa;
+    border: solid .07rem #888b94;
+  }
+
+  &-cancel {
+    position: absolute;
+    right: 1.14rem;
+    top: 0.7rem;
+    width: $search-cancel-width;
+    height: $search-cancel-width;
+    cursor: pointer;
+
+    &::after,
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: ($search-cancel-width - $search-cancel-height) / 2;
+      width: $search-cancel-width;
+      height: $search-cancel-height;
+      background-color: #888b94;
+    }
+
+    &::after {
+      transform: rotate(-45deg);
+    }
+
+    &::before {
+      transform: rotate(45deg);
+    }
+  }
+}
+
+.search-supply {
+  position: absolute;
+  top: 100%;
+  left: .15rem;
+  right: .15rem;
+  padding: 1.143rem 1.43rem 0;
+  border-bottom-right-radius: .15rem;
+  border-bottom-left-radius: .15rem;
+  background-color: #fafafa;
+  box-shadow: 0 .15rem .286rem 0 rgba(0, 0, 0, 0.5);
+  
+  &-category {
+
+    &:not(:last-of-type) {
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: .15rem solid  #e1e1e1;
+    }
+  
+    &-title {
+      margin-bottom: 0.572rem;
+      color: #00a15f;
+      font-size: .786rem;
+      font-weight: 600;
+      line-height: normal;
+      letter-spacing: normal;
+      text-transform: uppercase;
+    }
+  }
+  
+  &-list {
+    margin: 0;
+    padding: 0;
+  }
+  
+  &-item {
+    margin-bottom: 0.072rem;
+  }
+  
+  &-link {
+    color: #333333;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.57;
+    letter-spacing: .007rem;
+  }
+
+  &-actions {
+    padding: 1rem 0;
+    text-align: center;
+  }
+}

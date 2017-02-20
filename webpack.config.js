@@ -16,7 +16,10 @@ module.exports = {
     rules: [
       {
         test: /\.(css|scss)$/,
-        use: ExtractTextPlugin.extract([ "css-loader", "sass-loader" ])
+        use: ExtractTextPlugin.extract("css-loader!sass-loader?sourceMap&includePaths[]=" + __dirname + "/node_modules")
+      } , {
+        test: /\.svg$/,
+        loader: "svg-loader"
       }
     ]
   },

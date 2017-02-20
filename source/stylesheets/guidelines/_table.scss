@@ -1,0 +1,62 @@
+// Table
+
+.table-col {
+
+  &-title {
+    width: 18.2rem;
+  }
+
+  &-date {
+    width: 11rem;
+  }
+
+  &-information {
+    width: 18.5rem;
+  }
+}
+
+.table {
+  background-color: #fafafa;
+
+  &-td {
+    padding: 1rem 2.1rem;
+    border-bottom: .07rem solid #d8d8d8;
+
+    &-title {
+      color: #0f1c39;
+      font-size: 1.143rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+    }
+    &-date {
+      color: #0f1c39;
+      font-size: .93rem;
+      font-weight: 600;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: center;
+    }
+    &-information {
+      color: #0f1c39;
+      font-size: .93rem;
+      font-weight: 600;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: center;
+    }
+  }
+
+  &-th {
+    padding: 2.1rem 2.1rem 0.75rem;
+    color: #d50642;
+    font-size: 1.143rem;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: normal;
+    text-transform: uppercase;
+    border-bottom: .07rem solid #d8d8d8;
+  }
+}
+
+

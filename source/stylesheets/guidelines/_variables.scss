@@ -1,0 +1,253 @@
+// Variables
+//
+
+// Colors
+//
+// Grayscale and brand colors for use across Bootstrap.
+
+// Start with assigning color names to specific hex values.
+$white:  #fafafa !default;
+$black:  #000 !default;
+$red:    #d9534f !default;
+$orange: #f0ad4e !default;
+$yellow: #ffd500 !default;
+$green:  #5cb85c !default;
+$blue:   #0275d8 !default;
+$teal:   #5bc0de !default;
+$pink:   #ff5b77 !default;
+$purple: #613d7c !default;
+
+// Create grayscale
+$gray-dark:                 #333333 !default;
+$gray:                      #464a4c !default;
+$gray-light:                #636c72 !default;
+$gray-lighter:              #eceeef !default;
+$gray-lightest:             #f7f7f9 !default;
+
+// Reassign color vars to semantic color scheme
+$brand-primary:             $blue !default;
+$brand-success:             $green !default;
+$brand-info:                $teal !default;
+$brand-warning:             $orange !default;
+$brand-danger:              $red !default;
+$brand-inverse:             $gray-dark !default;
+
+
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+
+// $enable-rounded:            true !default;
+// $enable-shadows:            false !default;
+// $enable-gradients:          false !default;
+// $enable-transitions:        true !default;
+// $enable-hover-media-query:  false !default;
+// $enable-grid-classes:       true !default;
+// $enable-print-styles:       true !default;
+
+
+$body-bg:       $white !default;
+$body-color:    $gray-dark !default;
+
+// Transition
+$transition-base: all 0.2s ease !default;
+$transition-delay-base: 0.05s !default;
+
+// Transition
+$radius-base: .143rem !default;
+
+// Links
+//
+// Style anchor elements.
+
+$link-decoration:       none !default;
+$link-color:            #2196f3 !default;
+$link-hover-color:      #1d4f7d !default;
+$link-disabled-color:   #bcbbba !default;
+// $link-hover-decoration: underline !default;
+
+$action-font-size: .857em !default;
+$action-line-height: 1.67 !default;
+
+$action-caret-width: .5em !default;
+$action-caret-margin: 0 .2em !default;
+$action-caret-border: .1em solid $link-color !default;
+$action-caret-vertical-align: .1em !default;
+
+$action-hover-caret-border: .1em solid $link-hover-color !default;
+
+
+// Fonts
+//
+// Font, line-height, and color for body text, headings, and more.
+
+$font-family-sans-serif: 'Open Sans', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-base:       $font-family-sans-serif !default;
+
+$font-size-base: .875rem !default; // Assumes the browser default, typically `16px`
+// $font-size-lg:   1.25rem !default;
+// $font-size-sm:   .875rem !default;
+// $font-size-xs:   .75rem !default;
+
+$font-weight-normal: normal !default;
+$font-weight-bold: bold !default;
+
+$font-weight-base: $font-weight-normal !default;
+$line-height-base: 1.43 !default;
+
+// ===================================================================
+// Displays 
+// ===================================================================
+$display1-size: 8rem !default;
+$display2-size: 4.143rem !default;
+
+$display1-line-height: 1.25 !default;
+$display2-line-height: 1.17 !default;
+
+$display1-line-letter-spacing: -.007rem !default;
+$display2-line-letter-spacing: -.007rem !default;
+
+$display1-weight: 300 !default;
+$display2-weight: 600 !default;
+
+// ===================================================================
+// Headers
+// ===================================================================
+$font-size-h1: 3.5rem !default;
+$font-size-h2: 2.5rem !default;
+$font-size-h3: 2rem !default;
+
+$font-weight-h1: normal !default;
+$font-weight-h2: 300 !default;
+$font-weight-h3: normal !default;
+
+$line-height-h1: 1.07 !default;
+$line-height-h2: 1.18 !default;
+$line-height-h3: 1.29 !default;
+
+$letter-spacing-h1: normal !default;
+$letter-spacing-h2: normal !default;
+$letter-spacing-h3: normal !default;
+
+// ===================================================================
+// Titles
+// ===================================================================
+$font-size-t1: 1.5rem !default;
+$font-size-t2: 1.143rem !default;
+
+$font-weight-t1: 600 !default;
+$font-weight-t2: normal !default;
+
+$line-height-t1: 1.4 !default;
+$line-height-t2: 1.75 !default;
+
+$letter-spacing-t1: normal !default;
+$letter-spacing-t2: normal !default;
+
+// ===================================================================
+// Paragraphs
+// ===================================================================
+$font-size-p2: .928rem !default;
+$font-weight-p2: 600 !default;
+$line-height-p2: 1.85 !default;
+$letter-spacing-p2: normal !default;
+
+// ===================================================================
+// Caption
+// ===================================================================
+$font-size-caption: .786rem !default;
+$font-weight-caption: normal !default;
+$line-height-caption: 1.64 !default;
+$letter-spacing-caption: .014rem !default;
+
+// $headings-margin-bottom: ($spacer / 2) !default;
+$headings-font-family:   inherit !default;
+$headings-font-weight:   500 !default;
+$headings-line-height:   1.1 !default;
+$headings-color:         inherit !default;
+
+
+
+// ===================================================================
+// Buttons
+// ===================================================================
+$button-shadow: 0 .15rem .286rem 0 rgba(0, 0, 0, 0.5) !default;
+$button-border-radius: $radius-base !default;
+$button-margin: 0 0.5rem !default;
+$button-padding: .714rem 1.5rem !default;
+$button-min-width: 6.7rem !default;
+$button-background-color: #e1e1e1 !default;
+
+$button-color: #0f1c39 !default;
+$button-font-size: .928rem !default;
+$button-font-weight: normal !default;
+$button-line-height: 1.143rem !default;
+$button-letter-spacing: .007rem !default;
+
+$button-hover-color: #0f1c39 !default;
+$button-hover-background-color: #bcbbba !default;
+
+$button-active-color: #0f1c39 !default;
+$button-active-background-color: #8a8a8d !default;
+
+$button-disabled-color: #888b94 !default;
+$button-disabled-background-color: #e1e1e1 !default;
+
+$button-bg-padding: 1.43rem 2.857rem 1.357rem !default;
+$button-bg-font-size: 1.5rem !default;
+$button-bg-font-weight: 400 !default;
+$button-bg-line-height: 1 !default;
+$button-bg-min-width: 14rem !default;
+
+
+// ===================================================================
+// dropdown
+// ===================================================================
+$dropdown-default-font-color: #0f1c39 !default;
+$dropdown-default-background-color: #fafafa !default;
+$dropdown-default-background-color-hover: #e1e1e1 !default;
+$dropdown-default-border: .07rem solid rgba(34,36,38,.15) !default;
+$dropdown-default-font-size: .92857rem !default;
+$dropdown-default-line-height: 1.5 !default;
+$dropdown-default-padding: .57rem 1.5em .5rem !default;
+$dropdown-default-min-width: $button-min-width !default;
+$dropdown-default-min-height: 2.5714rem !default;
+$dropdown-default-border-radius: $radius-base !default;
+$dropdown-default-box-shadow: 0 .15rem .286rem 0 rgba(0, 0, 0, 0.25) !default;
+
+$dropdown-caret-margin-left: .5rem !default;
+$dropdown-caret-border-width: .357rem .2857rem 0 .2857rem !default;
+$dropdown-caret-border-color: $dropdown-default-font-color !default;
+
+$dropdown-list-margin: .3rem 0 0 !default;
+$dropdown-list-padding: 1rem 0 !default;
+$dropdown-list-background-color: $dropdown-default-background-color !default;
+$dropdown-list-box-shadow: $dropdown-default-box-shadow !default;
+$dropdown-list-border: $dropdown-default-border !default;
+$dropdown-list-border-radius: $radius-base !default;
+
+$dropdown-item-background-color-hover: #dee1e8 !default;
+$dropdown-item-font-color-disabled: #bcbbba !default;
+$dropdown-item-padding: .643rem 1.5em !default;
+$dropdown-item-font-size: 1rem !default;
+$dropdown-item-line-height: 1 !default;
+
+
+// ===================================================================
+// state
+// ===================================================================
+
+
+// ===================================================================
+// tooltip
+// ===================================================================
+
+
+
+
+$dt-font-weight: $font-weight-bold !default;
+$table-cell-padding: .75rem !default;
+$text-muted: $gray-light !default;
+$cursor-disabled: not-allowed !default;
+

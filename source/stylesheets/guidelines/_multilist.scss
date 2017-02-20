@@ -1,0 +1,82 @@
+// Multilist
+
+.multilist {
+  margin: 0;
+  padding: .857rem 0;
+  width: 18.43rem;
+  background-color: #fafafa;
+
+  &-item-title {
+    position: relative;
+    padding: .857rem 3.6rem .857rem 4.6rem;
+    cursor: pointer;
+
+    &-ico {
+      position: absolute;
+      left: 1.43rem;
+      top: .571rem;
+      width: 1.714rem;
+      height: 1.714rem;
+      background-color: #333333;
+    }
+
+    &-text {
+      color: #0f1c39;
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: 1.143rem;
+      letter-spacing: normal;
+    }
+
+    &-caret {
+      position: absolute;
+      right: 2rem;
+      top: 1rem;
+
+      &::after {
+        content: "";
+        display: block;
+        width: .57rem;
+        height: .57rem;
+        border-bottom: .143rem solid #888b94;
+        border-left: .143rem solid #888b94;
+        transform: rotate(-45deg);
+      }
+    }
+  }
+
+  &-sublist {
+    display: none;
+    margin: 0;
+    padding: 0;
+
+    &-item {
+      padding: 0.6rem 3.6rem 0.6rem 4.6rem;
+      color: #0f1c39;
+      cursor: pointer;
+    }
+  }
+}
+
+.multilist-item-expanded {
+  background: #f3f3f3;
+
+  .multilist-item-title {
+
+    &-text {
+      color: #00a15f;
+    }
+
+    &-caret {
+      top: 1.3rem;
+
+      &::after {
+        transform: rotate(135deg);
+      }
+    }
+  }
+
+  .multilist-sublist {
+    display: block;
+  }
+}

@@ -1,0 +1,66 @@
+// Link
+a,
+.link {
+  color: $link-color;
+  text-decoration: $link-decoration;
+  background-color: transparent; // Remove the gray background on active links in IE 10.
+  -webkit-text-decoration-skip: objects; // Remove gaps in links underline in iOS 8+ and Safari 8+.
+  cursor: pointer;
+  @include transition-base;
+
+  @include hover {
+    color: $link-hover-color;
+  }
+
+  @include disabled-hover {
+    color: $link-disabled-color;
+    cursor: default;
+  }
+}
+
+// Action
+.action {
+  @extend .link;
+  margin: 0 0.5rem;
+  font-size: $action-font-size;
+  text-transform: uppercase;
+  line-height: $action-line-height;
+
+  &-next::after,
+  &-prev::before {
+    content: "";
+    display: inline-block;
+    width: $action-caret-width;
+    height: $action-caret-width;
+    margin: $action-caret-margin;
+    border-bottom: $action-caret-border;
+    border-right: $action-caret-border;
+    vertical-align: $action-caret-vertical-align;
+    @include transition-base;
+  }
+
+  &-next::after {
+    transform: rotate(-45deg);
+  }
+
+  &-prev::before {
+    transform: rotate(135deg);
+  }
+
+  &-next:hover::after,
+  &-prev:hover::before {
+    border-color: $link-hover-color;
+  }
+
+  @include disabled-hover {
+    color: $link-disabled-color;
+    cursor: default;
+
+    &::after,
+    &::before,
+    &:hover::after,
+    &:hover::before {
+      border-color: $link-disabled-color;
+    }
+  }
+}
