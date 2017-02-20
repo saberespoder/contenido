@@ -1,7 +1,7 @@
 {
   "name": "sepcontent",
   "version": "1.0.0",
-  "description": "",
+  "description": "Content Platform assets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/saberespoder/sepcontent-v2#readme",
   "devDependencies": {
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^2.0.0-rc.3",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.1",
     "webpack": "^2.2.1"
   }
 }
