@@ -16,37 +16,31 @@ html
     header
       nav.header-nav
         .container
-          .header-logo
-            a.header-logo-link href="#"
-              img src="assets/components/logo.png" /
           .header-nav-right
-            .header-nav-search
-            ul.header-nav-langs-list
-              li.header-nav-langs-item
-                a.header-nav-langs-link.header-nav-langs-link-active href="#"  En
-              li.header-nav-langs-item
-                a.header-nav-langs-link href="#"  Esp
-            button.header-nav-signin Sign In
+            .header-logo
+              a.header-logo-link href="/"
+                img src="assets/components/logo.png" /
 
-          ul.header-nav-list
-            li.header-nav-item
-              a.header-nav-link href="#"
-                | details
-            li.header-nav-item
-              a.header-nav-link href="#"
-                | how to enter
-            li.header-nav-item
-              a.header-nav-link href="#"
-                | faqs
-            li.header-nav-item
-              a.header-nav-link href="#"
-                | details
-            li.header-nav-item
-              a.header-nav-link href="#"
-                | how to enter
-            li.header-nav-item
-              a.header-nav-link href="#"
-                | faqs
+      nav.header-subnav
+        ul.header-subnav-list
+          li.header-subnav-item
+            a.header-subnav-link href="#"
+              | All
+          li.header-subnav-item
+            a.header-subnav-link href="#"
+              | Government Services
+          li.header-subnav-item
+            a.header-subnav-link href="#"
+              | Education
+          li.header-subnav-item
+            a.header-subnav-link href="#"
+              | Finance
+          li.header-subnav-item
+            a.header-subnav-link href="#"
+              | Health
+          li.header-subnav-item
+            a.header-subnav-link href="#"
+              | Jobs
 
     #main role="main"
       = yield
