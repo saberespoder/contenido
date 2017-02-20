@@ -2,8 +2,6 @@
 # Page options, layouts, aliases and proxies
 ###
 
-set :slim, { ugly: true, format: :html }
-
 # Per-page layout changes:
 #
 # With no layout
@@ -68,3 +66,11 @@ configure :build do
   # Minify Javascript on build
   # activate :minify_javascript
 end
+
+set :slim, { ugly: true, format: :html }
+
+activate :external_pipeline,
+  name:    :webpack,
+  command: build? ? "./node_modules/webpack/bin/webpack.js --bail -p" : "./node_modules/webpack/bin/webpack.js --watch -d --progress --color",
+  source:  ".tmp/dist",
+  latency: 1
