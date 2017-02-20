@@ -1,0 +1,31 @@
+header {
+  .header-nav {
+    background-color: #00a15f;
+  }
+  .header-nav-list {
+    float: right;
+    margin-right: 68px;
+  }
+  .header-nav-link {
+    color: #fafafa;
+  }
+  .header-nav-link:hover {
+    color: #dee1e8;
+  }
+  .header-logo {
+    padding: 1.7rem 0;
+  }
+  .header-nav-langs-link {
+    color: #fafafa;
+  }
+  .header-nav-langs-link:hover {
+    color: #dee1e8;
+  }
+  .header-nav-search {
+    background-image: url(../assets/components/header/search.svg);
+  }
+  .header-nav-signin {
+    background-color: #fafafa;
+    text-transform: none;
+  }
+}

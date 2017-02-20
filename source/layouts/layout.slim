@@ -12,8 +12,45 @@ html
     = stylesheet_link_tag :blog
 
   body
+
+    header
+      nav.header-nav
+        .container
+          .header-logo
+            a.header-logo-link href="#"
+              img src="assets/components/logo.png" /
+          .header-nav-right
+            .header-nav-search
+            ul.header-nav-langs-list
+              li.header-nav-langs-item
+                a.header-nav-langs-link.header-nav-langs-link-active href="#"  En
+              li.header-nav-langs-item
+                a.header-nav-langs-link href="#"  Esp
+            button.header-nav-signin Sign In
+
+          ul.header-nav-list
+            li.header-nav-item
+              a.header-nav-link href="#"
+                | details
+            li.header-nav-item
+              a.header-nav-link href="#"
+                | how to enter
+            li.header-nav-item
+              a.header-nav-link href="#"
+                | faqs
+            li.header-nav-item
+              a.header-nav-link href="#"
+                | details
+            li.header-nav-item
+              a.header-nav-link href="#"
+                | how to enter
+            li.header-nav-item
+              a.header-nav-link href="#"
+                | faqs
+
     #main role="main"
       = yield
+
     aside
       h2 Recent Articles
       ol
@@ -29,5 +66,26 @@ html
       ol
         - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
           li= link_to "#{year} (#{articles.size})", blog_year_path(year)
+
+    footer
+      .container
+        .footer-logo-wrap
+          a.footer-logo href="#"
+            img src="assets/components/logo.png" /
+        .footer-actions
+          a.caption href="#"  About
+          a.caption href="#"  Corporate
+          a.caption href="#"  Home
+          a.caption href="#"  Facebook
+          a.caption href="#"  Youtube
+          a.caption href="#"  legal
+          a.caption href="#"  help
+        .footer-copy
+          p SABEResPODER®
+          p (310) 826-3900
+          p Info@saberespoder.com
+        .footer-up
+          a.caret-up href="#"
+            img.caret-up-img src="assets/components/footer/icon-arrow-up.svg" /
 
     = javascript_include_tag :blog
