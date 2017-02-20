@@ -4,6 +4,6 @@
 - [ ] Publishing articles - from contentful platform
 - [ ] Roles - managed through contentful platform
 - [ ] Social network sharing
-- [ ] Front-end website (**WIP**)
+- [ ] **(WIP)** -Front-end website
 - [ ] Rss feed
 - [ ] Provide links to our SEP platform, twitter and facebook
