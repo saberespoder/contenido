@@ -2,6 +2,8 @@
 # Page options, layouts, aliases and proxies
 ###
 
+set :slim, { ugly: true, format: :html }
+
 # Per-page layout changes:
 #
 # With no layout
