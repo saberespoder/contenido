@@ -16,10 +16,15 @@ html
     header
       nav.header-nav
         .container
-          .header-nav-right
-            .header-logo
-              a.header-logo-link href="/"
-                img src="assets/components/logo.png" /
+          .header-grid
+            .header-grid__right
+              .header-logo
+                a.header-logo-link href="/"
+                  img src="assets/components/logo.png" /
+            .header-grid__center
+              form.header-search
+                input.header-search__button type="submit"
+                input.header-search__box type="search"
 
       nav.header-subnav
         ul.header-subnav-list

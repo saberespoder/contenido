@@ -2,33 +2,55 @@ header {
   .header-nav {
     background-color: #00a15f;
   }
-  .header-nav-list {
+
+  .header-grid {
+    float: left;
+    width: 100%;
+    margin-top: 1.7rem;
+  }
+  .header-grid__left, .header-grid__right {
+    width: 10%;
+  }
+  .header-grid__right {
     float: right;
-    margin-right: 68px;
   }
-  .header-nav-link {
-    color: #fafafa;
+  .header-grid__center {
+    width: 80%;
+    margin: 0 10%;
   }
-  .header-nav-link:hover {
-    color: #dee1e8;
+
+  .header-search {
+    position: relative;
+    &__box {
+      display: block;
+      padding: 0.7rem 0.7rem 0.7rem 32px;
+      width: 98%;
+      color: #0f1c39;
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      border-radius: .286rem;
+      background-color: #fafafa;
+      border: solid .07rem #888b94;
+    }
+    &__button {
+      position: absolute;
+      top: 0.7rem;
+      left: 0.7rem;
+      width: 16px;
+      height: 16px;
+      background: url(../assets/guidelines/search.svg) no-repeat 0 0;
+      background-size: contain;
+      border: none;
+      text-indent: -777em;
+    }
   }
+
   .header-logo {
     float: normal;
     padding: 0;
     margin: 0;
-  }
-  .header-nav-langs-link {
-    color: #fafafa;
-  }
-  .header-nav-langs-link:hover {
-    color: #dee1e8;
-  }
-  .header-nav-search {
-    background-image: url(../assets/components/header/search.svg);
-  }
-  .header-nav-signin {
-    background-color: #fafafa;
-    text-transform: none;
   }
 
   .header-subnav {
