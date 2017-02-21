@@ -14,63 +14,69 @@ html
   body
 
     header
+
       nav.header-nav
         .container
           .header-grid
             .header-grid__right
               .header-logo
                 a.header-logo-link href="/"
-                  img src="assets/components/logo.png" /
+                  img src="/assets/components/logo.png" /
             .header-grid__center
               form.header-search
                 input.header-search__button type="submit"
                 input.header-search__box type="search"
 
       nav.header-subnav
-        ul.header-subnav-list
-          li.header-subnav-item
-            a.header-subnav-link href="#"
-              | All
-          li.header-subnav-item
-            a.header-subnav-link href="#"
-              | Government Services
-          li.header-subnav-item
-            a.header-subnav-link href="#"
-              | Education
-          li.header-subnav-item
-            a.header-subnav-link href="#"
-              | Finance
-          li.header-subnav-item
-            a.header-subnav-link href="#"
-              | Health
-          li.header-subnav-item
-            a.header-subnav-link href="#"
-              | Jobs
+        .container
+          ul.header-subnav-list
+            li.header-subnav-item
+              a.header-subnav-link href="#"
+                | All
+            li.header-subnav-item
+              a.header-subnav-link href="#"
+                | Government Services
+            li.header-subnav-item
+              a.header-subnav-link href="#"
+                | Education
+            li.header-subnav-item
+              a.header-subnav-link href="#"
+                | Finance
+            li.header-subnav-item
+              a.header-subnav-link href="#"
+                | Health
+            li.header-subnav-item
+              a.header-subnav-link href="#"
+                | Jobs
 
-    #main role="main"
-      = yield
+    section.content
+      .container
+        h1 Unique product features include
 
-    aside
-      h2 Recent Articles
-      ol
-        - blog.articles[0...10].each do |article|
-          li
-            = link_to article.title, article
-            span= article.date.strftime('%b %e')
-      h2 Tags
-      ol
-        - blog.tags.each do |tag, articles|
-          li= link_to "#{tag} (#{articles.size})", tag_path(tag)
-      h2 By Year
-      ol
-        - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-          li= link_to "#{year} (#{articles.size})", blog_year_path(year)
+        .card-product
+          = yield
+
+          aside
+            h2 Recent Articles
+            ol
+              - blog.articles[0...10].each do |article|
+                li
+                  = link_to article.title, article
+                  span= article.date.strftime('%b %e')
+            h2 Tags
+            ol
+              - blog.tags.each do |tag, articles|
+                li= link_to "#{tag} (#{articles.size})", tag_path(tag)
+            h2 By Year
+            ol
+              - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+                li= link_to "#{year} (#{articles.size})", blog_year_path(year)
 
     footer
       .container
         .footer-logo-wrap
           a.footer-logo href="#"
-            img src="assets/components/logo.png" /
+            img src="/assets/components/logo.png" /
         .footer-actions
           a.caption href="#"  About
           a.caption href="#"  Corporate
@@ -85,6 +91,6 @@ html
           p Info@saberespoder.com
         .footer-up
           a.caret-up href="#"
-            img.caret-up-img src="assets/components/footer/icon-arrow-up.svg" /
+            img.caret-up-img src="/assets/components/footer/icon-arrow-up.svg" /
 
     = javascript_include_tag :blog
