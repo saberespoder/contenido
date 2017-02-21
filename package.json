@@ -18,6 +18,7 @@
   "homepage": "https://github.com/saberespoder/sepcontent-v2#readme",
   "devDependencies": {
     "css-loader": "^0.26.1",
+    "csso-loader": "^0.2.1",
     "extract-text-webpack-plugin": "^2.0.0-rc.3",
     "node-sass": "^4.5.0",
     "sass-loader": "^6.0.1",

@@ -16,7 +16,7 @@ module.exports = {
     rules: [
       {
         test: /\.(css|scss)$/,
-        use: ExtractTextPlugin.extract("css-loader!sass-loader?sourceMap&includePaths[]=" + __dirname + "/node_modules")
+        use: ExtractTextPlugin.extract("css-loader!csso-loader?-comments!sass-loader?sourceMap&includePaths[]=" + __dirname + "/node_modules")
       } , {
         test: /\.svg/,
         loader: "svg-url-loader"
