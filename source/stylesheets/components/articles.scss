@@ -1,8 +1,18 @@
 .articles {
+  &-item {
+    padding: 1.4286rem 1.4286rem 0;
+    &__image {
+      float: left;
+      margin-right: 1.4286rem;
+    }
+    &__text {
+      color: #0f1c39;
+      font-size: 1.143rem;
+      line-height: 1.75;
+    }
+  }
   .card-product {
     margin-bottom: 2rem;
-  }
-  .card-product-description {
-    font-size: inherit;
+    min-height: 15rem;
   }
 }
