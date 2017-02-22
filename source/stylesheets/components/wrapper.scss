@@ -1,8 +1,8 @@
 .wrapper {
   min-height: 100%;
-  margin-bottom: -474px;
-  &:after {
-    content: "";
-    display: block;
-  }
+  //margin-bottom: -474px;
+}
+.wrapper::after {
+  content: "";
+  display: block;
 }
