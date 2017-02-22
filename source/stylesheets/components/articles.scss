@@ -1,6 +1,14 @@
 .articles {
   &-item {
-    padding: 1.4286rem 1.4286rem 0;
+    @extend .card-product;
+
+    width: auto;
+    min-height: 15rem;
+    margin-bottom: 2rem;
+
+    &__inner {
+      padding: 1.4286rem 1.4286rem 0;
+    }
     &__image {
       float: left;
       margin-right: 1.4286rem;
@@ -10,9 +18,5 @@
       font-size: 1.143rem;
       line-height: 1.75;
     }
-  }
-  .card-product {
-    margin-bottom: 2rem;
-    min-height: 15rem;
   }
 }

@@ -1,6 +1,7 @@
 @import "guidelines/main";
 
 // @TODO: Extract at least colors from our own layout to variables
+// @TODO: Use inheritence to extend guideline classes
 @import "components/base";
 @import "components/wrapper";
 @import "components/container";

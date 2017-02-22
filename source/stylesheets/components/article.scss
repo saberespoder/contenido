@@ -1,3 +1,11 @@
 .article {
-  @extend .card-product;
+  @extend .articles-item;
+
+  &__inner {
+    padding: 2rem;
+  }
+
+  &__text {
+    @extend .articles-item__text;
+  }
 }
