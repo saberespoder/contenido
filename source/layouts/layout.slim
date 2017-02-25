@@ -31,26 +31,12 @@ html
 
         nav.header-subnav
           .container
-            // @TODO: Categories should be generated automatically
             ul.header-subnav-list
               li.header-subnav-item
-                a.header-subnav-link href="#"
-                  | All
-              li.header-subnav-item
-                a.header-subnav-link href="#"
-                  | Government Services
-              li.header-subnav-item
-                a.header-subnav-link href="#"
-                  | Education
-              li.header-subnav-item
-                a.header-subnav-link href="#"
-                  | Finance
-              li.header-subnav-item
-                a.header-subnav-link href="#"
-                  | Health
-              li.header-subnav-item
-                a.header-subnav-link href="#"
-                  | Jobs
+                a.header-subnav-link href="/" All
+              - blog.articles.map { |a| a.metadata[:page][:category] }.each do |category|
+                li.header-subnav-item
+                  a.header-subnav-link href="#{category_path category}"= category
 
       section.content
         .container
