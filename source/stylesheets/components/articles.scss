@@ -10,6 +10,8 @@
       padding: 1.4286rem 1.4286rem 0;
     }
     &__image {
+      @extend .card-product-image;
+      background: #f3f3f3;
       float: left;
       margin-right: 1.4286rem;
     }
