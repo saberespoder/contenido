@@ -8,4 +8,12 @@
   &__text {
     @extend .articles-item__text;
   }
+
+  &__image {
+    display: block;
+    width: 100%;
+    height: 24.2857rem;
+    margin-bottom: 2rem;
+    background: #f3f3f3;
+  }
 }
