@@ -3,6 +3,7 @@ title: Pasos para prepararse para el examen de conducir escrito
 date: 2012-01-01
 tags: example
 layout: post
+category: Government Sevices
 ---
 
 El examen escrito requiere un conocimiento apropiado de las leyes y señales viales. Para prepararlo:
