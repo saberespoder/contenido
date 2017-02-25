@@ -3,22 +3,4 @@ pageable: true
 per_page: 10
 ---
 
-- if paginate && num_pages > 1
-  p
-    | Page #{page_number} of #{num_pages}
-  - if prev_page
-    p= link_to 'Previous page', prev_page
-
-- if page_articles.any?
-  .articles
-    - page_articles.each_with_index do |article, i|
-      .articles-item
-        .articles-item__inner
-          .articles-item__image
-          .articles-item__body
-            h2= link_to article.title, article
-            .articles-item__text= article.summary(250)
-
-- if paginate
-  - if next_page
-    p= link_to 'Next page', next_page
+= partial "articles", locals: { articles: page_articles }
