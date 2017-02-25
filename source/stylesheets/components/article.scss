@@ -4,16 +4,21 @@
   &__inner {
     padding: 2rem;
   }
-
-  &__text {
-    @extend .articles-item__text;
-  }
-
   &__image {
     display: block;
     width: 100%;
     height: 24.2857rem;
     margin-bottom: 2rem;
     background: #f3f3f3;
+  }
+  &__text {
+    @extend .articles-item__text;
+    margin-bottom: 2rem;
+  }
+
+  &__related {
+    h2 {
+      color: #00a15f;
+    }
   }
 }

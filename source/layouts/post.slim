@@ -5,6 +5,18 @@
 
   .article
     .article__inner
+
       .article__text
         .article__image
         = yield
+
+      .article__related
+        h2 Related articles
+
+        - 3.times do
+          .card-product2
+            .card-product2-image
+              = image_tag "http://casaydiseno.com/wp-content/uploads/2015/07/deco-foto-portada-oto%C3%B1o.jpg", class: "card-product2-img"
+            .card-product2-content
+              .card-product2-title= lorem.words 5
+              .card-product2-text= lorem.sentence
