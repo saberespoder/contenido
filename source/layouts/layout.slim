@@ -40,8 +40,7 @@ html
 
       section.content
         .container
-          h1 #{current_article.present? ? current_article.title : "Unique product features include"}
-
+          h1= yield_content :title
           = yield
 
           /
