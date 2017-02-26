@@ -4,6 +4,7 @@ date: 2012-01-01
 tags: example
 layout: post
 category: Government Sevices
+image: https://d219r5liba2haj.cloudfront.net/uploads/article_pic/pic_url/328/large_GED.jpg
 ---
 
 El examen escrito requiere un conocimiento apropiado de las leyes y señales viales. Para prepararlo:
