@@ -5,18 +5,15 @@
 
   .article
     .article__inner
-
       .article__text
         .article__image
         = yield
 
-      .article__related
-        h2 Related articles
+  .article__related
+    h2 Related articles
 
-        - 3.times do
-          .card-product2
-            .card-product2-image
-              = image_tag "http://casaydiseno.com/wp-content/uploads/2015/07/deco-foto-portada-oto%C3%B1o.jpg", class: "card-product2-img"
-            .card-product2-content
-              .card-product2-title= lorem.words 5
-              .card-product2-text= lorem.sentence
+    - 3.times do |i|
+      .article__related-item class="article__related-item--#{i == 1 ? :central : :border}" style="background-image:url(http://www.ywcaquincy.org/atf/cf/{03B5093C-B7D4-4336-98B0-3C49E7172DF8}/financial-literacy.jpg);"
+        .article__related-item__text
+          .article__related-item__title= lorem.words 5
+          .article__related-item__subtitle= lorem.sentence

@@ -13,12 +13,32 @@
   }
   &__text {
     @extend .articles-item__text;
-    margin-bottom: 2rem;
   }
 
   &__related {
+    float: left;
+    width: 100%;
+    margin-bottom: 2rem 0;
     h2 {
       color: #00a15f;
+    }
+    &-item {
+      @extend .card-person;
+      float: left;
+      width: 30%;
+      &__text {
+        @extend .card-person-text;
+        width: 100%;
+      }
+      &__title {
+        @extend .card-person-title;
+      }
+      &__subtitle {
+        @extend .card-person-subtitle;
+      }
+    }
+    &-item--central {
+      margin: 0 5%;
     }
   }
 }
