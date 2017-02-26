@@ -6,7 +6,7 @@
   .article
     .article__inner
       .article__text
-        .article__image
+        .article__image= image_tag current_article.metadata[:page][:image]
         = yield
 
   .article__related
