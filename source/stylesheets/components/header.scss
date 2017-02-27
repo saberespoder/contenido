@@ -57,7 +57,9 @@ header {
   }
 
   .header-subnav {
+    @extend .header-subnav;
     width: auto;
+    min-height: 3.43rem;
     &-list {
       margin: 0 auto;
       padding: 0;
