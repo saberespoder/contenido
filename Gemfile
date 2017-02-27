@@ -1,4 +1,6 @@
 ruby "2.3.3"
+#ruby-gemset=contentplatform_gems
+
 # If you do not have OpenSSL installed, change
 # the following line to use "http://"
 source "https://rubygems.org"
