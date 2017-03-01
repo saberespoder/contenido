@@ -3,7 +3,7 @@ title: "Escenario post-electoral: Recursos y respuestas a las preguntas más com
 date: 2015-02-22
 tags: example
 layout: post
-category: Finance
+categories: Finance
 image: https://d219r5liba2haj.cloudfront.net/uploads/article_pic/pic_url/403/large_daca.jpg
 ---
 

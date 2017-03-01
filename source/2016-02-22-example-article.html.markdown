@@ -3,7 +3,7 @@ title: Cómo obtener una licencia de conducir para indocumentados AB 60
 date: 2016-02-22
 tags: example
 layout: post
-category: Health
+categories: Health
 image: https://d219r5liba2haj.cloudfront.net/uploads/article_pic/pic_url/389/large_acta_nacimiento.jpg
 ---
 

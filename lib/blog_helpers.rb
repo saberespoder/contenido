@@ -1,14 +1,14 @@
 module BlogHelpers
   def blog_categories
-    blog.articles.map { |a| article_categories a }.flatten.uniq
+    @blog_categories ||= Hash[article_categories.sort]
   end
 
-  def article_categories(article)
-    article.metadata[:page][:category]
+  def image_url(article)
+    article.data[:image]
   end
 
-  def article_image(article)
-    article.metadata[:page][:image]
+  def category_path(category)
+    "/categories/#{category.parameterize}.html"
   end
 
   def related_articles(article, limit = 3)
@@ -26,6 +26,26 @@ module BlogHelpers
         a == article
       # Randomize and limit
       }.shuffle.take(limit)
+    end
+  end
+
+  private
+
+  def categories(article)
+    category_array(article.data[:categories])
+  end
+
+  def category_array(categories)
+    (categories || "Uncategorized").split(/,\s*/)
+  end
+
+  def article_categories
+    Hash.new { [] }.tap do |c|
+      blog.articles.each do |a|
+        categories(a).each do |ac|
+          c[ac] <<= a
+        end
+      end
     end
   end
 end

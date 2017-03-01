@@ -6,7 +6,7 @@
   .article
     .article__inner
       .article__text
-        .article__image= image_tag article_image(current_article)
+        .article__image= image_tag image_url(current_article)
         = yield
 
   - @related_articles = related_articles(current_article)
@@ -15,6 +15,6 @@
       h2 Related articles
 
       - @related_articles.each_with_index do |a, index|
-        = link_to a, class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{article_image(a)});"  do
+        = link_to a, class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{image_url(a)});"  do
           .article__related-item__text
             .article__related-item__title= a.title
