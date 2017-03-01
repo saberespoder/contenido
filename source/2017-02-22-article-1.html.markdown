@@ -1,5 +1,5 @@
 ---
-title: Tramite su acta de nacimiento sin salir del país
+title: "Tramite su acta de nacimiento sin salir del país"
 date: 2017-02-22
 tags: example, jobs
 layout: post
