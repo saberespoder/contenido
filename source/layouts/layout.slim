@@ -34,7 +34,7 @@ html
             ul.header-subnav-list
               li.header-subnav-item
                 a.header-subnav-link href="/" All
-              - article_categories.each do |category|
+              - blog_categories.each do |category|
                 li.header-subnav-item
                   a.header-subnav-link href="#{category_path category}"= category
 

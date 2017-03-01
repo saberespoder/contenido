@@ -1,6 +1,14 @@
 module BlogHelpers
-  def article_categories
-    blog.articles.map { |a| a.metadata[:page][:category] }
+  def blog_categories
+    blog.articles.map { |a| article_categories a }.flatten.uniq
+  end
+
+  def article_categories(article)
+    article.metadata[:page][:category]
+  end
+
+  def article_image(article)
+    article.metadata[:page][:image]
   end
 
   def related_articles(article, limit = 3)
@@ -19,9 +27,5 @@ module BlogHelpers
       # Randomize and limit
       }.shuffle.take(limit)
     end
-  end
-
-  def article_image(article)
-    article.metadata[:page][:image]
   end
 end
