@@ -15,6 +15,7 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "middleman", "~> 4.1"
 gem "middleman-blog"
 gem "middleman-livereload"
+gem "middleman-dotenv"
 gem "contentful_middleman", github: "contentful/contentful_middleman", branch: "dl/upgrade-to-v4"
 gem "redcarpet", "~> 3.3", ">= 3.3.3"
 gem "slim"
