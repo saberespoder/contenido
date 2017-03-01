@@ -1,7 +1,7 @@
 ---
 title: Tramite su acta de nacimiento sin salir del país
 date: 2017-02-22
-tags: example
+tags: example, jobs
 layout: post
 category: Jobs
 image: https://d219r5liba2haj.cloudfront.net/uploads/article_pic/pic_url/358/large_visa_ssn_greencard.jpg

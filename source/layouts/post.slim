@@ -12,8 +12,7 @@
   .article__related
     h2 Related articles
 
-    - 3.times do |i|
-      .article__related-item class="article__related-item--#{i == 1 ? :central : :border}" style="background-image:url(http://www.ywcaquincy.org/atf/cf/{03B5093C-B7D4-4336-98B0-3C49E7172DF8}/financial-literacy.jpg);"
+    - related_articles(current_article).each_with_index do |a, index|
+      .article__related-item class="article__related-item--#{index == 1 ? :central : :border}" style="background-image:url(http://www.ywcaquincy.org/atf/cf/{03B5093C-B7D4-4336-98B0-3C49E7172DF8}/financial-literacy.jpg);"
         .article__related-item__text
-          .article__related-item__title= lorem.words 5
-          .article__related-item__subtitle= lorem.sentence
+          .article__related-item__title= a.title
