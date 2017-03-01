@@ -6,13 +6,13 @@
   .article
     .article__inner
       .article__text
-        .article__image= image_tag current_article.metadata[:page][:image]
+        .article__image= image_tag article_image(current_article)
         = yield
 
   .article__related
     h2 Related articles
 
     - related_articles(current_article).each_with_index do |a, index|
-      .article__related-item class="article__related-item--#{index == 1 ? :central : :border}" style="background-image:url(http://www.ywcaquincy.org/atf/cf/{03B5093C-B7D4-4336-98B0-3C49E7172DF8}/financial-literacy.jpg);"
+      .article__related-item class="article__related-item--#{index == 1 ? :central : :border}" style="background-image:url(#{article_image(a)});"
         .article__related-item__text
           .article__related-item__title= a.title
