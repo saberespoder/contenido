@@ -13,6 +13,6 @@
     h2 Related articles
 
     - related_articles(current_article).each_with_index do |a, index|
-      .article__related-item class="article__related-item--#{index == 1 ? :central : :border}" style="background-image:url(#{article_image(a)});"
+      = link_to a, class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{article_image(a)});"  do
         .article__related-item__text
           .article__related-item__title= a.title
