@@ -1,3 +1,6 @@
+require "lib/blog_helpers"
+helpers BlogHelpers
+
 ###
 # Page options, layouts, aliases and proxies
 ###
