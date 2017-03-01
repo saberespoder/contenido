@@ -12,6 +12,7 @@ activate :external_pipeline,
 
 configure :development do
   activate :livereload
+  activate :dotenv
 end
 
 activate :blog do |blog|
