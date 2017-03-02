@@ -18,4 +18,8 @@
 .DS_Store
 node_modules
 /.tmp
+
+# App config
 .env
+.articles-space-hash
+/data

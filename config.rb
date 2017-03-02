@@ -32,6 +32,12 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :contentful do |f|
+  f.space         = { articles: ENV["CONTENTFUL_SPACE_ID"] }
+  f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
+  f.content_types = { article: ENV["CONTENTFUL_ARTICLE_KEY"] }
+end
+
 ready do
   sitemap.resources
     .map { |r| (r.data["categories"] || "Uncategorized").split(/,\s*/) }
