@@ -15,6 +15,10 @@ configure :development do
   activate :dotenv
 end
 
+configure :build do
+  ignore '/category.html'
+end
+
 activate :blog do |blog|
   blog.permalink = "/articles/{title}.html"
   blog.tag_template = "tag.html"

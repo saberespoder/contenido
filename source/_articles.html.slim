@@ -4,7 +4,7 @@
   - if prev_page
     p= link_to 'Previous page', prev_page
 
-- if articles.any?
+- if articles && articles.any?
   .articles
     - articles.each_with_index do |article, i|
       .articles-item
