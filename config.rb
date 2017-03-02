@@ -4,6 +4,8 @@ helpers BlogHelpers
 page "/feed.xml", layout: false
 
 set :slim, { ugly: true, format: :html }
+#set :relative_links, true
+
 activate :external_pipeline,
   name:    :webpack,
   command: build? ? "./node_modules/webpack/bin/webpack.js --bail -p" : "./node_modules/webpack/bin/webpack.js --watch -d --progress --color",
@@ -17,13 +19,12 @@ end
 
 configure :build do
   ignore '/category.html'
-  activate :relative_assets
+  #activate :relative_assets
 end
 
 activate :blog do |blog|
   blog.permalink = "/articles/{title}.html"
   blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
 
   # Enable pagination
   # blog.paginate = true
