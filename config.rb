@@ -17,6 +17,7 @@ end
 
 configure :build do
   ignore '/category.html'
+  activate :relative_assets
 end
 
 activate :blog do |blog|
