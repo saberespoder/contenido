@@ -34,7 +34,8 @@ end
 
 articles.each do |article|
   proxy "/articles/#{article.slug}.html", "/articles/show.html", locals: {
-    article: article
+    article: article,
+    related: related_articles(article)
   }
 end
 

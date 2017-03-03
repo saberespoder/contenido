@@ -8,12 +8,11 @@
 
       = article.body
 
-- @related_articles = related_articles(article)
-- if @related_articles.any?
+- if related.any?
   .article__related
     h2 Related articles
 
-    - @related_articles.each_with_index do |a, index|
+    - related.each_with_index do |a, index|
       = link_to "/articles/#{a.slug}.html", class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{a.image.url});"  do
         .article__related-item__text
           .article__related-item__title= a.title
