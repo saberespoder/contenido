@@ -35,8 +35,7 @@ html
               li.header-subnav-item
                 a.header-subnav-link href="/" All
               - categories.each do |category|
-                li.header-subnav-item
-                  a.header-subnav-link href="#{category[:title]}"= category[:title]
+                li.header-subnav-item= link_to category.title, "/categories/#{category.slug}.html", class: "header-subnav-link"
 
       section.content
         .container

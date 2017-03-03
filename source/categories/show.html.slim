@@ -1,0 +1,4 @@
+- content_for :title do
+  = category.title
+
+= partial "articles/articles", locals: { articles: category_articles }
