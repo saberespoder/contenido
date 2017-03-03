@@ -30,3 +30,10 @@ activate :contentful do |f|
     categories: ENV["CONTENTFUL_CATEGORIES_KEY"]
   }
 end
+
+data.sepcontent.articles.each do |article|
+  # Parametrize slugs in the mapper
+  proxy "/articles/#{article[1][:title].parameterize}.html", "/articles/show.html", locals: {
+    article: OpenStruct.new(article[1])
+  }
+end

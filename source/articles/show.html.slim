@@ -1,0 +1,9 @@
+- content_for :title do
+  = article.title
+
+.article
+  .article__inner
+    .article__text
+      .article__image= image_tag article.image.url
+
+      = article.body

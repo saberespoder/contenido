@@ -5,5 +5,5 @@
         .articles-item__inner
           .articles-item__image=image_tag article.image.url
           .articles-item__body
-            h2= link_to article.title, "#"
+            h2= link_to article.title, "/articles/#{article.slug}.html"
             .articles-item__text= article.body

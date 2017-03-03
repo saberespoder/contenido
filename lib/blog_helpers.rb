@@ -4,7 +4,7 @@ module BlogHelpers
   end
 
   def articles
-    sepcontent.articles.map { |a| OpenStruct.new(a[1]) }
+    sepcontent.articles.map { |a| OpenStruct.new(a[1].merge(slug: a[1][:title].parameterize)) }
   end
 
   def related_articles(article, limit = 3)
