@@ -33,9 +33,12 @@ activate :blog do |blog|
 end
 
 activate :contentful do |f|
-  f.space         = { articles: ENV["CONTENTFUL_SPACE_ID"] }
+  f.space         = { sepcontent: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
-  f.content_types = { article: ENV["CONTENTFUL_ARTICLE_KEY"] }
+  f.content_types = {
+    articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
+    categories: ENV["CONTENTFUL_CATEGORIES_KEY"]
+  }
 end
 
 ready do
