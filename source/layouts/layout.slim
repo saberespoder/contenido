@@ -7,8 +7,8 @@ html
     meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible" /
     meta content="width=device-width, initial-scale=1" name="viewport" /
     title
-      | SABEResPODER #{' - ' + current_article.title unless current_article.nil?}
-    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+      //| SABEResPODER #{' - ' + current_article.title unless current_article.nil?}
+    //= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
     = stylesheet_link_tag :blog
 
   body
@@ -34,9 +34,9 @@ html
             ul.header-subnav-list
               li.header-subnav-item
                 a.header-subnav-link href="/" All
-              - blog_categories.each do |category, articles|
+              - categories.each do |category|
                 li.header-subnav-item
-                  a.header-subnav-link href="#{category_path category}"= category
+                  a.header-subnav-link href="#{category_path category[:title]}"= category[:title]
 
       section.content
         .container

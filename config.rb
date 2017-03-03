@@ -22,16 +22,6 @@ configure :build do
   #activate :relative_assets
 end
 
-activate :blog do |blog|
-  blog.permalink = "/articles/{title}.html"
-  blog.tag_template = "tag.html"
-
-  # Enable pagination
-  # blog.paginate = true
-  # blog.per_page = 10
-  # blog.page_link = "page/{num}"
-end
-
 activate :contentful do |f|
   f.space         = { sepcontent: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
@@ -39,15 +29,4 @@ activate :contentful do |f|
     articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
     categories: ENV["CONTENTFUL_CATEGORIES_KEY"]
   }
-end
-
-ready do
-  sitemap.resources
-    .map { |r| (r.data["categories"] || "Uncategorized").split(/,\s*/) }
-    .flatten
-    .uniq
-    .each { |category|
-      proxy "/categories/#{category.parameterize}.html", "category.html",
-      locals: { category: category }
-    }
 end

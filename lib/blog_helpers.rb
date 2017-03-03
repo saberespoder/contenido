@@ -1,14 +1,10 @@
 module BlogHelpers
-  def blog_categories
-    @blog_categories ||= Hash[system_categories.sort]
+  def categories
+    sepcontent.categories.map { |c| OpenStruct.new(c[1]) }
   end
 
-  def image_url(article)
-    article.data[:image]
-  end
-
-  def category_path(category)
-    "/categories/#{category.parameterize}.html"
+  def articles
+    sepcontent.articles.map { |a| OpenStruct.new(a[1]) }
   end
 
   def related_articles(article, limit = 3)
@@ -28,22 +24,16 @@ module BlogHelpers
 
   private
 
+  def sepcontent
+    @sepcontent ||= data.sepcontent
+  end
+
   def article_categories(article)
     category_array(article.data[:categories])
   end
 
   def category_array(categories)
     (categories || "Uncategorized").split(/,\s*/)
-  end
-
-  def system_categories
-    Hash.new { [] }.tap do |c|
-      blog.articles.each do |a|
-        article_categories(a).each do |ac|
-          c[ac] <<= a
-        end
-      end
-    end
   end
 
   def filter_related(article, collection, limit)

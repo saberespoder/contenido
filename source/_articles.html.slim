@@ -1,19 +1,9 @@
-- if paginate && num_pages > 1
-  p
-    | Page #{page_number} of #{num_pages}
-  - if prev_page
-    p= link_to 'Previous page', prev_page
-
 - if articles && articles.any?
   .articles
     - articles.each_with_index do |article, i|
       .articles-item
         .articles-item__inner
-          .articles-item__image=image_tag image_url(article)
+          .articles-item__image=image_tag article.image.url
           .articles-item__body
-            h2= link_to article.title, article
-            .articles-item__text= article.summary(200)
-
-- if paginate
-  - if next_page
-    p= link_to 'Next page', next_page
+            h2= link_to article.title, "#"
+            .articles-item__text= article.body
