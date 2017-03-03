@@ -19,7 +19,8 @@ configure :development do
 end
 
 configure :build do
-  ignore '/category.html'
+  ignore '/categories/show.html'
+  ignore '/articles/show.html'
   #activate :relative_assets
 end
 
