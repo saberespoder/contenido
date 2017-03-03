@@ -1,12 +1,10 @@
 module BlogHelpers
-  # @TODO: Use decorator method for categories and articles parameterization
-
   def categories
-    sepcontent.categories.map { |c| OpenStruct.new(c[1].merge(slug: c[1][:title].parameterize)) }
+    structurize sepcontent.categories
   end
 
   def articles
-    sepcontent.articles.map { |a| OpenStruct.new(a[1].merge(slug: a[1][:title].parameterize)) }
+    structurize sepcontent.articles
   end
 
   def related_articles(article, limit = 3)
@@ -28,6 +26,10 @@ module BlogHelpers
 
   def sepcontent
     @sepcontent ||= @app.data.sepcontent
+  end
+
+  def structurize(collection)
+    collection.map { |c| OpenStruct.new(c[1].merge(slug: c[1][:title].parameterize)) }
   end
 
   def filter_related(article, collection, limit)
