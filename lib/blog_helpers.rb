@@ -1,6 +1,8 @@
 module BlogHelpers
+  # @TODO: Use decorator method for categories and articles parameterization
+
   def categories
-    sepcontent.categories.map { |c| OpenStruct.new(c[1]) }
+    sepcontent.categories.map { |c| OpenStruct.new(c[1].merge(slug: c[1][:title].parameterize)) }
   end
 
   def articles
@@ -25,15 +27,7 @@ module BlogHelpers
   private
 
   def sepcontent
-    @sepcontent ||= data.sepcontent
-  end
-
-  def article_categories(article)
-    category_array(article.data[:categories])
-  end
-
-  def category_array(categories)
-    (categories || "Uncategorized").split(/,\s*/)
+    @sepcontent ||= @app.data.sepcontent
   end
 
   def filter_related(article, collection, limit)

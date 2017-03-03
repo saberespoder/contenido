@@ -1,5 +1,6 @@
 require "lib/blog_helpers"
 helpers BlogHelpers
+include BlogHelpers
 
 page "/feed.xml", layout: false
 
@@ -31,9 +32,17 @@ activate :contentful do |f|
   }
 end
 
-data.sepcontent.articles.each do |article|
-  # Parametrize slugs in the mapper
-  proxy "/articles/#{article[1][:title].parameterize}.html", "/articles/show.html", locals: {
-    article: OpenStruct.new(article[1])
+articles.each do |article|
+  proxy "/articles/#{article.slug}.html", "/articles/show.html", locals: {
+    article: article
+  }
+end
+
+categories.each do |category|
+  proxy "/categories/#{category.slug}.html", "/categories/show.html", locals: {
+    category:          category,
+    category_articles: articles.select { |a|
+      a.categories.map(&:id).include?(category.id)
+    }
   }
 end
