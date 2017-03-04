@@ -18,11 +18,16 @@ configure :development do
   activate :dotenv
 end
 
+# Build exceptions
+
 configure :build do
-  ignore '/categories/show.html'
+  ignore '/articles/index.html'
   ignore '/articles/show.html'
+  ignore '/categories/show.html'
   #activate :relative_assets
 end
+
+# Contentful setup
 
 activate :contentful do |f|
   f.space         = { sepcontent: ENV["CONTENTFUL_SPACE_ID"] }
@@ -33,18 +38,21 @@ activate :contentful do |f|
   }
 end
 
-# Dynamic routes mappings
-
-articles.each do |article|
-  proxy "/articles/#{article.slug}.html", "/articles/show.html", locals: {
-    article: article,
-    related: related_articles(article)
-  }
-end
+# Dynamic routes
+# @TODO: Dry this shit
 
 sliced_articles = collection_slice(articles)
+
+proxy "/index.html", "/articles/index.html", locals: {
+  slicer: {
+    collection: sliced_articles,
+    slice:      sliced_articles.first,
+    pattern:    "/articles/pages"
+  }
+}
+
 sliced_articles.each_with_index do |page_articles, page|
-  proxy "/articles/pages/#{page+1}.html", "/index.html", locals: {
+  proxy "/articles/pages/#{page+1}.html", "/articles/index.html", locals: {
     slicer: {
       collection: sliced_articles,
       slice:      page_articles,
@@ -53,7 +61,12 @@ sliced_articles.each_with_index do |page_articles, page|
   }
 end
 
-# @TODO: Dry this shit
+articles.each do |article|
+  proxy "/articles/#{article.slug}.html", "/articles/show.html", locals: {
+    article: article,
+    related: related_articles(article)
+  }
+end
 
 categories.each do |category|
   category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
