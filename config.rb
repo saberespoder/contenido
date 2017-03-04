@@ -38,56 +38,36 @@ activate :contentful do |f|
   }
 end
 
-# Dynamic routes
-# @TODO: Dry this shit
+# Articles routes
 
 sliced_articles = collection_slice(articles)
 
-proxy "/index.html", "/articles/index.html", locals: {
-  slicer: {
-    collection: sliced_articles,
-    slice:      sliced_articles.first,
-    pattern:    "/articles/pages"
-  }
-}
+proxy "/index.html", "/articles/index.html",
+  locals: slicer_attributes(sliced_articles, sliced_articles.first)
 
 sliced_articles.each_with_index do |page_articles, page|
-  proxy "/articles/pages/#{page+1}.html", "/articles/index.html", locals: {
-    slicer: {
-      collection: sliced_articles,
-      slice:      page_articles,
-      pattern:    "/articles/pages"
-    }
-  }
+  proxy "/articles/pages/#{page+1}.html", "/articles/index.html",
+    locals: slicer_attributes(sliced_articles, page_articles)
 end
 
 articles.each do |article|
-  proxy "/articles/#{article.slug}.html", "/articles/show.html", locals: {
-    article: article,
-    related: related_articles(article)
-  }
+  proxy "/articles/#{article.slug}.html", "/articles/show.html",
+    locals: { article: article, related: related_articles(article) }
 end
+
+# Categories routes
 
 categories.each do |category|
   category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
   collection_slice  = collection_slice(category_articles)
 
-  proxy "/categories/#{category.slug}.html", "/categories/show.html", locals: {
-    category:          category,
-    slicer: {
-      collection: collection_slice,
-      slice:      collection_slice.first,
-      pattern:    "/categories/#{category.slug}/pages"
-    }
-  }
+  proxy "/categories/#{category.slug}.html", "/categories/show.html",
+    locals: { category: category }
+      .merge(slicer_attributes(collection_slice, collection_slice.first, "/categories/#{category.slug}/pages"))
+
   collection_slice(category_articles).each_with_index do |page_articles, page|
-    proxy "/categories/#{category.slug}/pages/#{page+1}.html", "/categories/show.html", locals: {
-      category:      category,
-      slicer: {
-        collection: collection_slice(category_articles),
-        slice:      page_articles,
-        pattern:    "/categories/#{category.slug}/pages"
-      }
-    }
+    proxy "/categories/#{category.slug}/pages/#{page+1}.html", "/categories/show.html",
+    locals: { category: category }
+      .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/categories/#{category.slug}/pages"))
   end
 end

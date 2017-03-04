@@ -47,6 +47,16 @@ module BlogHelpers
     collection.each_slice(per_page).to_a
   end
 
+  def slicer_attributes(collection, slice, pattern = "/articles/pages")
+    Hash[
+      slicer: {
+        collection: collection,
+        slice: slice,
+        pattern: pattern
+      }
+    ]
+  end
+
   def current_page_index(slicer)
     slicer[:collection].index(slicer[:slice])
   end
