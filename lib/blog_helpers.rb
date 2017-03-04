@@ -28,6 +28,10 @@ module BlogHelpers
     @sepcontent ||= @app.data.sepcontent
   end
 
+  def collection_slice(collection)
+    collection.each_slice(ENV["ARTICLES_PER_PAGE"].to_i)
+  end
+
   def structurize(collection)
     collection.map { |c| OpenStruct.new(c[1].merge(slug: c[1][:title].parameterize)) }
   end

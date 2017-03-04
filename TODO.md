@@ -4,10 +4,13 @@
 - [ ] Apply mardown markup filter for inner article pages
 - [ ] Don't use memoization for contentful data otherwise it prevents articles live update inside categories
 - [ ] Make article previews clickable
+- [ ] Order articles by publishing date
 - [ ] Fix RSS feed
 - [ ] Setup deploy by Travis/Cirtcle CI, AWS integration
 - [ ] Add favicon
 - [ ] Make markup fresher and mobiles (Androids at first) conpatiable
+- [ ] Tweak footer
+- [ ] Place for SEP platform ADs
 - [ ] Add notes about deployment (and overall usage approach) to README
 - [ ] Add notes about .env.example and its keys
 

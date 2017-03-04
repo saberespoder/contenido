@@ -33,6 +33,8 @@ activate :contentful do |f|
   }
 end
 
+# Dynamic routes mappings
+
 articles.each do |article|
   proxy "/articles/#{article.slug}.html", "/articles/show.html", locals: {
     article: article,
@@ -40,11 +42,25 @@ articles.each do |article|
   }
 end
 
+collection_slice(articles).each_with_index do |page_articles, page|
+  proxy "/articles/pages/#{page+1}.html", "/index.html", locals: {
+    page_articles: page_articles
+  }
+end
+
+# @TODO: Dry it
+
 categories.each do |category|
+  category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
+
   proxy "/categories/#{category.slug}.html", "/categories/show.html", locals: {
     category:          category,
-    category_articles: articles.select { |a|
-      a.categories.map(&:id).include?(category.id)
-    }
+    category_articles: collection_slice(category_articles).first
   }
+  collection_slice(category_articles).each_with_index do |page_articles, page|
+    proxy "/categories/#{category.slug}/pages/#{page+1}.html", "/categories/show.html", locals: {
+      category:      category,
+      page_articles: page_articles
+    }
+  end
 end
