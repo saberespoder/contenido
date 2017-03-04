@@ -6,4 +6,4 @@
           .articles-item__image=image_tag article.image.url
           .articles-item__body
             h2= link_to article.title, "/articles/#{article.slug}.html"
-            .articles-item__text= article.body
+            .articles-item__text= truncate(article.body, length: 250)
