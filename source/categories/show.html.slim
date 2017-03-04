@@ -1,4 +1,4 @@
 - content_for :title do
   = category.title
 
-= partial "articles/articles", locals: { articles: defined?(page_articles) ? page_articles : category_articles }
+= partial "articles/articles", locals: { articles: slicer[:slice] }

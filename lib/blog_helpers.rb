@@ -7,6 +7,17 @@ module BlogHelpers
     structurize sepcontent.articles
   end
 
+  def previous_page(slicer)
+    page = current_page_index(slicer)
+    @previous_page ||= "#{slicer[:pattern]}/#{page}.html" if page && page != 0
+  end
+
+  def next_page(slicer)
+    page = current_page_index(slicer)
+    last = slicer[:collection].index(slicer[:collection].last)
+    @next_page ||= "#{slicer[:pattern]}/#{page+2}.html" if page && page != last
+  end
+
   def related_articles(article, limit = 3)
     article_tags       = article.tags || []
     article_categories = article.categories
@@ -28,12 +39,16 @@ module BlogHelpers
     @sepcontent ||= @app.data.sepcontent
   end
 
-  def collection_slice(collection)
-    collection.each_slice(ENV["ARTICLES_PER_PAGE"].to_i)
-  end
-
   def structurize(collection)
     collection.map { |c| OpenStruct.new(c[1].merge(slug: c[1][:title].parameterize)) }
+  end
+
+  def collection_slice(collection, per_page = ENV["ARTICLES_PER_PAGE"].to_i)
+    collection.each_slice(per_page).to_a
+  end
+
+  def current_page_index(slicer)
+    slicer[:collection].index(slicer[:slice])
   end
 
   def filter_related(article, collection, limit)

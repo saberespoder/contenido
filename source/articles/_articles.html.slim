@@ -1,9 +1,16 @@
 - if articles && articles.any?
   .articles
-    - articles.each_with_index do |article, i|
+
+    - articles.each do |article|
       .articles-item
         .articles-item__inner
           .articles-item__image=image_tag article.image.url
           .articles-item__body
             h2= link_to article.title, "/articles/#{article.slug}.html"
             .articles-item__text= truncate(article.body, length: 250)
+
+    .articles__pager
+      - if previous_page(slicer)
+        = link_to "&larr; Previous", previous_page(slicer)
+      - if next_page(slicer)
+        = link_to "Next &rarr;", next_page(slicer)

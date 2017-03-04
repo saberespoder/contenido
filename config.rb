@@ -42,25 +42,39 @@ articles.each do |article|
   }
 end
 
-collection_slice(articles).each_with_index do |page_articles, page|
+sliced_articles = collection_slice(articles)
+sliced_articles.each_with_index do |page_articles, page|
   proxy "/articles/pages/#{page+1}.html", "/index.html", locals: {
-    page_articles: page_articles
+    slicer: {
+      collection: sliced_articles,
+      slice:      page_articles,
+      pattern:    "/articles/pages"
+    }
   }
 end
 
-# @TODO: Dry it
+# @TODO: Dry this shit
 
 categories.each do |category|
   category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
+  collection_slice  = collection_slice(category_articles)
 
   proxy "/categories/#{category.slug}.html", "/categories/show.html", locals: {
     category:          category,
-    category_articles: collection_slice(category_articles).first
+    slicer: {
+      collection: collection_slice,
+      slice:      collection_slice.first,
+      pattern:    "/categories/#{category.slug}/pages"
+    }
   }
   collection_slice(category_articles).each_with_index do |page_articles, page|
     proxy "/categories/#{category.slug}/pages/#{page+1}.html", "/categories/show.html", locals: {
       category:      category,
-      page_articles: page_articles
+      slicer: {
+        collection: collection_slice(category_articles),
+        slice:      page_articles,
+        pattern:    "/categories/#{category.slug}/pages"
+      }
     }
   end
 end

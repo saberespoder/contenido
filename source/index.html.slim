@@ -1,4 +1,4 @@
 - content_for :title do
   | Elija su ruta al conocimiento
 
-= partial "articles/articles", locals: { articles: defined?(page_articles) ? page_articles : collection_slice(articles).first }
+= partial "articles/articles", locals: { articles: slicer[:slice] }
