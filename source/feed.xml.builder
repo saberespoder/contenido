@@ -12,8 +12,8 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   articles[0..5].each do |article|
     xml.entry do
       xml.title article.title
-      xml.link "rel" => "alternate", "href" => URI.join(site_url, "/articles/#{article.slug}.html")
-      xml.id URI.join(site_url, "/articles/#{article.slug}.html")
+      xml.link "rel" => "alternate", "href" => URI.join(site_url, article_path(article))
+      xml.id URI.join(site_url, article_path(article))
       xml.published article.date.to_time.iso8601
       xml.updated article.date.to_time.iso8601
       #xml.author { xml.name "Article Author" }

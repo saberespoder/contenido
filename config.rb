@@ -55,7 +55,7 @@ sliced_articles.each_with_index do |page_articles, page|
 end
 
 articles.each do |article|
-  proxy "/articles/#{article.slug}.html", "/articles/show.html",
+  proxy article_path(article), "/articles/show.html",
     locals: { article: article, related: related_articles(article) }
 end
 

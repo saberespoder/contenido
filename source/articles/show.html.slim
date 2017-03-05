@@ -11,8 +11,8 @@
   .article__related
     h2 Related articles
 
-    - related.each_with_index do |a, index|
-      = link_to "/articles/#{a.slug}.html", class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{a.image.url});"  do
+    - related.each_with_index do |article, index|
+      = link_to article_path(article), class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{article.image.url});"  do
         .article__related-item__text
-          .article__related-item__title= a.title
+          .article__related-item__title= article.title
 

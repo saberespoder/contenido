@@ -7,6 +7,10 @@ module BlogHelpers
     structurize(sepcontent.articles).sort_by(&:date).reverse
   end
 
+  def article_path(article)
+    "/articles/#{article.slug}.html"
+  end
+
   def previous_page(slicer)
     page = current_page_index(slicer)
     @previous_page ||= "#{slicer[:pattern]}/#{page}.html" if page && page != 0

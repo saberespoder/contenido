@@ -5,7 +5,7 @@
 - [ ] Don't use memoization for contentful data otherwise it prevents articles live update inside categories
 - [x] Make article previews clickable
 - [x] Order articles by publishing date
-- [ ] Fix RSS feed
+- [x] Fix RSS feed
 - [ ] Setup deploy by Travis/Cirtcle CI, AWS integration
 - [x] Add favicon
 - [ ] Make markup fresher and mobiles (Androids at first) conpatiable
