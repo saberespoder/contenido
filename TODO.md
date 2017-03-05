@@ -1,9 +1,9 @@
 ## Version 1 (2 weeks)
 - [x] Limit index articles content size
 - [x] Pagination: publish up to 15 test articles and make sure pagination works as expected
-- [ ] Apply mardown markup filter for inner article pages
+- [x] Apply mardown markup filter to inner article pages
 - [ ] Don't use memoization for contentful data otherwise it prevents articles live update inside categories
-- [ ] Make article previews clickable
+- [ч] Make article previews clickable
 - [ ] Order articles by publishing date
 - [ ] Fix RSS feed
 - [ ] Setup deploy by Travis/Cirtcle CI, AWS integration
