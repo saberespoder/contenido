@@ -1,3 +1,6 @@
 dependencies:
   pre:
     - gem install bundler
+  post:
+    - bundle exec middleman contentful
+    - bundle exec middleman build
