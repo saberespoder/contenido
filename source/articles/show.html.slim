@@ -5,7 +5,7 @@
   .article__inner
     .article__text
       .article__image= image_tag article.image.url
-      = article.body
+      = Markdown.new(article.body).to_html
 
 - if related.any?
   .article__related
