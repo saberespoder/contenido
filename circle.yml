@@ -4,3 +4,7 @@ dependencies:
   post:
     - bundle exec middleman contentful --rebuild
     - bundle exec middleman build
+test:
+  override:
+    - "true"
+
