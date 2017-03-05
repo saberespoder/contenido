@@ -4,7 +4,7 @@ module BlogHelpers
   end
 
   def articles
-    structurize sepcontent.articles
+    structurize(sepcontent.articles).sort_by(&:date).reverse
   end
 
   def previous_page(slicer)

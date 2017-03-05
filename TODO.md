@@ -3,8 +3,8 @@
 - [x] Pagination: publish up to 15 test articles and make sure pagination works as expected
 - [x] Apply mardown markup filter to inner article pages
 - [ ] Don't use memoization for contentful data otherwise it prevents articles live update inside categories
-- [ч] Make article previews clickable
-- [ ] Order articles by publishing date
+- [x] Make article previews clickable
+- [x] Order articles by publishing date
 - [ ] Fix RSS feed
 - [ ] Setup deploy by Travis/Cirtcle CI, AWS integration
 - [x] Add favicon
