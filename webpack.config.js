@@ -18,6 +18,9 @@ module.exports = {
         test: /\.(css|scss)$/,
         use: ExtractTextPlugin.extract("css-loader!csso-loader?-comments!sass-loader?sourceMap&includePaths[]=" + __dirname + "/node_modules")
       } , {
+        test: /\.(jpe?g|png|gif|svg|woff|ttf|otf|eot|ico)/,
+        loader: "url-loader?limit=8192"
+      } , {
         test: /\.svg/,
         loader: "svg-url-loader"
       }

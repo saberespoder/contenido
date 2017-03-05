@@ -1,0 +1,14 @@
+.related {
+  padding: 2rem 0;
+  background: #F7F9FA;
+  h2 {
+    color: #8091A5;
+  }
+  &--platform {
+    margin: 2rem 0;
+    padding: 4rem 0;
+    text-align: center;
+    border: #dee1e8 1px solid;
+    border-width: 1px 0;
+  }
+}

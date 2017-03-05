@@ -1,17 +1,27 @@
 - if articles && articles.any?
-  .articles
 
-    - articles.each do |article|
+  - articles.each_with_index do |article, index|
+
+    - if index == 2
+      .related.related--platform
+        .container
+          h2 Platform advert goes here
+
+    .container
       .articles-item
+        - unless index == 2
+          hr
         .articles-item__inner
+          .articles-item__author
+            = image_tag "/assets/components/alexo.png"
+            | by Alexo Rodriguez
+          h2= link_to article.title, article_path(article)
           = link_to article_path(article), class: "articles-item__image" do
             = image_tag article.image.url, title: article.image.title.present? ? article.image.title : article.title
-          .articles-item__body
-            h2= link_to article.title, article_path(article)
-            .articles-item__text= truncate(article.body, length: 250)
+          .articles-item__body= truncate(article.body, length: 250)
 
-    .articles__pager
-      - if previous_page(slicer)
-        = link_to "&larr; Previous", previous_page(slicer)
-      - if next_page(slicer)
-        = link_to "Next &rarr;", next_page(slicer)
+  .pager
+    - if previous_page(slicer)
+      = link_to "&larr; Previous", previous_page(slicer)
+    - if next_page(slicer)
+      = link_to "Next &rarr;", next_page(slicer)

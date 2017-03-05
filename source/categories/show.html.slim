@@ -1,4 +1,6 @@
-- content_for :title do
-  = category.title
+- title = category.title
+- content_for :title, title
 
+.container
+  h1= title
 = partial "articles/articles", locals: { articles: slicer[:slice] }

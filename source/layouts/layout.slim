@@ -16,37 +16,24 @@ html
     .wrapper
 
       header
-
         nav.header-nav
           .container
-            .header-grid
-              .header-grid__right
-                .header-logo
-                  a.header-logo-link href="/"
-                    img src="/assets/components/logo.png" /
-              .header-grid__center
-                form.header-search
-                  input.header-search__button type="submit"
-                  input.header-search__box type="search"
-
-        nav.header-subnav
-          .container
-            ul.header-subnav-list
-              li.header-subnav-item
-                a.header-subnav-link href="/" All
+            = link_to "/", config[:title], class: "header__logo"
+            ul
+              li
+                a href="/" All
               - categories.each do |category|
-                li.header-subnav-item= link_to category.title, "/categories/#{category.slug}.html", class: "header-subnav-link"
+                li
+                  = link_to category.title, "/categories/#{category.slug}.html", class: "#{category == categories.last ? :last : :regular}"
 
       section.content
-        .container
-          h1= yield_content :title
-          = yield
+        = yield
 
     footer
       .container
         .footer-logo-wrap
           a.footer-logo href="#"
-            img src="/assets/components/logo.png" /
+            img src="/assets/components/footer/logo.png" /
         .footer-actions
           a.caption href="#"  About
           a.caption href="#"  Corporate
