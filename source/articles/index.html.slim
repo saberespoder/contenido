@@ -1,4 +1,4 @@
 - content_for :title do
-  | Elija su ruta al conocimiento
+  | #{config[:platform_subtitle]}
 
 = partial "articles/articles", locals: { articles: slicer[:slice] }

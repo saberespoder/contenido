@@ -2,6 +2,10 @@ require "lib/blog_helpers"
 helpers BlogHelpers
 include BlogHelpers
 
+set :platform_url,      ENV["URL"]
+set :platform_title,    ENV["TITLE"]
+set :platform_subtitle, ENV["SUBTITLE"]
+
 page "/feed.xml", layout: false
 
 set :slim, { ugly: true, format: :html }
