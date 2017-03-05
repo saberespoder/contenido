@@ -1,10 +1,10 @@
 module BlogHelpers
   def categories
-    structurize sepcontent.categories
+    sepcontent ? structurize(sepcontent.categories) : []
   end
 
   def articles
-    structurize(sepcontent.articles).sort_by(&:date).reverse
+    sepcontent ? structurize(sepcontent.articles).sort_by(&:date).reverse : []
   end
 
   def article_path(article)
@@ -40,7 +40,7 @@ module BlogHelpers
   private
 
   def sepcontent
-    @sepcontent ||= @app.data.sepcontent
+    @sepcontent ||= @app.data.sepcontent if @app.data[:sepcontent]
   end
 
   def structurize(collection)
