@@ -15,11 +15,12 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "middleman", "~> 4.1"
 gem "middleman-livereload"
 gem "middleman-dotenv"
+gem "middleman-s3_sync"
 # Use github versions until `contentful_middleman` is fully v4 compatible
 gem "contentful_middleman", github: "contentful/contentful_middleman", branch: "dl/upgrade-to-v4"
 gem "redcarpet", "~> 3.3", ">= 3.3.3"
 gem "slim"
 
-# For feed.xml.builder
-gem "builder", "~> 3.0"
+gem "builder", "~> 3.0" # For feed.xml.builder
+gem "mime-types"
 gem "foreman"
