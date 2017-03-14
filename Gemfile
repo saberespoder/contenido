@@ -23,4 +23,3 @@ gem "slim"
 
 gem "builder", "~> 3.0" # For feed.xml.builder
 gem "mime-types"
-gem "foreman"
