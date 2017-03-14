@@ -16,3 +16,6 @@ If you have Contenful ENV vars in place, you are able to say `bundle exec middle
 To run project locally say `bundle exec middleman server`. From now on, local instance of content platform is available on [http://localhost:4567/](http://localhost:4567/). We use *middleman-livereload* which means that if you update any of local files page will be reloaded automatically (except for Contentful data - you'll have to rerun rebuild command from the section above, stop Middleman and run it again).
 
 # Deployment
+Basically, you don't have to perform any extra movements to get your changes deployed to production – CI server handles everything for you and once you push to `master`, CI compiles static build and synchronises files (both articles and assets) with S3. Though I'd recommend to take a look at [circle.yml](circle.yml) so you have better understanding what steps involved.
+
+Data management on the Contentful side based on the similar principle – once article or category is update there, Contentful fires webhook which hits CI rebuild so we have files built and data synchronised.
