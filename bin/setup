@@ -1,0 +1,25 @@
+#!/usr/bin/env ruby
+require "pathname"
+require "fileutils"
+include FileUtils
+
+# path to your application root.
+APP_ROOT = Pathname.new File.expand_path('../../', __FILE__)
+
+def system!(*args)
+  system(*args) || abort("\n== Command #{args} failed ==")
+end
+
+chdir APP_ROOT do
+  puts "\n== Installing ruby dependencies =="
+  system! "gem install bundler --conservative"
+  system("bundle check") or system!("bundle install")
+
+  puts "\n== Installing node dependencies =="
+  system! "yarn"
+
+  puts "\n== Copying environment files =="
+  unless File.exist?(".env")
+    cp ".env.example", ".env"
+  end
+end
