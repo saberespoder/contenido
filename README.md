@@ -5,5 +5,5 @@ Middleman maintainers have got rid of Sprockets based assets a while ago and hav
 
 ## Development server
 ```
-bundle exec foreman start -f Procfile.dev
+bundle exec middleman server
 ```
