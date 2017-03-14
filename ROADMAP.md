@@ -14,5 +14,5 @@
   - [ ] Make sure it works perfectly on mobile devices
   - [ ] Minimise assets
   - [x] Change logo (and the most of the graphics) format from jpg to png
-- [ ] Rss feed
+- [x] Rss feed
 - [ ] Provide links to our SEP platform, twitter and facebook
