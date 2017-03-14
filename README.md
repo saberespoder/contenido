@@ -13,8 +13,6 @@ Setup creates `.env` file in the root of application directory and the most of v
 If you have Contenful ENV vars in place, you are able to say `bundle exec middleman contentful --rebuild`. This command will fetch up-to-date data from Contenful API and place categories and articles entities into project data directory. Don't warry about possible error messages from webpack – *contentful_middleman* gem is not fully compatible with Middleman v4 yet which probably causes undesirebal output. Strictly speaking, Middleman coukd work without fetched data, but you will see only the basic HTML layout without any articles.
 
 # Development
-```
-bundle exec middleman server
-```
+To run project locally say `bundle exec middleman server`. From now on, local instance of content platform is available on [http://localhost:4567/](http://localhost:4567/). We use *middleman-livereload* which means that if you update any of local files page will be reloaded automatically (except for Contentful data - you'll have to rerun rebuild command from the section above, stop Middleman and run it again).
 
 # Deployment
