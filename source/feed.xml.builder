@@ -20,7 +20,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
       image_url = article.image.url.gsub(%r{^//}, 'https://')
       xml.link rel: 'enclosure', type: 'image/jpeg', href: image_url
       xml.summary truncate(article.body, length: 250), "type" => "html"
-      xml.content article.body, "type" => "html"
+      xml.content Markdown.new(article.body).to_html, "type" => "html"
     end
   end
 end
