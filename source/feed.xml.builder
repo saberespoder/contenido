@@ -17,6 +17,8 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
       xml.published article.date.to_time.iso8601
       xml.updated article.date.to_time.iso8601
       #xml.author { xml.name "Article Author" }
+      image_url = article.image.url.gsub(%r{^//}, 'https://')
+      xml.link rel: 'enclosure', type: 'image/jpeg', href: image_url
       xml.summary truncate(article.body, length: 250), "type" => "html"
       xml.content article.body, "type" => "html"
     end
