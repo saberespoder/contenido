@@ -4,7 +4,7 @@ dependencies:
   post:
     - bundle exec middleman contentful --rebuild
     - bundle exec middleman build
-    - bundle exec middleman s3_sync
+    - " [ $CIRCLE_BRANCH != master ] || bundle exec middleman s3_sync "
 test:
   override:
     - "true"
