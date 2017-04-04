@@ -10,7 +10,9 @@
         = image_tag "/assets/components/alexo.png"
         | by Alexo Rodriguez
 
-    .article__image= image_tag article.image.url
+    .article__image
+      - if article.image
+        = image_tag article.image.url
 
     hr
 
@@ -23,7 +25,7 @@
       h2 Related articles
 
       - related.each_with_index do |article, index|
-        = link_to article_path(article), class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{article.image.url});"  do
+        = link_to article_path(article), class: "article__related-item article__related-item--#{index == 1 ? :central : :border}", style: "background-image:url(#{article.image.url if article.image});"  do
           .article__related-item__text
             .article__related-item__title= article.title
 
