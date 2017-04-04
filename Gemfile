@@ -1,4 +1,4 @@
-ruby "2.3.3"
+ruby "2.4.0"
 #ruby-gemset=contentplatform_gems
 
 # If you do not have OpenSSL installed, change

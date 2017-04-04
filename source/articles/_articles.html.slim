@@ -17,7 +17,8 @@
             | by Alexo Rodriguez
           h2= link_to article.title, article_path(article)
           = link_to article_path(article), class: "articles-item__image" do
-            = image_tag article.image.url, title: article.image.title.present? ? article.image.title : article.title
+            - if article.image
+              = image_tag article.image.url, title: article.image.title.present? ? article.image.title : article.title
           .articles-item__body= truncate(article.body, length: 250)
 
   .pager

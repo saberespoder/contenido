@@ -21,5 +21,5 @@ node_modules
 
 # App config
 .env
-.articles-space-hash
+.sepcontent-space-hash
 /data
