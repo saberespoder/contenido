@@ -22,8 +22,8 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
                  type: 'image/jpeg',
                  href: article.image.url.gsub(%r{^//}, 'https://')
       end
-      xml.summary truncate(article.body, length: 250), "type" => "html"
-      xml.content Markdown.new(article.body).to_html, "type" => "html"
+      xml.summary truncate(strip_tags(article.body), length: 250)
+      xml.content Markdown.new(strip_tags(article.body)).to_html
     end
   end
 end
