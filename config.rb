@@ -34,6 +34,7 @@ end
 # Contentful setup
 
 activate :contentful do |f|
+  f.cda_query     = { limit: 1000 }
   f.space         = { sepcontent: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
   f.content_types = {
