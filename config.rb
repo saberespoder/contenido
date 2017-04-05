@@ -99,5 +99,5 @@ categories.each do |category|
   end
 
   proxy "/categories/#{category.slug}.xml", "/feed.xml",
-    layout: false, locals: { articles: category_articles }
+    layout: false, locals: { category_articles: category_articles }
 end
