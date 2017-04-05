@@ -5,6 +5,7 @@ include BlogHelpers
 set :platform_url,      ENV["URL"]
 set :platform_title,    ENV["TITLE"]
 set :platform_subtitle, ENV["SUBTITLE"]
+set :feed_articles,     ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
 

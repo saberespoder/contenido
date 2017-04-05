@@ -9,7 +9,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.updated(articles.first.date.to_time.iso8601) if articles.any?
   #xml.author { xml.name "Blog Author" }
 
-  articles[0..5].each do |article|
+  articles[0..config[:feed_articles]].each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => URI.join(site_url, article_path(article))
