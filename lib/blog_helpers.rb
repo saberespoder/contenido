@@ -1,6 +1,6 @@
 module BlogHelpers
   def categories
-    sepcontent ? structurize(sepcontent.categories) : []
+    sepcontent ? structurize(sepcontent.categories).select { |c| c.isActive } : []
   end
 
   def articles
