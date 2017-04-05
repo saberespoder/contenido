@@ -2,7 +2,7 @@ dependencies:
   pre:
     - gem install bundler
   post:
-    - bundle exec middleman contentful --rebuild
+    - bundle exec middleman contentful
     - bundle exec middleman build
     - " [ $CIRCLE_BRANCH != master ] || bundle exec middleman s3_sync "
 test:
