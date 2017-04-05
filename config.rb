@@ -97,4 +97,7 @@ categories.each do |category|
     locals: { category: category }
       .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/categories/#{category.slug}/pages"))
   end
+
+  proxy "/categories/#{category.slug}.xml", "/feed.xml",
+    layout: false, locals: { articles: category_articles }
 end
