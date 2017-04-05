@@ -1,7 +1,5 @@
-GIT
-  remote: git://github.com/contentful/contentful_middleman.git
-  revision: f18090455ff40965e59fe6106b6520f1105681ff
-  branch: dl/upgrade-to-v4
+PATH
+  remote: /Users/query-string/sites/gems/contentful_middleman
   specs:
     contentful_middleman (1.5.0)
       contentful (~> 1.0)
