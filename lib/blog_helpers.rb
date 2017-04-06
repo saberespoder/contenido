@@ -1,10 +1,10 @@
 module BlogHelpers
   def categories
-    sepcontent ? structurize(sepcontent.categories).select { |c| c.isActive } : []
+    sepcontent && sepcontent.categories ? structurize(sepcontent.categories).select { |c| c.isActive } : []
   end
 
   def articles
-    sepcontent ? structurize(sepcontent.articles).sort_by(&:date).reverse : []
+    sepcontent && sepcontent.articles ? structurize(sepcontent.articles).sort_by(&:date).reverse : []
   end
 
   def article_path(article)
