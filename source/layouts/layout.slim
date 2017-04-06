@@ -8,7 +8,9 @@ html
     meta content="width=device-width, initial-scale=1" name="viewport" /
     title= "#{config[:platform_title]} – #{yield_content(:title)}"
 
-    //= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+    = feed_tag :atom, "#{config[:platform_url]}/feed.xml", title: "#{config[:platform_title]} – All articles"
+    - categories.each do |category|
+      = feed_tag :atom, "#{config[:platform_url]}/categories/#{category.slug}.xml", title: "#{config[:platform_title]} – #{category.title} articles"
     = stylesheet_link_tag :blog
 
   body

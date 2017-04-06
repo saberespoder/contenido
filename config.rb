@@ -5,6 +5,7 @@ include BlogHelpers
 set :platform_url,      ENV["URL"]
 set :platform_title,    ENV["TITLE"]
 set :platform_subtitle, ENV["SUBTITLE"]
+set :feed_articles,     ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
 
@@ -96,4 +97,7 @@ categories.each do |category|
     locals: { category: category }
       .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/categories/#{category.slug}/pages"))
   end
+
+  proxy "/categories/#{category.slug}.xml", "/feed.xml",
+    layout: false, locals: { category_articles: category_articles }
 end
