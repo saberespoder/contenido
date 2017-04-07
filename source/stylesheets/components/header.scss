@@ -43,5 +43,45 @@ header {
   height: 60px;
   margin-top: 33px;
   background: url(../assets/components/header/logo.png) no-repeat 0 0;
+  background-size: cover;
   text-indent: -777em;
+}
+
+@media only screen and (max-width: 768px) {
+  .header-nav {
+    ul li a {
+      padding: 0.5rem;
+      background: none;
+    }
+  }
+  .header__logo {
+    margin-top: 45px;
+    width: 77px;
+    height: 40px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  header {
+    .container {
+      padding-top: 1.5rem;
+      ul {
+        position: static;
+        text-align: center;
+        li {
+          display: inline;
+          font-size: .9rem;
+          a {
+            padding: 0 0.5rem;
+          }
+        }
+      }
+    }
+  }
+  .header__logo {
+    float: none;
+    padding: 0;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+  }
 }
