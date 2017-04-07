@@ -26,7 +26,7 @@ html
                 a href="/" All
               - categories.each do |category|
                 li
-                  = link_to category.title, "/categories/#{category.slug}.html", class: "#{category == categories.last ? :last : :regular}"
+                  = link_to category.title, "/#{category.legacy_slug}", class: "#{category == categories.last ? :last : :regular}"
 
       section.content
         = yield

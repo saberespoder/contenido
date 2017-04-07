@@ -12,6 +12,8 @@ page "/feed.xml", layout: false
 set :slim, { ugly: true, format: :html }
 #set :relative_links, true
 
+activate :directory_indexes
+
 activate :external_pipeline,
   name:    :webpack,
   command: build? ? "./node_modules/webpack/bin/webpack.js --bail -p" : "./node_modules/webpack/bin/webpack.js --watch -d --progress --color",
@@ -88,16 +90,16 @@ categories.each do |category|
   category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
   collection_slice  = collection_slice(category_articles)
 
-  proxy "/categories/#{category.slug}.html", "/categories/show.html",
+  proxy "/#{category.legacy_slug}.html", "/categories/show.html",
     locals: { category: category }
-      .merge(slicer_attributes(collection_slice, collection_slice.first, "/categories/#{category.slug}/pages"))
+      .merge(slicer_attributes(collection_slice, collection_slice.first, "/#{category.legacy_slug}/pages"))
 
   collection_slice(category_articles).each_with_index do |page_articles, page|
-    proxy "/categories/#{category.slug}/pages/#{page+1}.html", "/categories/show.html",
+    proxy "/#{category.legacy_slug}/pages/#{page+1}", "/categories/show.html",
     locals: { category: category }
-      .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/categories/#{category.slug}/pages"))
+      .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/#{category.legacy_slug}/pages"))
   end
 
-  proxy "/categories/#{category.slug}.xml", "/feed.xml",
+  proxy "/#{category.legacy_slug}.xml", "/feed.xml",
     layout: false, locals: { category_articles: category_articles }
 end
