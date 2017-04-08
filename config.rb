@@ -75,7 +75,7 @@ proxy "/index.html", "/articles/index.html",
   locals: slicer_attributes(sliced_articles, sliced_articles.first)
 
 sliced_articles.each_with_index do |page_articles, page|
-  proxy "/articles/pages/#{page+1}.html", "/articles/index.html",
+  proxy "/articulos/pages/#{page+1}.html", "/articles/index.html",
     locals: slicer_attributes(sliced_articles, page_articles)
 end
 
@@ -95,7 +95,7 @@ categories.each do |category|
       .merge(slicer_attributes(collection_slice, collection_slice.first, "/#{category.legacy_slug}/pages"))
 
   collection_slice(category_articles).each_with_index do |page_articles, page|
-    proxy "/#{category.legacy_slug}/pages/#{page+1}", "/categories/show.html",
+    proxy "/#{category.legacy_slug}/pages/#{page+1}.html", "/categories/show.html",
     locals: { category: category }
       .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/#{category.legacy_slug}/pages"))
   end

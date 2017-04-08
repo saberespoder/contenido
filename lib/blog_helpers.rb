@@ -8,7 +8,7 @@ module BlogHelpers
   end
 
   def article_path(article)
-    "/articles/#{article.slug}.html"
+    "/articulos/#{article.slug}.html"
   end
 
   def previous_page(slicer)
@@ -54,7 +54,7 @@ module BlogHelpers
     collection.each_slice(per_page).to_a
   end
 
-  def slicer_attributes(collection, slice, pattern = "/articles/pages")
+  def slicer_attributes(collection, slice, pattern = "/articulos/pages")
     Hash[
       slicer: {
         collection: collection,
