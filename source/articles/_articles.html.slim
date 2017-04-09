@@ -1,6 +1,7 @@
 - if articles && articles.any?
 
   - articles.each_with_index do |article, index|
+    - article_category = defined?(category) ? category : nil
 
     - if index == 2
       .related.related--platform
@@ -15,8 +16,8 @@
           .articles-item__author
             = image_tag "/assets/components/alexo.png"
             | by Alexo Rodriguez
-          h2= link_to article.title, article_path(article)
-          = link_to article_path(article, category), class: "articles-item__image" do
+          h2= link_to article.title, article_path(article, article_category)
+          = link_to article_path(article, article_category), class: "articles-item__image" do
             - if article.image
               = image_tag article.image.url, title: article.image.title.present? ? article.image.title : article.title
           .articles-item__body= truncate(article.body, length: 250)
