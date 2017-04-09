@@ -80,8 +80,10 @@ sliced_articles.each_with_index do |page_articles, page|
 end
 
 articles.each do |article|
-  proxy article_path(article), "/articles/show.html",
-    locals: { article: article, related: related_articles(article) }
+  article.categories.each do |category|
+    proxy article_path(article, category), "/articles/show.html",
+      locals: { article: article, related: related_articles(article) }
+  end
 end
 
 # Categories routes

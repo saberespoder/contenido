@@ -7,8 +7,9 @@ module BlogHelpers
     sepcontent && sepcontent.articles ? structurize(sepcontent.articles).sort_by(&:date).reverse : []
   end
 
-  def article_path(article)
-    "/articulos/#{article.slug}.html"
+  def article_path(article, category = nil)
+    category = article.categories.first unless category
+    "/articulos/#{category.title}/#{article.slug}.html"
   end
 
   def previous_page(slicer)
