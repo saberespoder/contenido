@@ -1,13 +1,6 @@
 .wrapper {
   width: 100%;
   max-width: 1366px;
-  min-height: 100%;
   margin: 0 auto;
   background: white;
-
-  //margin-bottom: -474px;
-  &::after {
-    content: "";
-    display: block;
-  }
 }
