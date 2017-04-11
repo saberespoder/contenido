@@ -1,5 +1,7 @@
 - title = article.title
 - content_for :title, title
+- content_for :page_specific_js do
+  #js-social
 
 .container
   .article
@@ -14,7 +16,8 @@
       - if article.image
         = image_tag article.image.url
 
-    hr
+    .social
+      .sharethis-inline-share-buttons
 
     .article__inner
       .article__text= Markdown.new(article.body).to_html
