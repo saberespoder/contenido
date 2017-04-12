@@ -2,14 +2,8 @@
 - content_for :title, title
 - content_for :page_specific_js do
   #js-social
-- content_for :og_meta do
-  meta property="og:url" content="#{config[:platform_url]}#{article_path(article)}" /
-  meta property="og:title" content="#{title}" /
-  meta property="og:description" content="#{truncate(strip_tags(article.body), length: 200)}" /
-  meta property="og:type" content="article" /
-  - if article.image
-    meta property="og:image" content="#{article.image.url}" /
-  meta property="og:locale" content="es_US" /
+- content_for :opengraph do
+  = partial "opengraph", locals: { title: title, description: truncate(strip_tags(article.body), length: 200), url: "#{config[:platform_url]}#{article_path(article)}", image: article.image && article.image.url }
 
 .container
   .article
