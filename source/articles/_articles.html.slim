@@ -23,7 +23,7 @@
           .articles-item__body= truncate(article.body, length: 250)
 
   .pager
-    - if previous_page(slicer)
-      = link_to "&larr; Previous", previous_page(slicer)
     - if next_page(slicer)
-      = link_to "Next &rarr;", next_page(slicer)
+      = link_to "&larr; Next", next_page(slicer)
+    - if previous_page(slicer)
+      = link_to "Previous &rarr;", previous_page(slicer)

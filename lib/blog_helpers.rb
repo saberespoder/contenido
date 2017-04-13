@@ -14,13 +14,13 @@ module BlogHelpers
 
   def previous_page(slicer)
     page = current_page_index(slicer)
-    @previous_page ||= "#{slicer[:pattern]}/#{page}" if page && page != 0
+    last = slicer[:collection].index(slicer[:collection].last)
+    @previous_page ||= "#{slicer[:pattern]}/#{page+2}" if page && page != last
   end
 
   def next_page(slicer)
     page = current_page_index(slicer)
-    last = slicer[:collection].index(slicer[:collection].last)
-    @next_page ||= "#{slicer[:pattern]}/#{page+2}" if page && page != last
+    @next_page ||= "#{slicer[:pattern]}/#{page}" if page && page != 0
   end
 
   def related_articles(article, limit = 3)
