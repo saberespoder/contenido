@@ -1,10 +1,10 @@
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
-  site_url = config[:platform_url]
+  site_url = config[:content_url]
   content = defined?(category_articles) ? category_articles : articles
 
-  xml.title    config[:platform_title]
-  xml.subtitle config[:platform_subtitle]
+  xml.title    config[:content_title]
+  xml.subtitle config[:content_subtitle]
   xml.id URI.join(site_url)
   xml.link "href" => URI.join(site_url)
   xml.updated(content.first.date.to_time.iso8601) if content.any?
