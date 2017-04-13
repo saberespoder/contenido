@@ -2,6 +2,8 @@
 - content_for :title, title
 - content_for :page_specific_js do
   #js-social
+- content_for :opengraph do
+  = partial "opengraph", locals: { title: title, description: truncate(strip_tags(article.body), length: 200), url: "#{config[:platform_url]}#{article_path(article)}", image: article.image && article.image.url }
 
 .container
   .article
