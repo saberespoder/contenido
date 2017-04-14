@@ -2,7 +2,7 @@ doctype html
 html
 
   head
-    title= "#{config[:platform_title]} – #{yield_content(:title)}"
+    title= "#{config[:content_title]} – #{yield_content(:title)}"
 
     meta content=("text/html; charset=UTF-8") http-equiv="Content-Type" /
     meta charset="utf-8" /
@@ -13,9 +13,9 @@ html
 
     = yield_content(:opengraph)
 
-    = feed_tag :atom, "#{config[:platform_url]}/feed.xml", title: "#{config[:platform_title]} – All articles"
+    = feed_tag :atom, "#{config[:content_url]}/feed.xml", title: "#{config[:content_title]} – All articles"
     - categories.each do |category|
-      = feed_tag :atom, "#{config[:platform_url]}/categories/#{category.slug}.xml", title: "#{config[:platform_title]} – #{category.title} articles"
+      = feed_tag :atom, "#{config[:content_url]}/categories/#{category.slug}.xml", title: "#{config[:content_title]} – #{category.title} articles"
     = stylesheet_link_tag :blog
 
   body
@@ -25,7 +25,7 @@ html
       header
         nav.header-nav
           .container
-            a.header__logo href="/" "#{config[:title]}"
+            a.header__logo href="#{config[:platform_url]}" target="_blank" "#{config[:title]}"
             ul
               li
                 a href="/" All
@@ -41,7 +41,7 @@ html
           a.footer-logo href="#"
             img src="/assets/components/footer/logo.png" /
         .footer-actions
-          a.caption href="https://www.saberespoder.com/" target="_blank" Home
+          a.caption href="#{config[:platform_url]}" target="_blank" Home
           a.caption href="/about-us" About
           a.caption href="https://www.facebook.com/SABEResPODER" target="_blank" Facebook
           a.caption href="https://www.youtube.com/user/SABEResPODER1" target="_blank" Youtube

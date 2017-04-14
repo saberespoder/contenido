@@ -2,10 +2,11 @@ require "lib/blog_helpers"
 helpers BlogHelpers
 include BlogHelpers
 
-set :platform_url,      ENV["URL"]
-set :platform_title,    ENV["TITLE"]
-set :platform_subtitle, ENV["SUBTITLE"]
-set :feed_articles,     ENV["ARTICLES_PER_FEED"].to_i
+set :content_url,      ENV["URL"]
+set :content_title,    ENV["TITLE"]
+set :content_subtitle, ENV["SUBTITLE"]
+set :platform_url,     ENV["PLATFORM_URL"]
+set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
 
