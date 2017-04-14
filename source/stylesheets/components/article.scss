@@ -11,7 +11,8 @@
   }
   &__image {
     display: block;
-    width: 823px;
+    width: 100%;
+    max-width: 823px;
     height: 382px;
     margin: 0 auto;
     img {
