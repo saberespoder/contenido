@@ -70,6 +70,8 @@ end
 
 # Articles routes
 
+page "404.html", directory_index: false
+
 sliced_articles = collection_slice(articles)
 
 proxy "/index.html", "/articles/index.html",
