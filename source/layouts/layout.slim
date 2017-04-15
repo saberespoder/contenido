@@ -16,7 +16,7 @@ html
     = feed_tag :atom, "#{config[:content_url]}/feed.xml", title: "#{config[:content_title]} – All articles"
     - categories.each do |category|
       = feed_tag :atom, "#{config[:content_url]}/categories/#{category.slug}.xml", title: "#{config[:content_title]} – #{category.title} articles"
-    = stylesheet_link_tag :blog
+    = stylesheet_link_tag :layout
 
   body
 

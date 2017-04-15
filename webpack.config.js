@@ -6,7 +6,7 @@ module.exports = {
     blog: "./source/javascripts/blog.js"
   },
   entry: {
-    styles: "./source/stylesheets/blog.scss"
+    styles: "./source/stylesheets/layout.scss"
   },
   output: {
     path: __dirname + "/.tmp/dist",
@@ -27,6 +27,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin("stylesheets/blog.css"),
+    new ExtractTextPlugin("stylesheets/layout.css")
   ]
 };

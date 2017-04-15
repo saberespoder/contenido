@@ -9,6 +9,7 @@ set :platform_url,     ENV["PLATFORM_URL"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
+page "404.html",  layout: :error, directory_index: false
 
 set :slim, { ugly: true, format: :html }
 #set :relative_links, true
@@ -69,8 +70,6 @@ end
 
 
 # Articles routes
-
-page "404.html", layout: "simple", directory_index: false
 
 sliced_articles = collection_slice(articles)
 
