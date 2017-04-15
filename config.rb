@@ -9,7 +9,7 @@ set :platform_url,     ENV["PLATFORM_URL"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
-page "404.html",  layout: :error, directory_index: false
+page "404.html",  layout: :errors, directory_index: false
 
 set :slim, { ugly: true, format: :html }
 #set :relative_links, true

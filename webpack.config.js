@@ -3,10 +3,9 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
   entry: {
-    blog: "./source/javascripts/blog.js"
-  },
-  entry: {
-    styles: "./source/stylesheets/layout.scss"
+    default: "./source/javascripts/default.js",
+    default: "./source/stylesheets/default.scss",
+    errors: "./source/stylesheets/errors.scss"
   },
   output: {
     path: __dirname + "/.tmp/dist",
@@ -27,6 +26,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin("stylesheets/layout.css")
+    new ExtractTextPlugin("stylesheets/[name].css")
   ]
 };
