@@ -70,7 +70,7 @@ end
 
 # Articles routes
 
-page "404.html", directory_index: false
+page "404.html", layout: "simple", directory_index: false
 
 sliced_articles = collection_slice(articles)
 
