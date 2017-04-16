@@ -20,7 +20,7 @@
           = link_to article_path(article, article_category), class: "articles-item__image" do
             - if article.image
               = image_tag article.image.url, title: article.image.title.present? ? article.image.title : article.title
-          .articles-item__body= truncate(article.body, length: 250)
+          .articles-item__body= truncate(strip_tags(article.body), length: 250)
 
   .pager
     - if next_page(slicer)
