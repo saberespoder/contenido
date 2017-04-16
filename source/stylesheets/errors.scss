@@ -1,3 +1,46 @@
 html {
-  background: #CCC;
+  background-color: #00a15f;
+  color: #FFF;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.error-message {
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 80%;
+  height: 280px;
+  text-align: center;
+  h1, h2 {
+    font-weight: normal;
+    font-size: 40px;
+  }
+  &__logo {
+    display: inline-block;
+    width: 250px;
+    height: 118px;
+    text-indent: -777em;
+    background: url(../assets/logo.png) no-repeat 0 0;
+    background-size: cover;
+  }
+}
+
+ @media all and (max-width: 890px) {
+  .error-message {
+    height: 290px;
+    h1, h2 {
+      font-size: 35px;
+    }
+  }
+}
+
+@media all and (max-width: 480px) {
+  .error-message {
+    h1, h2 {
+      font-size: 35px;
+    }
+  }
 }
