@@ -12,3 +12,36 @@
     border-width: 1px 0;
   }
 }
+
+@media only screen and (max-width: 1090px) {
+  .related {
+    .container {
+      width: 83.33333%;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .card-person {
+      display: inline-block;
+      margin: 0 1rem 0.5rem 0;
+    }
+  }
+}
+
+@media only screen and (max-width: 860px) {
+  .related {
+    .container {
+      width: 100%;
+    }
+    .card-person--middle {
+      margin-right: 0;
+    }
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .related {
+    .card-person {
+      margin: 0 0 1rem 0;
+    }
+  }
+}

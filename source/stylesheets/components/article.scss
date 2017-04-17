@@ -21,6 +21,16 @@
       object-fit: cover;
     }
   }
+  @media only screen and (max-width: 768px) {
+    &__image {
+      height: 276px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    &__image {
+      height: 176px;
+    }
+  }
   &__text {
     font-size: 19px;
     line-height: 1.9;
