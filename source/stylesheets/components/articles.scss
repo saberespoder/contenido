@@ -24,13 +24,23 @@
       display: block;
       width: 100%;
       max-width: 690px;
-      height: 320px;
+      height: 310px;
       margin: 0 auto;
       margin-bottom: 2rem;
       img {
         width: 100%;
         height: 100%;
         object-fit: cover;
+      }
+    }
+    @media only screen and (max-width: 768px) {
+      &__image {
+        height: 277px;
+      }
+    }
+    @media only screen and (max-width: 500px) {
+      &__image {
+        height: 177px;
       }
     }
     h2 {
