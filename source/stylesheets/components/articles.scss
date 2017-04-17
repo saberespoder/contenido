@@ -22,7 +22,8 @@
     }
     &__image {
       display: block;
-      width: 690px;
+      width: 100%;
+      max-width: 690px;
       height: 320px;
       margin: 0 auto;
       margin-bottom: 2rem;
