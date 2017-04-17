@@ -9,6 +9,7 @@ set :platform_url,     ENV["PLATFORM_URL"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
+page "404.html",  layout: :errors, directory_index: false
 
 set :slim, { ugly: true, format: :html }
 #set :relative_links, true
@@ -64,7 +65,7 @@ activate :s3_sync do |s3_sync|
   s3_sync.prefix                     = ""
   s3_sync.version_bucket             = false
   s3_sync.index_document             = "index.html"
-  #s3_sync.error_document             = "404.html" @TODO: Add 404 error page
+  s3_sync.error_document             = "404.html"
 end
 
 

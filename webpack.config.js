@@ -3,10 +3,9 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
   entry: {
-    blog: "./source/javascripts/blog.js"
-  },
-  entry: {
-    styles: "./source/stylesheets/blog.scss"
+    default: "./source/javascripts/default.js",
+    default: "./source/stylesheets/default.scss",
+    errors: "./source/stylesheets/errors.scss"
   },
   output: {
     path: __dirname + "/.tmp/dist",
@@ -19,7 +18,7 @@ module.exports = {
         use: ExtractTextPlugin.extract("css-loader!csso-loader?-comments!sass-loader?sourceMap&includePaths[]=" + __dirname + "/node_modules")
       } , {
         test: /\.(jpe?g|png|gif|svg|woff|ttf|otf|eot|ico)/,
-        loader: "url-loader?limit=8192"
+        loader: "url-loader"
       } , {
         test: /\.svg/,
         loader: "svg-url-loader"
@@ -27,6 +26,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin("stylesheets/blog.css"),
+    new ExtractTextPlugin("stylesheets/[name].css")
   ]
 };
