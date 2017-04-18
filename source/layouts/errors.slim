@@ -12,7 +12,4 @@ html
     = stylesheet_link_tag :errors
 
   body
-    .error-message
-      = link_to config[:content_title], "/", class: "error-message__logo"
-      h1 Â¡Ay caramba! :(
-      h2 Esto contenido ya no esta disponible.
+    .error-message= yield
