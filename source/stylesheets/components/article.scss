@@ -35,6 +35,10 @@
     font-size: 19px;
     line-height: 1.9;
     padding-bottom: 2rem;
+    img {
+      display: inline-block;
+      width: 100%;
+    }
   }
   hr, .social {
     margin: 4rem 0;
