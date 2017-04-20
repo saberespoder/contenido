@@ -9,7 +9,7 @@ module BlogHelpers
 
   def article_path(article, category = nil)
     category = article.categories.first unless category
-    "/articulos/#{category.title}/#{article.slug}.html"
+    "/articulos/#{category.title.downcase}/#{article.slug}.html"
   end
 
   def previous_page(slicer)

@@ -20,7 +20,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
       #xml.author { xml.name "Article Author" }
       xml.link rel: :enclosure, type: "image/jpeg", href: article.image.url.gsub(%r{^//}, "https://") if article.image
       xml.summary truncate(strip_tags(article.body), length: 250)
-      xml.content Markdown.new(strip_tags(article.body)).to_html
+      xml.content Markdown.new(strip_tags(article.body)).to_html, type: :html
     end
   end
 end
