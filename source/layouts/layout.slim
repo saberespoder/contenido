@@ -17,6 +17,7 @@ html
     - categories.each do |category|
       = feed_tag :atom, "#{config[:content_url]}/#{category.slug}.xml", title: "#{config[:content_title]} – #{category.title} articles"
     = stylesheet_link_tag :default
+    = javascript_include_tag "//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
 
   body
 
@@ -54,5 +55,4 @@ html
           a.caret-up href="#"
             img.caret-up-img src="/assets/components/footer/icon-arrow-up.svg" /
 
-    = javascript_include_tag :default
     = yield_content(:page_specific_js)
