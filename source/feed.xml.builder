@@ -13,8 +13,8 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   content[0..config[:feed_articles]].each do |article|
     xml.entry do
       xml.title article.title
-      xml.link rel: :alternate, href: "#{site_url}#{article_path(article)}"
-      xml.id "#{site_url}#{article_path(article)}"
+      xml.link rel: :alternate, href: "#{site_url}#{article_path(article).gsub(".html", "")}"
+      xml.id "#{site_url}#{article_path(article).gsub(".html", "")}"
       xml.published article.date.to_time.iso8601
       xml.updated article.date.to_time.iso8601
       #xml.author { xml.name "Article Author" }
