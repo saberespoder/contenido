@@ -88,6 +88,15 @@ articles.each do |article|
   end
 end
 
+# Offers routes
+
+offers.each do |offer|
+  offer.categories.each do |category|
+    proxy article_path(offer, category, :offer), "/articles/show.html",
+      locals: { article: offer, related: related_articles(offer) }
+  end
+end
+
 # Categories routes
 
 categories.each do |category|
