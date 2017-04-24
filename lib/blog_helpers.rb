@@ -1,20 +1,27 @@
 module BlogHelpers
   def categories
-    sepcontent && sepcontent.categories ? structurize(sepcontent.categories).select { |c| c.isActive } : []
+    category_entries ? category_entries.select(&:is_active) : []
   end
 
   def articles
-    sepcontent && sepcontent.articles ? structurize(sepcontent.articles).sort_by(&:date).reverse : []
+    article_entries ? article_entries.reject(&:is_offer) : []
   end
 
-  def article_path(article, category = nil)
-    category = article.categories.first unless category
-    "/articulos/#{category.title.downcase}/#{article.slug}.html"
+  def offers
+    article_entries ? article_entries.select(&:is_offer) : []
+  end
+
+  def article_path(article, category = nil, entry_type = :article)
+    category    = article.categories.first unless category
+    entry_point = entry_type.eql?(:article) ? "articulos" : "ofertas"
+
+    "/#{entry_point}/#{category.title.downcase}/#{article.slug}.html"
   end
 
   def previous_page(slicer)
     page = current_page_index(slicer)
     last = slicer[:collection].index(slicer[:collection].last)
+
     @previous_page ||= "#{slicer[:pattern]}/#{page+2}" if page && page != last
   end
 
@@ -42,6 +49,18 @@ module BlogHelpers
 
   def sepcontent
     @sepcontent ||= @app.data.sepcontent if @app.data[:sepcontent]
+  end
+
+  def article_entries
+    if sepcontent && sepcontent.articles
+      structurize(sepcontent.articles)
+        .sort_by(&:date)
+        .reverse
+    end
+  end
+
+  def category_entries
+    structurize(sepcontent.categories) if sepcontent && sepcontent.categories
   end
 
   def structurize(collection)
