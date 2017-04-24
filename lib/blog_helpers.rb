@@ -18,6 +18,10 @@ module BlogHelpers
     "/#{entry_point}/#{category.title.downcase}/#{article.slug}.html"
   end
 
+  def category_links(categories)
+    categories.map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
+  end
+
   def previous_page(slicer)
     page = current_page_index(slicer)
     last = slicer[:collection].index(slicer[:collection].last)
