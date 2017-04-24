@@ -12,7 +12,7 @@
       h1= title
       .article__author
         = image_tag "/assets/components/alexo.png"
-        | by Alexo Rodriguez
+        | by Alexo Rodriguez in #{category_links(article.categories)}
 
     .article__image
       - if article.image
@@ -21,6 +21,8 @@
     .social
       .sharethis-inline-share-buttons
 
+    hr 
+    
     .article__inner
       .article__text= Markdown.new(article.body).to_html
 
