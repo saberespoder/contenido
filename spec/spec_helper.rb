@@ -14,4 +14,5 @@ Capybara.app = ::Middleman::Rack.new(middleman_app).to_app do
   set :root, File.expand_path(File.join(File.dirname(__FILE__), ".."))
   set :environment, :development
   set :show_exceptions, false
+  set :data_folder, "sample"
 end

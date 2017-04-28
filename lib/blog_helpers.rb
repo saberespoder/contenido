@@ -52,7 +52,8 @@ module BlogHelpers
   private
 
   def sepcontent
-    @sepcontent ||= @app.data.sepcontent if @app.data[:sepcontent]
+    data_directory = @app.data[:sepcontent] ? :sepcontent : :sample
+    @sepcontent ||= @app.data[data_directory]
   end
 
   def article_entries
