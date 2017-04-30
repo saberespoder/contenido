@@ -12,7 +12,7 @@
       h1= title
       .article__author
         = image_tag "/assets/components/alexo.png"
-        | by Alexo Rodriguez in #{category_links(article.categories)}
+        | by Alexo Rodriguez <span class="article__categories">in #{category_links(article.categories)}</span>
 
     .article__image
       - if article.image

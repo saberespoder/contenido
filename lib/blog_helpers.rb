@@ -52,7 +52,11 @@ module BlogHelpers
   private
 
   def sepcontent
-    data_directory = @app.data[:sepcontent] ? :sepcontent : :sample
+    data_directory = if @app.data[:sepcontent].nil? || ENV["DATA_DIR"].eql?("sample")
+      :sample
+    else
+      :sepcontent
+    end
     @sepcontent ||= @app.data[data_directory]
   end
 
