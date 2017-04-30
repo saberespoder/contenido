@@ -1,3 +1,6 @@
-var shareThis = require("./modules/sharethis.js")
+import domready    from "domready"
+import initializer from "./modules/initializer"
 
-shareThis()
+domready(() => {
+  document.documentElement.classList.add("js")
+})

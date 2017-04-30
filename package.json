@@ -22,5 +22,8 @@
     "svg-url-loader": "^2.0.2",
     "url-loader": "^0.5.8",
     "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "domready": "^1.0.8"
   }
 }
