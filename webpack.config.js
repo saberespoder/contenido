@@ -3,8 +3,8 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
   entry: {
-    default: "./source/javascripts/default.js",
-    default: "./source/stylesheets/default.scss",
+    scripts: "./source/javascripts/scripts.js",
+    styles: "./source/stylesheets/styles.scss",
     errors: "./source/stylesheets/errors.scss"
   },
   stats: {
