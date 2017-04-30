@@ -17,8 +17,9 @@ html
     - categories.each do |category|
       = feed_tag :atom, "#{config[:content_url]}/#{category.slug}.xml", title: "#{config[:content_title]} – #{category.title} articles"
     = stylesheet_link_tag :styles
-    = javascript_include_tag "//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
     = javascript_include_tag :scripts
+    /!
+      <script type="text/javasscipt" src="//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons" />
 
   body
 
