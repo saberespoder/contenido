@@ -19,7 +19,7 @@ module BlogHelpers
   end
 
   def category_links(categories)
-    categories.select(&:is_active).map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
+    categories.map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
   end
 
   def previous_page(slicer)
