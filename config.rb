@@ -2,6 +2,8 @@ require "lib/blog_helpers"
 helpers BlogHelpers
 include BlogHelpers
 
+activate :dotenv
+
 set :content_url,      ENV["URL"]
 set :content_title,    ENV["TITLE"]
 set :content_subtitle, ENV["SUBTITLE"]
@@ -24,7 +26,6 @@ activate :external_pipeline,
 
 configure :development do
   activate :livereload
-  activate :dotenv
 end
 
 # Build exceptions
@@ -34,6 +35,26 @@ configure :build do
   ignore '/articles/show.html'
   ignore '/categories/show.html'
   #activate :relative_assets
+
+  # S3 integration setup
+
+  activate :s3_sync do |s3_sync|
+    s3_sync.bucket                     = ENV["AWS_BUCKET"]
+    s3_sync.region                     = ENV["AWS_REGION"]
+    s3_sync.aws_access_key_id          = ENV["AWS_KEY"]
+    s3_sync.aws_secret_access_key      = ENV["AWS_SECRET"]
+    s3_sync.delete                     = false # We delete stray files by default.
+    s3_sync.after_build                = false # We do not chain after the build step by default.
+    s3_sync.prefer_gzip                = true
+    s3_sync.path_style                 = true
+    s3_sync.reduced_redundancy_storage = false
+    s3_sync.acl                        = "public-read"
+    s3_sync.encryption                 = false
+    s3_sync.prefix                     = ""
+    s3_sync.version_bucket             = false
+    s3_sync.index_document             = "index.html"
+    s3_sync.error_document             = "404.html"
+  end
 end
 
 # Contentful setup
@@ -46,26 +67,6 @@ activate :contentful do |f|
     articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
     categories: ENV["CONTENTFUL_CATEGORIES_KEY"]
   }
-end
-
-# S3 integration setup
-
-activate :s3_sync do |s3_sync|
-  s3_sync.bucket                     = ENV["AWS_BUCKET"]
-  s3_sync.region                     = ENV["AWS_REGION"]
-  s3_sync.aws_access_key_id          = ENV["AWS_KEY"]
-  s3_sync.aws_secret_access_key      = ENV["AWS_SECRET"]
-  s3_sync.delete                     = false # We delete stray files by default.
-  s3_sync.after_build                = false # We do not chain after the build step by default.
-  s3_sync.prefer_gzip                = true
-  s3_sync.path_style                 = true
-  s3_sync.reduced_redundancy_storage = false
-  s3_sync.acl                        = "public-read"
-  s3_sync.encryption                 = false
-  s3_sync.prefix                     = ""
-  s3_sync.version_bucket             = false
-  s3_sync.index_document             = "index.html"
-  s3_sync.error_document             = "404.html"
 end
 
 

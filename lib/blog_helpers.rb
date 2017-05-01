@@ -19,7 +19,7 @@ module BlogHelpers
   end
 
   def category_links(categories)
-    categories.map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
+    categories.select(&:is_active).map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
   end
 
   def previous_page(slicer)
@@ -52,7 +52,12 @@ module BlogHelpers
   private
 
   def sepcontent
-    @sepcontent ||= @app.data.sepcontent if @app.data[:sepcontent]
+    data_directory = if @app.data[:sepcontent].nil? || ENV["DATA_DIR"].eql?("sample")
+      :sample
+    else
+      :sepcontent
+    end
+    @sepcontent ||= @app.data[data_directory]
   end
 
   def article_entries

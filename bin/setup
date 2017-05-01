@@ -20,6 +20,6 @@ chdir APP_ROOT do
 
   puts "\n== Copying environment files =="
   unless File.exist?(".env")
-    cp ".env.development", ".env"
+    cp ".env.example", ".env"
   end
 end

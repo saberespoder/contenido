@@ -1,0 +1,40 @@
+---
+:id: 3
+:_meta:
+  :content_type_id: article
+  :updated_at: '2017-04-28T11:12:20+00:00'
+  :created_at: '2017-04-28T11:12:20+00:00'
+  :id: 3
+:title: 'Campaña de Momentos: Consejo para padres con hijas entre 8 y 10 años'
+:image:
+  :title: 'Article #12599'
+  :description:
+  :url: "//images.contentful.com/oa34n7smn7kt/3wTAcHoMaIkYEaMkGqEsyk/195d9e102d481dd4dcb2b51e4aad6d99/article.jpg"
+  :_meta:
+    :updated_at: '2017-04-28T11:12:19+00:00'
+    :created_at: '2017-04-28T11:12:19+00:00'
+    :id: 3wTAcHoMaIkYEaMkGqEsyk
+:date: !ruby/object:DateTime 2017-04-13 14:36:10.391000000 -07:00
+:body: <p>Tenga en cuenta que es muy importante que su hija sienta que le puede hacer
+  preguntas, aun cuando usted no sepa todas las respuestas. Juntos siempre pueden
+  averiguar la repuesta. Aprenda como ser una persona a quien se le puede hacer preguntas.
+  Haga clic aquí para leer el artículo. Haga clic aquí para ver el <a href="http://bit.ly/hablarconnuestroshijos">video</a>.
+  </p>
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T08:54:03+00:00'
+    :created_at: '2017-03-02T05:07:17+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 1
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T08:53:40+00:00'
+    :created_at: '2017-03-02T05:05:43+00:00'
+    :id: 1
+  :title: Finanzas
+  :is_active: true
+:is_offer: false

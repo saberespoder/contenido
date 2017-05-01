@@ -1,0 +1,40 @@
+---
+:id: 4
+:_meta:
+  :content_type_id: article
+  :updated_at: '2017-04-28T11:12:38+00:00'
+  :created_at: '2017-04-28T11:12:38+00:00'
+  :id: 4
+:title: 'Campaña de Momentos: Consejo para padres con hijos e hijas entre 16 y 18
+  años'
+:image:
+  :title: 'Article #12610'
+  :description:
+  :url: "//images.contentful.com/oa34n7smn7kt/62zluxiNXiUS6CsuwO0066/2d726e2d351a5fc54e0042157f928f91/article.jpg"
+  :_meta:
+    :updated_at: '2017-04-28T11:12:37+00:00'
+    :created_at: '2017-04-28T11:12:37+00:00'
+    :id: 62zluxiNXiUS6CsuwO0066
+:date: !ruby/object:DateTime 2017-04-13 16:23:35.625000000 -07:00
+:body: <p>Para mantener la confianza entre usted y sus hijos, dígales su opinión y
+  acéptelos como adultos en desarrollo, pero también haga que sus hijos asuman responsabilidades
+  sobre sí mismos. Haga clic aquí para leer el artículo. Haga clic aquí para ver el
+  <a href="http://bit.ly/hablarconnuestroshijos">video</a>. </p>
+:categories:
+- :id: 5
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T08:54:03+00:00'
+    :created_at: '2017-03-02T05:07:17+00:00'
+    :id: 5
+  :title: Salud
+  :is_active: true
+- :id: 3
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T08:53:40+00:00'
+    :created_at: '2017-03-02T05:05:43+00:00'
+    :id: 3
+  :title: Educación
+  :is_active: true
+:is_offer: false
