@@ -8,6 +8,7 @@ set :content_url,      ENV["URL"]
 set :content_title,    ENV["TITLE"]
 set :content_subtitle, ENV["SUBTITLE"]
 set :platform_url,     ENV["PLATFORM_URL"]
+set :phone_number,     ENV["PHONE_NUMBER"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 
 page "/feed.xml", layout: false
