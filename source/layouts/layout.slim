@@ -29,7 +29,7 @@ html
             a.header__logo href="#{config[:platform_url]}" target="_blank" "#{config[:title]}"
             ul
               li
-                a href="/" All
+                a href="/" Index
               - categories.each do |category|
                 li
                   = link_to category.title, "/#{category.legacy_slug}", class: "#{category == categories.last ? :last : :regular}"
@@ -42,8 +42,8 @@ html
           a.footer-logo href="#"
             img src="/assets/components/footer/logo.png" /
         .footer-actions
-          a.caption href="#{config[:platform_url]}" target="_blank" Home
-          a.caption href="/about-us" About
+          a.caption href="#{config[:platform_url]}" target="_blank" Inicio
+          a.caption href="/about-us" Quiénes Somos
           a.caption href="https://www.facebook.com/SABEResPODER" target="_blank" Facebook
           a.caption href="https://www.youtube.com/user/SABEResPODER1" target="_blank" Youtube
 

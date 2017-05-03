@@ -7,6 +7,12 @@ module.exports = {
     default: "./source/stylesheets/default.scss",
     errors: "./source/stylesheets/errors.scss"
   },
+  stats: {
+    errors: false,
+    errorDetails: false,
+    warnings: false,
+    publicPath: false
+  },
   output: {
     path: __dirname + "/.tmp/dist",
     filename: "javascripts/[name].js",
