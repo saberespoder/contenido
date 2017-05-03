@@ -27,13 +27,13 @@ describe "category", type: :feature do
   it "has pagination" do
     expect(page).to have_selector ".pager"
     within ".pager" do
-      expect(page).to have_content /Previous/i
-      click_link("Previous")
+      expect(page).to have_content /Página anterior/i
+      click_link("Página anterior")
     end
 
     expect(page).to have_selector ".pager"
     within ".pager" do
-      expect(page).to have_content /Next/i
+      expect(page).to have_content /Siguiente página/i
     end
   end
 end
