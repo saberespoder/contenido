@@ -1,14 +1,18 @@
 module BlogHelpers
   def categories
-    category_entries ? category_entries.select(&:is_active) : []
+    @categories ||= category_entries ? category_entries.select(&:is_active) : []
   end
 
   def articles
-    article_entries ? article_entries.reject(&:is_offer) : []
+    @articles ||= article_entries ? article_entries.reject(&:is_offer) : []
   end
 
   def offers
-    article_entries ? article_entries.select(&:is_offer) : []
+    @offers ||= article_entries ? article_entries.select(&:is_offer) : []
+  end
+
+  def pages
+    @pages ||= content.pages.map { |page| OpenStruct.new(page[1]) } if content && content.pages
   end
 
   def article_path(article, category = nil, entry_type = :article)
@@ -51,25 +55,25 @@ module BlogHelpers
 
   private
 
-  def sepcontent
+  def content
     data_directory = if @app.data[:sepcontent].nil? || ENV["DATA_DIR"].eql?("sample")
       :sample
     else
       :sepcontent
     end
-    @sepcontent ||= @app.data[data_directory]
+    @content ||= @app.data[data_directory]
   end
 
   def article_entries
-    if sepcontent && sepcontent.articles
-      structurize(sepcontent.articles)
+    if content && content.articles
+      structurize(content.articles)
         .sort_by(&:date)
         .reverse
     end
   end
 
   def category_entries
-    structurize(sepcontent.categories) if sepcontent && sepcontent.categories
+    structurize(content.categories) if content && content.categories
   end
 
   def structurize(collection)

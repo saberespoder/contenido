@@ -33,6 +33,7 @@ end
 configure :build do
   ignore '/articles/index.html'
   ignore '/articles/show.html'
+  ignore '/pages/show.html'
   ignore '/categories/show.html'
   #activate :relative_assets
 
@@ -65,7 +66,8 @@ activate :contentful do |f|
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
   f.content_types = {
     articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
-    categories: ENV["CONTENTFUL_CATEGORIES_KEY"]
+    categories: ENV["CONTENTFUL_CATEGORIES_KEY"],
+    pages:      ENV["CONTENTFUL_PAGES_KEY"]
   }
 end
 
@@ -110,10 +112,16 @@ categories.each do |category|
 
   collection_slice(category_articles).each_with_index do |page_articles, page|
     proxy "/#{category.legacy_slug}/pages/#{page+1}.html", "/categories/show.html",
-    locals: { category: category }
-      .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/#{category.legacy_slug}/pages"))
+      locals: { category: category }
+        .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/#{category.legacy_slug}/pages"))
   end
 
   proxy "/#{category.legacy_slug}.xml", "/feed.xml",
     layout: false, locals: { category_articles: category_articles }
+
+  # Pages routes
+
+  pages.each do |page|
+    proxy "/#{page.slug}.html", "/pages/show.html", locals: { article: page }
+  end
 end
