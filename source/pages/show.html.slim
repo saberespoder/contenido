@@ -1,0 +1,16 @@
+- title = article.title
+- content_for :title, title
+
+.container
+  .article
+
+    .article__headline
+      h1= title
+
+    .social
+      .sharethis-inline-share-buttons
+
+    hr 
+    
+    .article__inner
+      .article__text= Markdown.new(article.body).to_html

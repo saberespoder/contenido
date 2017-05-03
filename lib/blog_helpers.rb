@@ -11,6 +11,10 @@ module BlogHelpers
     article_entries ? article_entries.select(&:is_offer) : []
   end
 
+  def pages
+    page_entries || []
+  end
+
   def article_path(article, category = nil, entry_type = :article)
     category    = article.categories.first unless category
     entry_point = entry_type.eql?(:article) ? "articulos" : "ofertas"
@@ -51,25 +55,29 @@ module BlogHelpers
 
   private
 
-  def sepcontent
+  def content
     data_directory = if @app.data[:sepcontent].nil? || ENV["DATA_DIR"].eql?("sample")
       :sample
     else
       :sepcontent
     end
-    @sepcontent ||= @app.data[data_directory]
+    @content ||= @app.data[data_directory]
   end
 
   def article_entries
-    if sepcontent && sepcontent.articles
-      structurize(sepcontent.articles)
+    @article_entries ||= if content && content.articles
+      structurize(content.articles)
         .sort_by(&:date)
         .reverse
     end
   end
 
+  def page_entries
+    @page_entries ||= content.pages.map { |page| OpenStruct.new(page[1]) } if content && content.pages
+  end
+
   def category_entries
-    structurize(sepcontent.categories) if sepcontent && sepcontent.categories
+    @category_entries ||= structurize(content.categories) if content && content.categories
   end
 
   def structurize(collection)
