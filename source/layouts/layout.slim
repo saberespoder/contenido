@@ -29,7 +29,7 @@ html
             a.header__logo href="#{config[:platform_url]}" target="_blank" "#{config[:title]}"
             ul
               li
-                a href="/" All
+                a href="/" Index
               - categories.each do |category|
                 li
                   = link_to category.title, "/#{category.legacy_slug}", class: "#{category == categories.last ? :last : :regular}"
