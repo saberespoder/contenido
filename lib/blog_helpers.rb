@@ -12,7 +12,7 @@ module BlogHelpers
   end
 
   def pages
-    page_entries ? page_entries : []
+    page_entries || []
   end
 
   def article_path(article, category = nil, entry_type = :article)
