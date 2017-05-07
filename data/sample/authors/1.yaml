@@ -1,0 +1,18 @@
+---
+:id: 1
+:_meta:
+  :content_type_id: author
+  :updated_at: '2017-05-07T08:19:25+00:00'
+  :created_at: '2017-05-07T08:19:25+00:00'
+  :id: 1
+:first_name: Alexo
+:last_name: Rodriguez
+:photo:
+  :title: alexo
+  :description:
+  :url: "//images.contentful.com/oa34n7smn7kt/KD3MuT5kAKcK2KOgSU6W/8a53d0a91b0e0ecb80506e4f3a5dc027/alexo.png"
+  :_meta:
+    :updated_at: '2017-05-07T08:19:07+00:00'
+    :created_at: '2017-05-07T08:19:07+00:00'
+    :id: KD3MuT5kAKcK2KOgSU6W
+:is_default: true
