@@ -17,6 +17,10 @@ module BlogHelpers
     page_entries || []
   end
 
+  def default_author
+    author_entries ? author_entries.select(&:is_default).first : nil
+  end
+
   def article_path(article, category = nil, entry_type = :article)
     category    = article.categories.first unless category
     entry_point = entry_type.eql?(:article) ? "articulos" : "ofertas"
@@ -66,6 +70,10 @@ module BlogHelpers
     @content ||= @app.data[data_directory]
   end
 
+  def category_entries
+    @category_entries ||= structurize(content.categories) if content && content.categories
+  end
+
   def article_entries
     @article_entries ||= if content && content.articles
       structurize(content.articles)
@@ -78,8 +86,8 @@ module BlogHelpers
     @page_entries ||= content.pages.map { |page| page[1].to_hashugar } if content && content.pages
   end
 
-  def category_entries
-    @category_entries ||= structurize(content.categories) if content && content.categories
+  def author_entries
+    @author_entries ||= content.authors.map { |author| author[1].to_hashugar } if content && content.authors
   end
 
   def structurize(collection)

@@ -68,7 +68,8 @@ activate :contentful do |f|
   f.content_types = {
     articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
     categories: ENV["CONTENTFUL_CATEGORIES_KEY"],
-    pages:      ENV["CONTENTFUL_PAGES_KEY"]
+    pages:      ENV["CONTENTFUL_PAGES_KEY"],
+    authors:    ENV["CONTENTFUL_AUTHORS_KEY"]
   }
 end
 
