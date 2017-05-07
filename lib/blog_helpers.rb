@@ -1,3 +1,5 @@
+require "hashugar"
+
 module BlogHelpers
   def categories
     category_entries ? category_entries.select(&:is_active) : []
@@ -73,7 +75,7 @@ module BlogHelpers
   end
 
   def page_entries
-    @page_entries ||= content.pages.map { |page| OpenStruct.new(page[1]) } if content && content.pages
+    @page_entries ||= content.pages.map { |page| page[1].to_hashugar } if content && content.pages
   end
 
   def category_entries
@@ -81,10 +83,10 @@ module BlogHelpers
   end
 
   def structurize(collection)
-    collection.map { |c| OpenStruct.new(c[1].merge(
+    collection.map { |c| c[1].merge(
       slug: c[1][:title].parameterize,
       legacy_slug: c[1][:title].downcase
-    ))}
+    ).to_hashugar}
   end
 
   def collection_slice(collection, per_page = ENV["ARTICLES_PER_PAGE"].to_i)

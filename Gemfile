@@ -23,6 +23,7 @@ gem "slim"
 
 gem "builder", "~> 3.0" # For feed.xml.builder
 gem "mime-types"
+gem "hashugar"
 
 group :development do
   gem "rake"

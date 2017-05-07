@@ -76,6 +76,7 @@ GEM
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
     hashie (3.5.5)
+    hashugar (1.0.1)
     http (2.2.1)
       addressable (~> 2.3)
       http-cookie (~> 1.0)
@@ -208,6 +209,7 @@ DEPENDENCIES
   builder (~> 3.0)
   capybara
   contentful_middleman!
+  hashugar
   middleman (~> 4.1)
   middleman-dotenv
   middleman-livereload
