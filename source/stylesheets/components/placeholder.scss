@@ -1,4 +1,4 @@
-.related {
+.placeholder {
   padding: 2rem 0;
   background: #F7F9FA;
   h2, h2 a {
@@ -17,7 +17,7 @@
 }
 
 @media only screen and (max-width: 1090px) {
-  .related {
+  .placeholder {
     .container {
       width: 83.33333%;
       margin: 0 auto;
@@ -31,7 +31,7 @@
 }
 
 @media only screen and (max-width: 860px) {
-  .related {
+  .placeholder {
     .container {
       width: 100%;
     }
@@ -42,7 +42,7 @@
 }
 
 @media only screen and (max-width: 700px) {
-  .related {
+  .placeholder {
     .card-person {
       margin: 0 0 1rem 0;
     }

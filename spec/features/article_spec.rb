@@ -16,8 +16,8 @@ describe "article", type: :feature do
     end
 
     it "has related articles block" do
-      expect(page).to have_selector(".related")
-      expect(page.find(".related")).to have_content("Contenido Relacionado")
+      expect(page).to have_selector(".placeholder")
+      expect(page.find(".placeholder")).to have_content("Contenido Relacionado")
     end
 
     it "has links to parent categories" do
