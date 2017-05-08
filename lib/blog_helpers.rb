@@ -1,3 +1,5 @@
+require "hashugar"
+
 module BlogHelpers
   def categories
     category_entries ? category_entries.select(&:is_active) : []
@@ -13,6 +15,10 @@ module BlogHelpers
 
   def pages
     page_entries || []
+  end
+
+  def default_author
+    author_entries ? author_entries.select(&:is_default).first : nil
   end
 
   def article_path(article, category = nil, entry_type = :article)
@@ -64,6 +70,10 @@ module BlogHelpers
     @content ||= @app.data[data_directory]
   end
 
+  def category_entries
+    @category_entries ||= structurize(content.categories) if content && content.categories
+  end
+
   def article_entries
     @article_entries ||= if content && content.articles
       structurize(content.articles)
@@ -73,18 +83,18 @@ module BlogHelpers
   end
 
   def page_entries
-    @page_entries ||= content.pages.map { |page| OpenStruct.new(page[1]) } if content && content.pages
+    @page_entries ||= content.pages.map { |page| page[1].to_hashugar } if content && content.pages
   end
 
-  def category_entries
-    @category_entries ||= structurize(content.categories) if content && content.categories
+  def author_entries
+    @author_entries ||= content.authors.map { |author| author[1].to_hashugar } if content && content.authors
   end
 
   def structurize(collection)
-    collection.map { |c| OpenStruct.new(c[1].merge(
+    collection.map { |c| c[1].merge(
       slug: c[1][:title].parameterize,
       legacy_slug: c[1][:title].downcase
-    ))}
+    ).to_hashugar}
   end
 
   def collection_slice(collection, per_page = ENV["ARTICLES_PER_PAGE"].to_i)
