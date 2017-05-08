@@ -36,6 +36,7 @@ configure :build do
   ignore '/articles/show.html'
   ignore '/pages/show.html'
   ignore '/categories/show.html'
+
   #activate :relative_assets
 
   # S3 integration setup

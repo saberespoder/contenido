@@ -1,20 +1,23 @@
-.related {
+.placeholder {
   padding: 2rem 0;
   background: #F7F9FA;
   h2, h2 a {
     color: #8091A5;
   }
-  &--platform {
+  &--partner {
     margin: 2rem 0;
-    padding: 4rem 0;
+    padding: 4rem 0 3rem 0;
     text-align: center;
     border: #dee1e8 1px solid;
     border-width: 1px 0;
+    .container {
+      width: 60%;
+    }
   }
 }
 
 @media only screen and (max-width: 1090px) {
-  .related {
+  .placeholder {
     .container {
       width: 83.33333%;
       margin: 0 auto;
@@ -28,7 +31,7 @@
 }
 
 @media only screen and (max-width: 860px) {
-  .related {
+  .placeholder {
     .container {
       width: 100%;
     }
@@ -39,7 +42,7 @@
 }
 
 @media only screen and (max-width: 700px) {
-  .related {
+  .placeholder {
     .card-person {
       margin: 0 0 1rem 0;
     }

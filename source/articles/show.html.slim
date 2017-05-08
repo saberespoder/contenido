@@ -1,12 +1,10 @@
 - title = article.title
 - content_for :title, title
-- content_for :page_specific_js do
-  #js-social
 - content_for :opengraph do
   = partial "opengraph", locals: { title: title, description: truncate(strip_tags(article.body), length: 200), url: "#{config[:content_url]}#{article_path(article)}", image: article.image && article.image.url }
 
 .container
-  .article
+  .article data-view-share-this="//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
 
     .article__headline
       h1= title
@@ -27,7 +25,7 @@
       .article__text= Markdown.new(article.body).to_html
 
 - if related.any?
-  .related
+  .placeholder
     .container
       h2 Contenido Relacionado
 

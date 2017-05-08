@@ -21,7 +21,7 @@ describe "category", type: :feature do
   end
 
   it "has advert block" do
-    expect(page).to have_selector ".related--platform"
+    expect(page).to have_selector ".placeholder--partner"
   end
 
   it "has pagination" do

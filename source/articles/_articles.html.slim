@@ -4,9 +4,7 @@
     - article_category = defined?(category) ? category : nil
 
     - if index == 2
-      .related.related--platform
-        .container
-          h2= link_to "Platform advert goes here", config[:platform_url], target: :blank
+      .placeholder.placeholder--partner data-view-platform-placeholder="true"
 
     .container
       .articles-item

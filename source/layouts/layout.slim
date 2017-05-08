@@ -12,12 +12,14 @@ html
     meta content="Inmigracion, ciudadania, preguntas, artículos, derechos, finanzas, salud, educación, comunidad, consulado, visa, pasaporte, estados unidos, información, ofertas, viviendo en los estados unidos, trabajar, trabajo, impuestos, taxes, embajada, el salvador, mexico, guatemala, información gratuita, medicamentos, farmacias, farmasep, descuentos, encuestas" name="keywords" /
 
     = yield_content(:opengraph)
-
     = feed_tag :atom, "#{config[:content_url]}/feed.xml", title: "#{config[:content_title]} – All articles"
     - categories.each do |category|
       = feed_tag :atom, "#{config[:content_url]}/#{category.slug}.xml", title: "#{config[:content_title]} – #{category.title} articles"
-    = stylesheet_link_tag :default
-    = javascript_include_tag "//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
+
+    = stylesheet_link_tag :styles
+    = javascript_include_tag :scripts
+    /!
+      <script type="text/javasscipt" src="//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons" />
 
   body
 
@@ -54,5 +56,3 @@ html
         .footer-up
           a.caret-up href="#"
             img.caret-up-img src="/assets/components/footer/icon-arrow-up.svg" /
-
-    = yield_content(:page_specific_js)
