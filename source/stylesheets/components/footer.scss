@@ -16,6 +16,14 @@ footer {
   text-transform: uppercase;
   margin: 0 13px;
 }
+@media only screen and (max-width: 570px) {
+  .footer-actions span {
+    display: block;
+  }
+  .footer-actions .caption {
+    margin: 10px 5px;
+  }
+}
 .footer-actions .caption:hover {
   color: #dee1e8;
 }
