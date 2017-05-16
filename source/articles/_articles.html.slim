@@ -11,7 +11,7 @@
         - unless index == 2
           hr
         .articles-item__inner
-          .articles-item__author= partial "articles/author", locals: { author: article.author || default_author }
+          .articles-item__author= partial "articles/author", locals: { author: article_author(article) }
           h2= link_to article.title, article_path(article, article_category)
           = link_to article_path(article, article_category), class: "articles-item__image" do
             - if article.image

@@ -9,7 +9,7 @@
     .article__headline
       h1= title
       .article__author
-        | #{partial "author", locals: { author: article.author || default_author }} 
+        | #{partial "author", locals: { author: article_author(article) }} 
         <span class="article__categories">in #{category_links(article.categories)}</span>
 
     .article__image

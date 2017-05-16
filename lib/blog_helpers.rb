@@ -18,7 +18,15 @@ module BlogHelpers
   end
 
   def default_author
-    author_entries ? author_entries.select(&:is_default).first : nil
+    @default_author ||= author_entries ? author_entries.select(&:is_default).first : nil
+  end
+
+  def article_author(article)
+    if article.author && author_entries.map(&:id).include?(article.author.id)
+      article.author
+    else
+      default_author
+    end
   end
 
   def article_path(article, category = nil, entry_type = :article)
