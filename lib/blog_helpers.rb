@@ -50,10 +50,10 @@ module BlogHelpers
 
     related = if article_tags.any?
       # Fetch articles with tags similar to the current article tags
-       article_tags.map { |t| blog.tags[t] }
+      articles.select { |a| a.tags }.select { |a| (a.tags & article_tags).any? }
     elsif article_categories.any?
-      # Fetch articles with categories similar to the current article tags
-      articles.select { |a| (a.categories.map(&:id) & article.categories.map(&:id)).any? }
+      # Fetch articles with categories similar to the current article categories
+      articles.select { |a| (a.categories.map(&:id) & article_categories.map(&:id)).any? }
     end
 
     filter_related(article, related, limit) if related.any?
