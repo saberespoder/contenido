@@ -1,3 +1,9 @@
+# @TODO: Cache node dependencies
+# @TODO: Make sure bundler cache really works
+# @TODO: Fetch only UPDATED Contentful articles, not ALL of them
+# @TODO: Rebuild only UPDATED pages, not ALL of them
+# @TODO: Don't run specs on webhook hit (somehow)
+
 language: ruby
 cache: bundler
 rvm: 2.4.0
@@ -6,9 +12,6 @@ env:
   - DATA_DIR=sample
 
 before_install: nvm install node
-install:
-  - bundle install
-  - yarn
 
 before_script: bundle exec rspec spec
 script:
