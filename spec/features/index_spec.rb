@@ -5,10 +5,10 @@ describe "index", type: :feature do
     visit "/"
   end
 
-  it "has the correct default headline" do
+  it "has a correct default headline" do
     expect(page).to have_selector "h1"
     within "h1" do
-      expect(page).to have_content /Elija su ruta al conocimiento/i
+      expect(page).to have_content /Elija/i
     end
   end
 end
