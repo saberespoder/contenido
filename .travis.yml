@@ -8,4 +8,6 @@ install:
   - bundle install
   - npm install
 
-script: bundle exec rspec spec
+before_script: bundle exec rspec spec
+script:
+  - bundle exec middleman contentful
