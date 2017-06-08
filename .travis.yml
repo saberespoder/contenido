@@ -5,8 +5,13 @@
 # @TODO: Don't run specs on webhook hit (somehow)
 
 language: ruby
-cache: bundler
 rvm: 2.4.0
+
+cache:
+  bundler: true
+  yarn: true
+  directories:
+    - node_modules
 
 env:
   - DATA_DIR=sample
