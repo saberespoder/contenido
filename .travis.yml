@@ -19,3 +19,4 @@ before_script:
 
 script:
   - bundle exec middleman contentful
+  - bundle exec middleman build
