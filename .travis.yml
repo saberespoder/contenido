@@ -1,5 +1,7 @@
 language: ruby
+cache: bundler
 rvm: 2.4.0
+
 env:
   - DATA_DIR=sample
 
