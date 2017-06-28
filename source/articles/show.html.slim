@@ -9,7 +9,7 @@
     .article__headline
       h1= title
       .article__author
-        | #{partial "author", locals: { author: article_author(article) }} 
+        | #{partial "author", locals: { author: article_author(article) }}
         <span class="article__categories">in #{category_links(article.categories)}</span>
 
     .article__image
@@ -19,8 +19,8 @@
     .social
       .sharethis-inline-share-buttons
 
-    hr 
-    
+    hr
+
     .article__inner
       .article__text= Markdown.new(article.body).to_html
 

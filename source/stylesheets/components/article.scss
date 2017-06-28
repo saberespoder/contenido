@@ -39,6 +39,12 @@
       display: inline-block;
       width: 100%;
     }
+    ul {
+      padding-left: 1em;
+      li {
+        list-style: initial;
+      }
+    }
   }
   hr, .social {
     margin: 4rem 0;
