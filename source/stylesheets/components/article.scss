@@ -3,6 +3,10 @@
     text-align: center;
     margin-bottom: 2rem;
   }
+  &__questions {
+    width: 85%;
+    margin: 0 auto;
+  }
   &__author {
     @extend .articles-item__author;
   }
