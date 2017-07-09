@@ -1,0 +1,20 @@
+- title = "SABEResPODER introduces the new questions widget"
+- content_for :title, title
+
+.container
+  .article
+
+    .article__headline
+      h1= "SABEResPODER introduces the new questions widget"
+
+    .social
+      .sharethis-inline-share-buttons
+
+    hr
+
+    .article__inner
+      .article__text= Markdown.new("### Welcome to the future ###\nThis is just an article to show you an example for the questions widget!\n").to_html
+
+    .article__questions
+      #sep-widget
+      = javascript_include_tag 'https://rawgit.com/saberespoder/questions-widget/master/widget.js'
