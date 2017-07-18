@@ -24,6 +24,10 @@
     .article__inner
       .article__text= Markdown.new(article.body).to_html
 
+    .article__questions
+      #sep-widget
+      = javascript_include_tag 'http://localhost:2345/widget.js'
+
 - if related.any?
   .placeholder
     .container
