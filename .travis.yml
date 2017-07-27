@@ -13,6 +13,18 @@ cache:
   directories:
     - node_modules
 
+matrix:
+  include:
+    - branch: staging
+      env:
+        AWS_BUCKET=${AWS_BUCKET_DEV}
+        AWS_KEY=${AWS_KEY_DEV}
+        AWS_REGION=${AWS_REGION_DEV}
+        AWS_SECRET=${AWS_SECRET_DEV}
+        CONTENTFUL_ACCESS_TOKEN=${CONTENTFUL_ACCESS_TOKEN_DEV}
+        CONTENTFUL_SPACE_ID=${CONTENTFUL_SPACE_ID_DEV}
+        URL=${URL_DEV}
+
 before_script:
   - nvm install 6
   - npm install -g yarn
@@ -20,6 +32,8 @@ before_script:
   - DATA_DIR=sample bundle exec rspec spec
 
 script:
-  - bundle exec middleman contentful
-  - bundle exec middleman build
-  - bundle exec middleman s3_sync
+  - 'if [ ${TRAVIS_BRANCH} = "master" ] || [ ${TRAVIS_BRANCH} = "staging" ]; then
+        bundle exec middleman contentful;
+        bundle exec middleman build;
+        bundle exec middleman s3_sync;
+    fi'
