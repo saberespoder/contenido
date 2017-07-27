@@ -29,7 +29,9 @@ before_script:
   - nvm install 6
   - npm install -g yarn
   - yarn install
-  - DATA_DIR=sample bundle exec rspec spec
+  - 'if [ ${TRAVIS_BRANCH} != "master" ]; then
+        DATA_DIR=sample bundle exec rspec spec;
+    fi'
 
 script:
   - 'if [ ${TRAVIS_BRANCH} = "master" ] || [ ${TRAVIS_BRANCH} = "staging" ]; then
