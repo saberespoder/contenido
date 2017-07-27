@@ -1,0 +1,33 @@
+# @TODO: Cache node dependencies
+# @TODO: Make sure bundler cache really works
+# @TODO: Fetch only UPDATED Contentful articles, not ALL of them
+# @TODO: Rebuild only UPDATED pages, not ALL of them
+
+language: ruby
+rvm: 2.4.0
+
+cache:
+  bundler: true
+  yarn: true
+  directories:
+    - node_modules
+
+before_script:
+  - nvm install 6
+  - npm install -g yarn
+  - yarn install
+  - 'if [ ${TRAVIS_BRANCH} != "master" ]; then
+        DATA_DIR=sample bundle exec rspec spec;
+    fi'
+
+script:
+  - 'if [ ${TRAVIS_BRANCH} = "master" ]; then
+        bundle exec middleman contentful;
+        bundle exec middleman build;
+        bundle exec middleman s3_sync;
+    fi'
+  - 'if [ ${TRAVIS_BRANCH} = "staging" ]; then
+        CONTENTFUL_ACCESS_TOKEN=${CONTENTFUL_ACCESS_TOKEN_DEV} CONTENTFUL_SPACE_ID=${CONTENTFUL_SPACE_ID_DEV} bundle exec middleman contentful;
+        URL=${URL_DEV} bundle exec middleman build;
+        AWS_BUCKET=${AWS_BUCKET_DEV} AWS_REGION=${AWS_REGION_DEV} AWS_KEY=${AWS_KEY_DEV} AWS_SECRET=${AWS_SECRET_DEV} bundle exec middleman s3_sync;
+    fi'
