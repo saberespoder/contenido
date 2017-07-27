@@ -10,7 +10,11 @@
     .social
       .sharethis-inline-share-buttons
 
-    hr 
-    
+    hr
+
     .article__inner
       .article__text= Markdown.new(article.body).to_html
+
+    .article__questions
+      #sep-widget
+      = javascript_include_tag 'https://cdn.rawgit.com/saberespoder/questions-widget/224ed874/widget.js'
