@@ -32,7 +32,7 @@ $checkbox-background-color: #fafafa;
     cursor: pointer;
   }
 
-  &-ico { 
+  &-ico {
     position: relative;
     display: inline-block;
     margin-right: 1.1rem;
@@ -73,12 +73,12 @@ $checkbox-background-color: #fafafa;
 
   .checkbox-item {
 
-    &-label { 
+    &-label {
       color: $checkbox-label-color-disabled;
       cursor: default;
     }
 
-    &-ico { 
+    &-ico {
       border: .143rem solid $checkbox-color-disabled;
 
       &::after {
