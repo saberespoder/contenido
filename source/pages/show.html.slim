@@ -16,5 +16,7 @@
       .article__text= Markdown.new(article.body).to_html
 
     .article__questions
+      - if config[:staging]
+        input#sep-alternative-url.hidden value='https://inboundsmsdev.herokuapp.com/questions_widget'
       #sep-widget
-      = javascript_include_tag 'https://cdn.rawgit.com/saberespoder/questions-widget/224ed874/widget.js'
+      = javascript_include_tag config[:widget_url]
