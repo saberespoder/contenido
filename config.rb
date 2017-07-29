@@ -11,6 +11,7 @@ set :platform_url,     ENV["PLATFORM_URL"]
 set :phone_number,     ENV["PHONE_NUMBER"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 set :staging,          ENV["AWS_BUCKET"] == 'sepcontentdev' ? true : false
+set :widget_url,       "http://#{ENV["AWS_BUCKET"]}.s3.amazonaws.com/widget/current/widget.js"
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false

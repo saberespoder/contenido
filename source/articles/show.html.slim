@@ -28,7 +28,7 @@
       - if config[:staging]
         input#sep-alternative-url.hidden value='https://inboundsmsdev.herokuapp.com/questions_widget'
       #sep-widget
-      = javascript_include_tag 'http://sepcontentdev.s3.amazonaws.com/widget/current/widget.js'
+      = javascript_include_tag config[:widget_url]
 
 - if related.any?
   .placeholder
