@@ -25,7 +25,7 @@
       .article__text= Markdown.new(article.body).to_html
 
     .article__questions
-      - if config[:staging]
+      - if config[:is_staging]
         input#sep-alternative-url.hidden value='https://inboundsmsdev.herokuapp.com/questions_widget'
       #sep-widget
       = javascript_include_tag config[:widget_url]
