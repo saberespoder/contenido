@@ -10,7 +10,6 @@ set :content_subtitle, ENV["SUBTITLE"]
 set :platform_url,     ENV["PLATFORM_URL"]
 set :phone_number,     ENV["PHONE_NUMBER"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
-set :is_staging,       ENV["ENV_NAME"] == 'staging' ? true : false
 set :widget_url,       ENV["WIDGET_URL"]
 
 page "/feed.xml", layout: false
