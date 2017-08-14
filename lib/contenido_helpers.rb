@@ -70,10 +70,10 @@ module ContenidoHelpers
   private
 
   def content
-    data_directory = if @app.data[:sepcontent].nil? || ENV["DATA_DIR"].eql?("sample")
+    data_directory = if @app.data[:contenido].nil? || ENV["DATA_DIR"].eql?('sample')
       :sample
     else
-      :sepcontent
+      :contenido
     end
     @content ||= @app.data[data_directory]
   end

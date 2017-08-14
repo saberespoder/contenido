@@ -21,7 +21,7 @@ node_modules
 
 # App config
 .env
-.sepcontent-space-hash
-/data/sepcontent
+.contenido-space-hash
+/data/contenido
 
 /.idea
