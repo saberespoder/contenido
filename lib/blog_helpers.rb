@@ -79,23 +79,23 @@ module BlogHelpers
   end
 
   def category_entries
-    @category_entries ||= structurize(content.categories) if content && content.categories
+    @category_entries ||= structurize(content.category) if content && content.category
   end
 
   def article_entries
-    @article_entries ||= if content && content.articles
-      structurize(content.articles)
+    @article_entries ||= if content && content.article
+      structurize(content.article)
         .sort_by(&:date)
         .reverse
     end
   end
 
   def page_entries
-    @page_entries ||= content.pages.map { |page| page[1].to_hashugar } if content && content.pages
+    @page_entries ||= content.page.map { |page| page[1].to_hashugar } if content && content.page
   end
 
   def author_entries
-    @author_entries ||= content.authors.map { |author| author[1].to_hashugar } if content && content.authors
+    @author_entries ||= content.author.map { |author| author[1].to_hashugar } if content && content.author
   end
 
   def structurize(collection)

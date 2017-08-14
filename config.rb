@@ -67,12 +67,7 @@ activate :contentful do |f|
   f.cda_query     = { limit: 1000 }
   f.space         = { sepcontent: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
-  f.content_types = {
-    articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
-    categories: ENV["CONTENTFUL_CATEGORIES_KEY"],
-    pages:      ENV["CONTENTFUL_PAGES_KEY"],
-    authors:    ENV["CONTENTFUL_AUTHORS_KEY"]
-  }
+  ENV['CONTENTFUL_MODELS'].split.each { |model| f.content_types[model] = model }
 end
 
 
