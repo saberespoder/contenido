@@ -1,6 +1,6 @@
-require "lib/blog_helpers"
-helpers BlogHelpers
-include BlogHelpers
+require 'lib/contenido_helpers'
+helpers ContenidoHelpers
+include ContenidoHelpers
 
 activate :dotenv
 

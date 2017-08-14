@@ -1,6 +1,6 @@
-require "hashugar"
+require 'hashugar'
 
-module BlogHelpers
+module ContenidoHelpers
   def categories
     category_entries ? category_entries.select(&:is_active) : []
   end
