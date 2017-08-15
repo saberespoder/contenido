@@ -11,6 +11,7 @@ set :platform_url,     ENV["PLATFORM_URL"]
 set :phone_number,     ENV["PHONE_NUMBER"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 set :widget_url,       ENV["WIDGET_URL"]
+set :models
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
@@ -68,7 +69,7 @@ activate :contentful do |f|
   f.all_entries   = true
   f.space         = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
-  ENV['CONTENTFUL_MODELS'].split.each { |model| f.content_types[model] = model }
+  models.each { |model| f.content_types[model] = model }
 end
 
 

@@ -1,6 +1,27 @@
 require 'hashugar'
 
 module ContenidoHelpers
+  def self.included(klass)
+    models         = ENV['CONTENTFUL_MODELS'].split
+    typical_models = (models - ['article'])
+
+    # Make models available inside config file
+    define_method(:models) { models }
+
+    # Dynamically generate entry access methods
+    # e.g. page_entries, category_entries and so on
+    typical_models.each do |model|
+      method_name   = "#{model}_entries"
+      variable_name = "@#{method_name}"
+
+      define_method(method_name) do
+        return unless content && content[model]
+        return instance_variable_get(variable_name) if instance_variable_defined?(variable_name)
+        instance_variable_set variable_name, content[model].map { |m| m[1].to_hashugar }
+      end
+    end
+  end
+
   def categories
     category_entries ? category_entries.select(&:is_active) : []
   end
@@ -78,24 +99,12 @@ module ContenidoHelpers
     @content ||= @app.data[data_directory]
   end
 
-  def category_entries
-    @category_entries ||= structurize(content.category) if content && content.category
-  end
-
   def article_entries
     @article_entries ||= if content && content.article
       structurize(content.article)
         .sort_by(&:date)
         .reverse
     end
-  end
-
-  def page_entries
-    @page_entries ||= content.page.map { |page| page[1].to_hashugar } if content && content.page
-  end
-
-  def author_entries
-    @author_entries ||= content.author.map { |author| author[1].to_hashugar } if content && content.author
   end
 
   def structurize(collection)
