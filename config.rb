@@ -92,6 +92,14 @@ articles.each do |article|
   end
 end
 
+# Questions routes
+
+questions.each do |question|
+  question.categories.each do |category|
+    proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/articles/show.html"
+  end
+end
+
 # Offers routes
 
 offers.each do |offer|

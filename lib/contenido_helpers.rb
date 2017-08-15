@@ -34,6 +34,10 @@ module ContenidoHelpers
     article_entries ? article_entries.select(&:is_offer) : []
   end
 
+  def questions
+    question_entries || []
+  end
+
   def pages
     page_entries || []
   end
