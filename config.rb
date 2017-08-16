@@ -95,7 +95,7 @@ end
 
 questions.each do |question|
   question.categories.each do |category|
-    proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/articles/show.html"
+    proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/questions/show.html"
   end
 end
 

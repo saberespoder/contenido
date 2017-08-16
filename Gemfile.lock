@@ -29,9 +29,6 @@ GEM
       rack (>= 1.0.0)
       rack-test (>= 0.5.4)
       xpath (~> 2.0)
-    capybara-screenshot (1.0.17)
-      capybara (>= 1.0, < 3)
-      launchy
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -92,8 +89,6 @@ GEM
     i18n (0.7.0)
     ipaddress (0.8.3)
     kramdown (1.13.2)
-    launchy (2.4.3)
-      addressable (~> 2.3)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -213,7 +208,6 @@ PLATFORMS
 DEPENDENCIES
   builder (~> 3.0)
   capybara
-  capybara-screenshot
   contentful_middleman!
   hashugar
   middleman (~> 4.1)
