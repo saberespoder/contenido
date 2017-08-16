@@ -2,14 +2,14 @@ require 'hashugar'
 
 module ContenidoHelpers
   def self.included(klass)
-    models         = ENV['CONTENTFUL_MODELS'].split
-    typical_models = (models - ['article'])
+    models         = %w(article category page author question).freeze
+    typical_models = (models - %w(article category))
 
     # Make models available inside config file
     define_method(:models) { models }
 
     # Dynamically generate entry access methods
-    # e.g. page_entries, category_entries and so on
+    # e.g. page_entries, author_entries and so on
     typical_models.each do |model|
       method_name   = "#{model}_entries"
       variable_name = "@#{method_name}"
@@ -109,6 +109,10 @@ module ContenidoHelpers
         .sort_by(&:date)
         .reverse
     end
+  end
+
+  def category_entries
+    @category_entries ||= structurize(content.category) if content && content.category
   end
 
   def structurize(collection)

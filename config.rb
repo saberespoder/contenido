@@ -11,7 +11,6 @@ set :platform_url,     ENV["PLATFORM_URL"]
 set :phone_number,     ENV["PHONE_NUMBER"]
 set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
 set :widget_url,       ENV["WIDGET_URL"]
-set :models
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
