@@ -1,7 +1,10 @@
+- title = strip_tags(question.body)
+- content_for :title, title
+
 .container
 
   .article__headline
-    h1= question.body
+    h1= title
     .article__author= question.author_name
 
   hr
