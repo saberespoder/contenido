@@ -2,6 +2,10 @@
   max-width: 823px;
   margin: 0 auto;
   clear: both;
+  h2 {
+    display: inline-block;
+    margin-right: 17px;
+  }
   &__list {
     margin-bottom: 30px;
   }

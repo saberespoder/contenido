@@ -10,6 +10,7 @@
     - if group.size > 0
       .questions
         h2= name
+        = link_to 'Ver más', "/preguntas/#{name.downcase}"
         .questions__list
           - for question in group[0..4]
             .questions__item
