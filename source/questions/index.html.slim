@@ -1,0 +1,11 @@
+- title = config[:questions_subtitle]
+- content_for :title, title
+
+.container
+  h1= title
+
+  - if questions.size > 0
+    - for question in questions
+      b= question.author_name
+      p= link_to truncate(question.body, length: 140), "/preguntas/#{question.categories[0].title.downcase}/#{question.permalink}.html"
+      hr

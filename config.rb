@@ -4,13 +4,14 @@ include ContenidoHelpers
 
 activate :dotenv
 
-set :content_url,      ENV["URL"]
-set :content_title,    ENV["TITLE"]
-set :content_subtitle, ENV["SUBTITLE"]
-set :platform_url,     ENV["PLATFORM_URL"]
-set :phone_number,     ENV["PHONE_NUMBER"]
-set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
-set :widget_url,       ENV["WIDGET_URL"]
+set :content_url,        ENV["URL"]
+set :content_title,      ENV["TITLE"]
+set :content_subtitle,   ENV["SUBTITLE"]
+set :questions_subtitle, ENV["QUESTIONS_SUBTITLE"]
+set :platform_url,       ENV["PLATFORM_URL"]
+set :phone_number,       ENV["PHONE_NUMBER"]
+set :feed_articles,      ENV["ARTICLES_PER_FEED"].to_i
+set :widget_url,         ENV["WIDGET_URL"]
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
@@ -92,6 +93,9 @@ articles.each do |article|
 end
 
 # Questions routes
+
+proxy "/preguntas/index.html", "/questions/index.html",
+  locals: { questions: questions }
 
 questions.each do |question|
   question.categories.each do |category|
