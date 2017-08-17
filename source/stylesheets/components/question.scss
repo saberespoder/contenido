@@ -7,11 +7,15 @@
   }
 
   &__answer {
-    margin-bottom: 17px;
+    margin-bottom: 30px;
+    p {
+      background: #F7F9FA;
+      border: 1px solid #DBE3E7;
+      border-radius: 3px;
+      padding: 30px;
+    }
     b {
-      font-weight: normal;
-      font-size: 16px;
-      color: #8091A5;
+      font-style: italic;
     }
   }
 }
