@@ -9,12 +9,15 @@
 
   hr
 
-  .article__questions
-    #sep-widget
-    = javascript_include_tag config[:widget_url]
+  .question
+    .question__form
+      #sep-widget
+      = javascript_include_tag config[:widget_url]
 
-  .article__answers
     - if answers.size > 0
-      - for answer in answers
-        p= answer.author_name
-        p= answer.body
+      .question__answers
+        h2 RESPUESTAS PARA ESTA PREGUNTA
+        - for answer in answers
+          .question__answer
+            b= answer.author_name
+            p= answer.body
