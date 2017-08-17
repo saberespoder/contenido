@@ -4,8 +4,10 @@
 .container
   h1= title
 
-  - if questions.size > 0
-    - for question in questions
-      b= question.author_name
-      p= link_to truncate(question.body, length: 140), "/preguntas/#{question.categories[0].title.downcase}/#{question.permalink}.html"
-      hr
+  - questions.each do |name, group|
+    - if group.size > 0
+      h2= name
+      - for question in group[0..4]
+        h3= link_to truncate(question.body, length: 140), "/preguntas/#{name.downcase}/#{question.permalink}.html"
+        p= question.author_name
+        hr

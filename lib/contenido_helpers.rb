@@ -2,15 +2,15 @@ require 'hashugar'
 
 module ContenidoHelpers
   def self.included(klass)
-    models         = %w(article category page author question).freeze
-    typical_models = (models - %w(article category))
+    models       = %w(article category page author question).freeze
+    entry_models = (models - %w(article category))
 
     # Make models available inside config file
     define_method(:models) { models }
 
     # Dynamically generate entry access methods
     # e.g. page_entries, author_entries and so on
-    typical_models.each do |model|
+    entry_models.each do |model|
       method_name   = "#{model}_entries"
       variable_name = "@#{method_name}"
 
@@ -36,6 +36,13 @@ module ContenidoHelpers
 
   def questions
     question_entries || []
+  end
+
+  def question_groups
+    @question_groups ||= category_entries.each_with_object({}) do |category, memo|
+      memo[category.title] = questions.select { |question| question.categories.map(&:id).include?(category.id) }
+      memo
+    end
   end
 
   def pages
@@ -117,7 +124,7 @@ module ContenidoHelpers
 
   def structurize(collection)
     collection.map { |c| c[1].merge(
-      slug: c[1][:title].parameterize,
+      slug:        c[1][:title].parameterize,
       legacy_slug: c[1][:title].downcase
     ).to_hashugar}
   end

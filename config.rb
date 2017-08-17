@@ -95,7 +95,7 @@ end
 # Questions routes
 
 proxy "/preguntas/index.html", "/questions/index.html",
-  locals: { questions: questions }
+  locals: { questions: question_groups }
 
 questions.each do |question|
   question.categories.each do |category|
