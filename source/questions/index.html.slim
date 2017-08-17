@@ -4,10 +4,14 @@
 .container
   h1= title
 
+  hr
+
   - questions.each do |name, group|
     - if group.size > 0
-      h2= name
-      - for question in group[0..4]
-        h3= link_to truncate(question.body, length: 140), "/preguntas/#{name.downcase}/#{question.permalink}.html"
-        p= question.author_name
-        hr
+      .questions
+        h2= name
+        .questions__list
+          - for question in group[0..4]
+            .questions__item
+              h4= link_to truncate(question.body, length: 140), "/preguntas/#{name.downcase}/#{question.permalink}.html", class: 'questions__item-body'
+              .questions__item-author= question.author_name

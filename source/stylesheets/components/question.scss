@@ -1,17 +1,17 @@
 .question {
   max-width: 823px;
   margin: 0 auto;
-}
 
-.question__answers {
-  padding: 15px;
-}
+  &__answers {
+    padding: 15px;
+  }
 
-.question__answer {
-  margin-bottom: 17px;
-  b {
-    font-weight: normal;
-    font-size: 16px;
-    color: #8091A5;
+  &__answer {
+    margin-bottom: 17px;
+    b {
+      font-weight: normal;
+      font-size: 16px;
+      color: #8091A5;
+    }
   }
 }
