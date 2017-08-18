@@ -37,6 +37,9 @@ configure :build do
   ignore '/articles/index.html'
   ignore '/articles/show.html'
   ignore '/articles/category.html'
+  ignore '/questions/index.html'
+  ignore '/questions/show.html'
+  ignore '/questions/category.html'
   ignore '/pages/show.html'
 
   #activate :relative_assets
@@ -95,7 +98,7 @@ end
 # Questions routes
 
 proxy "/preguntas/index.html", "/questions/index.html",
-  locals: { questions: question_groups }
+  locals: { grouped_questions: question_groups }
 
 category_entries.each do |category|
   if question_groups[category.title]
