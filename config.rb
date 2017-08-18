@@ -36,8 +36,8 @@ end
 configure :build do
   ignore '/articles/index.html'
   ignore '/articles/show.html'
+  ignore '/articles/category.html'
   ignore '/pages/show.html'
-  ignore '/categories/show.html'
 
   #activate :relative_assets
 
@@ -97,6 +97,13 @@ end
 proxy "/preguntas/index.html", "/questions/index.html",
   locals: { questions: question_groups }
 
+category_entries.each do |category|
+  if question_groups[category.title]
+    proxy "/preguntas/#{category.title.downcase}.html", "/questions/category.html",
+      locals: { category_title: category.title, category_questions: question_groups[category.title] }
+  end
+end
+
 questions.each do |question|
   question.categories.each do |category|
     proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/questions/show.html",
@@ -113,18 +120,18 @@ offers.each do |offer|
   end
 end
 
-# Categories routes
+# Article categories routes
 
 categories.each do |category|
   category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
   collection_slice  = collection_slice(category_articles)
 
-  proxy "/#{category.legacy_slug}.html", "/categories/show.html",
+  proxy "/#{category.legacy_slug}.html", "/articles/category.html",
     locals: { category: category }
       .merge(slicer_attributes(collection_slice, collection_slice.first, "/#{category.legacy_slug}/pages"))
 
   collection_slice(category_articles).each_with_index do |page_articles, page|
-    proxy "/#{category.legacy_slug}/pages/#{page+1}.html", "/categories/show.html",
+    proxy "/#{category.legacy_slug}/pages/#{page+1}.html", "/articles/category.html",
       locals: { category: category }
         .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/#{category.legacy_slug}/pages"))
   end

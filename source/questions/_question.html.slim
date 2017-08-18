@@ -1,0 +1,3 @@
+.questions__item
+  h4= link_to truncate(question.body, length: 140), "/preguntas/#{category}/#{question.permalink}.html", class: 'questions__item-body'
+  .questions__item-author= question.author_name
