@@ -1,0 +1,21 @@
+.question {
+  max-width: 823px;
+  margin: 0 auto;
+
+  &__answers {
+    padding: 15px;
+  }
+
+  &__answer {
+    margin-bottom: 30px;
+    p {
+      background: #F7F9FA;
+      border: 1px solid #DBE3E7;
+      border-radius: 3px;
+      padding: 30px;
+    }
+    b {
+      font-style: italic;
+    }
+  }
+}

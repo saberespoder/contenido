@@ -1,16 +1,17 @@
-require "lib/blog_helpers"
-helpers BlogHelpers
-include BlogHelpers
+require 'lib/contenido_helpers'
+helpers ContenidoHelpers
+include ContenidoHelpers
 
 activate :dotenv
 
-set :content_url,      ENV["URL"]
-set :content_title,    ENV["TITLE"]
-set :content_subtitle, ENV["SUBTITLE"]
-set :platform_url,     ENV["PLATFORM_URL"]
-set :phone_number,     ENV["PHONE_NUMBER"]
-set :feed_articles,    ENV["ARTICLES_PER_FEED"].to_i
-set :widget_url,       ENV["WIDGET_URL"]
+set :content_url,        ENV["URL"]
+set :content_title,      ENV["TITLE"]
+set :content_subtitle,   ENV["SUBTITLE"]
+set :questions_subtitle, ENV["QUESTIONS_SUBTITLE"]
+set :platform_url,       ENV["PLATFORM_URL"]
+set :phone_number,       ENV["PHONE_NUMBER"]
+set :feed_articles,      ENV["ARTICLES_PER_FEED"].to_i
+set :widget_url,         ENV["WIDGET_URL"]
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
@@ -35,8 +36,8 @@ end
 configure :build do
   ignore '/articles/index.html'
   ignore '/articles/show.html'
+  ignore '/articles/category.html'
   ignore '/pages/show.html'
-  ignore '/categories/show.html'
 
   #activate :relative_assets
 
@@ -65,14 +66,10 @@ end
 
 activate :contentful do |f|
   f.cda_query     = { limit: 1000 }
-  f.space         = { sepcontent: ENV["CONTENTFUL_SPACE_ID"] }
+  f.all_entries   = true
+  f.space         = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
-  f.content_types = {
-    articles:   ENV["CONTENTFUL_ARTICLES_KEY"],
-    categories: ENV["CONTENTFUL_CATEGORIES_KEY"],
-    pages:      ENV["CONTENTFUL_PAGES_KEY"],
-    authors:    ENV["CONTENTFUL_AUTHORS_KEY"]
-  }
+  models.each { |model| f.content_types[model] = model }
 end
 
 
@@ -95,6 +92,25 @@ articles.each do |article|
   end
 end
 
+# Questions routes
+
+proxy "/preguntas/index.html", "/questions/index.html",
+  locals: { questions: question_groups }
+
+category_entries.each do |category|
+  if question_groups[category.title]
+    proxy "/preguntas/#{category.title.downcase}.html", "/questions/category.html",
+      locals: { category_title: category.title, category_questions: question_groups[category.title] }
+  end
+end
+
+questions.each do |question|
+  question.categories.each do |category|
+    proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/questions/show.html",
+      locals: { question: question, answers: question.answers }
+  end
+end
+
 # Offers routes
 
 offers.each do |offer|
@@ -104,18 +120,18 @@ offers.each do |offer|
   end
 end
 
-# Categories routes
+# Article categories routes
 
 categories.each do |category|
   category_articles = articles.select { |a| a.categories.map(&:id).include?(category.id) }
   collection_slice  = collection_slice(category_articles)
 
-  proxy "/#{category.legacy_slug}.html", "/categories/show.html",
+  proxy "/#{category.legacy_slug}.html", "/articles/category.html",
     locals: { category: category }
       .merge(slicer_attributes(collection_slice, collection_slice.first, "/#{category.legacy_slug}/pages"))
 
   collection_slice(category_articles).each_with_index do |page_articles, page|
-    proxy "/#{category.legacy_slug}/pages/#{page+1}.html", "/categories/show.html",
+    proxy "/#{category.legacy_slug}/pages/#{page+1}.html", "/articles/category.html",
       locals: { category: category }
         .merge(slicer_attributes(collection_slice(category_articles), page_articles, "/#{category.legacy_slug}/pages"))
   end
