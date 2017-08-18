@@ -37,6 +37,9 @@ configure :build do
   ignore '/articles/index.html'
   ignore '/articles/show.html'
   ignore '/articles/category.html'
+  ignore '/questions/index.html'
+  ignore '/questions/show.html'
+  ignore '/questions/category.html'
   ignore '/pages/show.html'
 
   #activate :relative_assets
