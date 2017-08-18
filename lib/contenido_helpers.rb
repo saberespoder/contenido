@@ -1,6 +1,27 @@
-require "hashugar"
+require 'hashugar'
 
-module BlogHelpers
+module ContenidoHelpers
+  def self.included(klass)
+    models       = %w(article category page author question).freeze
+    entry_models = (models - %w(article category))
+
+    # Make models available inside config file
+    define_method(:models) { models }
+
+    # Dynamically generate entry access methods
+    # e.g. page_entries, author_entries and so on
+    entry_models.each do |model|
+      method_name   = "#{model}_entries"
+      variable_name = "@#{method_name}"
+
+      define_method(method_name) do
+        return unless content && content[model]
+        return instance_variable_get(variable_name) if instance_variable_defined?(variable_name)
+        instance_variable_set variable_name, content[model].map { |m| m[1].to_hashugar }
+      end
+    end
+  end
+
   def categories
     category_entries ? category_entries.select(&:is_active) : []
   end
@@ -11,6 +32,17 @@ module BlogHelpers
 
   def offers
     article_entries ? article_entries.select(&:is_offer) : []
+  end
+
+  def questions
+    question_entries || []
+  end
+
+  def question_groups
+    @question_groups ||= category_entries.each_with_object({}) do |category, memo|
+      memo[category.title] = questions.select { |question| question.categories.map(&:id).include?(category.id) }
+      memo
+    end
   end
 
   def pages
@@ -70,37 +102,29 @@ module BlogHelpers
   private
 
   def content
-    data_directory = if @app.data[:sepcontent].nil? || ENV["DATA_DIR"].eql?("sample")
+    data_directory = if @app.data[:contenido].nil? || ENV["DATA_DIR"].eql?('sample')
       :sample
     else
-      :sepcontent
+      :contenido
     end
     @content ||= @app.data[data_directory]
   end
 
-  def category_entries
-    @category_entries ||= structurize(content.categories) if content && content.categories
-  end
-
   def article_entries
-    @article_entries ||= if content && content.articles
-      structurize(content.articles)
+    @article_entries ||= if content && content.article
+      structurize(content.article)
         .sort_by(&:date)
         .reverse
     end
   end
 
-  def page_entries
-    @page_entries ||= content.pages.map { |page| page[1].to_hashugar } if content && content.pages
-  end
-
-  def author_entries
-    @author_entries ||= content.authors.map { |author| author[1].to_hashugar } if content && content.authors
+  def category_entries
+    @category_entries ||= structurize(content.category) if content && content.category
   end
 
   def structurize(collection)
     collection.map { |c| c[1].merge(
-      slug: c[1][:title].parameterize,
+      slug:        c[1][:title].parameterize,
       legacy_slug: c[1][:title].downcase
     ).to_hashugar}
   end

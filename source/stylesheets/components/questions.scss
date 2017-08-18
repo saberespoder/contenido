@@ -1,0 +1,30 @@
+.questions {
+  max-width: 823px;
+  margin: 0 auto;
+  clear: both;
+  h2 {
+    display: inline-block;
+    margin-right: 17px;
+  }
+  &__list {
+    margin-bottom: 30px;
+  }
+  &__item {
+    background: #F7F9FA;
+    border: 1px solid #DBE3E7;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    padding: 30px;
+    a {
+      display: inline-block;
+    }
+    &-author {
+      color: #8091A5;
+      font-size: 16px;
+      font-style: italic;
+    }
+    &:hover {
+      border-color: #F7F9FA;
+    }
+  }
+}

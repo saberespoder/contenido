@@ -1,0 +1,16 @@
+- title = config[:questions_subtitle]
+- content_for :title, title
+
+.container
+  h1= title
+
+  hr
+
+  - questions.each do |name, group|
+    - if group.size > 0
+      .questions
+        h2= name
+        = link_to 'Ver más', "/preguntas/#{name.downcase}"
+        .questions__list
+          - for question in group[0..4]
+            = partial "questions/question", locals: { category: name.downcase, question: question }
