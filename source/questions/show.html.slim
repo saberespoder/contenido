@@ -1,0 +1,23 @@
+- title = strip_tags(question.body)
+- content_for :title, title
+
+.container
+
+  .article__headline
+    h1= title
+    .article__author= question.author_name
+
+  hr
+
+  .question
+    .question__form
+      #sep-widget
+      = javascript_include_tag config[:widget_url]
+
+    - if answers.size > 0
+      .question__answers
+        h2 Repuestas para esta pregunta
+        - for answer in answers
+          .question__answer
+            p= answer.body
+            b= answer.author_name

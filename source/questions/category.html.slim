@@ -1,0 +1,11 @@
+- title = "Preguntas #{category_title}"
+- content_for :title, title
+
+.container
+  h1= title
+
+  hr
+
+  .questions
+    - for question in category_questions
+      = partial "questions/question", locals: { category: category_title.downcase, question: question }
