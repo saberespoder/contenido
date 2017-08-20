@@ -20,6 +20,6 @@
 
   .pager
     - if next_page(slicer)
-      = link_to "&larr; Más nuevo", next_page(slicer)
+      = link_to "&larr; Página anterior", next_page(slicer)
     - if previous_page(slicer)
-      = link_to "Mayor &rarr;", previous_page(slicer)
+      = link_to "Página siguiente &rarr;", previous_page(slicer)
