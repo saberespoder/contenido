@@ -28,13 +28,4 @@
       #sep-widget
       = javascript_include_tag config[:widget_url]
 
-- if related.any?
-  .placeholder
-    .container
-      h2 Contenido Relacionado
-
-      - related.each_with_index do |article, index|
-        = link_to article_path(article) do
-          .card-person.card-person--inline class="card-person--#{index == 1 ? :middle : :edge}" style="background-image:url(#{article.image.url if article.image});"
-            .card-person-text
-              .card-person-title= truncate(article.title, length: 100)
+= partial 'related', locals: { related: related }
