@@ -21,3 +21,5 @@
           .question__answer
             p= answer.body
             b= answer.author_name
+
+= partial '../articles/related', locals: { related: related }

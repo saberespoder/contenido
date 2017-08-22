@@ -110,7 +110,7 @@ end
 questions.each do |question|
   question.categories.each do |category|
     proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/questions/show.html",
-      locals: { question: question, answers: question.answers }
+      locals: { question: question, answers: question.answers, related: related_articles(question) }
   end
 end
 
