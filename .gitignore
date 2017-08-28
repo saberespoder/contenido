@@ -22,6 +22,6 @@ node_modules
 # App config
 .env
 .contenido-space-hash
-/data/contenido
+/data/contenido/*
 
 /.idea
