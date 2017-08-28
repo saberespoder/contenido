@@ -79,3 +79,4 @@
   :title: Noticias
   :is_active: false
 :is_offer: false
+:display_widget: true

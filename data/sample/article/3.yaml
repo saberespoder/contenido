@@ -38,3 +38,4 @@
   :title: Finanzas
   :is_active: true
 :is_offer: false
+:display_widget: false
