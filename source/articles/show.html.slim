@@ -24,8 +24,9 @@
     .article__inner
       .article__text= Markdown.new(article.body).to_html
 
-    .article__questions
-      #sep-widget
-      = javascript_include_tag config[:widget_url]
+    - unless article.display_widget == false
+      .article__questions
+        #sep-widget
+        = javascript_include_tag config[:widget_url]
 
 = partial 'related', locals: { related: related }
