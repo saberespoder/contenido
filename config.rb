@@ -5,9 +5,9 @@ include ContenidoHelpers
 activate :dotenv
 
 set :content_url,        ENV["URL"]
-set :content_title,      ENV["TITLE"]
-set :content_subtitle,   ENV["SUBTITLE"]
-set :questions_subtitle, ENV["QUESTIONS_SUBTITLE"]
+set :content_title,      'SABEResPODER'
+set :content_subtitle,   'Elija su ruta al conocimiento'
+set :questions_subtitle, 'Bienvenido al portal de conocimiento de SEP. ¿Tiene preguntas? ¡Tenemos respuestas!'
 set :platform_url,       ENV["PLATFORM_URL"]
 set :phone_number,       ENV["PHONE_NUMBER"]
 set :feed_articles,      ENV["ARTICLES_PER_FEED"].to_i
