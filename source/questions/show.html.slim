@@ -17,9 +17,6 @@
     - if answers && answers.size > 0
       .question__answers
         h2 Repuestas para esta pregunta
-        - for answer in answers
-          .question__answer
-            p= answer.body
-            b= answer.author_name
+        = partial 'answers', locals: { answers: answers }
 
 = partial '../articles/related', locals: { related: related }
