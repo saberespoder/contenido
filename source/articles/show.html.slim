@@ -31,8 +31,6 @@
       = partial 'buttons', locals: { position: :bottom }
 
     - unless article.display_widget == false
-      .article__questions
-        #sep-widget
-        = javascript_include_tag config[:widget_url]
+      .article__questions= partial 'widget'
 
 = partial 'related', locals: { related: related }
