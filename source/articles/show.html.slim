@@ -14,7 +14,11 @@
 
     .article__image
       - if article.image
-        = image_tag article.image.url
+        - if article.image_href
+          = link_to article.image_href, target: :blank, title: article.title do
+            = image_tag article.image.url
+        - else
+          = image_tag article.image.url
 
     .social
       .sharethis-inline-share-buttons
@@ -22,11 +26,11 @@
     hr
 
     .article__inner
+      = partial 'buttons', locals: { position: :top }
       .article__text= Markdown.new(article.body).to_html
+      = partial 'buttons', locals: { position: :bottom }
 
     - unless article.display_widget == false
-      .article__questions
-        #sep-widget
-        = javascript_include_tag config[:widget_url]
+      .article__questions= partial 'widget'
 
 = partial 'related', locals: { related: related }
