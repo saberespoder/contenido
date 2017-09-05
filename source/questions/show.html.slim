@@ -10,9 +10,7 @@
   hr
 
   .question
-    .question__form
-      #sep-widget
-      = javascript_include_tag config[:widget_url]
+    .question__form= partial 'widget'
 
     - if answers && answers.size > 0
       .question__answers
