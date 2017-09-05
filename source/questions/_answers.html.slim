@@ -1,0 +1,6 @@
+- for answer in answers
+  .question__answer
+    p= answer.body
+    b= answer.author_name
+    - if answer.answers && answer.answers.size > 0
+      = partial 'answers', locals: { answers: answer.answers }
