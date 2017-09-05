@@ -22,7 +22,9 @@
     hr
 
     .article__inner
+      = partial 'buttons', locals: { position: :top }
       .article__text= Markdown.new(article.body).to_html
+      = partial 'buttons', locals: { position: :bottom }
 
     - unless article.display_widget == false
       .article__questions

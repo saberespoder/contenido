@@ -1,0 +1,5 @@
+- buttons = article.buttons.select { |b| b.position == position.to_s }
+- buttons.any?
+  .buttons class="buttons--#{position}"
+    - buttons.each do |button|
+      = partial 'button', locals: { button: button }
