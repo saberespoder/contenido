@@ -1,0 +1,61 @@
+---
+:id: 3gfPkePEUgkYMumyGousOy
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:32:04+00:00'
+  :created_at: '2017-09-11T05:32:04+00:00'
+  :id: 3gfPkePEUgkYMumyGousOy
+:body: "<p>Cuál es el número de consulado mexicano </p>"
+:permalink: 2015-01-12_cual-es-el-numero-de-consulado-mexicano
+:date: !ruby/object:DateTime 2015-01-12 16:10:20.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 5XXyR7YoEMyK0k4EU6eAQc
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:32:04+00:00'
+    :created_at: '2017-09-11T05:32:04+00:00'
+    :id: 5XXyR7YoEMyK0k4EU6eAQc
+  :body: "Estimado Usuario:\r\nAgradecemos su pregunta. Podria darnos su codigo postal
+    para localizar el Consulado mas cercano a su domicilio? //SABBEResPODER"
+  :date: !ruby/object:DateTime 2015-01-12 21:36:30.270000000 -08:00
+  :author_name: 'Lourdes Murrieta '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/122748/uploads_2Ftmp_2F6a813149-17fa-4bd3-90eb-ebe45ee71016_2FYO.jpg
+  :answers:
+  - :id: 4JJO5i2RVK4oYsIkISKw4o
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:32:03+00:00'
+      :created_at: '2017-09-11T05:32:03+00:00'
+      :id: 4JJO5i2RVK4oYsIkISKw4o
+    :body: '79411'
+    :date: !ruby/object:DateTime 2015-01-13 10:07:08.754000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: KdRJTTYVWwAY8gcwyA6S8
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:32:03+00:00'
+        :created_at: '2017-09-11T05:32:03+00:00'
+        :id: KdRJTTYVWwAY8gcwyA6S8
+      :body: "Gracias por su respuesta. Estos son los numeros del consulado Mexicano
+        en la ciudad de Dallas: \t (214) 932 8670, (214) 932 8671, (214) 932 8672.
+        SABEResPODER"
+      :date: !ruby/object:DateTime 2015-01-13 10:50:17.816000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2840

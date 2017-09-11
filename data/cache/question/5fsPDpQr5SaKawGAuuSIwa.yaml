@@ -1,0 +1,62 @@
+---
+:id: 5fsPDpQr5SaKawGAuuSIwa
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:56:24+00:00'
+  :created_at: '2017-09-08T18:56:24+00:00'
+  :id: 5fsPDpQr5SaKawGAuuSIwa
+:body: "<p>Tienes trabajo el consulado </p>"
+:permalink: 2015-07-11_tienes-trabajo-el-consulado
+:date: !ruby/object:DateTime 2015-07-11 13:58:25.000000000 -07:00
+:author_name: 'Silvia Munoz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 2OsZZjx248sO0yUWQ6aeGq
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:56:23+00:00'
+    :created_at: '2017-09-08T18:56:23+00:00'
+    :id: 2OsZZjx248sO0yUWQ6aeGq
+  :body: Hola Silvia con gusto te podremos informar cuando haya algunas oportunidades
+    de trabajo disponibles o proyectos en donde tengas la posibilidad de obtener alguna
+    compesacion economica.
+  :date: !ruby/object:DateTime 2015-07-14 12:29:36.965000000 -07:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: DkqSQNN4liqWmgY8qcKww
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:56:23+00:00'
+      :created_at: '2017-09-08T18:56:23+00:00'
+      :id: DkqSQNN4liqWmgY8qcKww
+    :body: Tengo un hermano q quiere estudiar highschool
+    :date: !ruby/object:DateTime 2015-07-15 13:41:12.938000000 -07:00
+    :author_name: 'Silvia Munoz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: AnZePYcpTaqI8seKAQcio
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:56:22+00:00'
+        :created_at: '2017-09-08T18:56:22+00:00'
+        :id: AnZePYcpTaqI8seKAQcio
+      :body: Hola Silvia necesito el codigo postal de la ciudad donde radica su hermano
+        para ubicarle escuelas de ingles en su area con preparacion para el GED si
+        es tan amable.
+      :date: !ruby/object:DateTime 2015-07-15 14:10:51.524000000 -07:00
+      :author_name: 'Minerva Luna '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 7427

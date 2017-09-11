@@ -1,0 +1,59 @@
+---
+:id: 2uDbBzNAdqMuSw4c4e2CaY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:32:46+00:00'
+  :created_at: '2017-09-08T18:32:46+00:00'
+  :id: 2uDbBzNAdqMuSw4c4e2CaY
+:body: "<p>Donde puedo solicitar un TIN y cual es el costo?</p>"
+:permalink: donde-puedo-solicitar-un-tin-y-cual-es-el-costo
+:date: !ruby/object:DateTime 2014-11-11 13:03:50.990000000 -08:00
+:author_name: 'ARTURO ROCHA '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 3aSh4XPRl6c8EE0A6K0Mo6
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:32:46+00:00'
+    :created_at: '2017-09-08T18:32:46+00:00'
+    :id: 3aSh4XPRl6c8EE0A6K0Mo6
+  :body: Hola Arturo usted puede solicitar un ITIN en cualquier agencia que haga los
+    impuestos. Sacar numero ITIN es totalmente gratis. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-13 10:49:58.272000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6uHKWiza7eqGGkmiIooUsu
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:32:45+00:00'
+      :created_at: '2017-09-08T18:32:45+00:00'
+      :id: 6uHKWiza7eqGGkmiIooUsu
+    :body: Gracias.
+    :date: !ruby/object:DateTime 2014-11-13 11:07:06.109000000 -08:00
+    :author_name: 'ARTURO ROCHA '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3rzc95nEJio8WWUA8a2uiW
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:32:45+00:00'
+        :created_at: '2017-09-08T18:32:45+00:00'
+        :id: 3rzc95nEJio8WWUA8a2uiW
+      :body: Estamos para ayudarle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-13 11:24:30.849000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1457

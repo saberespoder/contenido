@@ -1,0 +1,86 @@
+---
+:id: BdgtR5nPjwCwoka8EMOwm
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:08:34+00:00'
+  :created_at: '2017-09-08T18:08:34+00:00'
+  :id: BdgtR5nPjwCwoka8EMOwm
+:body: "<p>Sacar mi licencia,</p>"
+:permalink: 2015-05-01_sacar-mi-licencia
+:date: !ruby/object:DateTime 2015-05-01 00:34:17.000000000 -07:00
+:author_name: 'ROSA MEJIA '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 4q93ftVHt62WCSai0UyIaM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:08:34+00:00'
+    :created_at: '2017-09-08T18:08:34+00:00'
+    :id: 4q93ftVHt62WCSai0UyIaM
+  :body: 'Hola Rosa, bienvenida a SABEResPODER aqui le enviamos con gusto la informacion
+    que necesita para tramitar su Licencia de Conducir, requisitos, practicas para
+    el examen y muchos tips que le serviran de gran ayuda , solo entre al siguiente
+    enlace: <a href=''http://bit.ly/1IwR6AX''>http://bit.ly/1IwR6AX</a>'
+  :date: !ruby/object:DateTime 2015-05-01 16:29:19.748000000 -07:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4qcKzvuQZicGISwySK4w4q
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:08:33+00:00'
+      :created_at: '2017-09-08T18:08:33+00:00'
+      :id: 4qcKzvuQZicGISwySK4w4q
+    :body: 'Como puedo comprar cada ATI '
+    :date: !ruby/object:DateTime 2015-05-19 19:13:13.686000000 -07:00
+    :author_name: 'ROSA MEJIA '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4Fb0COYXosIqAmQsoK22QS
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:08:33+00:00'
+        :created_at: '2017-09-08T18:08:33+00:00'
+        :id: 4Fb0COYXosIqAmQsoK22QS
+      :body: 'Hola estimada Rosa, agradecemos su comentario y nos disculpamos por
+        la tardanza de nuestra respuesta. ¿Cómo lo podemos ayudar? #SABEResPODER'
+      :date: !ruby/object:DateTime 2015-06-26 11:39:21.654000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6910

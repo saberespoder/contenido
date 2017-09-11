@@ -1,0 +1,62 @@
+---
+:id: 5buVXezJC0oCm2sowS0sk6
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:25:49+00:00'
+  :created_at: '2017-09-08T18:25:49+00:00'
+  :id: 5buVXezJC0oCm2sowS0sk6
+:body: "<p>segunda revision porque tarda tanto</p>"
+:permalink: 2015-03-18_segunda-revision-porque-tarda-tanto
+:date: !ruby/object:DateTime 2015-03-18 18:26:02.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 69tNHs50VUW8W8oMai6Q8a
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:25:49+00:00'
+    :created_at: '2017-09-08T18:25:49+00:00'
+    :id: 69tNHs50VUW8W8oMai6Q8a
+  :body: "Gracias Esta información no está disponible actualmente. Para clarificar,
+    el solicitante debe llamar al DMV para programar una segunda revisión si él o
+    ella no proporcionaron los documentos que prueban su identidad. Si los documentos
+    de residencia no fueron dados en la revisión inicial en el mostrador, pueden proporcionarlos
+    durante la segunda revisión.\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-20 18:01:30.000000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3LlPEeBLsko4AcKSOsaOoO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:25:47+00:00'
+      :created_at: '2017-09-08T18:25:47+00:00'
+      :id: 3LlPEeBLsko4AcKSOsaOoO
+    :body: 'pura mentira pero en fin '
+    :date: !ruby/object:DateTime 2015-03-20 18:05:18.685000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6qsJVWQePYGwE2AeAYyA20
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:25:46+00:00'
+        :created_at: '2017-09-08T18:25:46+00:00'
+        :id: 6qsJVWQePYGwE2AeAYyA20
+      :body: "Gracias por participar!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-20 18:07:12.005000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5810

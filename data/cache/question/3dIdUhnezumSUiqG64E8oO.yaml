@@ -1,0 +1,88 @@
+---
+:id: 3dIdUhnezumSUiqG64E8oO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:25:54+00:00'
+  :created_at: '2017-09-11T05:25:54+00:00'
+  :id: 3dIdUhnezumSUiqG64E8oO
+:body: "<p>Donde puedo encontrar información para clases de ingles y clases de mecanica</p>"
+:permalink: 2015-03-05_donde-puedo-encontrar-informacion-para-clases-de-ingles-y-clases-de-mecanica
+:date: !ruby/object:DateTime 2015-03-05 17:09:07.000000000 -08:00
+:author_name: 'Alejandro Deciderio '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 7kU573zpTiOGK2ICikKEiI
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:25:53+00:00'
+    :created_at: '2017-09-11T05:25:53+00:00'
+    :id: 7kU573zpTiOGK2ICikKEiI
+  :body: "Estimado Alejandro le envio la direccion de una escuela de ingles y tambien
+    ahi podran orientarlo con el siguiente paso que sera la escuela de mecanica.\r\nNEW
+    YORK CITY COLLEGE OF TECHNOLOGY\r\nThe Adult Learning Center\r\nDivision of Continuing
+    Education\r\n300 Jay Street, H Building (mailing address)\r\n25 Chapel Street,
+    4th Floor (actual address)\r\nBrooklyn, NY 11201\r\n(718) 552-1140\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-06 16:36:01.561000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1nepgJjlzmQ2oEOuukky80
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:25:53+00:00'
+      :created_at: '2017-09-11T05:25:53+00:00'
+      :id: 1nepgJjlzmQ2oEOuukky80
+    :body: "En el consulado me dijeron que las clases eran gratis es verdad ?\r\nY
+      que incluso podría obtener  alguna clase de certificación o algo así  eso es
+      verdad también? \r\n "
+    :date: !ruby/object:DateTime 2015-03-06 17:48:09.909000000 -08:00
+    :author_name: 'Alejandro Deciderio '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4JlUthCNLOMkgYUsgWyIUk
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:25:52+00:00'
+        :created_at: '2017-09-11T05:25:52+00:00'
+        :id: 4JlUthCNLOMkgYUsgWyIUk
+      :body: "Si el programa se lo ofrecieron en el Consulado le sugiero que llame
+        o vaya directamente al Consulado al departamento de comunidades\r\nCoordinadora
+        Educación\r\nElizabeth Peraza\r\neperaza@consulmexny.mx .(212) 217 6400 ext.
+        5866\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-06 18:01:43.379000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    - :id: 4kW39xrpt6kegWkua6wCU4
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:25:52+00:00'
+        :created_at: '2017-09-11T05:25:52+00:00'
+        :id: 4kW39xrpt6kegWkua6wCU4
+      :body: Vivo en Corona esto pertenece a elmhurst necesito una escuela de ingles
+        .... tambien kisirá saber de escuelas donde se pueda estudiar secretariado.
+        .. gracias
+      :date: !ruby/object:DateTime 2015-03-14 15:39:00.219000000 -07:00
+      :author_name: 'Imelda Vargas '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5227

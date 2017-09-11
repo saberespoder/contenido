@@ -1,0 +1,64 @@
+---
+:id: 5SZDcpcmWcQgeu0aYoQqcq
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:37:53+00:00'
+  :created_at: '2017-09-11T05:37:53+00:00'
+  :id: 5SZDcpcmWcQgeu0aYoQqcq
+:body: "<p>Ustedes saben de un dentista bueno y barato...</p>"
+:permalink: 2015-01-21_ustedes-saben-de-un-dentista-bueno-y-barato
+:date: !ruby/object:DateTime 2015-01-21 12:27:33.000000000 -08:00
+:author_name: 'Briseida Denova '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: QAxbdRrtwQWooicMqQu8e
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:37:51+00:00'
+    :created_at: '2017-09-11T05:37:51+00:00'
+    :id: QAxbdRrtwQWooicMqQu8e
+  :body: Hola estimada Briseida, agradecemos su pregunta. Le recomendamos que se acerque
+    o se comunique a la ventanilla de salud de su consulado para que la proporcione
+    referencias de clínicas que ofrezcan servicios dentales a bajo costo en su área.
+    La atención de la ventanilla es totalmente gratis y no es necesario hacer una
+    cita para ser atendido.SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-23 13:14:46.177000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :from_admin: false
+- :id: 4rI5CaMZA4AIMawyK8YU0o
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:37:52+00:00'
+    :created_at: '2017-09-11T05:37:52+00:00'
+    :id: 4rI5CaMZA4AIMawyK8YU0o
+  :body: 'como puedo seguro de medisina económico '
+  :date: !ruby/object:DateTime 2015-01-21 13:14:48.467000000 -08:00
+  :author_name: 'Olga Lara Castillo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1hhrrz1e7kcU0cc4ECkysq
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:37:52+00:00'
+      :created_at: '2017-09-11T05:37:52+00:00'
+      :id: 1hhrrz1e7kcU0cc4ECkysq
+    :body: 'Hola estimada Olga, agradecemos su pregunta y nos disculpamos por la tardanza
+      de nuestra respuesta. Para encontar los precios más bajos en las farmacias locales
+      y en línea le recomendamos usar este enlace de farmaSEP: <a href=''http://www.saberespoder.com/salud/farmasep''>http://www.saberespoder.com/salud/farmasep</a>
+      #SABEResPODER'
+    :date: !ruby/object:DateTime 2015-06-26 11:34:03.050000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3232

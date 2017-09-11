@@ -1,0 +1,94 @@
+---
+:id: 2s7WjzyrJia8SaaokYIkIg
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:57:03+00:00'
+  :created_at: '2017-09-08T18:57:03+00:00'
+  :id: 2s7WjzyrJia8SaaokYIkIg
+:body: "<p>Cuando se puede comensar aser citas para las licencias de condusir?</p>"
+:permalink: cuando-se-puede-comensar-aser-citas-para-las-licencias-de-condusir
+:date: !ruby/object:DateTime 2014-11-03 11:12:05.601000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 6RmzQbfy248sEQccsU2eIQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:57:02+00:00'
+    :created_at: '2017-09-08T18:57:02+00:00'
+    :id: 6RmzQbfy248sEQccsU2eIQ
+  :body: 'Cuales son los estados q van a estar dando las licencias d conducir '
+  :date: !ruby/object:DateTime 2014-11-03 19:15:02.334000000 -08:00
+  :author_name: 'Miguel De Leon '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: lwe7G5IxPMAMC2EGQMm6O
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:57:01+00:00'
+      :created_at: '2017-09-08T18:57:01+00:00'
+      :id: lwe7G5IxPMAMC2EGQMm6O
+    :body: "Hola Miguel, gracias por su pregunta. Los estados que permiten tener licencias
+      a los indocumentados son los siguientes: California,Colorado, Connecticut, Illinois,
+      Maryland,Nevada, Nuevo México , Oregón, Utah , Vermont, Washington. Además,
+      el estado libre asociado de Puerto Rico y el Distrito de Columbia (Washington
+      D.C.) también lo permiten.\r\nSABEResPODER"
+    :date: !ruby/object:DateTime 2014-11-04 09:23:06.567000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :answers:
+    - :id: 6q5F6NsL28mg68yA4MOqC0
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:57:01+00:00'
+        :created_at: '2017-09-08T18:57:01+00:00'
+        :id: 6q5F6NsL28mg68yA4MOqC0
+      :body: 'Ok muchas gracias '
+      :date: !ruby/object:DateTime 2014-11-04 10:39:02.476000000 -08:00
+      :author_name: 'Miguel De Leon '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :answers:
+      - :id: 6X1efIxEA0yku6wMK2uEY2
+        :_meta:
+          :content_type_id: answer
+          :updated_at: '2017-09-08T18:57:00+00:00'
+          :created_at: '2017-09-08T18:57:00+00:00'
+          :id: 6X1efIxEA0yku6wMK2uEY2
+        :body: Estamos para servirle. Recuerde que SABEResPODER
+        :date: !ruby/object:DateTime 2014-11-04 11:06:58.507000000 -08:00
+        :author_name: 'Aaron Paguaga '
+        :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+        :from_admin: false
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+- :id: tENjwIEWOWIqgWCKCkCcE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:57:02+00:00'
+    :created_at: '2017-09-08T18:57:02+00:00'
+    :id: tENjwIEWOWIqgWCKCkCcE
+  :body: A partir del 1 de enero del 2015 el DMV empezara a aceptar solicitudes para
+    la licencia de conducir bajo la ley AB60. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-03 11:17:39.065000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 1298

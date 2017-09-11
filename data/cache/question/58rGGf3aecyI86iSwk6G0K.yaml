@@ -1,0 +1,59 @@
+---
+:id: 58rGGf3aecyI86iSwk6G0K
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:38:00+00:00'
+  :created_at: '2017-09-11T05:38:00+00:00'
+  :id: 58rGGf3aecyI86iSwk6G0K
+:body: "<p>Salud </p>"
+:permalink: 2015-01-26_salud
+:date: !ruby/object:DateTime 2015-01-26 15:19:47.000000000 -08:00
+:author_name: 'Gillermo Velez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4mvpMh4jqo6AgW2MW8GeSG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:37:59+00:00'
+    :created_at: '2017-09-11T05:37:59+00:00'
+    :id: 4mvpMh4jqo6AgW2MW8GeSG
+  :body: Hola Guillermo en que le podemos ayudar referente a salud? SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-27 09:11:34.536000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+- :id: 3pPf5G6sSIWwwIiCqoMqQO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:38:00+00:00'
+    :created_at: '2017-09-11T05:38:00+00:00'
+    :id: 3pPf5G6sSIWwwIiCqoMqQO
+  :body: En que hospitales los latinos inmigrantes se pueden atender
+  :date: !ruby/object:DateTime 2015-01-26 15:23:15.683000000 -08:00
+  :author_name: 'Jennifer Aguirre '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: DWv9wG6fYcKOoO66YCy2s
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:37:59+00:00'
+      :created_at: '2017-09-11T05:37:59+00:00'
+      :id: DWv9wG6fYcKOoO66YCy2s
+    :body: 'Hola Jennifer gracias por su pregunta. Esta es la informacion de una clinica
+      de atencion medica de bajo costo cercana a su localidad: Bronx Health Center
+      - CHN. 975 Westchester Ave. Bronx NY. Telefono: 718-320-446. SABEResPODER'
+    :date: !ruby/object:DateTime 2015-01-27 09:28:10.222000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3427

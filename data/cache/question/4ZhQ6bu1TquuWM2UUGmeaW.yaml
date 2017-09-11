@@ -1,0 +1,73 @@
+---
+:id: 4ZhQ6bu1TquuWM2UUGmeaW
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:12:55+00:00'
+  :created_at: '2017-09-11T05:12:55+00:00'
+  :id: 4ZhQ6bu1TquuWM2UUGmeaW
+:body: "<p>Q es lo q promueve esta campana</p>"
+:permalink: q-es-lo-q-promueve-esta-campana
+:date: !ruby/object:DateTime 2014-10-02 14:09:53.521000000 -07:00
+:author_name: 'Alvaro Solis Alma '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6g73K9LVgASskyicKKmOM8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:12:53+00:00'
+    :created_at: '2017-09-11T05:12:53+00:00'
+    :id: 6g73K9LVgASskyicKKmOM8
+  :body: "¿Hola Álvaro a que campana se refiere usted? Si es a la semana binacional
+    de Salud, este campaña promueve la todo lo relacionado a la salud, desde salud
+    para la mujer hasta salud mental y otros servicios. El evento se llevara a cabo
+    en el Consulado General de México más cercano a usted, es totalmente gratis. SABEResPODER."
+  :date: !ruby/object:DateTime 2014-10-03 10:20:06.711000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 58lVXStHl6UESKoSOO8gGI
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:12:53+00:00'
+      :created_at: '2017-09-11T05:12:53+00:00'
+      :id: 58lVXStHl6UESKoSOO8gGI
+    :body: El cual seria downtown Manhattan fecha y hora cuando se va a llevar acabo
+    :date: !ruby/object:DateTime 2014-10-03 10:27:37.643000000 -07:00
+    :author_name: 'Alvaro Solis Alma '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 18IpkG7beggAACwEmcQ2Y2
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:12:53+00:00'
+        :created_at: '2017-09-11T05:12:53+00:00'
+        :id: 18IpkG7beggAACwEmcQ2Y2
+      :body: 'Hola Alvaro le recomedamos asista a su consulado mas cercano, este se
+        encuentra en: 27 East 39th Street. Nueva York, NY SABEResPODER'
+      :date: !ruby/object:DateTime 2014-10-03 11:25:37.237000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+- :id: 1x5DbuVPMoSUw22UcAwkiC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:12:54+00:00'
+    :created_at: '2017-09-11T05:12:54+00:00'
+    :id: 1x5DbuVPMoSUw22UcAwkiC
+  :body: No entiendo lo q promueven companisas de Salud
+  :date: !ruby/object:DateTime 2014-10-02 14:12:31.436000000 -07:00
+  :author_name: 'Alvaro Solis Alma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 929

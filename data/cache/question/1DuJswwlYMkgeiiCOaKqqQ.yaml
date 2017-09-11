@@ -1,0 +1,75 @@
+---
+:id: 1DuJswwlYMkgeiiCOaKqqQ
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:46:04+00:00'
+  :created_at: '2017-09-11T05:46:04+00:00'
+  :id: 1DuJswwlYMkgeiiCOaKqqQ
+:body: "<p>M pueden alludar cono vista</p>"
+:permalink: 2015-01-21_m-pueden-alludar-cono-vista
+:date: !ruby/object:DateTime 2015-01-21 17:19:06.000000000 -08:00
+:author_name: 'Gabriel Montiel Va '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6gMhAnDhEAwgoakW4cC62S
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:46:03+00:00'
+    :created_at: '2017-09-11T05:46:03+00:00'
+    :id: 6gMhAnDhEAwgoakW4cC62S
+  :body: Hola estimado Gabriel, agradecemos su pregunta. Si su pregunta es sobre los
+    recursos que ofrece la ventanilla de salud, por el momento la ventanilla no cuenta
+    con servicios de optometría. La ventanilla le ofrece referencia a clínicas y servicios
+    médicos de a bajo costo en su área. Para ser atendido por la ventanilla de salud
+    no es necesaria una cita. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-23 12:23:58.111000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 1LUdm70qi0GUoewYOwUCO6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:46:02+00:00'
+      :created_at: '2017-09-11T05:46:02+00:00'
+      :id: 1LUdm70qi0GUoewYOwUCO6
+    :body: Eso quiere desir q Noé pueden alludar
+    :date: !ruby/object:DateTime 2015-01-24 04:19:21.037000000 -08:00
+    :author_name: 'Gabriel Montiel Va '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 27fVXGMETi8qkAMWSUQcqo
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:46:03+00:00'
+      :created_at: '2017-09-11T05:46:03+00:00'
+      :id: 27fVXGMETi8qkAMWSUQcqo
+    :body: Entonces no me pueden alludar
+    :date: !ruby/object:DateTime 2015-01-24 04:21:55.204000000 -08:00
+    :author_name: 'Gabriel Montiel Va '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5aOkqj8Jgs6iwQIqgG0sM0
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:46:02+00:00'
+        :created_at: '2017-09-11T05:46:02+00:00'
+        :id: 5aOkqj8Jgs6iwQIqgG0sM0
+      :body: Estimado Grabriel, ellos lo que pueden hacer por usted es proporcionarle
+        informacion y recursos referentes a clinicas que ofrezcan servicios de optometria.
+        SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-26 10:25:53.433000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3252

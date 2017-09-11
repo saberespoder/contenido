@@ -1,0 +1,60 @@
+---
+:id: 24Z1QyIE9m6Mg8I0iKAEu6
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:59:05+00:00'
+  :created_at: '2017-09-08T18:59:05+00:00'
+  :id: 24Z1QyIE9m6Mg8I0iKAEu6
+:body: "<p>Comiendo salud able?</p>"
+:permalink: 2015-03-04_comiendo-salud-able
+:date: !ruby/object:DateTime 2015-03-04 14:55:43.000000000 -08:00
+:author_name: 'Beatris Ruiz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 36hk2nLsbuCYa4yckKG4a4
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:59:05+00:00'
+    :created_at: '2017-09-08T18:59:05+00:00'
+    :id: 36hk2nLsbuCYa4yckKG4a4
+  :body: " Gracias por su interes una alimentación sana es: Coma menos grasa, así
+    reducirá las calorías. Reduzca en pequeñas cantidad las calorías que consume diariamente.
+    Coma bien tres veces al día.\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-05 09:29:19.104000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 2QQVejryaIKUSec6s8gccc
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:59:04+00:00'
+      :created_at: '2017-09-08T18:59:04+00:00'
+      :id: 2QQVejryaIKUSec6s8gccc
+    :body: Perfecto lo boy a poner en practica
+    :date: !ruby/object:DateTime 2015-03-05 10:26:20.845000000 -08:00
+    :author_name: 'Beatris Ruiz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 1cjOFrafIgCC6uoKoMqcUG
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:59:04+00:00'
+        :created_at: '2017-09-08T18:59:04+00:00'
+        :id: 1cjOFrafIgCC6uoKoMqcUG
+      :body: "Para Servirle!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-05 10:28:41.136000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5155

@@ -1,0 +1,63 @@
+---
+:id: 2QaYQi4Tz2ISc0KqAgysAw
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:27:04+00:00'
+  :created_at: '2017-09-11T05:27:04+00:00'
+  :id: 2QaYQi4Tz2ISc0KqAgysAw
+:body: "<p>Cuanto va a costar y q papeles debo tener</p>"
+:permalink: cuanto-va-a-costar-y-q-papeles-debo-tener
+:date: !ruby/object:DateTime 2014-12-03 16:14:45.365000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 395UmY9nVY6ia4MgAUoCw2
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:27:04+00:00'
+    :created_at: '2017-09-11T05:27:04+00:00'
+    :id: 395UmY9nVY6ia4MgAUoCw2
+  :body: Estimado usuario, a que proceso se refiere? Licencias? Proceso migratorio?
+    SABEResPODER
+  :date: !ruby/object:DateTime 2014-12-04 09:28:39.155000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 183ELycxWcSKkoYGcOqm6W
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:27:02+00:00'
+      :created_at: '2017-09-11T05:27:02+00:00'
+      :id: 183ELycxWcSKkoYGcOqm6W
+    :body: 'Licencias para conducir de las q van a dar ahora en Enero '
+    :date: !ruby/object:DateTime 2014-12-04 13:28:10.542000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6ovzSvww8Mw0igOcWi2kS4
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:27:02+00:00'
+        :created_at: '2017-09-11T05:27:02+00:00'
+        :id: 6ovzSvww8Mw0igOcWi2kS4
+      :body: Para aplicar a las licencia de conducir usted debe proporcionar pruebas
+        de identidad (matricula consular, pasaporte, tarjeta de elector) asi como
+        tambien prueba de domicilio ( recibos de telefono, utilidades, renta, etc).
+        Tambien tendra que aprobar el examen escrito y practico para poder obtener
+        la licencia asi como pagar $33 para procesar su solicitud. SABEResPODER
+      :date: !ruby/object:DateTime 2014-12-04 14:18:44.520000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1971

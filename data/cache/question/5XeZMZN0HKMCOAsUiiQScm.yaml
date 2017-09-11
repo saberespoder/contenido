@@ -1,0 +1,47 @@
+---
+:id: 5XeZMZN0HKMCOAsUiiQScm
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:29:50+00:00'
+  :created_at: '2017-09-08T18:29:50+00:00'
+  :id: 5XeZMZN0HKMCOAsUiiQScm
+:body: "<p>Todos los señales</p>"
+:permalink: 2015-04-10_todos-los-senales
+:date: !ruby/object:DateTime 2015-04-10 18:24:12.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 7Lwtdv9CVOY4Cii2QkAsE0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:29:50+00:00'
+    :created_at: '2017-09-08T18:29:50+00:00'
+    :id: 7Lwtdv9CVOY4Cii2QkAsE0
+  :body: Nombre todos señales
+  :date: !ruby/object:DateTime 2015-04-10 18:25:12.446000000 -07:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6P4vdC1fBCIsWcSCUoygOk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:29:50+00:00'
+      :created_at: '2017-09-08T18:29:50+00:00'
+      :id: 6P4vdC1fBCIsWcSCUoygOk
+    :body: "Gracias por su pregunta le envio el manual de manejo para que pueda estudiar
+      Gracias.\r\n<a href='http://contenido.saberespoder.com/articulos/educaci%C3%B3n/pasos-para-prepararse-para-el-examen-de-conducir-escrito'>http://contenido.saberespoder.com/articulos/educaci%C3%B3n/pasos-para-prepararse-para-el-examen-de-conducir-escrito</a>\r\n#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-04-13 11:33:00.138000000 -07:00
+    :author_name: 'Gabriela Umana '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6289

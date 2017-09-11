@@ -1,0 +1,61 @@
+---
+:id: 1kS0Pnh3pSMCgaugGymQWe
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:05:47+00:00'
+  :created_at: '2017-09-08T18:05:47+00:00'
+  :id: 1kS0Pnh3pSMCgaugGymQWe
+:body: "<p>Hola, mi nombre Silvia mi pregunta es: para cuando estan en el Bronx.?
+  Y porfabor me puede dar las direcciones.</p>"
+:permalink: hola-mi-nombre-silvia-mi-pregunta-es-para-cuando-estan-en-el-bronx-y-porfabor-me-puede-dar-las-direcciones
+:date: !ruby/object:DateTime 2014-10-16 07:44:24.430000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6Km3l2jPr20EWqcCsSguKI
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:05:46+00:00'
+    :created_at: '2017-09-08T18:05:46+00:00'
+    :id: 6Km3l2jPr20EWqcCsSguKI
+  :body: Hola Silvia. De momento el consulado movil no esta programado para visitar
+    el Bronx en este mes. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-16 10:24:07.521000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3mrZEPXPksIgE88oCKuYcI
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:05:46+00:00'
+      :created_at: '2017-09-08T18:05:46+00:00'
+      :id: 3mrZEPXPksIgE88oCKuYcI
+    :body: Ok, para cuando vengan me pueden dejar saver porfabor y grasias por su
+      respueste.
+    :date: !ruby/object:DateTime 2014-10-16 10:46:14.875000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3ALAlhOP9K82SoAG2icAOK
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:05:46+00:00'
+        :created_at: '2017-09-08T18:05:46+00:00'
+        :id: 3ALAlhOP9K82SoAG2icAOK
+      :body: Estamos para servirle. Recuerde que SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-16 11:01:46.650000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1085

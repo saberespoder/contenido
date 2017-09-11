@@ -1,0 +1,53 @@
+---
+:id: 2vJS4mqydWKsqeeGCOsAUK
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:33:36+00:00'
+  :created_at: '2017-09-11T05:33:36+00:00'
+  :id: 2vJS4mqydWKsqeeGCOsAUK
+:body: "<p>soy Maria Alvarez tengo 72 años y soy ciudadana. Vivo sola y tengo auda
+  del gobierno, no trabajo. En la clinica que me atiendo una señora me dijo que debia
+  igual faliar los taxes. Realmente debo faliar taxes??</p>"
+:permalink: soy-maria-alvarez-tengo-72-anos-y-soy-ciudadana-vivo-sola-y-tengo-auda-del-gobierno-no-trabajo-en-la-clinica-que-me-atiendo-una-senora-me-dijo-que-debia-igual-faliar-los-taxes-realmente-debo-faliar-taxes
+:date: !ruby/object:DateTime 2014-10-20 13:20:51.774000000 -07:00
+:author_name: 'Maria Alvarez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 5H5cFp1OpyYEIOUagiueSW
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:33:35+00:00'
+    :created_at: '2017-09-11T05:33:35+00:00'
+    :id: 5H5cFp1OpyYEIOUagiueSW
+  :body: Hola Maria, le recomendamos se dirija a una oficina de income tax para que
+    le brinden informacion detallada y certificada con relacion a su pregunta. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-20 13:25:56.323000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2iVxCmxVi0Mm2IgoawqI0q
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:33:34+00:00'
+      :created_at: '2017-09-11T05:33:34+00:00'
+      :id: 2iVxCmxVi0Mm2IgoawqI0q
+    :body: Hola Maria. Normalmente, usted no tiene que pagar impuestos por los beneficios
+      que recibe del fondo de asistencia pública. Esto incluye los beneficios de TANF
+      o GA, del Seguro de Ingreso Suplementario, SSI, subvenciones para el cuidado
+      infantil, y pagos para la ayuda con la vivienda. Tampoco tiene que incluir los
+      beneficios que paga el Departamento de Servicios al Veterano.
+    :date: !ruby/object:DateTime 2014-10-20 13:41:07.050000000 -07:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1128

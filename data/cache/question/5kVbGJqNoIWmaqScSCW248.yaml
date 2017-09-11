@@ -1,0 +1,62 @@
+---
+:id: 5kVbGJqNoIWmaqScSCW248
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:25:09+00:00'
+  :created_at: '2017-09-11T05:25:09+00:00'
+  :id: 5kVbGJqNoIWmaqScSCW248
+:body: "<p>Hola mi nombre es Baltazar, mi hija termina high school este año pero aún
+  no sabe que carrera seguí y cual colegio y como obtener una beca yo vivo en Chicago
+  il.</p>"
+:permalink: hola-mi-nombre-es-baltazar-mi-hija-termina-high-school-este-ano-pero-aun-no-sabe-que-carrera-segui-y-cual-colegio-y-como-obtener-una-beca-yo-vivo-en-chicago-il
+:date: !ruby/object:DateTime 2014-11-04 16:44:02.693000000 -08:00
+:author_name: 'Baltazar Pérez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: gMyyjViFKogWQo0KYqG4S
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:25:08+00:00'
+    :created_at: '2017-09-11T05:25:08+00:00'
+    :id: gMyyjViFKogWQo0KYqG4S
+  :body: Agradecemos su pregunta Baltazar. Revise el siguiente articulo de SABEResPODER
+    que contiene informacion sbore becas y como sonseguirlas. <a href='http://bit.ly/1GqjQcN'>http://bit.ly/1GqjQcN</a>
+    SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-06 10:51:16.622000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3PfnXgQmDCymqEImMY8eMi
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:25:08+00:00'
+      :created_at: '2017-09-11T05:25:08+00:00'
+      :id: 3PfnXgQmDCymqEImMY8eMi
+    :body: Gracias
+    :date: !ruby/object:DateTime 2014-11-06 17:21:30.483000000 -08:00
+    :author_name: 'Baltazar Pérez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 108P4snCOC2wAeuW6mQkOK
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:25:07+00:00'
+        :created_at: '2017-09-11T05:25:07+00:00'
+        :id: 108P4snCOC2wAeuW6mQkOK
+      :body: Estamos para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-07 09:38:24.746000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1319

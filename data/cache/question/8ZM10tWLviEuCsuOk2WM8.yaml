@@ -1,0 +1,60 @@
+---
+:id: 8ZM10tWLviEuCsuOk2WM8
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T19:01:35+00:00'
+  :created_at: '2017-09-08T19:01:35+00:00'
+  :id: 8ZM10tWLviEuCsuOk2WM8
+:body: "<p>Este servicio es gratis o tendré que pagar en algún momento</p>"
+:permalink: este-servicio-es-gratis-o-tendre-que-pagar-en-algun-momento
+:date: !ruby/object:DateTime 2014-11-14 09:13:45.833000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 7MGmrXR5tu6AGKqYuG6MK6
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T19:01:35+00:00'
+    :created_at: '2017-09-08T19:01:35+00:00'
+    :id: 7MGmrXR5tu6AGKqYuG6MK6
+  :body: Estimado usuario, el servicio de SABEResPODER es totalmente gratuito, si
+    tiene preguntas, no dude en ponerse en contacto con nosotros que estamos para
+    ayduarle. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-14 09:36:27.916000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 16TReszbfgcaKwSi2Wws6w
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T19:01:34+00:00'
+      :created_at: '2017-09-08T19:01:34+00:00'
+      :id: 16TReszbfgcaKwSi2Wws6w
+    :body: 'Me párese perfecto '
+    :date: !ruby/object:DateTime 2014-11-14 11:44:34.896000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 7urSHgfsSAsyiA4YAK0OsK
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T19:01:34+00:00'
+        :created_at: '2017-09-08T19:01:34+00:00'
+        :id: 7urSHgfsSAsyiA4YAK0OsK
+      :body: Estamos para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-14 12:23:12.570000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1514

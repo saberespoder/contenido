@@ -1,0 +1,61 @@
+---
+:id: 2v91uYU2yAeMQ6cKw00k4q
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:32:26+00:00'
+  :created_at: '2017-09-08T18:32:26+00:00'
+  :id: 2v91uYU2yAeMQ6cKw00k4q
+:body: "<p>Salud</p>"
+:permalink: 2015-09-17_salud
+:date: !ruby/object:DateTime 2015-09-17 19:34:00.000000000 -07:00
+:author_name: 'Sabina Soberanes '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: Yp4DzL4Y0uYcc6qciaWcS
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:32:25+00:00'
+    :created_at: '2017-09-08T18:32:25+00:00'
+    :id: Yp4DzL4Y0uYcc6qciaWcS
+  :body: 'Hola estimada Sabina ¡Le damos bienvenida a nuestro programa SABEResPODER,
+    siéntase en confianza a hacer preguntas por texto, estamos a sus ordenes! #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-09-18 09:03:13.149000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 4Q8zjcrYgUAQi66cGmcikg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:32:24+00:00'
+      :created_at: '2017-09-08T18:32:24+00:00'
+      :id: 4Q8zjcrYgUAQi66cGmcikg
+    :body: Hola no se como se usa esta targeta que es lo que tengo que hacer.
+    :date: !ruby/object:DateTime 2015-09-18 09:05:58.998000000 -07:00
+    :author_name: 'Sabina Soberanes '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 444UFtSn16UEEmyCSqmOak
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:32:24+00:00'
+        :created_at: '2017-09-08T18:32:24+00:00'
+        :id: 444UFtSn16UEEmyCSqmOak
+      :body: Hola Sabina si se refiere a la tarjeta de descuento en medicamentos de
+        FarmaSEP ya esta lista para usarse ya que no necesita activacion de ningun
+        tipo solo la presenta cuando compre su medicamento para que reciba el descuento.
+      :date: !ruby/object:DateTime 2015-09-18 16:00:08.580000000 -07:00
+      :author_name: 'Minerva Luna '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8360

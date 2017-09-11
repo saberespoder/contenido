@@ -1,0 +1,60 @@
+---
+:id: 40MtZFWqEooCSKCem4YAM0
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:20:07+00:00'
+  :created_at: '2017-09-11T05:20:07+00:00'
+  :id: 40MtZFWqEooCSKCem4YAM0
+:body: "<p>Hola soy Virginia y quiero saber como a prender lngles</p>"
+:permalink: 2015-04-27_hola-soy-virginia-y-quiero-saber-como-a-prender-lngles
+:date: !ruby/object:DateTime 2015-04-27 13:31:43.000000000 -07:00
+:author_name: 'Virginia Jimenez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: BlYzf8BxOCswwusQEcgcE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:20:06+00:00'
+    :created_at: '2017-09-11T05:20:06+00:00'
+    :id: BlYzf8BxOCswwusQEcgcE
+  :body: Hola estimada Virginia, tengo el gusto en comentarle que en unos días SABEResPODER
+    estará lanzando un nuevo Programa Interactivo para aprender Inglés, con gusto
+    nos comunicaremos con usted una vez esté disponible para darle más detalles sobre
+    ésta excelente oportunidad#.SABEResPODER
+  :date: !ruby/object:DateTime 2015-04-27 13:38:30.215000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: mUCn9IhPeS08A8S6WecC6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:20:06+00:00'
+      :created_at: '2017-09-11T05:20:06+00:00'
+      :id: mUCn9IhPeS08A8S6WecC6
+    :body: Está bien gracias
+    :date: !ruby/object:DateTime 2015-04-27 13:43:46.578000000 -07:00
+    :author_name: 'Virginia Jimenez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 3luXOq9FRCSessicACY4iu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:20:07+00:00'
+    :created_at: '2017-09-11T05:20:07+00:00'
+    :id: 3luXOq9FRCSessicACY4iu
+  :body: 'Inglés '
+  :date: !ruby/object:DateTime 2015-04-27 13:33:43.019000000 -07:00
+  :author_name: 'Raudel Guerrero '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 6846

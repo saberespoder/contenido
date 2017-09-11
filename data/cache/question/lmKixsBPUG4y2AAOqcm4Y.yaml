@@ -1,0 +1,86 @@
+---
+:id: lmKixsBPUG4y2AAOqcm4Y
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:36:14+00:00'
+  :created_at: '2017-09-08T18:36:14+00:00'
+  :id: lmKixsBPUG4y2AAOqcm4Y
+:body: "<p>Hola tengo un problema de salud donde me podrian hayudar no tengo mis papeles
+  a donde puedo recurrir para hayuda </p>"
+:permalink: 2015-03-05_hola-tengo-un-problema-de-salud-donde-me-podrian-hayudar-no-tengo-mis-papeles-a-donde-puedo-recurrir-para-hayuda
+:date: !ruby/object:DateTime 2015-03-05 21:20:37.000000000 -08:00
+:author_name: 'Alejandro  Ortiz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5e5xXlIz0sKmEMQ04ue8uw
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:36:12+00:00'
+    :created_at: '2017-09-08T18:36:12+00:00'
+    :id: 5e5xXlIz0sKmEMQ04ue8uw
+  :body: Grasias por responder a mi pregunta
+  :date: !ruby/object:DateTime 2015-03-06 17:12:39.152000000 -08:00
+  :author_name: 'Alejandro  Ortiz '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3Lw2JrdVxeMqEk0o2wsSGK
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:36:12+00:00'
+      :created_at: '2017-09-08T18:36:12+00:00'
+      :id: 3Lw2JrdVxeMqEk0o2wsSGK
+    :body: "Para Servirle!\r\n#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-03-06 17:15:20.914000000 -08:00
+    :author_name: 'Gabriela Umana '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 7L8L968wzCe066y8KOqUee
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:36:14+00:00'
+    :created_at: '2017-09-08T18:36:14+00:00'
+    :id: 7L8L968wzCe066y8KOqUee
+  :body: "Estimado Alejandro le envio la direccion y telefono de una clinica cerca
+    de su area.\r\nCENTROMED CITY BASE CLINIC\r\n3127 Se Military Dr Ste 101, SAN
+    ANTONIO, TX 78223-3990\r\nPhone number  210-928-4970\r\n#SABEResPODER\r\n"
+  :date: !ruby/object:DateTime 2015-03-06 16:53:13.165000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3wcgZ5yu4EOMiq84cGisAe
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:36:13+00:00'
+      :created_at: '2017-09-08T18:36:13+00:00'
+      :id: 3wcgZ5yu4EOMiq84cGisAe
+    :body: Yo boy a ESA clinica pero no me pueden aser Nada ai de lo que yo tengo
+    :date: !ruby/object:DateTime 2015-03-06 17:05:34.016000000 -08:00
+    :author_name: 'Alejandro  Ortiz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5CObMznYL6E4MsYAWw4ee8
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:36:13+00:00'
+        :created_at: '2017-09-08T18:36:13+00:00'
+        :id: 5CObMznYL6E4MsYAWw4ee8
+      :body: "CommuniCare Health Centers - Downtown Campus\r\n311 Camden St Ste 601,
+        SAN ANTONIO, TX 78215-2016\r\nPhone number  210-233-7070\r\nEn esta clinica
+        tienen tratamiento de especialidades .\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-06 17:09:20.288000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5251

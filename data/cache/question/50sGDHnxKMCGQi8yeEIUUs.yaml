@@ -1,0 +1,47 @@
+---
+:id: 50sGDHnxKMCGQi8yeEIUUs
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T19:00:10+00:00'
+  :created_at: '2017-09-08T19:00:10+00:00'
+  :id: 50sGDHnxKMCGQi8yeEIUUs
+:body: "<p>Trabajo</p>"
+:permalink: 2015-01-25_trabajo
+:date: !ruby/object:DateTime 2015-01-25 20:18:15.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 6WGV8VmTK02c8yuiiiuIQk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T19:00:08+00:00'
+    :created_at: '2017-09-08T19:00:08+00:00'
+    :id: 6WGV8VmTK02c8yuiiiuIQk
+  :body: Mantendremos su informacion y con gusto le dejaremos saber cuando se presente
+    alguna oportunidad!
+  :date: !ruby/object:DateTime 2015-01-26 10:56:33.751000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :from_admin: true
+- :id: 41ryQgWt0cySG6sKOMSCos
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T19:00:09+00:00'
+    :created_at: '2017-09-08T19:00:09+00:00'
+    :id: 41ryQgWt0cySG6sKOMSCos
+  :body: Gracias por su participación, el Programa de SABEResPODER ayuda a nuestra
+    comunidad a estar enterado de opciones de trabajo cuando hayan disponibles!
+  :date: !ruby/object:DateTime 2015-01-26 10:55:44.830000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :from_admin: true
+:legacy_id: 3404

@@ -1,0 +1,123 @@
+---
+:id: 5PIp06Om9aaUsKyKE8I0qG
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:14:48+00:00'
+  :created_at: '2017-09-08T18:14:48+00:00'
+  :id: 5PIp06Om9aaUsKyKE8I0qG
+:body: "<p>Cual es el sinnifica do de esto ? </p>"
+:permalink: cual-es-el-sinnifica-do-de-esto
+:date: !ruby/object:DateTime 2014-11-05 19:19:33.805000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 1r7enczAFeAooKyUECGU6M
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:14:46+00:00'
+    :created_at: '2017-09-08T18:14:46+00:00'
+    :id: 1r7enczAFeAooKyUECGU6M
+  :body: "Tengo una pregunta?\r\n"
+  :date: !ruby/object:DateTime 2016-03-09 14:17:02.850000000 -08:00
+  :author_name: 'Jose  '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6SCLX70FK8aiccUYe2SOEQ
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:14:46+00:00'
+      :created_at: '2017-09-08T18:14:46+00:00'
+      :id: 6SCLX70FK8aiccUYe2SOEQ
+    :body: "¡Le damos bienvenida a nuestro programa SABEResPODER, siéntase en confianza
+      a hacer preguntas por texto, estamos a sus ordenes! #SABEResPODER"
+    :date: !ruby/object:DateTime 2016-03-10 13:53:56.024000000 -08:00
+    :author_name: 'Jenny Alfaro '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: EMaSJWRg0C0WwYw6sc0ym
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:14:47+00:00'
+    :created_at: '2017-09-08T18:14:47+00:00'
+    :id: EMaSJWRg0C0WwYw6sc0ym
+  :body: El sinnificado de esto es eso aquello
+  :date: !ruby/object:DateTime 2015-10-14 12:25:13.995000000 -07:00
+  :author_name: 'David henriquez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5ykqZlViW4WCi2ci4Q2CGa
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:14:46+00:00'
+      :created_at: '2017-09-08T18:14:46+00:00'
+      :id: 5ykqZlViW4WCi2ci4Q2CGa
+    :body: 'Hola estimado usuario, gracias por su participación. ¡Le damos bienvenida
+      a nuestro programa SABEResPODER, siéntase en confianza a hacer preguntas por
+      texto, estamos a sus ordenes! #SABEResPODER '
+    :date: !ruby/object:DateTime 2015-10-14 12:33:19.878000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 26xEUXtJg86eauKEgAUysa
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:14:47+00:00'
+    :created_at: '2017-09-08T18:14:47+00:00'
+    :id: 26xEUXtJg86eauKEgAUysa
+  :body: Estimado usuario en que le podemos ayudar el dia de hoy? SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-06 10:18:30.124000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 1362

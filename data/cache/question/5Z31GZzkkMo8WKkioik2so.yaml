@@ -1,0 +1,89 @@
+---
+:id: 5Z31GZzkkMo8WKkioik2so
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:46:57+00:00'
+  :created_at: '2017-09-11T05:46:57+00:00'
+  :id: 5Z31GZzkkMo8WKkioik2so
+:body: "<p>De que se trata</p>"
+:permalink: 2015-01-13_de-que-se-trata
+:date: !ruby/object:DateTime 2015-01-13 20:15:04.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 1lpmJPTRJScwIqIscwgQS6
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:46:56+00:00'
+    :created_at: '2017-09-11T05:46:56+00:00'
+    :id: 1lpmJPTRJScwIqIscwgQS6
+  :body: Estimado usuario, en SABEResPODER proveemos a la comunidad con informacion
+    sobre temas de salud, educaicon, inmigracion, entre muchos otros temas que abordamos
+    de manera gratuita. Si usted tiene alguna pregunta o duda o necesita informacion,
+    por favor, no dude en comunicarse con nosotros. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-14 14:26:11.066000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: K7ogHj8aGsIYwIcKkQ26E
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:46:56+00:00'
+      :created_at: '2017-09-11T05:46:56+00:00'
+      :id: K7ogHj8aGsIYwIcKkQ26E
+    :body: STOP!
+    :date: !ruby/object:DateTime 2015-01-14 23:25:11.362000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2919

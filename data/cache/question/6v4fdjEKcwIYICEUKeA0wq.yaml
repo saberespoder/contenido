@@ -1,0 +1,60 @@
+---
+:id: 6v4fdjEKcwIYICEUKeA0wq
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:48:38+00:00'
+  :created_at: '2017-09-08T18:48:38+00:00'
+  :id: 6v4fdjEKcwIYICEUKeA0wq
+:body: "<p>Me gustaria saber donde abra feria de trabajo serca de mi casa?</p>"
+:permalink: me-gustaria-saber-donde-abra-feria-de-trabajo-serca-de-mi-casa
+:date: !ruby/object:DateTime 2014-10-06 17:52:45.723000000 -07:00
+:author_name: 'Rebeca Lopez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: IKXgpmvn6CqewOCAESMOY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:48:37+00:00'
+    :created_at: '2017-09-08T18:48:37+00:00'
+    :id: IKXgpmvn6CqewOCAESMOY
+  :body: Hola Rebeca, de momento su consulado no ha avisado sobre una feria de trabajo.
+    Cuando tengamos conocimiento de una, con mucho gusto le haremos saber a toda la
+    comunidad. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-21 10:10:20.682000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 4ykZMzMMFaaSQeuYwyy0Oa
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:48:37+00:00'
+      :created_at: '2017-09-08T18:48:37+00:00'
+      :id: 4ykZMzMMFaaSQeuYwyy0Oa
+    :body: Gracias por responder mi pregunta.
+    :date: !ruby/object:DateTime 2014-10-21 10:22:19.536000000 -07:00
+    :author_name: 'Rebeca Lopez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4OfCpunbeoqaWAKeoYkgsg
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:48:37+00:00'
+        :created_at: '2017-09-08T18:48:37+00:00'
+        :id: 4OfCpunbeoqaWAKeoYkgsg
+      :body: Estamos para servirle Rebeca. Recuerde que SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-21 10:31:49.823000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1011

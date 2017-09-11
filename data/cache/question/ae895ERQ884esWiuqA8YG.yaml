@@ -1,0 +1,162 @@
+---
+:id: ae895ERQ884esWiuqA8YG
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:31:48+00:00'
+  :created_at: '2017-09-11T05:31:48+00:00'
+  :id: ae895ERQ884esWiuqA8YG
+:body: "<p>Quiero saber aserca de salud </p>"
+:permalink: 2015-01-24_quiero-saber-aserca-de-salud
+:date: !ruby/object:DateTime 2015-01-24 16:09:36.000000000 -08:00
+:author_name: 'Paulo Zamora '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 1crT1WTyrQsKWS4Wu2KUQw
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:31:48+00:00'
+    :created_at: '2017-09-11T05:31:48+00:00'
+    :id: 1crT1WTyrQsKWS4Wu2KUQw
+  :body: Estimado Paulo en que le podemos ayudar? SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-26 10:54:03.042000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 55mZbACbrWYiyKQA6kuCEu
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:31:44+00:00'
+      :created_at: '2017-09-11T05:31:44+00:00'
+      :id: 55mZbACbrWYiyKQA6kuCEu
+    :body: 'Tengo un ploblema estomacal que todo lo que como me ase daño. Me siento
+      muy lleno y me tiembla la panza y el corazón. Seme aselera cada rato '
+    :date: !ruby/object:DateTime 2015-01-26 11:39:46.665000000 -08:00
+    :author_name: 'Paulo Zamora '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 16g15S9BQiGowcYi6Co062
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:31:44+00:00'
+        :created_at: '2017-09-11T05:31:44+00:00'
+        :id: 16g15S9BQiGowcYi6Co062
+      :body: "Gracias por su pregunta, le sugerimos acuda a su Ventanilla de Salud
+        que se encuentra en su Consulado y le puedan indicar los diversos recursos
+        médicos que hay disponibles gratuitos o a bajo costo, favor de acudir directamente
+        \r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-02-27 18:02:31.111000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: 5GLGzADOLuKO8oiqIE6GaS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:31:45+00:00'
+      :created_at: '2017-09-11T05:31:45+00:00'
+      :id: 5GLGzADOLuKO8oiqIE6GaS
+    :body: 'Por la mañana me como una avena con leche y me ase daño. Todo lo que como
+      avese tengo agruras y estreñimiento y aves diarrea. De urgencia '
+    :date: !ruby/object:DateTime 2015-01-26 11:49:16.051000000 -08:00
+    :author_name: 'Paulo Zamora '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 53GOt7dTskUiS4wCU2o2K2
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:31:45+00:00'
+        :created_at: '2017-09-11T05:31:45+00:00'
+        :id: 53GOt7dTskUiS4wCU2o2K2
+      :body: 'Gracias por su pregunta, le sugerimos acuda a su Ventanilla de Salud
+        que se encuentra en su Consulado y le puedan indicar los diversos recursos
+        médicos que hay disponibles gratuitos o a bajo costo, favor de acudir directamente
+        #SABEResPODER'
+      :date: !ruby/object:DateTime 2015-02-27 18:03:09.737000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: 67CVfB5o5iiwQ808S2eGa4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:31:46+00:00'
+      :created_at: '2017-09-11T05:31:46+00:00'
+      :id: 67CVfB5o5iiwQ808S2eGa4
+    :body: 'Ya me an echo estudio del colesterol. Y estoy bien el otro día me metieron
+      una cámara. A mi panza. Y no me encontraron nada yo siento como seme fuera a
+      pegar un infarto. Por qué me duele el pecho y los pulmones  como que siento
+      que mi estómago. Me produce mucho ácido. Tengo que tomar. Una sal de uva. Para
+      poder orutar. Y ya luego me siento un poco mejor '
+    :date: !ruby/object:DateTime 2015-01-26 11:57:40.891000000 -08:00
+    :author_name: 'Paulo Zamora '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5NxSgdvH6E2QOWCYgGcGSK
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:31:45+00:00'
+        :created_at: '2017-09-11T05:31:45+00:00'
+        :id: 5NxSgdvH6E2QOWCYgGcGSK
+      :body: "le envio la informacion de la ventanilla de salud de su Consulado 2093
+        Arena Blvd\t \r\nSacramento, California   95834 916) 329-3502 Y no necesita
+        cita."
+      :date: !ruby/object:DateTime 2015-02-27 18:14:45.615000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: 5oOUrwvHvqKSwUGGmsuyKs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:31:47+00:00'
+      :created_at: '2017-09-11T05:31:47+00:00'
+      :id: 5oOUrwvHvqKSwUGGmsuyKs
+    :body: " Dr aAron paraguaga no a contestado. Mis mensajes "
+    :date: !ruby/object:DateTime 2015-02-09 13:32:56.182000000 -08:00
+    :author_name: 'Paulo Zamora '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 1CWAWZwnawKSImw4QGQ2gQ
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:31:46+00:00'
+        :created_at: '2017-09-11T05:31:46+00:00'
+        :id: 1CWAWZwnawKSImw4QGQ2gQ
+      :body: 'Estimado Paulo, muchas gracias por sus comentarios y disculpe la tardanza.
+        Le recomendariamos en todo caso que se acerque a una clinica de atencion medica
+        ya que, para aclarar, no soy medico y no quisiera que tenga una complicacion
+        mayor. Aqui le dejamos la informacion de una clinica cerca a usted: Sutter
+        Amador Hospital Pediatric Center. 601 Court Street Suite 200. Jackson CA.
+        Telefono: 209-257-1722. SABEResPODER'
+      :date: !ruby/object:DateTime 2015-02-09 14:48:46.843000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3341

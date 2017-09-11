@@ -1,0 +1,52 @@
+---
+:id: 44qjXfWybYqCmo2oUQwoKy
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:46:00+00:00'
+  :created_at: '2017-09-08T18:46:00+00:00'
+  :id: 44qjXfWybYqCmo2oUQwoKy
+:body: "<p>Hola yo tengo una licencia de manejo del estado de Washington soy indocumentado
+  y se me vence en noviembre donde podre renovarla en Washington o en California</p>"
+:permalink: 2015-08-21_hola-yo-tengo-una-licencia-de-manejo-del-estado-de-washington-soy-indocumentado-y-se-me-vence-en-noviembre-donde-podre-renovarla-en-washington-o-en-california
+:date: !ruby/object:DateTime 2015-08-21 23:51:20.000000000 -07:00
+:author_name: 'Jose Antonio Salas '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 1JZAO6IvPSkwKGMyIEW26s
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:45:59+00:00'
+    :created_at: '2017-09-08T18:45:59+00:00'
+    :id: 1JZAO6IvPSkwKGMyIEW26s
+  :body: "Hola estimado Jose, en Washington la ley acepta aplicaciones que tengan
+    numero de seguro social ademas de la prueba de residencia. Para aplicar en California,
+    los requisitos que solicita el DMV son una identificación oficial, comprobar residencia
+    en California, el pago de $33 dlls,  obtener foto y huellas y aprobar el examen
+    de la vista, escrito y practico.\r\nFavor haga click al siguiente link: <a href='http://bit.ly/1FMb3Uq'>http://bit.ly/1FMb3Uq</a>
+    \r\nSABEResPODER"
+  :date: !ruby/object:DateTime 2015-08-24 09:02:08.876000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 2Gtbb2zMWcWWiEsYO0QMaC
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:45:59+00:00'
+      :created_at: '2017-09-08T18:45:59+00:00'
+      :id: 2Gtbb2zMWcWWiEsYO0QMaC
+    :body: Ok gracias lo mejor es en California entonces
+    :date: !ruby/object:DateTime 2015-08-24 09:07:44.109000000 -07:00
+    :author_name: 'Jose Antonio Salas '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 7909

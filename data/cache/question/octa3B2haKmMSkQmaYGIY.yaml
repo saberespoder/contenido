@@ -1,0 +1,60 @@
+---
+:id: octa3B2haKmMSkQmaYGIY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:36:43+00:00'
+  :created_at: '2017-09-08T18:36:43+00:00'
+  :id: octa3B2haKmMSkQmaYGIY
+:body: "<p>Cuando empiesa las clases</p>"
+:permalink: 2015-03-12_cuando-empiesa-las-clases
+:date: !ruby/object:DateTime 2015-03-12 14:44:29.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 51N2rPTjQ400AgEMm0yKKI
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:36:42+00:00'
+    :created_at: '2017-09-08T18:36:42+00:00'
+    :id: 51N2rPTjQ400AgEMm0yKKI
+  :body: 'Gracias por su participacion me gustara poder orientarla pero podria ser
+    un poco mas especifico. #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-03-17 16:43:46.765000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4enMgkHAgE0asqqKm4qGQs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:36:42+00:00'
+      :created_at: '2017-09-08T18:36:42+00:00'
+      :id: 4enMgkHAgE0asqqKm4qGQs
+    :body: CuAndo empiesa las clases de ingles lo basico
+    :date: !ruby/object:DateTime 2015-03-17 17:49:33.093000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: tQUPEJqTCKcSMoYMi4iSu
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:36:41+00:00'
+        :created_at: '2017-09-08T18:36:41+00:00'
+        :id: tQUPEJqTCKcSMoYMi4iSu
+      :body: "Usted puede tener la aplicacion en su propio telefono mande un texto
+        al 72237 con la palabra Ingles.\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-17 17:56:12.653000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5484

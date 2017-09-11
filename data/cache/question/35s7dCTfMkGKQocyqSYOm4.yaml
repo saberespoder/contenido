@@ -1,0 +1,61 @@
+---
+:id: 35s7dCTfMkGKQocyqSYOm4
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:14:44+00:00'
+  :created_at: '2017-09-11T05:14:44+00:00'
+  :id: 35s7dCTfMkGKQocyqSYOm4
+:body: "<p>Donde puedo ir a clases de inglés en Chicago illinois.</p>"
+:permalink: donde-puedo-ir-a-clases-de-ingles-en-chicago-illinois
+:date: !ruby/object:DateTime 2014-11-05 07:51:37.036000000 -08:00
+:author_name: 'Gloria Enriquez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 290mUX1BKkCQYgeOkg6wiY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:14:43+00:00'
+    :created_at: '2017-09-11T05:14:43+00:00'
+    :id: 290mUX1BKkCQYgeOkg6wiY
+  :body: Hola Gloria, nos podria proporcionar su codigo postal para poderle localizar
+    un centro cercano a usted? SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-05 11:15:37.121000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 7KoUzCt1gAMIuoa0g8usgg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:14:42+00:00'
+      :created_at: '2017-09-11T05:14:42+00:00'
+      :id: 7KoUzCt1gAMIuoa0g8usgg
+    :body: '60632'
+    :date: !ruby/object:DateTime 2014-11-05 12:23:30.431000000 -08:00
+    :author_name: 'Gloria Enriquez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6dn4zYgJIQuY4MAygqy0Yy
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:14:41+00:00'
+        :created_at: '2017-09-11T05:14:41+00:00'
+        :id: 6dn4zYgJIQuY4MAygqy0Yy
+      :body: 'Latino Organization of the Southwest. 6507 S Kedzie. Chicago, IL. Telefono:
+        773-925-0397. Le recomendamos llamar al centro para tener todos los detalles
+        sobre el programa. SABEResPODER'
+      :date: !ruby/object:DateTime 2014-11-05 12:36:32.961000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1342

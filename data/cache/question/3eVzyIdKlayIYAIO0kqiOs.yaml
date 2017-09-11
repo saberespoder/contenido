@@ -1,0 +1,70 @@
+---
+:id: 3eVzyIdKlayIYAIO0kqiOs
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:02:02+00:00'
+  :created_at: '2017-09-11T05:02:02+00:00'
+  :id: 3eVzyIdKlayIYAIO0kqiOs
+:body: "<p>Que nesesito para con seguir seguro medico?</p>"
+:permalink: que-nesesito-para-con-seguir-seguro-medico
+:date: !ruby/object:DateTime 2014-11-19 03:48:57.119000000 -08:00
+:author_name: 'Leobardo Lopez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 63eLFr8OAgU02k6ioSeGyG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:02:01+00:00'
+    :created_at: '2017-09-11T05:02:01+00:00'
+    :id: 63eLFr8OAgU02k6ioSeGyG
+  :body: Hola Leobardo, para poder obtener un seguro medico debe de tener un numero
+    de seguro social para que pueda ser elegible al momento de buscar la mejor opcion
+    en el mercado de seguros. Luego debe tomar en cuenta diversos factores como por
+    ejemplo, sus ingresos, la cuota mensual que debe pagar, el deducible, la cobertura
+    de su seguro, entre otros. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-19 10:13:56.739000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6RLJdLhf3yam8K28eywQK2
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:02:01+00:00'
+      :created_at: '2017-09-11T05:02:01+00:00'
+      :id: 6RLJdLhf3yam8K28eywQK2
+    :body: Que puede ser una persona como yo que no tiene seguro social  ...para conseguir
+      seguro medico.
+    :date: !ruby/object:DateTime 2014-11-19 11:39:53.492000000 -08:00
+    :author_name: 'Leobardo Lopez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5wBgdfn7ZCMyiK0eoaMwow
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:02:00+00:00'
+        :created_at: '2017-09-11T05:02:00+00:00'
+        :id: 5wBgdfn7ZCMyiK0eoaMwow
+      :body: Hola Leobardo, como se exponia antes, tener un seguro social le abre
+        la posibilidad de obtener una poliza de seguro medico, el no tener uno por
+        consiguiente no le permite obtener un seguro medico pero no significa que
+        usted no tendra acceso a la atencion medica. Le recomendamos que se acerque
+        a la ventanilla de salud de su consulado mas cercano para obtener informacion
+        sobre clinicas de atencion a bajo costo. La atencion de la ventanilla de salud
+        es totalmente gratuita y no es necesario de hacer una cita para ser atendido.
+        SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-19 11:44:38.046000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1565

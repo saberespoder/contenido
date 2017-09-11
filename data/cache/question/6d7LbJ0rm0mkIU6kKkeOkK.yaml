@@ -1,0 +1,86 @@
+---
+:id: 6d7LbJ0rm0mkIU6kKkeOkK
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:32:54+00:00'
+  :created_at: '2017-09-11T05:32:54+00:00'
+  :id: 6d7LbJ0rm0mkIU6kKkeOkK
+:body: "<p>Cuanto tengo guardado en 401k?</p>"
+:permalink: 2015-10-09_cuanto-tengo-guardado-en-401k
+:date: !ruby/object:DateTime 2015-10-09 05:42:45.000000000 -07:00
+:author_name: 'Victor Ramirez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 5gOYkFh3lSYiIOqWieekeE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:32:53+00:00'
+    :created_at: '2017-09-11T05:32:53+00:00'
+    :id: 5gOYkFh3lSYiIOqWieekeE
+  :body: Hola estimado Victor, gracias por su participación, en el talon de cheque
+    que recibe debe indicar cuanto tiene de 401k, si no lo tiene le sugerimos que
+    contacte a la compañía en que trabaje por si tienen un proceso diferente en como
+    reportan el 401k. Gracias, SABEResPODER
+  :date: !ruby/object:DateTime 2015-10-12 12:06:48.861000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 6vIhOjBD9Ys4uiOUIgSOgW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:32:52+00:00'
+      :created_at: '2017-09-11T05:32:52+00:00'
+      :id: 6vIhOjBD9Ys4uiOUIgSOgW
+    :body: 'Pero he estado trabajando en varios trabajos '
+    :date: !ruby/object:DateTime 2015-10-12 12:09:18.021000000 -07:00
+    :author_name: 'Victor Ramirez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3KSLhAqEMwC0gI66Gywu08
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:32:51+00:00'
+        :created_at: '2017-09-11T05:32:51+00:00'
+        :id: 3KSLhAqEMwC0gI66Gywu08
+      :body: 'Hola estimado Victor, gracias por su comentario. Después de haberse
+        inscribido en el plan sus ganancias se trasfieren de trabajo a trabajo ya
+        que esta información esta enlazada con su seguro social. Recuerde que estamos
+        aquí para ayudarle #SABEResPODER'
+      :date: !ruby/object:DateTime 2015-10-12 13:55:33.390000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  - :id: 2omRxPZrq4aiOS8uWYOKSA
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:32:52+00:00'
+      :created_at: '2017-09-11T05:32:52+00:00'
+      :id: 2omRxPZrq4aiOS8uWYOKSA
+    :body: 'Es usted muy amable gracias '
+    :date: !ruby/object:DateTime 2015-10-12 14:04:05.018000000 -07:00
+    :author_name: 'Victor Ramirez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 4OFCgVIoGQu0aIgqcMQqqg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:32:53+00:00'
+      :created_at: '2017-09-11T05:32:53+00:00'
+      :id: 4OFCgVIoGQu0aIgqcMQqqg
+    :body: 'Gracias muy amable '
+    :date: !ruby/object:DateTime 2015-10-12 14:04:36.977000000 -07:00
+    :author_name: 'Victor Ramirez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8826

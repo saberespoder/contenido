@@ -1,0 +1,74 @@
+---
+:id: 5ThGgT8vTigwiScSwK2qg6
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:51:46+00:00'
+  :created_at: '2017-09-08T18:51:46+00:00'
+  :id: 5ThGgT8vTigwiScSwK2qg6
+:body: "<p>Hola tengo 26 año .. Bine a Los estados unidos cuando tenia 14 años ..
+  Y llevo asiendo dialisis . 2 años q ayuda puedo optener en imigracion.? </p>"
+:permalink: 2015-01-08_hola-tengo-26-ano-bine-a-los-estados-unidos-cuando-tenia-14-anos-y-llevo-asiendo-dialisis-2-anos-q-ayuda-puedo-optener-en-imigracion
+:date: !ruby/object:DateTime 2015-01-08 22:31:02.000000000 -08:00
+:author_name: 'Jose  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5pTpjBxPJSooCK8WEewWsc
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:51:45+00:00'
+    :created_at: '2017-09-08T18:51:45+00:00'
+    :id: 5pTpjBxPJSooCK8WEewWsc
+  :body: Hola Jose, en que le podemos ayudar. Necesitamos un poco mas de explicaicon
+    sobre su pregunta ya que queremos brindarle la mejor respuesta posible y el mejor
+    recurso para que usted pueda informarse. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-09 10:22:42.592000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: D42QXj97GKqGgUmIi2yQ6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:51:45+00:00'
+      :created_at: '2017-09-08T18:51:45+00:00'
+      :id: D42QXj97GKqGgUmIi2yQ6
+    :body: "Ago dialisis nesesito un transplante .\r\nPero no tengo el social .para
+      q me Cubra mi operacion .. Q Devo a ser .?"
+    :date: !ruby/object:DateTime 2015-01-09 12:54:12.584000000 -08:00
+    :author_name: 'Jose  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2472aaQr7C8aYwIUGE426q
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:51:44+00:00'
+        :created_at: '2017-09-08T18:51:44+00:00'
+        :id: 2472aaQr7C8aYwIUGE426q
+      :body: Hola Jose, muchas gracias por la aclaracion. En su caso le recomendariamos
+        que se acerque a la ventanilla de salud de su consulado para que le proporcionen
+        informacion sobre clinicas que le podrian ayudar con su padecimiento. La atencion
+        en la ventanilla es totalmente gratuita y no es necesario hacer una cita para
+        ser atendido. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-09 14:01:33.622000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2771

@@ -1,0 +1,60 @@
+---
+:id: 6krXUEC4jC6QGYOA04WYUS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:06:43+00:00'
+  :created_at: '2017-09-11T05:06:43+00:00'
+  :id: 6krXUEC4jC6QGYOA04WYUS
+:body: "<p>Estoy esperando Respuesta ami Pregunta </p>"
+:permalink: 2016-07-30_estoy-esperando-respuesta-ami-pregunta
+:date: !ruby/object:DateTime 2016-07-30 02:58:59.061000000 -07:00
+:author_name: 'Raquel Rowley '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 5MXuidDPLqUoC8Wk4gQEey
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:41+00:00'
+    :created_at: '2017-09-11T05:06:41+00:00'
+    :id: 5MXuidDPLqUoC8Wk4gQEey
+  :body: 'Hola estimada Raquel, nos disculpamos por la tardanza de nuestra respuesta.
+    Nuestro horario de trabajo es de lunes a viernes de 8am a 5pm en la zona pacifico. '
+  :date: !ruby/object:DateTime 2016-08-01 11:54:33.258000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :from_admin: false
+- :id: 149SvVs77QAIoOWCc4m0EI
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:42+00:00'
+    :created_at: '2017-09-11T05:06:42+00:00'
+    :id: 149SvVs77QAIoOWCc4m0EI
+  :body: 'Ok voy a estar esperando la Respuesta a mi pregunta '
+  :date: !ruby/object:DateTime 2016-07-30 03:00:39.123000000 -07:00
+  :author_name: 'Raquel Rowley '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: oYyIFOwQwKUQGQ02im8Ow
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:06:42+00:00'
+      :created_at: '2017-09-11T05:06:42+00:00'
+      :id: oYyIFOwQwKUQGQ02im8Ow
+    :body: 'Nos disculpamos por la tardanza de nuestra repuesta. Si su pregunta es
+      urgente favor de llamar a nuestra oficina al 310 8263900 de lunes a viernes
+      de 8am-5pm. '
+    :date: !ruby/object:DateTime 2016-08-01 11:56:11.777000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 11041

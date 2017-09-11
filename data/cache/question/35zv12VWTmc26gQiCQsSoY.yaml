@@ -1,0 +1,97 @@
+---
+:id: 35zv12VWTmc26gQiCQsSoY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:30:09+00:00'
+  :created_at: '2017-09-08T18:30:09+00:00'
+  :id: 35zv12VWTmc26gQiCQsSoY
+:body: "<p>Nesecito aserme un examen d la vista</p>"
+:permalink: 2015-01-27_nesecito-aserme-un-examen-d-la-vista
+:date: !ruby/object:DateTime 2015-01-27 15:10:49.000000000 -08:00
+:author_name: 'Mario Quizhpi '
+:author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/145166/1461252_583898978348535_2076624212_n.jpg
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 62LdI81Elyo4C20cCumaeU
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:02+00:00'
+    :created_at: '2017-09-08T18:30:02+00:00'
+    :id: 62LdI81Elyo4C20cCumaeU
+  :body: 'Ok pero m pueden explicar como es eso '
+  :date: !ruby/object:DateTime 2015-01-27 18:57:18.588000000 -08:00
+  :author_name: 'Mario Quizhpi '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/145166/1461252_583898978348535_2076624212_n.jpg
+  :answers:
+  - :id: 4IIxgw4moECcC2o4C00Ces
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:30:00+00:00'
+      :created_at: '2017-09-08T18:30:00+00:00'
+      :id: 4IIxgw4moECcC2o4C00Ces
+    :body: Estimado Mario, para que tenga informacion debe de llamar a la clinica,
+      de otra manera no le podran asistir. SABEResPODER
+    :date: !ruby/object:DateTime 2015-01-28 11:40:35.346000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 352lEno4IEsOYyeo4QOE8C
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:06+00:00'
+    :created_at: '2017-09-08T18:30:06+00:00'
+    :id: 352lEno4IEsOYyeo4QOE8C
+  :body: 'I como es o o como entro ahi '
+  :date: !ruby/object:DateTime 2015-01-27 16:00:08.803000000 -08:00
+  :author_name: 'Mario Quizhpi '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/145166/1461252_583898978348535_2076624212_n.jpg
+  :from_admin: false
+- :id: ZuKdfmkHE4GcuCCkCO4GU
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:08+00:00'
+    :created_at: '2017-09-08T18:30:08+00:00'
+    :id: ZuKdfmkHE4GcuCCkCO4GU
+  :body: "Estimado Mario, agradecemos su consulta. Esta es la informacion sobre una
+    clinica de atencion medica de bajo costo que incluye servicios oftalmologicos:
+    Open Door Family Medical Centers - Ossining. 165 Main St \r\nOssining NY. Telefono:
+    914-941-1263. SABEResPODER"
+  :date: !ruby/object:DateTime 2015-01-27 15:33:19.784000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 4j7zefZDyUEWSeSiWgMcku
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:30:07+00:00'
+      :created_at: '2017-09-08T18:30:07+00:00'
+      :id: 4j7zefZDyUEWSeSiWgMcku
+    :body: Ok gracias pero como algo para no pagar mucho
+    :date: !ruby/object:DateTime 2015-01-27 15:37:42.817000000 -08:00
+    :author_name: 'Mario Quizhpi '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/145166/1461252_583898978348535_2076624212_n.jpg
+    :answers:
+    - :id: 6nPU4CNkXuokI6AeSEM8Y6
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:30:07+00:00'
+        :created_at: '2017-09-08T18:30:07+00:00'
+        :id: 6nPU4CNkXuokI6AeSEM8Y6
+      :body: Estimado Mario, le recomendamos que se ponga en contacto con el centro
+        para que le brinden detalles al respecto. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-27 15:49:09.376000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3466

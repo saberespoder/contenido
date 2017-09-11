@@ -1,7 +1,6 @@
-# @TODO: Cache node dependencies
-# @TODO: Make sure bundler cache really works
 # @TODO: Fetch only UPDATED Contentful articles, not ALL of them
 # @TODO: Rebuild only UPDATED pages, not ALL of them
+# @TODO: Remove that dirty hack with precached questions once we have live preview in place
 
 language: ruby
 rvm: 2.4.0
@@ -25,6 +24,7 @@ before_script:
 script:
   - 'if [ ${TRAVIS_BRANCH} = "master" ]; then
         bundle exec middleman contentful;
+        mv ${TRAVIS_BUILD_DIR}/data/cache/question ${TRAVIS_BUILD_DIR}/data/contenido/question;
         bundle exec middleman build --no-parallel;
         bundle exec middleman s3_sync;
     fi'

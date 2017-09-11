@@ -1,0 +1,76 @@
+---
+:id: 3nWZuZ5apOoy0GO06M0Kcy
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:37:02+00:00'
+  :created_at: '2017-09-11T05:37:02+00:00'
+  :id: 3nWZuZ5apOoy0GO06M0Kcy
+:body: "<p>Como puedo octener latarjets de lD </p>"
+:permalink: 2015-02-27_como-puedo-octener-latarjets-de-ld
+:date: !ruby/object:DateTime 2015-02-27 16:26:37.000000000 -08:00
+:author_name: 'Pablo Salvador '
+:author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/170963/10639400_751063598320822_2784889718386711261_n.jpg
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 5vcckooj5eIOwkeGOgcMi2
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:37:00+00:00'
+    :created_at: '2017-09-11T05:37:00+00:00'
+    :id: 5vcckooj5eIOwkeGOgcMi2
+  :body: 'Hola estimado Pablo, si su pregunta es sobre cómo obtener la tarjeta de
+    identificación de la ciudad de Nueva York (NYCID) encuentre información en este
+    enlace: <a href=''http://contenido.saberespoder.com/articulos/inmigraci%C3%B3n/idnyc-pasos-para-recibir-la-identificacion-neoyorquina''>http://contenido.saberespoder.com/articulos/inmigraci%C3%B3n/idnyc-pasos-para-recibir-la-identificacion-neoyorquina</a>
+    SABEResPODER'
+  :date: !ruby/object:DateTime 2015-03-02 15:16:50.299000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :from_admin: false
+- :id: 6FipCvdjji0gs6gEk4YM82
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:37:02+00:00'
+    :created_at: '2017-09-11T05:37:02+00:00'
+    :id: 6FipCvdjji0gs6gEk4YM82
+  :body: Un ID?
+  :date: !ruby/object:DateTime 2015-02-27 16:53:12.386000000 -08:00
+  :author_name: 'Florencia Nieto '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5uL4Kcn2OAgiCcKaSs6ccu
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:37:01+00:00'
+      :created_at: '2017-09-11T05:37:01+00:00'
+      :id: 5uL4Kcn2OAgiCcKaSs6ccu
+    :body: ID
+    :date: !ruby/object:DateTime 2015-02-27 17:00:25.756000000 -08:00
+    :author_name: 'Pablo Salvador '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/170963/10639400_751063598320822_2784889718386711261_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 4954

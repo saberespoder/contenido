@@ -1,0 +1,71 @@
+---
+:id: 2PQKqTF15uWs0yIuuS2Eqs
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:30:20+00:00'
+  :created_at: '2017-09-11T05:30:20+00:00'
+  :id: 2PQKqTF15uWs0yIuuS2Eqs
+:body: "<p>Hola quisiera saber si ustedes pueden proporcionarme el manual de automovilista
+  en español. Por fabor</p>"
+:permalink: 2014-12-24_hola-quisiera-saber-si-ustedes-pueden-proporcionarme-el-manual-de-automovilista-en-espanol-por-fabor
+:date: !ruby/object:DateTime 2014-12-24 09:55:38.000000000 -08:00
+:author_name: 'Viridiana Cobarrubias '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: YwEGcxHVO6AuIYoAgCq62
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:30:18+00:00'
+    :created_at: '2017-09-11T05:30:18+00:00'
+    :id: YwEGcxHVO6AuIYoAgCq62
+  :body: 'Estimada Viridiana: Puede estudiar este manual por Internet, pulse en el
+    siguiente link : www.dmv.ca.gov. Gracias por participar! Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-03-05 14:51:56.044000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 8qjTWPZyb6802QKioqg4O
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:30:19+00:00'
+    :created_at: '2017-09-11T05:30:19+00:00'
+    :id: 8qjTWPZyb6802QKioqg4O
+  :body: Apreciada Viridiana, por favor envíenos su ubicación, en qué estado se encuentra
+    o si prefiere su código postal. SABEResPODER
+  :date: !ruby/object:DateTime 2014-12-30 12:49:13.905000000 -08:00
+  :author_name: 'Francy Julieth Madronero '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/60678/uploads_2Ftmp_2Fd4eb401d-d360-4fc7-9609-b2bc0bc90144_2F5506330.jpg
+  :answers:
+  - :id: 1ANTyfjfFiEqogA0a4EYgK
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:30:18+00:00'
+      :created_at: '2017-09-11T05:30:18+00:00'
+      :id: 1ANTyfjfFiEqogA0a4EYgK
+    :body: Soy viridiana y estoy en california. Y mi codigo es92270
+    :date: !ruby/object:DateTime 2014-12-30 18:38:23.666000000 -08:00
+    :author_name: 'Viridiana Cobarrubias '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 74luJCwfKgi6Y4C8e4sU4q
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:30:19+00:00'
+      :created_at: '2017-09-11T05:30:19+00:00'
+      :id: 74luJCwfKgi6Y4C8e4sU4q
+    :body: Hola soy viridiana y vivo en california. Y mi codigo postal es 92270
+    :date: !ruby/object:DateTime 2014-12-30 18:40:21.250000000 -08:00
+    :author_name: 'Viridiana Cobarrubias '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2369

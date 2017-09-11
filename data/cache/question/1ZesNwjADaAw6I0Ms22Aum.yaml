@@ -1,0 +1,64 @@
+---
+:id: 1ZesNwjADaAw6I0Ms22Aum
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:39:37+00:00'
+  :created_at: '2017-09-08T18:39:37+00:00'
+  :id: 1ZesNwjADaAw6I0Ms22Aum
+:body: "<p>Hola me llamo eva Yo no termine la primaria como puedo completarla</p>"
+:permalink: 2015-01-27_hola-me-llamo-eva-yo-no-termine-la-primaria-como-puedo-completarla
+:date: !ruby/object:DateTime 2015-01-27 16:56:17.000000000 -08:00
+:author_name: 'Eva Martinez N '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 4zwTpVCGWkceaqugYygGqu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:39:36+00:00'
+    :created_at: '2017-09-08T18:39:36+00:00'
+    :id: 4zwTpVCGWkceaqugYygGqu
+  :body: Hola Eva, muchas gracias por su pregunta. Le recomendamos que se acerque
+    a la ventanilla de educacion de su consulado para que le proporcionen informacion
+    y recursos sobre como continuar su educacion. La atencion de la ventanilla es
+    totalmente gratuita y no es necesario hacer una cita para que le atiendan. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-28 09:40:06.265000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 5KmAVfPa1OsOoQy4emOkaS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:39:35+00:00'
+      :created_at: '2017-09-08T18:39:35+00:00'
+      :id: 5KmAVfPa1OsOoQy4emOkaS
+    :body: Entonces como podre continu mi estudio yo tengo mucho deseo  de volver
+      a estudiar aunquesea terminar la secundaria
+    :date: !ruby/object:DateTime 2015-01-28 16:52:20.018000000 -08:00
+    :author_name: 'Eva Martinez N '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5911qp6VdS2UQ6OMEuEQMK
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:39:33+00:00'
+        :created_at: '2017-09-08T18:39:33+00:00'
+        :id: 5911qp6VdS2UQ6OMEuEQMK
+      :body: Eva, usted podra encontrar informacion en la ventanilla de educacion
+        y tambien recursos sobre su caso. Recuerde que la atencion es gratis y no
+        necesita hacer una cita para que le atiendan. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-29 09:13:47.923000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3480

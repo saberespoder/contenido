@@ -1,0 +1,76 @@
+---
+:id: 4PccjNP4v6qYwKWc4SSgUu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:52:24+00:00'
+  :created_at: '2017-09-08T18:52:24+00:00'
+  :id: 4PccjNP4v6qYwKWc4SSgUu
+:body: "<p>Mi nombre no me gusta puedo cambiarlo por otro</p>"
+:permalink: 2015-02-27_mi-nombre-no-me-gusta-puedo-cambiarlo-por-otro
+:date: !ruby/object:DateTime 2015-02-27 14:17:22.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 23l47yT732YWk2yCEkm2um
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:52:22+00:00'
+    :created_at: '2017-09-08T18:52:22+00:00'
+    :id: 23l47yT732YWk2yCEkm2um
+  :body: 'Puedo cambiar mi nombre '
+  :date: !ruby/object:DateTime 2017-04-25 08:18:05.611000000 -07:00
+  :author_name: 'Rogelio Perez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 2P0hIaML16YIckMoeI64uM
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:52:22+00:00'
+      :created_at: '2017-09-08T18:52:22+00:00'
+      :id: 2P0hIaML16YIckMoeI64uM
+    :body: Gracias por su llamada y su participacion en  SABEResPODER.
+    :date: !ruby/object:DateTime 2017-04-25 09:07:13.790000000 -07:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: Vqcz3du7SgCiy64cuyacu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:52:23+00:00'
+    :created_at: '2017-09-08T18:52:23+00:00'
+    :id: Vqcz3du7SgCiy64cuyacu
+  :body: "Estimado Usuario: Hay dos maneras: 1.- Un cambio de nombre \"legal\",se
+    trata de la presentación de una petición de cambio de nombre en una corte estatal,
+    la publicación de la notificación del cambio en un periódico y luego que un juez
+    firme una orden de la corte para cambiar su nombre. \r\n2.-Si usted es un no ciudadano
+    queriendo convertirse en ciudadano estadounidense, tiene una segunda opción. En
+    la solicitud que llena para iniciar el proceso de la naturalización, puede marcar
+    la casilla \"sí\" cuando se le pregunta \"¿Le gustaría cambiar su nombre legalmente?\".
+    Gracias por Participar!"
+  :date: !ruby/object:DateTime 2015-03-01 10:51:21.221000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3kuvgP8xpmQY6KOqUYqMaQ
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:52:23+00:00'
+      :created_at: '2017-09-08T18:52:23+00:00'
+      :id: 3kuvgP8xpmQY6KOqUYqMaQ
+    :body: "Si\r\n"
+    :date: !ruby/object:DateTime 2015-03-01 13:19:20.744000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 4949

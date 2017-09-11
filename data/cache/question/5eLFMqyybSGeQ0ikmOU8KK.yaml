@@ -1,0 +1,60 @@
+---
+:id: 5eLFMqyybSGeQ0ikmOU8KK
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:37:09+00:00'
+  :created_at: '2017-09-08T18:37:09+00:00'
+  :id: 5eLFMqyybSGeQ0ikmOU8KK
+:body: "<p>Ingles</p>"
+:permalink: 2015-04-27_ingles
+:date: !ruby/object:DateTime 2015-04-27 07:00:30.000000000 -07:00
+:author_name: 'Erika Hernandez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 2VgeI4YNrys6cEIYuMWmWE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:37:07+00:00'
+    :created_at: '2017-09-08T18:37:07+00:00'
+    :id: 2VgeI4YNrys6cEIYuMWmWE
+  :body: 'Gracias por su pregunta, tengo el gusto en comentarle que en unos días SABEResPODER
+    estará lanzando un nuevo Programa Interactivo para aprender Inglés, con gusto
+    nos comunicaremos con usted una vez esté disponible para darle más detalles sobre
+    ésta excelente oportunidad. #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-04-27 13:01:22.428000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :from_admin: false
+- :id: 6HvjRvyBYkGWyUaMYwo80O
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:37:08+00:00'
+    :created_at: '2017-09-08T18:37:08+00:00'
+    :id: 6HvjRvyBYkGWyUaMYwo80O
+  :body: Donde encuentro un centro cercano de donde vivo clases de inglés gratituas
+  :date: !ruby/object:DateTime 2015-04-27 07:58:53.138000000 -07:00
+  :author_name: 'Imelda Flores '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6ipTGSDKLYOomWs00Aiu0C
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:37:08+00:00'
+      :created_at: '2017-09-08T18:37:08+00:00'
+      :id: 6ipTGSDKLYOomWs00Aiu0C
+    :body: Una escuela en FRISCO TX 75034
+    :date: !ruby/object:DateTime 2015-04-27 08:11:16.867000000 -07:00
+    :author_name: 'Erika Hernandez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6831

@@ -1,0 +1,49 @@
+---
+:id: 2SdIQ22m0EowsUyYikG08W
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:32:45+00:00'
+  :created_at: '2017-09-11T05:32:45+00:00'
+  :id: 2SdIQ22m0EowsUyYikG08W
+:body: "<p>hola yo quiero saber como conseguir el numero de ITIN para poder pagar
+  impuestos y en donde porfavor tengo muchas dudas acerca de ese teme</p>"
+:permalink: 2015-03-12_hola-yo-quiero-saber-como-conseguir-el-numero-de-itin-para-poder-pagar-impuestos-y-en-donde-porfavor-tengo-muchas-dudas-acerca-de-ese-teme
+:date: !ruby/object:DateTime 2015-03-12 17:09:51.000000000 -07:00
+:author_name: 'Guadalupe Espinoza '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 184xGBcHdGmKIUQ6YYcm44
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:32:45+00:00'
+    :created_at: '2017-09-11T05:32:45+00:00'
+    :id: 184xGBcHdGmKIUQ6YYcm44
+  :body: 'Estimada Guadalupe: Puede solicitor un ITIN a traves del formulario W-7
+    directamente en el IRS. Para mayor informacion:  dirijase a : saberespoder.com/itin.
+    #Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-03-12 19:47:20.784000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1MzJ71VybuKEgwiqUqcAy4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:32:44+00:00'
+      :created_at: '2017-09-11T05:32:44+00:00'
+      :id: 1MzJ71VybuKEgwiqUqcAy4
+    :body: 'muchas gracias por contestar mi pregunta '
+    :date: !ruby/object:DateTime 2015-03-14 19:50:12.539000000 -07:00
+    :author_name: 'Guadalupe Espinoza '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 5513

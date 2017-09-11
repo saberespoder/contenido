@@ -1,0 +1,61 @@
+---
+:id: 72kiza1gKQkk0egWkmiG4W
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:46:49+00:00'
+  :created_at: '2017-09-11T05:46:49+00:00'
+  :id: 72kiza1gKQkk0egWkmiG4W
+:body: "<p>En qué lugar van a estar </p>"
+:permalink: en-que-lugar-van-a-estar
+:date: !ruby/object:DateTime 2014-10-02 16:32:02.270000000 -07:00
+:author_name: 'Lourdes Alameda '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 8FznEGwXFSu4gUWWEKqMo
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:46:49+00:00'
+    :created_at: '2017-09-11T05:46:49+00:00'
+    :id: 8FznEGwXFSu4gUWWEKqMo
+  :body: Hola Lourdes, el evento de la Semana Binacional de la Salud se llevara a
+    cabo en todos los Consulados Mexicano del país. Le recomendamos se acerque a su
+    consulado más cercano, se atenderá totalmente gratis. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-13 12:11:10.732000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: dt6EKEmcjCgEGYCskKkGI
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:46:48+00:00'
+      :created_at: '2017-09-11T05:46:48+00:00'
+      :id: dt6EKEmcjCgEGYCskKkGI
+    :body: Gracias por  por la información que bien que hagan estos eventos . Que
+      Dios los bendiga
+    :date: !ruby/object:DateTime 2014-10-13 13:07:56.293000000 -07:00
+    :author_name: 'Lourdes Alameda '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3vpNRDzOuAaQ22yOcMiGae
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:46:48+00:00'
+        :created_at: '2017-09-11T05:46:48+00:00'
+        :id: 3vpNRDzOuAaQ22yOcMiGae
+      :body: Estamos para servirle Lourdes, recuerde que SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-13 13:52:46.825000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 947

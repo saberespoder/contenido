@@ -1,0 +1,62 @@
+---
+:id: R3qRAlTmiO062UcI6qImG
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:45:14+00:00'
+  :created_at: '2017-09-11T05:45:14+00:00'
+  :id: R3qRAlTmiO062UcI6qImG
+:body: "<p>Tienes que hacer una cita? </p>"
+:permalink: 2015-01-21_tienes-que-hacer-una-cita
+:date: !ruby/object:DateTime 2015-01-21 06:53:53.000000000 -08:00
+:author_name: 'sandra garcia '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 72BTzbV8pUKC288kQmYsIe
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:45:14+00:00'
+    :created_at: '2017-09-11T05:45:14+00:00'
+    :id: 72BTzbV8pUKC288kQmYsIe
+  :body: 'Hola estimada Sandra, agradecemos su pregunta. Si su pregunta es sobre la
+    ventanilla de salud de su consulado: la atención de la ventanilla es totalmente
+    gratis y no es necesario hacer una cita para ser atendido. SABEResPODER'
+  :date: !ruby/object:DateTime 2015-01-22 15:48:23.134000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 2C1tK0g2SkyguM6qwEIQ0S
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:45:13+00:00'
+      :created_at: '2017-09-11T05:45:13+00:00'
+      :id: 2C1tK0g2SkyguM6qwEIQ0S
+    :body: Y ahí  hay doctores para atender a los pacientes
+    :date: !ruby/object:DateTime 2015-01-22 15:51:16.310000000 -08:00
+    :author_name: 'sandra garcia '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3ctCvJUZKECk8wqumsy4yY
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:45:13+00:00'
+        :created_at: '2017-09-11T05:45:13+00:00'
+        :id: 3ctCvJUZKECk8wqumsy4yY
+      :body: Hola Sandra, en la ventanilla de salud, le propocionaran informacion
+        y recursos sobre clinicas de atencion medica de bajo costo que trabajen con
+        el consulado. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-23 11:18:31.484000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3196

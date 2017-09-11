@@ -1,0 +1,57 @@
+---
+:id: 5vcVBty5ryM6SGIWkO4AMa
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:30:51+00:00'
+  :created_at: '2017-09-11T05:30:51+00:00'
+  :id: 5vcVBty5ryM6SGIWkO4AMa
+:body: "<p>Que forma enseñan ingles?</p>"
+:permalink: 2015-04-25_que-forma-ensenan-ingles
+:date: !ruby/object:DateTime 2015-04-25 13:48:42.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 6dXrsU6pvUKOeuQuUsSA8K
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:30:50+00:00'
+    :created_at: '2017-09-11T05:30:50+00:00'
+    :id: 6dXrsU6pvUKOeuQuUsSA8K
+  :body: Hola estimado usuario, tengo el gusto en comentarle que en unos días SABEResPODER
+    estará lanzando un nuevo Programa Interactivo para aprender Inglés, con gusto
+    nos comunicaremos con usted una vez esté disponible para darle más detalles sobre
+    ésta excelente oportunidad#.SABEResPODER
+  :date: !ruby/object:DateTime 2015-04-27 10:56:35.562000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 2dxdxtznvSmuQKoYwYWiu2
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:30:50+00:00'
+      :created_at: '2017-09-11T05:30:50+00:00'
+      :id: 2dxdxtznvSmuQKoYwYWiu2
+    :body: Gracias espero tu llamada o algun tex que me mandes. Buen dia.
+    :date: !ruby/object:DateTime 2015-04-27 10:59:38.922000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6670

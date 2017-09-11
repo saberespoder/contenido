@@ -1,0 +1,58 @@
+---
+:id: 1E9bbDqqteSGmOaQEm6mMs
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:45:45+00:00'
+  :created_at: '2017-09-08T18:45:45+00:00'
+  :id: 1E9bbDqqteSGmOaQEm6mMs
+:body: "<p>Cuantos segundos son para aser un stap</p>"
+:permalink: 2015-01-27_cuantos-segundos-son-para-aser-un-stap
+:date: !ruby/object:DateTime 2015-01-27 19:35:08.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 5EBnO0uKjemEaKgge0wM6W
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:45:44+00:00'
+    :created_at: '2017-09-08T18:45:44+00:00'
+    :id: 5EBnO0uKjemEaKgge0wM6W
+  :body: 10-15 cegundos
+  :date: !ruby/object:DateTime 2015-01-28 13:22:27.185000000 -08:00
+  :author_name: 'Daniel Hernandez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 5M1rw8GW6Aug6Ow44UeoEy
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:45:44+00:00'
+    :created_at: '2017-09-08T18:45:44+00:00'
+    :id: 5M1rw8GW6Aug6Ow44UeoEy
+  :body: Estimado usuario, al detenerse en un "STOP" usted debe de contar 3 segundos.
+    SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-28 13:07:24.935000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3ZgOPkcDq0em0ayGeSU0A4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:45:44+00:00'
+      :created_at: '2017-09-08T18:45:44+00:00'
+      :id: 3ZgOPkcDq0em0ayGeSU0A4
+    :body: Ok gracias
+    :date: !ruby/object:DateTime 2015-01-28 13:09:47.924000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3510

@@ -1,0 +1,46 @@
+---
+:id: 2BiWZJ4t7CQcCug6SkYqUS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:21:10+00:00'
+  :created_at: '2017-09-08T18:21:10+00:00'
+  :id: 2BiWZJ4t7CQcCug6SkYqUS
+:body: "<p>Ab60</p>"
+:permalink: 2015-02-05_ab60
+:date: !ruby/object:DateTime 2015-02-05 17:29:49.000000000 -08:00
+:author_name: 'Martin Antonio '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 2ii0j9f6qoGiIYImsGWG80
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:21:10+00:00'
+    :created_at: '2017-09-08T18:21:10+00:00'
+    :id: 2ii0j9f6qoGiIYImsGWG80
+  :body: "Estimado Martin le envio informacion.<a href='http://contenido.saberespoder.com/articulos/educaci%C3%B3n/respuestas-a-las-preguntas-mas-comunes-sobre-la-licencia-de-conducir-ab-60'>http://contenido.saberespoder.com/articulos/educaci%C3%B3n/respuestas-a-las-preguntas-mas-comunes-sobre-la-licencia-de-conducir-ab-60</a>\r\n#SABEResPODER\r\n"
+  :date: !ruby/object:DateTime 2015-02-05 17:34:25.718000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3lU0q5bjdukSSqY20KA6ce
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:21:09+00:00'
+      :created_at: '2017-09-08T18:21:09+00:00'
+      :id: 3lU0q5bjdukSSqY20KA6ce
+    :body: Ab60
+    :date: !ruby/object:DateTime 2015-02-05 17:35:46.289000000 -08:00
+    :author_name: 'Martin Antonio '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3932

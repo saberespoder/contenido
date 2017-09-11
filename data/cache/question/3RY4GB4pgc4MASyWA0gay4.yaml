@@ -1,0 +1,99 @@
+---
+:id: 3RY4GB4pgc4MASyWA0gay4
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:18:41+00:00'
+  :created_at: '2017-09-11T05:18:41+00:00'
+  :id: 3RY4GB4pgc4MASyWA0gay4
+:body: "<p>quiero saber qué preguntas salen en el Teorico de Merylan por favor si
+  alguien sabe que médiga que la otra semana tengo el examen y lo quiero pasar por
+  qué muchos bolo pasan quiero saber más </p>"
+:permalink: 2016-07-21_quiero-saber-que-preguntas-salen-en-el-teorico-de-merylan-por-favor-si-alguien-sabe-que-mediga-que-la-otra-semana-tengo-el-examen-y-lo-quiero-pasar-por-que-muchos-bolo-pasan-qui
+:date: !ruby/object:DateTime 2016-07-21 08:05:43.118000000 -07:00
+:author_name: 'Joaquín  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 29G50HnbNCeGagm8igqKS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:20+00:00'
+    :created_at: '2017-08-07T08:38:40+00:00'
+    :id: 29G50HnbNCeGagm8igqKS6
+  :title: FarmaSEP
+  :is_active: false
+:answers:
+- :id: trNusoLXY4u0CkCCuMeE0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:18:41+00:00'
+    :created_at: '2017-09-11T05:18:41+00:00'
+    :id: trNusoLXY4u0CkCCuMeE0
+  :body: "Hola Sr. Joaquin gracias por su participacion en relacion a su pregunta
+    aqui le compartimos con mucho gusto un enlace en el cual encontrara \r\nexamenes
+    de conocimiento para su licencia e conducir  está basado en la información contenida
+    en el manual del conductor, solo haga clic aqui:&gt;<a href=\"<a href='http://bit.ly/2acesCb'>http://bit.ly/2acesCb</a>\"><a
+    href='http://bit.ly/2acesCb'>http://bit.ly/2acesCb</a></a> .  Suerte!. \r\nRecuerde
+    que estamos para ayudarle#SABEResPODER.\r\n\r\n"
+  :date: !ruby/object:DateTime 2016-07-21 08:16:07.803000000 -07:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6JRfp7nw1GcKoY8SQ8cWCQ
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:18:40+00:00'
+      :created_at: '2017-09-11T05:18:40+00:00'
+      :id: 6JRfp7nw1GcKoY8SQ8cWCQ
+    :body: 'no tienen que ser y denticas '
+    :date: !ruby/object:DateTime 2016-07-21 08:20:37.716000000 -07:00
+    :author_name: 'Joaquín  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 64JwKSGJ8IUiUCcIQc4Wic
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:18:40+00:00'
+        :created_at: '2017-09-11T05:18:40+00:00'
+        :id: 64JwKSGJ8IUiUCcIQc4Wic
+      :body: 'Sr. Joaquin lo que le recomendamos es que acuda a un DMV cercano y obtenga
+        el manual para que lo estudie de manera mas detallada, los exames que le enviamos  como
+        lo dice ahi mismo esta basado en el manual. Suerte! '
+      :date: !ruby/object:DateTime 2016-07-21 08:51:54.719000000 -07:00
+      :author_name: 'Minerva Luna '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 10991

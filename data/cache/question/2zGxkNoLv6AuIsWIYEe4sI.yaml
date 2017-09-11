@@ -1,0 +1,67 @@
+---
+:id: 2zGxkNoLv6AuIsWIYEe4sI
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:43:04+00:00'
+  :created_at: '2017-09-11T05:43:04+00:00'
+  :id: 2zGxkNoLv6AuIsWIYEe4sI
+:body: "<p>Como encontrar el trabajo que me gusta y El horario a Mis necesidades</p>"
+:permalink: 2015-04-08_como-encontrar-el-trabajo-que-me-gusta-y-el-horario-a-mis-necesidades
+:date: !ruby/object:DateTime 2015-04-08 17:58:16.000000000 -07:00
+:author_name: 'Marta Loera '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 5VSQlxcFb26wysAgMK2Saq
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:43:03+00:00'
+    :created_at: '2017-09-11T05:43:03+00:00'
+    :id: 5VSQlxcFb26wysAgMK2Saq
+  :body: Gracias
+  :date: !ruby/object:DateTime 2015-04-09 20:59:48.318000000 -07:00
+  :author_name: 'Marta Loera '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1kDcVAbDSkkEYSCeUeaaaU
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:43:03+00:00'
+      :created_at: '2017-09-11T05:43:03+00:00'
+      :id: 1kDcVAbDSkkEYSCeUeaaaU
+    :body: "Para Servirle\r\n#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-04-11 15:53:16.438000000 -07:00
+    :author_name: 'Gabriela Umana '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 5RcJSzhYQMYWcgw4UwQ24K
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:43:04+00:00'
+    :created_at: '2017-09-11T05:43:04+00:00'
+    :id: 5RcJSzhYQMYWcgw4UwQ24K
+  :body: "Agradecemos su participación,  con gusto le podemos informar  cuando haya
+    algunas oportunidades de trabajo disponibles o proyectos en donde tenga la posibilidad
+    de obtener alguna compensación económica.#SABEResPODER\r\n"
+  :date: !ruby/object:DateTime 2015-04-09 18:50:30.078000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 6212

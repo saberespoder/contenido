@@ -1,0 +1,59 @@
+---
+:id: 7hIA0bLAZiUYmoGsowccUA
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:34:42+00:00'
+  :created_at: '2017-09-08T18:34:42+00:00'
+  :id: 7hIA0bLAZiUYmoGsowccUA
+:body: "<p>Cuanto es lo que cuesta</p>"
+:permalink: cuanto-es-lo-que-cuesta
+:date: !ruby/object:DateTime 2014-11-19 16:29:18.384000000 -08:00
+:author_name: 'Luis Monsivais  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 3AV4I6reS4IY6mk2e2OuGC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:34:41+00:00'
+    :created_at: '2017-09-08T18:34:41+00:00'
+    :id: 3AV4I6reS4IY6mk2e2OuGC
+  :body: Hola Luis, nuestro servicio es totalmente gratuito, si tiene preguntas por
+    favor pongase en contacto con nosotros que estamos aqui para ayudarle. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-20 09:31:00.814000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3TEkBCX4KsOs8gYyoqGGuk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:34:40+00:00'
+      :created_at: '2017-09-08T18:34:40+00:00'
+      :id: 3TEkBCX4KsOs8gYyoqGGuk
+    :body: Y donde me puedo inscribir
+    :date: !ruby/object:DateTime 2014-11-20 09:34:06.402000000 -08:00
+    :author_name: 'Luis Monsivais  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: QEl89iPKCIKoS0GwQkw4Y
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:34:40+00:00'
+        :created_at: '2017-09-08T18:34:40+00:00'
+        :id: QEl89iPKCIKoS0GwQkw4Y
+      :body: Usted ya esta inscrito estimado Luis. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-20 10:52:09.677000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1581

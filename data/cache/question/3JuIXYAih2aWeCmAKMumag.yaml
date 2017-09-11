@@ -1,0 +1,71 @@
+---
+:id: 3JuIXYAih2aWeCmAKMumag
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:42:59+00:00'
+  :created_at: '2017-09-11T05:42:59+00:00'
+  :id: 3JuIXYAih2aWeCmAKMumag
+:body: "<p>Alguien sabe quien otorga prestamos hipotecarios a gente con itin en dallas
+  tx.</p>"
+:permalink: 2015-03-20_alguien-sabe-quien-otorga-prestamos-hipotecarios-a-gente-con-itin-en-dallas-tx
+:date: !ruby/object:DateTime 2015-03-20 08:28:45.000000000 -07:00
+:author_name: 'anonimo  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 18HVJro3f0WwkwqiuyqQwQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:42:59+00:00'
+    :created_at: '2017-09-11T05:42:59+00:00'
+    :id: 18HVJro3f0WwkwqiuyqQwQ
+  :body: 'Estimado Usuario: Citibank, Mutual Washington y American Home Mortgage son
+    algunas compañías que ofrecen hipotecas usando un ITIN en vez de un número de
+    seguro social. Por ejemplo, Citibank requiere un ITIN, una cuenta de banco, referencias
+    crediticias de dos años y verificación de residencia en los Estados Unidos por
+    un periodo de dos años. # Saber es Poder!. '
+  :date: !ruby/object:DateTime 2015-03-23 09:06:32.387000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5o6Fi6NZoQIOeQ066MMYCg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:42:58+00:00'
+      :created_at: '2017-09-11T05:42:58+00:00'
+      :id: 5o6Fi6NZoQIOeQ066MMYCg
+    :body: Gracias
+    :date: !ruby/object:DateTime 2015-03-23 09:46:20.415000000 -07:00
+    :author_name: 'anonimo  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 7FPmhp7MhqyU0YgOIkwiIk
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:42:58+00:00'
+        :created_at: '2017-09-11T05:42:58+00:00'
+        :id: 7FPmhp7MhqyU0YgOIkwiIk
+      :body: "Para Servirle!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-23 16:48:52.238000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 5872

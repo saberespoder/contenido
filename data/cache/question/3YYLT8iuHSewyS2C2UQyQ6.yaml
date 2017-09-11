@@ -1,0 +1,47 @@
+---
+:id: 3YYLT8iuHSewyS2C2UQyQ6
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:46:24+00:00'
+  :created_at: '2017-09-08T18:46:24+00:00'
+  :id: 3YYLT8iuHSewyS2C2UQyQ6
+:body: "<p>En donde puedo encontrar la página web. Para saber como va mi proceso</p>"
+:permalink: 2015-02-04_en-donde-puedo-encontrar-la-pagina-web-para-saber-como-va-mi-proceso
+:date: !ruby/object:DateTime 2015-02-04 07:52:11.000000000 -08:00
+:author_name: 'lorena villamil '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 1ZnOAL9RJ268Cwa4u8QUSs
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:46:24+00:00'
+    :created_at: '2017-09-08T18:46:24+00:00'
+    :id: 1ZnOAL9RJ268Cwa4u8QUSs
+  :body: 'Estimada Lorena, la pagina del Centro de Inmigracion y Ciudadania de los
+    Estados Unidos es: www.uscis.gov/es SABEResPODER'
+  :date: !ruby/object:DateTime 2015-02-04 11:11:11.021000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: g8MVVVnJ0OEQoICocaSUs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:46:23+00:00'
+      :created_at: '2017-09-08T18:46:23+00:00'
+      :id: g8MVVVnJ0OEQoICocaSUs
+    :body: 'Muchas gracias '
+    :date: !ruby/object:DateTime 2015-02-04 12:09:15.325000000 -08:00
+    :author_name: 'lorena villamil '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3851

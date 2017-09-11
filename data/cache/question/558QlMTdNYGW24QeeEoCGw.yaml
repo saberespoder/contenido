@@ -1,0 +1,49 @@
+---
+:id: 558QlMTdNYGW24QeeEoCGw
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:18:33+00:00'
+  :created_at: '2017-09-11T05:18:33+00:00'
+  :id: 558QlMTdNYGW24QeeEoCGw
+:body: "<p>Como puedo saber donde venden ropa por bulto o cajas </p>"
+:permalink: 2015-09-17_como-puedo-saber-donde-venden-ropa-por-bulto-o-cajas
+:date: !ruby/object:DateTime 2015-09-17 18:36:59.000000000 -07:00
+:author_name: 'Roberto Alvarez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 1KL0YknxHCUCYIOeMoYw4q
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:18:33+00:00'
+    :created_at: '2017-09-11T05:18:33+00:00'
+    :id: 1KL0YknxHCUCYIOeMoYw4q
+  :body: Hola estimado Roberto, se puede donar y vender ropa en San Antonio. Hay negocios
+    como Plato's Closet y Buffalo exchange en que se dedican a comprar ropa usada.
+    SABEResPODER
+  :date: !ruby/object:DateTime 2015-09-18 10:26:13.396000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 6B42NU9ygMy0Ma4oWqogCs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:18:33+00:00'
+      :created_at: '2017-09-11T05:18:33+00:00'
+      :id: 6B42NU9ygMy0Ma4oWqogCs
+    :body: 'Gracias pero yo quisiera comprar ropa nueva moda actual gracias por la
+      información '
+    :date: !ruby/object:DateTime 2015-09-18 10:32:09.207000000 -07:00
+    :author_name: 'Roberto Alvarez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8358

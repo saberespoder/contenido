@@ -1,0 +1,85 @@
+---
+:id: 3YrrQnkO1WsIySikk8ccs0
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:03:14+00:00'
+  :created_at: '2017-09-11T05:03:14+00:00'
+  :id: 3YrrQnkO1WsIySikk8ccs0
+:body: "<p>Hola necesito saber de una clinica..</p>"
+:permalink: 2015-03-25_hola-necesito-saber-de-una-clinica
+:date: !ruby/object:DateTime 2015-03-25 06:07:13.000000000 -07:00
+:author_name: 'Perla Ayala '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4IRSXaFR1KOAKSYCM20kG0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:03:12+00:00'
+    :created_at: '2017-09-11T05:03:12+00:00'
+    :id: 4IRSXaFR1KOAKSYCM20kG0
+  :body: "Gracias por su pregunta, le sugerimos acuda a su Gracias por su pregunta
+    favor de acudir directamente o comunicarse.\r\n1.-City Square Community Health
+    Services: (214) 821-8644  codigo postal 75201\r\n2.-Cornestone Ministries Life
+    Medical Clinic: (214)426-5468      75201\r\n#SABEResPODER\r\n"
+  :date: !ruby/object:DateTime 2015-03-25 15:27:57.485000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: SivffHSCGq2IUkkaGwUgK
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:03:10+00:00'
+      :created_at: '2017-09-11T05:03:10+00:00'
+      :id: SivffHSCGq2IUkkaGwUgK
+    :body: En donde es ?
+    :date: !ruby/object:DateTime 2015-03-25 16:19:24.204000000 -07:00
+    :author_name: 'Perla Ayala '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6jy34nanIWQaIUmYsUwAgc
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:03:09+00:00'
+        :created_at: '2017-09-11T05:03:09+00:00'
+        :id: 6jy34nanIWQaIUmYsUwAgc
+      :body: "Cornestone Ministries Life Medical Clinic\r\n2711 Ervay, Suite 104\r\nDallas,
+        Texas  75201\r\n214-426-0568\r\n#SABEResPODER\r\n"
+      :date: !ruby/object:DateTime 2015-03-25 16:27:48.649000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: nWC8oE1ah2W2Ky4iIayQY
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:03:11+00:00'
+      :created_at: '2017-09-11T05:03:11+00:00'
+      :id: nWC8oE1ah2W2Ky4iIayQY
+    :body: Y no cobran mucho la consulta
+    :date: !ruby/object:DateTime 2015-03-25 16:30:36.608000000 -07:00
+    :author_name: 'Perla Ayala '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6MIX42Ibhm6kyuuOG4Oqso
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:03:11+00:00'
+        :created_at: '2017-09-11T05:03:11+00:00'
+        :id: 6MIX42Ibhm6kyuuOG4Oqso
+      :body: "Gracias por su participacion son clinicas de bajo costo.\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-25 16:32:48.601000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5972

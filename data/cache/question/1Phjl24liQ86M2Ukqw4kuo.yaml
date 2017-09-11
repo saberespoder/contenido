@@ -1,0 +1,62 @@
+---
+:id: 1Phjl24liQ86M2Ukqw4kuo
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:38:02+00:00'
+  :created_at: '2017-09-11T05:38:02+00:00'
+  :id: 1Phjl24liQ86M2Ukqw4kuo
+:body: "<p>Salud</p>"
+:permalink: 2015-01-29_salud
+:date: !ruby/object:DateTime 2015-01-29 18:19:50.000000000 -08:00
+:author_name: 'Maria Blanco Blanco '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 7kMgPV32h24qKyKgEsQAAY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:38:01+00:00'
+    :created_at: '2017-09-11T05:38:01+00:00'
+    :id: 7kMgPV32h24qKyKgEsQAAY
+  :body: Estimada Maria, como le podemos ayudar respecto a su tema de salud? SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-30 11:58:05.890000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 4BumaZ1tFYmmeMigSUqQa8
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:38:01+00:00'
+      :created_at: '2017-09-11T05:38:01+00:00'
+      :id: 4BumaZ1tFYmmeMigSUqQa8
+    :body: "Es q yo no puedo pagar un seguro\r\nmedico yo sufro de dolor en mis\r\nhuesos
+      los los doctores lo dijeron\r\nY es para siempre\r\n"
+    :date: !ruby/object:DateTime 2015-01-30 12:30:28.798000000 -08:00
+    :author_name: 'Maria Blanco Blanco '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: Jo4kTPvEkMI8Gmiiw88Qa
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:38:00+00:00'
+        :created_at: '2017-09-11T05:38:00+00:00'
+        :id: Jo4kTPvEkMI8Gmiiw88Qa
+      :body: "Gracias por su pregunta Maria, le sugerimos acuda a su Ventanilla de
+        Salud que se encuentra en su Consulado y le puedan indicar los diversos recursos
+        médicos que hay disponibles gratuitos o a bajo costo, favor de acudir directamente
+        o comunicarse al: 415-354-1725. //SABEResPODER\r\n"
+      :date: !ruby/object:DateTime 2015-03-02 19:08:31.755000000 -08:00
+      :author_name: 'Lourdes Murrieta '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/122748/uploads_2Ftmp_2F6a813149-17fa-4bd3-90eb-ebe45ee71016_2FYO.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3699

@@ -1,0 +1,106 @@
+---
+:id: 1p5Fjg2Gf2U2a8IkUQIkWs
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:05:26+00:00'
+  :created_at: '2017-09-08T18:05:26+00:00'
+  :id: 1p5Fjg2Gf2U2a8IkUQIkWs
+:body: "<p>Donde puedo conseguir ayuda medica</p>"
+:permalink: donde-puedo-conseguir-ayuda-medica
+:date: !ruby/object:DateTime 2014-08-24 15:50:54.325000000 -07:00
+:author_name: 'gerardo  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2Xxyxf5JdCaCm2OGCiSSkG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:05:26+00:00'
+    :created_at: '2017-09-08T18:05:26+00:00'
+    :id: 2Xxyxf5JdCaCm2OGCiSSkG
+  :body: Donde puedo conseguir ayuda medica
+  :date: !ruby/object:DateTime 2015-10-08 15:14:46.651000000 -07:00
+  :author_name: 'Jorge Barajas '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: kOHFEiOO1EymAsokoOsIQ
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:05:24+00:00'
+      :created_at: '2017-09-08T18:05:24+00:00'
+      :id: kOHFEiOO1EymAsokoOsIQ
+    :body: Sr.Jorge gracias por su participación, en relación a su pregunta sobre
+      ayuda medica necesitamos que por favor nos proporcione su codigo postal para
+      poder ubicarle una clinica de salud a bajo costo en su area, esperamos su respuesta.
+      Gracias!
+    :date: !ruby/object:DateTime 2015-10-09 13:09:27.536000000 -07:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4tU5bW3f6820eaO0WGK0e8
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:05:23+00:00'
+        :created_at: '2017-09-08T18:05:23+00:00'
+        :id: 4tU5bW3f6820eaO0WGK0e8
+      :body: Mi código postal es 79412
+      :date: !ruby/object:DateTime 2015-10-09 17:00:34.989000000 -07:00
+      :author_name: 'Jorge Barajas '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: d10myE25tmIeqYIGmwuyO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:05:25+00:00'
+      :created_at: '2017-09-08T18:05:25+00:00'
+      :id: d10myE25tmIeqYIGmwuyO
+    :body: "Muchas gracias Sr. Jorge y disculpe el retraso, hemos localizado las siguientes
+      clinicas de salud a bajo costo en su area para obtener mas información y para
+      citas póngase en contacto con la clínica directamente:\"Lubbock VA Outpatient
+      Clinic' \r\n6104 Ave Q South Dr \r\nLubbock TX \r\n806-472-3400 /Larry Combest
+      Community Health and Wellness Center \r\n301 40th St. \r\nLubbock TX \r\n806-743-9355/TTUHSC/Lubbock
+      Impact Free Clinic (TTU Health Sciences Center) \r\n2707 34th Street (The Family
+      Church) \r\nLubbock TX \r\n806-799-4320 /\tSlaton Family Medical Clinic \r\n235
+      W. Garza St. B \r\nSlaton TX \r\n806-828-1600 .Recuerde que estamos para servirle#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-10-10 12:52:32.848000000 -07:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3ZjXhobUFyO4ks02qomMQo
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:05:25+00:00'
+        :created_at: '2017-09-08T18:05:25+00:00'
+        :id: 3ZjXhobUFyO4ks02qomMQo
+      :body: Muchas gracias por tomarse el tiempo de ayudarme
+      :date: !ruby/object:DateTime 2015-10-10 13:28:33.968000000 -07:00
+      :author_name: 'Jorge Barajas '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+- :id: 1QZSVG8sgka4OeysmOg06G
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:05:26+00:00'
+    :created_at: '2017-09-08T18:05:26+00:00'
+    :id: 1QZSVG8sgka4OeysmOg06G
+  :body: 'Hola Gerardo, gracias por su consulta. Usted puede recibir ayuda medican
+    en el siguiente centro: CCD Counseling Center of Farmers Branch - Free Family
+    Tree Program. 2727 Lyndon B Johnson Fwy Ste. 406. Dallas TX. Telefono: 972-353-9404.
+    Espero la informacion le sea de mucha ayuda y recuerde que en SABEResPODER estamos
+    para ayudarle.'
+  :date: !ruby/object:DateTime 2014-08-25 11:16:41.944000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 644

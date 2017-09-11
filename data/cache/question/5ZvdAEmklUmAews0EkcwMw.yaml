@@ -1,0 +1,48 @@
+---
+:id: 5ZvdAEmklUmAews0EkcwMw
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:58:35+00:00'
+  :created_at: '2017-09-08T18:58:35+00:00'
+  :id: 5ZvdAEmklUmAews0EkcwMw
+:body: "<p>Como concigo itin </p>"
+:permalink: 2015-02-03_como-concigo-itin
+:date: !ruby/object:DateTime 2015-02-03 12:42:59.000000000 -08:00
+:author_name: 'Miguel Ceballos '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 1dmzNDunhsGusA2yAEyI8S
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 1dmzNDunhsGusA2yAEyI8S
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 4PiqWivhNY8KUYuOIWAcgK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:58:34+00:00'
+    :created_at: '2017-09-08T18:58:34+00:00'
+    :id: 4PiqWivhNY8KUYuOIWAcgK
+  :body: Estimado Miguel muchas gracias por su consulta. Para solicitar un numero
+    ITIN primero que nada debe visitar una oficina de declaracion de impuestos para
+    que le ayuden con el tramite, el cual es totalmente gratis. SABEResPODER
+  :date: !ruby/object:DateTime 2015-02-03 13:09:21.657000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6gw64sYPx6GoAQMy8WEYsm
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:58:34+00:00'
+      :created_at: '2017-09-08T18:58:34+00:00'
+      :id: 6gw64sYPx6GoAQMy8WEYsm
+    :body: 'Gracias '
+    :date: !ruby/object:DateTime 2015-02-03 13:11:09.627000000 -08:00
+    :author_name: 'Miguel Ceballos '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3827

@@ -1,0 +1,70 @@
+---
+:id: LVSKNHA1eEoIeGu4CaY2S
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:18:49+00:00'
+  :created_at: '2017-09-11T05:18:49+00:00'
+  :id: LVSKNHA1eEoIeGu4CaY2S
+:body: "<p>Puedo usar w-2 para pagar mis taxes con mi tax ID. no tengo papeles.</p>"
+:permalink: 2015-05-28_puedo-usar-w-2-para-pagar-mis-taxes-con-mi-tax-id-no-tengo-papeles
+:date: !ruby/object:DateTime 2015-05-28 15:59:53.000000000 -07:00
+:author_name: 'Jessica Alejandre '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 30meUDzgZOwAEqcg84g8Em
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:18:48+00:00'
+    :created_at: '2017-09-11T05:18:48+00:00'
+    :id: 30meUDzgZOwAEqcg84g8Em
+  :body: 'Hola estimada Jessica, agradecemos su pregunta. Si no cuenta con un numero
+    de seguro social puede declarar sus impuestos usando el número ITIN. Si aun no
+    tienen su número ITIN, en el enlace encontrara un vídeo que le explicara el proceso
+    de solicitarlo paso a paso: <a href=''https://www.youtube.com/watch?v=XI7GQ7fs6R''>https://www.youtube.com/watch?v=XI7GQ7fs6R</a>
+    #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-05-29 11:53:56.796000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 1zYh5go0D6IesCQaSSc4Ge
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:18:48+00:00'
+      :created_at: '2017-09-11T05:18:48+00:00'
+      :id: 1zYh5go0D6IesCQaSSc4Ge
+    :body: Entonces si puedo USAR una forma w2?
+    :date: !ruby/object:DateTime 2015-05-29 11:56:15.254000000 -07:00
+    :author_name: 'Jessica Alejandre '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3I8H8dXUaAiQsEKgYIC0g
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:18:48+00:00'
+        :created_at: '2017-09-11T05:18:48+00:00'
+        :id: 3I8H8dXUaAiQsEKgYIC0g
+      :body: 'Si, la W2 es requerida a la hora de presentar sus impuestos. #SABEResPODER'
+      :date: !ruby/object:DateTime 2015-05-29 14:01:48.004000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 7013

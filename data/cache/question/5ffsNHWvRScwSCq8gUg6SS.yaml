@@ -1,0 +1,79 @@
+---
+:id: 5ffsNHWvRScwSCq8gUg6SS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:35:48+00:00'
+  :created_at: '2017-09-08T18:35:48+00:00'
+  :id: 5ffsNHWvRScwSCq8gUg6SS
+:body: "<p>Hola, tengo 10 años acá en este país y tengo un hijo de 9 años nesesito
+  que me ayuden con eso </p>"
+:permalink: hola-tengo-10-anos-aca-en-este-pais-y-tengo-un-hijo-de-9-anos-nesesito-que-me-ayuden-con-eso
+:date: !ruby/object:DateTime 2014-11-21 03:53:57.710000000 -08:00
+:author_name: 'Alejandro Garcia '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 6Cwj9nTrlmK6YK62I6M8SM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:35:46+00:00'
+    :created_at: '2017-09-08T18:35:46+00:00'
+    :id: 6Cwj9nTrlmK6YK62I6M8SM
+  :body: Ok grasias
+  :date: !ruby/object:DateTime 2014-11-21 09:18:58.933000000 -08:00
+  :author_name: 'Alejandro Garcia '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 7eb04XNkCAIIKoskQ24sMg
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:35:48+00:00'
+    :created_at: '2017-09-08T18:35:48+00:00'
+    :id: 7eb04XNkCAIIKoskQ24sMg
+  :body: 'Don Alejandro--su hijo nació en Estados Unidos? La nueva orden ejecutiva
+    cubre a Padres de familia con hijos nacidos en este país (o hijos con residencia
+    permanente) y con presencia en los Estados Unidos de 5 años o más. Si usted ingresó
+    al pais como menor de edad, entonces no hay requisito de tener hijos ciudadanos,
+    siempre y cuando el ingreso a los Estados Unidos se haya dado antes del 1 de enero
+    del 2010 #SABEResPODER!'
+  :date: !ruby/object:DateTime 2014-11-21 08:30:25.815000000 -08:00
+  :author_name: Raul   - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/90/IMG_3754.JPG
+  :answers:
+  - :id: 4jemUAc5v2K46qkAGauEQA
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:35:47+00:00'
+      :created_at: '2017-09-08T18:35:47+00:00'
+      :id: 4jemUAc5v2K46qkAGauEQA
+    :body: Entonces que devo de hacer, buscar un abogado?
+    :date: !ruby/object:DateTime 2014-11-21 09:00:45.216000000 -08:00
+    :author_name: 'Alejandro Garcia '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4kpqz7tne0eOkeQaCWmOaG
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:35:47+00:00'
+        :created_at: '2017-09-08T18:35:47+00:00'
+        :id: 4kpqz7tne0eOkeQaCWmOaG
+      :body: 'Don Alejandro: Esperar unas semanas más hasta que se de a conocer el
+        proceso. Favor de estar pendiente a su noticiero, y visite esta página seguido.
+        Nosotros estaremos actualizando esta información e incluso estaremos proporcionando
+        servicios de organizaciones sin fines de lucro que ayudarán en el proceso.
+        #SABEResPODER!'
+      :date: !ruby/object:DateTime 2014-11-21 09:15:21.798000000 -08:00
+      :author_name: Raul   - SABEResPODER
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/90/IMG_3754.JPG
+      :from_admin: true
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 1758

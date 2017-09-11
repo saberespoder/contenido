@@ -1,0 +1,49 @@
+---
+:id: 6nuTVxJgUE4yII2U2CgY4S
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:36:15+00:00'
+  :created_at: '2017-09-11T05:36:15+00:00'
+  :id: 6nuTVxJgUE4yII2U2CgY4S
+:body: "<p>Hola nesecito un dentista</p>"
+:permalink: 2015-04-27_hola-nesecito-un-dentista
+:date: !ruby/object:DateTime 2015-04-27 12:32:00.000000000 -07:00
+:author_name: 'Edith Martinez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5qNblNAVLG0qkMme6emYug
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:36:15+00:00'
+    :created_at: '2017-09-11T05:36:15+00:00'
+    :id: 5qNblNAVLG0qkMme6emYug
+  :body: "Gracias por su pregunta, con gusto le mando dos opciones de dentistas en
+    Dallas: Concorde Career College\r\n12606 Greenville Avenue, Suite 130\r\nDallas,
+    TX 75243\r\n(469) 221-3454\r\n Baylor College of Dentistry <a href='http://bcd.tamhsc.edu'>http://bcd.tamhsc.edu</a>
+    3302 Gaston Ave. Dallas, TX 75246 (214) 828-8100 #SABEResPODER"
+  :date: !ruby/object:DateTime 2015-04-27 12:59:04.599000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 114UQopbN28CyQC0kUoAsW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:36:14+00:00'
+      :created_at: '2017-09-11T05:36:14+00:00'
+      :id: 114UQopbN28CyQC0kUoAsW
+    :body: Hola nesecito un podologo gracias en el area d denton
+    :date: !ruby/object:DateTime 2015-05-07 20:46:31.686000000 -07:00
+    :author_name: 'Edith Martinez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6841

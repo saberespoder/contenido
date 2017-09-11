@@ -1,0 +1,70 @@
+---
+:id: 57M4aFyi488kOO2w4MisoS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T19:00:53+00:00'
+  :created_at: '2017-09-08T19:00:53+00:00'
+  :id: 57M4aFyi488kOO2w4MisoS
+:body: "<p>Quiero sacar una licensia</p>"
+:permalink: 2015-03-12_quiero-sacar-una-licensia
+:date: !ruby/object:DateTime 2015-03-12 23:35:19.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 4rxdAoKOOsAOKqKUqQyqMQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T19:00:52+00:00'
+    :created_at: '2017-09-08T19:00:52+00:00'
+    :id: 4rxdAoKOOsAOKqKUqQyqMQ
+  :body: "Gracias por su interes dependiendo del estado y la ciudad donde Usted vive
+    seran los requisitos .\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-14 08:19:04.961000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 56a66bO74I2IwOAOO6qA6k
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T19:00:51+00:00'
+      :created_at: '2017-09-08T19:00:51+00:00'
+      :id: 56a66bO74I2IwOAOO6qA6k
+    :body: En anaheim ca.
+    :date: !ruby/object:DateTime 2015-03-14 10:00:53.699000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4nKm5dx9bi8GWu0cWWwYUQ
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T19:00:51+00:00'
+        :created_at: '2017-09-08T19:00:51+00:00'
+        :id: 4nKm5dx9bi8GWu0cWWwYUQ
+      :body: "Gracias por su pregunta, los requisitos que solicita el DMV son una
+        identificación oficial, comprobar residencia en California, el pago de $33
+        dlls,  obtener foto y huellas y aprobar el examen de la vista, escrito y practico.\r\nFavor
+        haga click al siguiente link\r\n\r\n<a href='http://contenido.saberespoder.com/articulos/educaci%C3%B3n/requisitos-para-obtener-su-licencia-de-conducir-la-entrevista-con-el-dmv'>http://contenido.saberespoder.com/articulos/educaci%C3%B3n/requisitos-para-obtener-su-licencia-de-conducir-la-entrevista-con-el-dmv</a>\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-28 12:51:53.611000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5574

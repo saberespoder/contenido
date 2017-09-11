@@ -1,0 +1,69 @@
+---
+:id: ttAM20F8zIK2Ms6gssq8I
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:05:20+00:00'
+  :created_at: '2017-09-11T05:05:20+00:00'
+  :id: ttAM20F8zIK2Ms6gssq8I
+:body: "<p>Education</p>"
+:permalink: 2015-01-29_education
+:date: !ruby/object:DateTime 2015-01-29 18:05:09.000000000 -08:00
+:author_name: 'Benigno Navarro '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 48AIEKsb4cy6AmGYeagQsi
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:05:18+00:00'
+    :created_at: '2017-09-11T05:05:18+00:00'
+    :id: 48AIEKsb4cy6AmGYeagQsi
+  :body: 'Estimado Sr.Navarro: En que le podemos ayudar con el tema de la Educacion?
+    Gracias por Participar! Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-01-30 17:42:45.506000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 5lDJxtYQSsEUoQiUk0CyWY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:05:20+00:00'
+    :created_at: '2017-09-11T05:05:20+00:00'
+    :id: 5lDJxtYQSsEUoQiUk0CyWY
+  :body: 'Estimado Sr. Navarro: que necesita saber del tema Educacion'
+  :date: !ruby/object:DateTime 2015-01-30 17:41:42.057000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5nQi5kDPTq2Egew2IGyQom
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:05:19+00:00'
+      :created_at: '2017-09-11T05:05:19+00:00'
+      :id: 5nQi5kDPTq2Egew2IGyQom
+    :body: Como estar. Bien.  Con.  La Familia
+    :date: !ruby/object:DateTime 2015-01-30 17:51:48.173000000 -08:00
+    :author_name: 'Benigno Navarro '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: jo8eC83sAgQgkAW0S2Seg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:05:19+00:00'
+      :created_at: '2017-09-11T05:05:19+00:00'
+      :id: jo8eC83sAgQgkAW0S2Seg
+    :body: Como estar. Bien.  Con.  La Familia
+    :date: !ruby/object:DateTime 2015-01-30 17:51:48.629000000 -08:00
+    :author_name: 'Benigno Navarro '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 3695

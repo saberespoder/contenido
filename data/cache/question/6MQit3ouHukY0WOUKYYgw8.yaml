@@ -1,0 +1,61 @@
+---
+:id: 6MQit3ouHukY0WOUKYYgw8
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T19:01:55+00:00'
+  :created_at: '2017-09-08T19:01:55+00:00'
+  :id: 6MQit3ouHukY0WOUKYYgw8
+:body: "<p>Yo kiero saber por que mi aplicación de dream act ya tardó mas de un año
+  y me dicen que siga en revisión </p>"
+:permalink: yo-kiero-saber-por-que-mi-aplicacion-de-dream-act-ya-tardo-mas-de-un-ano-y-me-dicen-que-siga-en-revision
+:date: !ruby/object:DateTime 2014-11-05 06:51:03.273000000 -08:00
+:author_name: 'Lorenzo Ortiz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 3mwevVuvc4a0qU6CUYE248
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T19:01:55+00:00'
+    :created_at: '2017-09-08T19:01:55+00:00'
+    :id: 3mwevVuvc4a0qU6CUYE248
+  :body: 'Hola Loreno, cada caso de inmigracion es distinto. Le recomendariamos se
+    comunique con USCIS a su telefono gratuito para que le den informacion mas detallada
+    sobre su caso en especifico: 1-800-375-5283 SABEResPODER'
+  :date: !ruby/object:DateTime 2014-11-05 11:12:27.441000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 5YYp6zTr3Ok4OaY2cY4M6g
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T19:01:54+00:00'
+      :created_at: '2017-09-08T19:01:54+00:00'
+      :id: 5YYp6zTr3Ok4OaY2cY4M6g
+    :body: Grasia aaron
+    :date: !ruby/object:DateTime 2014-11-05 11:14:02.972000000 -08:00
+    :author_name: 'Lorenzo Ortiz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2WuxtItKViwEcKsooYcwsc
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T19:01:54+00:00'
+        :created_at: '2017-09-08T19:01:54+00:00'
+        :id: 2WuxtItKViwEcKsooYcwsc
+      :body: Estamos para ayudarle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-05 12:02:11.463000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1341

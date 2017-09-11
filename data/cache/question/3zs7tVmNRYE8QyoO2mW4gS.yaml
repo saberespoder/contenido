@@ -1,0 +1,64 @@
+---
+:id: 3zs7tVmNRYE8QyoO2mW4gS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:48:23+00:00'
+  :created_at: '2017-09-11T05:48:23+00:00'
+  :id: 3zs7tVmNRYE8QyoO2mW4gS
+:body: "<p>Ged</p>"
+:permalink: 2015-07-15_ged
+:date: !ruby/object:DateTime 2015-07-15 14:57:02.000000000 -07:00
+:author_name: 'Claudia Gonzalez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 37gSSB9sU0cUgCmyWiIwuk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:48:21+00:00'
+    :created_at: '2017-09-11T05:48:21+00:00'
+    :id: 37gSSB9sU0cUgCmyWiIwuk
+  :body: "Hola Claudia, gracias por enviarnos ese dato, le hemos localizado estas
+    escuelas que ofrecen las clases de preparacion del GED, llameles para conocer
+    horarios: \"Faith Waiting To Excel Education\"910 E Washington St\r\nPhoenix,
+    AZ 85034 Tel: 520 509-4840 / \"Valley View Family Literacy Program\"8220 S 7th
+    Ave\r\nPhoenix, AZ 85041 Tel:602-232-4985 x 10647/Chicanos Por La Causa Workforce
+    Development Center 6850 W Indian School Road \r\nPhoenix, AZ 85033 Tel:602.269.6485 "
+  :date: !ruby/object:DateTime 2015-07-17 08:45:44.157000000 -07:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 3bCgQuCoRaCmgyI0KCOcMu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:48:22+00:00'
+    :created_at: '2017-09-11T05:48:22+00:00'
+    :id: 3bCgQuCoRaCmgyI0KCOcMu
+  :body: Hola Claudia Bienvenida a SABEResPODER para sus clases de GED podria ser
+    tan amable de proporcionarnos el codigo postal de su ciudad para ubicarle las
+    escuelas cercanas a su area para enviarle la informacion.
+  :date: !ruby/object:DateTime 2015-07-15 15:11:24.155000000 -07:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4ZbREQ18iQaUUCW2GcoQK4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:48:22+00:00'
+      :created_at: '2017-09-11T05:48:22+00:00'
+      :id: 4ZbREQ18iQaUUCW2GcoQK4
+    :body: '85035'
+    :date: !ruby/object:DateTime 2015-07-17 03:33:39.387000000 -07:00
+    :author_name: 'Claudia Gonzalez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 7456

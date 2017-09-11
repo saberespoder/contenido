@@ -1,0 +1,73 @@
+---
+:id: 2vZQ50Vn0oo2IkSk0mkYuA
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:28:43+00:00'
+  :created_at: '2017-09-08T18:28:43+00:00'
+  :id: 2vZQ50Vn0oo2IkSk0mkYuA
+:body: "<p>Gracias por el servicio que nos están proporcionando</p>"
+:permalink: 2015-02-01_gracias-por-el-servicio-que-nos-estan-proporcionando
+:date: !ruby/object:DateTime 2015-02-01 18:20:12.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 6hMS0bfKGQIeMSkw8W4aKy
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:28:40+00:00'
+    :created_at: '2017-09-08T18:28:40+00:00'
+    :id: 6hMS0bfKGQIeMSkw8W4aKy
+  :body: 'Muchas Gracias '
+  :date: !ruby/object:DateTime 2015-02-02 16:47:13.322000000 -08:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 1ksv96sdFy6soqkKIoqg44
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:28:41+00:00'
+    :created_at: '2017-09-08T18:28:41+00:00'
+    :id: 1ksv96sdFy6soqkKIoqg44
+  :body: Es un verdadero gusto saber que estamos proporcionando ayuda a nuestra comunidad.
+    Recuerde que estamos aqui para asistirle de la mejor manera y tambien recuerde
+    que SABEResPODER.
+  :date: !ruby/object:DateTime 2015-02-02 10:55:27.353000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 1IpKOw8TeYSIQQ4y8qoY2e
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:28:40+00:00'
+      :created_at: '2017-09-08T18:28:40+00:00'
+      :id: 1IpKOw8TeYSIQQ4y8qoY2e
+    :body: 'Muchas gracias. Tengo otra pregunta.  Van a seguir mandando mas preguntas
+      del examen de manejo.  '
+    :date: !ruby/object:DateTime 2015-02-02 12:28:56.627000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6WFQx0INJmWy4wQy0wMQ0c
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:28:40+00:00'
+        :created_at: '2017-09-08T18:28:40+00:00'
+        :id: 6WFQx0INJmWy4wQy0wMQ0c
+      :body: Gracias por su comentario, usted puede accesar a nuestra pagina de contenido
+        y tomar los examenes de practica que tenemos. SABEResPODER
+      :date: !ruby/object:DateTime 2015-02-02 14:36:39.105000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3789

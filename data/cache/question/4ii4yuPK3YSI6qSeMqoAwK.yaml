@@ -1,0 +1,47 @@
+---
+:id: 4ii4yuPK3YSI6qSeMqoAwK
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:34:18+00:00'
+  :created_at: '2017-09-11T05:34:18+00:00'
+  :id: 4ii4yuPK3YSI6qSeMqoAwK
+:body: "<p>Imigracion</p>"
+:permalink: 2015-01-21_imigracion
+:date: !ruby/object:DateTime 2015-01-21 18:28:45.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 6Yjzdnuxsk86IOk8W82U4I
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:34:17+00:00'
+    :created_at: '2017-09-11T05:34:17+00:00'
+    :id: 6Yjzdnuxsk86IOk8W82U4I
+  :body: Hola estimado usuario, agradecemos su comentario. ¿Que información sobre
+    migración le podemos proporcionar? SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-23 12:09:58.518000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: Q0buaGbaGAaIq0sqeWMCS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:34:17+00:00'
+      :created_at: '2017-09-11T05:34:17+00:00'
+      :id: Q0buaGbaGAaIq0sqeWMCS
+    :body: " la persona fue detenida hace mas de 15 años."
+    :date: !ruby/object:DateTime 2015-01-23 12:55:54.389000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3254

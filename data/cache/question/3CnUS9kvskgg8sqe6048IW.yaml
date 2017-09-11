@@ -1,0 +1,57 @@
+---
+:id: 3CnUS9kvskgg8sqe6048IW
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:40:17+00:00'
+  :created_at: '2017-09-11T05:40:17+00:00'
+  :id: 3CnUS9kvskgg8sqe6048IW
+:body: "<p>Hola y gracias por toda information que realmente Si Ed buena mi pregunta
+  Es Si yo vivo en el condado de westchester puedo optere el IDNYC</p>"
+:permalink: 2015-02-23_hola-y-gracias-por-toda-information-que-realmente-si-ed-buena-mi-pregunta-es-si-yo-vivo-en-el-condado-de-westchester-puedo-optere-el-idnyc
+:date: !ruby/object:DateTime 2015-02-23 13:25:34.000000000 -08:00
+:author_name: 'Maricela Sanchez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 535SS1WNzyYaekas0WcM8w
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 535SS1WNzyYaekas0WcM8w
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: rwQXgD6DwyAiMw02mWmaG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:40:17+00:00'
+    :created_at: '2017-09-11T05:40:17+00:00'
+    :id: rwQXgD6DwyAiMw02mWmaG
+  :body: Hola estimada Maricela es un placer poder ayudarla a través de la información
+    que proporcionamos. Solo los residentes de la ciudad de Nueva York mayores de
+    14 años califican para la identificación IDNYC. SABEResPODER
+  :date: !ruby/object:DateTime 2015-02-23 16:42:49.920000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 5INkTFA3f2Wu4AI2K02EcU
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:40:16+00:00'
+      :created_at: '2017-09-11T05:40:16+00:00'
+      :id: 5INkTFA3f2Wu4AI2K02EcU
+    :body: 'Muchas gracias '
+    :date: !ruby/object:DateTime 2015-02-23 16:52:51.690000000 -08:00
+    :author_name: 'Maricela Sanchez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 4728

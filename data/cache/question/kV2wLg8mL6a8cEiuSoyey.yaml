@@ -1,0 +1,73 @@
+---
+:id: kV2wLg8mL6a8cEiuSoyey
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:07:03+00:00'
+  :created_at: '2017-09-11T05:07:03+00:00'
+  :id: kV2wLg8mL6a8cEiuSoyey
+:body: "<p>Pueden ayudarme a tramitar una licencia, no tengo social securiti, o no
+  se puede </p>"
+:permalink: 2015-01-16_pueden-ayudarme-a-tramitar-una-licencia-no-tengo-social-securiti-o-no-se-puede
+:date: !ruby/object:DateTime 2015-01-16 11:46:58.000000000 -08:00
+:author_name: 'Dora loya Ramirez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: zJGwKLcJz2KSmyqcc0640
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:07:02+00:00'
+    :created_at: '2017-09-11T05:07:02+00:00'
+    :id: zJGwKLcJz2KSmyqcc0640
+  :body: Hola Dora, hasta el momento en su estado no se esta proporcionando este tipo
+    de licencias en especifico. Cuando se tenga alguna novedad sobre las mismas, nosotros
+    con mucho gusto se lo estaremos dando a conocer. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-16 13:54:52.950000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: k5Hg8u9cS462KUcAG0GYi
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:07:01+00:00'
+      :created_at: '2017-09-11T05:07:01+00:00'
+      :id: k5Hg8u9cS462KUcAG0GYi
+    :body: 'Muchas gracias '
+    :date: !ruby/object:DateTime 2015-01-16 13:55:58.953000000 -08:00
+    :author_name: 'Dora loya Ramirez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: Nc6xnTeSKAUq8GoU028YO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:07:02+00:00'
+      :created_at: '2017-09-11T05:07:02+00:00'
+      :id: Nc6xnTeSKAUq8GoU028YO
+    :body: Y disculpe a tramitar una licencia mexicana desde aqui no pueden ayudarme?
+    :date: !ruby/object:DateTime 2015-01-16 14:02:54.848000000 -08:00
+    :author_name: 'Dora loya Ramirez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 681R2DahBSg0q8AAcEMkq6
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:07:01+00:00'
+        :created_at: '2017-09-11T05:07:01+00:00'
+        :id: 681R2DahBSg0q8AAcEMkq6
+      :body: Estimada Dora, las licencia de conducir Mexicana no se pueden tramitar
+        desde los Estados Unidos. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-16 14:36:51.901000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3042

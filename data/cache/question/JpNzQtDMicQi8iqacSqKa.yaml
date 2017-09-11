@@ -1,0 +1,62 @@
+---
+:id: JpNzQtDMicQi8iqacSqKa
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:53:33+00:00'
+  :created_at: '2017-09-08T18:53:33+00:00'
+  :id: JpNzQtDMicQi8iqacSqKa
+:body: "<p>Becas universitarias</p>"
+:permalink: becas-universitarias
+:date: !ruby/object:DateTime 2014-08-21 11:52:20.434000000 -07:00
+:author_name: 'Elizabeth Martinez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 7q64iGLh9mmYESwUkyoec2
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:53:30+00:00'
+    :created_at: '2017-09-08T18:53:30+00:00'
+    :id: 7q64iGLh9mmYESwUkyoec2
+  :body: 'Hola Elizabeth, muchas gracias por su pregunta sobre becas. Por favor lea
+    el siguiente arituclo y encuentre una lista de instituciones que ofrecen becas
+    universitarias para estudiantes latinos: <a href=''http://bit.ly/1lS3751''>http://bit.ly/1lS3751</a>'
+  :date: !ruby/object:DateTime 2014-08-21 12:11:21.470000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+- :id: 2jlMttVlZSOoSQ4mcwWUW4
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:53:32+00:00'
+    :created_at: '2017-09-08T18:53:32+00:00'
+    :id: 2jlMttVlZSOoSQ4mcwWUW4
+  :body: Licencias de manejo
+  :date: !ruby/object:DateTime 2014-08-21 11:53:18.768000000 -07:00
+  :author_name: 'Elizabeth Martinez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 77f2FgeQV2wGiAku4KU4yI
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:53:31+00:00'
+      :created_at: '2017-09-08T18:53:31+00:00'
+      :id: 77f2FgeQV2wGiAku4KU4yI
+    :body: 'Elizabeth, agradecemos su interes sobre las licencias de manejo y le tenemos
+      el siguiente articulo con informacion valiosa sobre las licencias de conducir:
+      <a href=''http://bit.ly/1l1qMPc''>http://bit.ly/1l1qMPc</a>  Si requiere mas
+      informacion contactenos, recuerde que estamos aqui para ayudarle. SABEResPODER'
+    :date: !ruby/object:DateTime 2014-08-21 12:13:26.797000000 -07:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 641

@@ -1,0 +1,82 @@
+---
+:id: 62kiMZWvCgOUE2caas6k8c
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:25:07+00:00'
+  :created_at: '2017-09-11T05:25:07+00:00'
+  :id: 62kiMZWvCgOUE2caas6k8c
+:body: "<p>Estar an en New York </p>"
+:permalink: estar-an-en-new-york
+:date: !ruby/object:DateTime 2014-10-03 16:00:59.890000000 -07:00
+:author_name: 'Marcelino Castillo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4xtLbu8XLyu2yyi4SUsOq2
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:25:06+00:00'
+    :created_at: '2017-09-11T05:25:06+00:00'
+    :id: 4xtLbu8XLyu2yyi4SUsOq2
+  :body: Hola Marcelino, la semana binacional de la salud se llevara a cabo en todos
+    los consulados mexicanos, es totalmente gratis y durara hasta el dia 18 de octubre.
+    SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-13 13:37:52.182000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 7zS5uKvB4sgAEIMmuo22Oq
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:25:06+00:00'
+      :created_at: '2017-09-11T05:25:06+00:00'
+      :id: 7zS5uKvB4sgAEIMmuo22Oq
+    :body: 'Todo tipo de preguntas de salud y cualquier otra pregunta .... '
+    :date: !ruby/object:DateTime 2014-10-13 13:40:11.609000000 -07:00
+    :author_name: 'Marcelino Castillo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2e9A7aUXqQmgoO0yMkayKU
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:25:05+00:00'
+        :created_at: '2017-09-11T05:25:05+00:00'
+        :id: 2e9A7aUXqQmgoO0yMkayKU
+      :body: Asi es Marcelino, todo lo relacionado con la salud y tambien preguntas
+        de carcater general, podran ser contestadas si usted asiste a su consulado
+        mas cercano. SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-13 13:54:08.629000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :answers:
+      - :id: 1uR9u7vv3m4EOKEogMIk2k
+        :_meta:
+          :content_type_id: answer
+          :updated_at: '2017-09-11T05:25:05+00:00'
+          :created_at: '2017-09-11T05:25:05+00:00'
+          :id: 1uR9u7vv3m4EOKEogMIk2k
+        :body: Gracias que tenga cada dia sea súper para ti
+        :date: !ruby/object:DateTime 2014-10-13 14:24:48.707000000 -07:00
+        :author_name: 'Marcelino Castillo '
+        :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+        :from_admin: false
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 989

@@ -1,0 +1,75 @@
+---
+:id: 58HvgF3MvuMo4IoYK6S8uY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:29:58+00:00'
+  :created_at: '2017-09-08T18:29:58+00:00'
+  :id: 58HvgF3MvuMo4IoYK6S8uY
+:body: "<p>Informacion de Seguros de salud</p>"
+:permalink: 2015-01-20_informacion-de-seguros-de-salud
+:date: !ruby/object:DateTime 2015-01-20 17:22:14.000000000 -08:00
+:author_name: 'Moises Centena '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4AzgoqumtaEqyqUoCea8Ey
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:29:58+00:00'
+    :created_at: '2017-09-08T18:29:58+00:00'
+    :id: 4AzgoqumtaEqyqUoCea8Ey
+  :body: 'Hola Moises, gracias por su pregunta. En el siguiente enlaca usted podra
+    encontrar un articulo con informacion valiosa sobre los seguros medicos: <a href=''http://bit.ly/1FQBGTd''>http://bit.ly/1FQBGTd</a>
+    SABEResPODER'
+  :date: !ruby/object:DateTime 2015-01-22 11:04:45.419000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: AYfvVfWXhQ4WwI6weIwk6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:29:57+00:00'
+      :created_at: '2017-09-08T18:29:57+00:00'
+      :id: AYfvVfWXhQ4WwI6weIwk6
+    :body: Como puedo encontrar un Seguro gratuito?
+    :date: !ruby/object:DateTime 2015-01-22 17:41:11.188000000 -08:00
+    :author_name: 'Moises Centena '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: zuh2xiZNGS0s6qOIgs4kY
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:29:57+00:00'
+        :created_at: '2017-09-08T18:29:57+00:00'
+        :id: zuh2xiZNGS0s6qOIgs4kY
+      :body: 'Estimado Moises, desafortundamente los seguros medicos siempre tiene
+        un costo, algunos mas baratos, otros mas caros, no asi gratis. Como alternativa
+        usted puede asistir a una clinica de atencion medica de bajo costo. Aqui le
+        dejamos la informacion de una clinica: Planned Parenthood - Newburgh Health
+        Center. 136 Lake Street Suite 11. Newburgh NY. Telefono: 845-562-7800. SABEResPODER'
+      :date: !ruby/object:DateTime 2015-01-23 14:20:13.293000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  - :id: 3r0Pp2GUpG8MqUKcAOcQkS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:29:58+00:00'
+      :created_at: '2017-09-08T18:29:58+00:00'
+      :id: 3r0Pp2GUpG8MqUKcAOcQkS
+    :body: Grasias por la ayuda
+    :date: !ruby/object:DateTime 2015-01-23 14:23:39.172000000 -08:00
+    :author_name: 'Moises Centena '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3130

@@ -1,0 +1,50 @@
+---
+:id: L8ju6oXgqcGWAQ6ISWE0c
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:04:25+00:00'
+  :created_at: '2017-09-11T05:04:25+00:00'
+  :id: L8ju6oXgqcGWAQ6ISWE0c
+:body: "<p>Ayuda para lentes</p>"
+:permalink: 2015-01-21_ayuda-para-lentes
+:date: !ruby/object:DateTime 2015-01-21 13:57:57.000000000 -08:00
+:author_name: 'Andres Santiago '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5T6BdsFaSWA6yE6uuYYO4U
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:04:25+00:00'
+    :created_at: '2017-09-11T05:04:25+00:00'
+    :id: 5T6BdsFaSWA6yE6uuYYO4U
+  :body: Hola estimada Andres, agradecemos su pregunta. Le recomendamos que se acerque
+    o se comunique a la ventanilla de salud de su consulado para que la proporcione
+    referencias de clínicas que ofrezcan servicios de optometría a bajo costo en su
+    área. La atención de la ventanilla es totalmente gratis y no es necesario hacer
+    una cita para ser atendido.SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-23 12:32:21.595000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: QqXZadlmYSAI02W4ccq8q
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:04:24+00:00'
+      :created_at: '2017-09-11T05:04:24+00:00'
+      :id: QqXZadlmYSAI02W4ccq8q
+    :body: Ok gracias
+    :date: !ruby/object:DateTime 2015-01-23 13:40:48.020000000 -08:00
+    :author_name: 'Andres Santiago '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3236

@@ -1,0 +1,60 @@
+---
+:id: 4DNNc8ea5aGOqOCwKam4iY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:43:58+00:00'
+  :created_at: '2017-09-08T18:43:58+00:00'
+  :id: 4DNNc8ea5aGOqOCwKam4iY
+:body: "<p>Como dejó de comer pan</p>"
+:permalink: 2015-03-04_como-dejo-de-comer-pan
+:date: !ruby/object:DateTime 2015-03-04 21:15:29.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 3Kn3322EgMU8GcSoCsyQsK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:43:58+00:00'
+    :created_at: '2017-09-08T18:43:58+00:00'
+    :id: 3Kn3322EgMU8GcSoCsyQsK
+  :body: "Estimado Usuario la mejor forma es la disciplina al ir de compras alejarnos
+    de los productos que sabemos no benefician nuestro peso, asi que no comprarlo
+    es una buena manera de comenzar.\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-05 07:35:25.036000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 2p015xpNxiWyYegg6kOcI4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:43:57+00:00'
+      :created_at: '2017-09-08T18:43:57+00:00'
+      :id: 2p015xpNxiWyYegg6kOcI4
+    :body: 'Gracias por la respuesta '
+    :date: !ruby/object:DateTime 2015-03-05 15:07:49.947000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: TY6wW9ztQYasiW0AMMmYu
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:43:57+00:00'
+        :created_at: '2017-09-08T18:43:57+00:00'
+        :id: TY6wW9ztQYasiW0AMMmYu
+      :body: "Gracias!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-04-03 17:36:14.711000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5186

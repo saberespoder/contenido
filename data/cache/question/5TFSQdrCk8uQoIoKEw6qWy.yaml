@@ -1,0 +1,49 @@
+---
+:id: 5TFSQdrCk8uQoIoKEw6qWy
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:23:59+00:00'
+  :created_at: '2017-09-08T18:23:59+00:00'
+  :id: 5TFSQdrCk8uQoIoKEw6qWy
+:body: "<p>Donde ay un dentista cerka de mi área 75228</p>"
+:permalink: donde-ay-un-dentista-cerka-de-mi-area-75228
+:date: !ruby/object:DateTime 2014-12-07 13:32:30.956000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2tQykYJdGgcsywikEewukO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:23:58+00:00'
+    :created_at: '2017-09-08T18:23:58+00:00'
+    :id: 2tQykYJdGgcsywikEewukO
+  :body: El sistema me indica que usted vive en Dallas--de ser así le recomendamos
+    la clínica dental comunitaria de bajo costo (y en ocasiones hasta gratuita) en
+    Concorde College situada en el 12606 Green Village Avenue, Suite 130, Dallas,
+    TX 75243. El Telefono es 469.221.3454
+  :date: !ruby/object:DateTime 2014-12-08 07:51:14.396000000 -08:00
+  :author_name: Raul   - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/90/IMG_3754.JPG
+  :answers:
+  - :id: 1KRbrDacMk6SAY68ws4ywg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:23:57+00:00'
+      :created_at: '2017-09-08T18:23:57+00:00'
+      :id: 1KRbrDacMk6SAY68ws4ywg
+    :body: Gracias Raúl Lomeli
+    :date: !ruby/object:DateTime 2014-12-08 07:52:42.519000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 2065

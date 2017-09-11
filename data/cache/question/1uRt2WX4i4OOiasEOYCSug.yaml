@@ -1,0 +1,47 @@
+---
+:id: 1uRt2WX4i4OOiasEOYCSug
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:35:50+00:00'
+  :created_at: '2017-09-11T05:35:50+00:00'
+  :id: 1uRt2WX4i4OOiasEOYCSug
+:body: "<p>Un dentista cerca donde vivo</p>"
+:permalink: 2015-04-07_un-dentista-cerca-donde-vivo
+:date: !ruby/object:DateTime 2015-04-07 10:40:23.000000000 -07:00
+:author_name: 'Manuela Lobatos '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4g5j1zOsnuYkAM6aQmK2UK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:35:49+00:00'
+    :created_at: '2017-09-11T05:35:49+00:00'
+    :id: 4g5j1zOsnuYkAM6aQmK2UK
+  :body: "Estimada Manuela: Baylor College of Dentistry\r\n<a href='http://bcd.tamhsc.edu.'>http://bcd.tamhsc.edu.</a>\r\n
+    3302 Gaston Ave.\r\n Dallas, TX 75246.\r\n(214) 828-8100 .#Saber es Poder!"
+  :date: !ruby/object:DateTime 2015-04-07 18:11:55.404000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6vJ8R2pafKy6giIIeeqgYY
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:35:49+00:00'
+      :created_at: '2017-09-11T05:35:49+00:00'
+      :id: 6vJ8R2pafKy6giIIeeqgYY
+    :body: Gracias martha
+    :date: !ruby/object:DateTime 2015-04-07 18:29:55.295000000 -07:00
+    :author_name: 'Manuela Lobatos '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 6180

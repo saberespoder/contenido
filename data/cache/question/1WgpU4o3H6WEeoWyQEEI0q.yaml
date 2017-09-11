@@ -1,0 +1,49 @@
+---
+:id: 1WgpU4o3H6WEeoWyQEEI0q
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:26:52+00:00'
+  :created_at: '2017-09-11T05:26:52+00:00'
+  :id: 1WgpU4o3H6WEeoWyQEEI0q
+:body: "<p>Hola mi nombre es Andrea y mi esposo qiere obtener la licensia pero no
+  sabemos que bill se reciere y como podemos hacer la cita? </p>"
+:permalink: hola-mi-nombre-es-andrea-y-mi-esposo-qiere-obtener-la-licensia-pero-no-sabemos-que-bill-se-reciere-y-como-podemos-hacer-la-cita
+:date: !ruby/object:DateTime 2014-11-20 19:46:23.083000000 -08:00
+:author_name: 'Andrea Hernandez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 32gwKqmnfGQIcW6Gu4C4ik
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:26:52+00:00'
+    :created_at: '2017-09-11T05:26:52+00:00'
+    :id: 32gwKqmnfGQIcW6Gu4C4ik
+  :body: Hola Andrea, la cita se por teléfono en el DMV y lo referente al bill este
+    puede ser un recibo de utilidades (luz, agua, etc.) o de su renta, todo que muestre
+    la dirección donde ustedes residen. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-21 15:42:54.020000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3Z0IaysgRWAuWgMC4AeIqA
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:26:51+00:00'
+      :created_at: '2017-09-11T05:26:51+00:00'
+      :id: 3Z0IaysgRWAuWgMC4AeIqA
+    :body: Gracias Aaron ya ise cita.
+    :date: !ruby/object:DateTime 2014-11-21 16:10:15.988000000 -08:00
+    :author_name: 'Andrea Hernandez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1678

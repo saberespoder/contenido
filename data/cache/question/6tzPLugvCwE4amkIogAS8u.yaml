@@ -1,0 +1,69 @@
+---
+:id: 6tzPLugvCwE4amkIogAS8u
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:22:18+00:00'
+  :created_at: '2017-09-11T05:22:18+00:00'
+  :id: 6tzPLugvCwE4amkIogAS8u
+:body: "<p>Salud. Trabajo. </p>"
+:permalink: 2015-03-25_salud-trabajo
+:date: !ruby/object:DateTime 2015-03-25 19:23:16.000000000 -07:00
+:author_name: 'Sra. Jesus Avila '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 6FHI3rwfuwmuiaK6aKOCOO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:22:18+00:00'
+    :created_at: '2017-09-11T05:22:18+00:00'
+    :id: 6FHI3rwfuwmuiaK6aKOCOO
+  :body: "Estimado Jesus: Que tipo de informacion con respecto a la Salud  necesita
+    conocer? Con respecto al Tema de Trabajo, con gusto le podemos informar  cuando
+    haya algunas oportunidades de empleo disponibles o proyectos en donde tenga la
+    posibilidad de obtener alguna compensación económica.#SABEResPODER \r\n"
+  :date: !ruby/object:DateTime 2015-03-26 19:01:04.332000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1R23JXNtLiyok8eukCSkE6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:22:17+00:00'
+      :created_at: '2017-09-11T05:22:17+00:00'
+      :id: 1R23JXNtLiyok8eukCSkE6
+    :body: Gracias.  Dios.  Los. Bendiga.
+    :date: !ruby/object:DateTime 2015-03-30 15:44:31.747000000 -07:00
+    :author_name: 'Sra. Jesus Avila '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4vKlUECh8kISwIaSMiI44g
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:22:17+00:00'
+        :created_at: '2017-09-11T05:22:17+00:00'
+        :id: 4vKlUECh8kISwIaSMiI44g
+      :body: "Para Servirle!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-30 16:39:52.602000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 5987

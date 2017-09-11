@@ -1,0 +1,72 @@
+---
+:id: HubNJKAEOyWGq8eQEui4W
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:30:48+00:00'
+  :created_at: '2017-09-08T18:30:48+00:00'
+  :id: HubNJKAEOyWGq8eQEui4W
+:body: "<p>Hola me gustaría hir a un doctor siento malestares pero no quisiera pagar
+  mucho y no tengo seguro medico mi código postal es 75074 gracias </p>"
+:permalink: 2015-01-27_hola-me-gustaria-hir-a-un-doctor-siento-malestares-pero-no-quisiera-pagar-mucho-y-no-tengo-seguro-medico-mi-codigo-postal-es-75074-gracias
+:date: !ruby/object:DateTime 2015-01-27 17:48:14.000000000 -08:00
+:author_name: 'Flora Peralta '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6rPZwGQ21awQe2IcG4UOeY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:47+00:00'
+    :created_at: '2017-09-08T18:30:47+00:00'
+    :id: 6rPZwGQ21awQe2IcG4UOeY
+  :body: 'Ok gracias '
+  :date: !ruby/object:DateTime 2015-01-27 18:28:18.871000000 -08:00
+  :author_name: 'Flora Peralta '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4TacV6zCreQSE2UQG6CgOM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:48+00:00'
+    :created_at: '2017-09-08T18:30:48+00:00'
+    :id: 4TacV6zCreQSE2UQG6CgOM
+  :body: "Espero que se mejore, parece que vive en Garland Texas aqui le mando informacion
+    acerca de una clinica comunitaria de bajo costo          .www.hopeclinic-garland.org\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-01-27 18:08:02.298000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6QT3nMrEXYCuW22syuYykc
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:30:48+00:00'
+      :created_at: '2017-09-08T18:30:48+00:00'
+      :id: 6QT3nMrEXYCuW22syuYykc
+    :body: 'Ok gracias voy a checar pero vivo en plano '
+    :date: !ruby/object:DateTime 2015-01-27 18:11:27.653000000 -08:00
+    :author_name: 'Flora Peralta '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 1thcto4QMcWWG82e4km420
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:30:47+00:00'
+        :created_at: '2017-09-08T18:30:47+00:00'
+        :id: 1thcto4QMcWWG82e4km420
+      :body: "Me disculpo por su codigo postal asumi que seria Garland pero aqui le
+        envio informacion de una clinica en Plano Texas.\r\n<a href='http://www.collincountyadult'>http://www.collincountyadult</a>\r\n"
+      :date: !ruby/object:DateTime 2015-01-27 18:26:26.391000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3489

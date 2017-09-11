@@ -1,0 +1,59 @@
+---
+:id: 54rLNtEP7i4MCMIMY82cuY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:28:32+00:00'
+  :created_at: '2017-09-11T05:28:32+00:00'
+  :id: 54rLNtEP7i4MCMIMY82cuY
+:body: "<p>Es oficial que si van a dar las licencias? O todavia esta en duda?</p>"
+:permalink: es-oficial-que-si-van-a-dar-las-licencias-o-todavia-esta-en-duda
+:date: !ruby/object:DateTime 2014-12-04 09:52:25.559000000 -08:00
+:author_name: 'Cristina Mendez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 4VOj28pmZWooqug84OOgOw
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:28:31+00:00'
+    :created_at: '2017-09-11T05:28:31+00:00'
+    :id: 4VOj28pmZWooqug84OOgOw
+  :body: Hola Cristina, el DMV empezara a recibir las aplicaciones para la licencia
+    a partir de enero del 2015, por lo tanto, la informacion es oficial. SABEResPODER
+  :date: !ruby/object:DateTime 2014-12-04 11:00:00.721000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6eixgIRvB6sgmsGEIaC0YQ
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:28:31+00:00'
+      :created_at: '2017-09-11T05:28:31+00:00'
+      :id: 6eixgIRvB6sgmsGEIaC0YQ
+    :body: 'Muchas gracias. '
+    :date: !ruby/object:DateTime 2014-12-04 11:01:49.272000000 -08:00
+    :author_name: 'Cristina Mendez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2JtNC5cMKkeqwOwiqOGcGw
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:28:30+00:00'
+        :created_at: '2017-09-11T05:28:30+00:00'
+        :id: 2JtNC5cMKkeqwOwiqOGcGw
+      :body: Gracias a usted por usar nuestros servicios. SABEResPODER
+      :date: !ruby/object:DateTime 2014-12-04 11:31:33.596000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1995

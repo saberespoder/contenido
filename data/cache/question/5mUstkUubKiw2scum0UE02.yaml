@@ -1,0 +1,53 @@
+---
+:id: 5mUstkUubKiw2scum0UE02
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:27:50+00:00'
+  :created_at: '2017-09-11T05:27:50+00:00'
+  :id: 5mUstkUubKiw2scum0UE02
+:body: "<p>Que es GED ?</p>"
+:permalink: 2015-01-27_que-es-ged
+:date: !ruby/object:DateTime 2015-01-27 19:13:52.000000000 -08:00
+:author_name: 'Leticia Dominguez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 42YnWl65kIGEc0s6s2qioa
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:27:50+00:00'
+    :created_at: '2017-09-11T05:27:50+00:00'
+    :id: 42YnWl65kIGEc0s6s2qioa
+  :body: Gracias por su pregunta Leticia. El GED o General Educational Development
+    Test (Examen de Desarrollo de Educación General) , es una certificación para el
+    estudiante que haya aprendido los requisitos necesarios del nivel de escuela preparatoria
+    estadounidense o Canadiense. Superar el GED, el aplicante debe llegar al 40% de
+    estudios de último año a nivel nacional, aunque algunos estados pueden poner sus
+    propios requisitos para pasarlo. Estos estados también requieren que estudiantes
+    tomen un examen adicional demostrando un entendimiento de gobierno federal, estatal
+    o local. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-28 12:58:25.456000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6RyTVOM3u0EUusCI2I4MuM
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:27:49+00:00'
+      :created_at: '2017-09-11T05:27:49+00:00'
+      :id: 6RyTVOM3u0EUusCI2I4MuM
+    :body: 'Gracias !  '
+    :date: !ruby/object:DateTime 2015-01-28 13:01:21.823000000 -08:00
+    :author_name: 'Leticia Dominguez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3507

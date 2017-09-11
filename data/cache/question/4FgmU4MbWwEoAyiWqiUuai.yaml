@@ -1,0 +1,49 @@
+---
+:id: 4FgmU4MbWwEoAyiWqiUuai
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:17:18+00:00'
+  :created_at: '2017-09-11T05:17:18+00:00'
+  :id: 4FgmU4MbWwEoAyiWqiUuai
+:body: "<p>Puedo cambiar mi caso de un abogado a otro</p>"
+:permalink: 2016-07-15_puedo-cambiar-mi-caso-de-un-abogado-a-otro
+:date: !ruby/object:DateTime 2016-07-15 10:30:10.387000000 -07:00
+:author_name: 'Miguel camacho '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: QhfqJb4UAS6IMecasoqAs
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:17:18+00:00'
+    :created_at: '2017-09-11T05:17:18+00:00'
+    :id: QhfqJb4UAS6IMecasoqAs
+  :body: 'Hola estimado Miguel, agradecemos su participación. En relación a su pregunta,
+    claro que puede cambiar su caso de un abogado a otro si no esta satisfecho con
+    los servicios que recibe de su abogado actual. Recuerde que aquí estamos para
+    ayudarle y no dude en comentar si tiene otra pregunta o desea más información. '
+  :date: !ruby/object:DateTime 2016-07-15 10:51:34.705000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 3KpHucpz5mAQuS2cYQqgwk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:17:17+00:00'
+      :created_at: '2017-09-11T05:17:17+00:00'
+      :id: 3KpHucpz5mAQuS2cYQqgwk
+    :body: 'Muchas grasias '
+    :date: !ruby/object:DateTime 2016-07-15 10:56:33.105000000 -07:00
+    :author_name: 'Miguel camacho '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 10963

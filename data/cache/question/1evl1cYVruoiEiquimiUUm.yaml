@@ -1,0 +1,72 @@
+---
+:id: 1evl1cYVruoiEiquimiUUm
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:15:25+00:00'
+  :created_at: '2017-09-08T18:15:25+00:00'
+  :id: 1evl1cYVruoiEiquimiUUm
+:body: "<p>Cuanto saldria la aseguransa para dos adultos</p>"
+:permalink: 2015-01-21_cuanto-saldria-la-aseguransa-para-dos-adultos
+:date: !ruby/object:DateTime 2015-01-21 13:38:26.000000000 -08:00
+:author_name: 'Javier  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+- :id: 5CSZr2CqVGySSSOeeUKawg
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 5CSZr2CqVGySSSOeeUKawg
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5O83g0yffOcWKcoKSUScC8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:15:24+00:00'
+    :created_at: '2017-09-08T18:15:24+00:00'
+    :id: 5O83g0yffOcWKcoKSUScC8
+  :body: Hola estimado Javier, agradecemos su pregunta. El consto de la póliza de
+    seguros médicos es muy variable dependiendo la compañía aseguradora. Le recomendamos
+    se comunique con su ventanilla de salud ya que la ventanilla ofrece información
+    sobre coberturas médicas. La atención de la ventanilla es totalmente gratis y
+    no es necesario hacer una cita para ser atendido. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-23 12:37:29.267000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 101dKitGcwewIqcAyQ6gms
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:15:24+00:00'
+      :created_at: '2017-09-08T18:15:24+00:00'
+      :id: 101dKitGcwewIqcAyQ6gms
+    :body: Y en donde puedo ir donde queda la bentanilla
+    :date: !ruby/object:DateTime 2015-01-23 13:03:59.913000000 -08:00
+    :author_name: 'Javier  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 1SoMxMzAXKs04cMiKewOWw
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:15:24+00:00'
+        :created_at: '2017-09-08T18:15:24+00:00'
+        :id: 1SoMxMzAXKs04cMiKewOWw
+      :body: "Hola estimado Javier, disculpe por la tardanza de nuestra respuesta.
+        La Ventanilla más cercana a usted es en Phoenix, en la ubicación 1990 W. Camelback
+        Rd Suite 110\t \r\nPhoenix, Arizona 85015 Tel. 602-510-0637 #SABEResPODER"
+      :date: !ruby/object:DateTime 2015-06-26 10:46:24.479000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3234

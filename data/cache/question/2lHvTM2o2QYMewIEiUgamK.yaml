@@ -1,0 +1,61 @@
+---
+:id: 2lHvTM2o2QYMewIEiUgamK
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:24:44+00:00'
+  :created_at: '2017-09-08T18:24:44+00:00'
+  :id: 2lHvTM2o2QYMewIEiUgamK
+:body: "<p>Hola tengo 26 </p>"
+:permalink: 2015-02-06_hola-tengo-26
+:date: !ruby/object:DateTime 2015-02-06 20:01:52.000000000 -08:00
+:author_name: 'Jose Antonio Garcia '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5DcXX0H6dqQymyuOIq86WC
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5DcXX0H6dqQymyuOIq86WC
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: wiTM23qWlwUoMiUMMG00i
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:24:43+00:00'
+    :created_at: '2017-09-08T18:24:43+00:00'
+    :id: wiTM23qWlwUoMiUMMG00i
+  :body: Hola Jose, en que le podemos ayudar? SABEResPODER
+  :date: !ruby/object:DateTime 2015-02-09 10:40:49.548000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6YmoFnymOccqQES4AewIEo
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:24:43+00:00'
+      :created_at: '2017-09-08T18:24:43+00:00'
+      :id: 6YmoFnymOccqQES4AewIEo
+    :body: Mi pregunta es sobre migración.   Te fue aquí en el 2005  y tenía 16 años  podré
+      calificar por la  la ley  del presidente
+    :date: !ruby/object:DateTime 2015-02-09 10:47:59.349000000 -08:00
+    :author_name: 'Jose Antonio Garcia '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5pLTgrzpCg8quICQKu22o4
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:24:42+00:00'
+        :created_at: '2017-09-08T18:24:42+00:00'
+        :id: 5pLTgrzpCg8quICQKu22o4
+      :body: 'Estimado Jose Antonio, gracias por su pregunta. En el siguiente enlace
+        usted podra encontrar informacion sobre el DACA y todos su requisitos: <a
+        href=''http://bit.ly/1GpU8FB''>http://bit.ly/1GpU8FB</a> SABEResPODER'
+      :date: !ruby/object:DateTime 2015-02-09 14:44:33.367000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 4012

@@ -1,0 +1,69 @@
+---
+:id: G0thq2jjwI2IkmOGGyqeu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:55:14+00:00'
+  :created_at: '2017-09-08T18:55:14+00:00'
+  :id: G0thq2jjwI2IkmOGGyqeu
+:body: "<p>Quiero estudiar para asistente medico y necesito saber si alguien sabe
+  de becas para esto </p>"
+:permalink: 2015-06-29_quiero-estudiar-para-asistente-medico-y-necesito-saber-si-alguien-sabe-de-becas-para-esto
+:date: !ruby/object:DateTime 2015-06-29 11:44:12.000000000 -07:00
+:author_name: 'Jorge Alberto Erazo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3mg7Ax05heoyquOCAQIGCi
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 3mg7Ax05heoyquOCAQIGCi
+  :title: Educación
+  :is_active: true
+- :id: 4z38TJsVyUeY6yCQC6m2wo
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 4z38TJsVyUeY6yCQC6m2wo
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 4bMGWAu2fSCqEYWOe4eqiA
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:55:13+00:00'
+    :created_at: '2017-09-08T18:55:13+00:00'
+    :id: 4bMGWAu2fSCqEYWOe4eqiA
+  :body: Gracias
+  :date: !ruby/object:DateTime 2015-06-29 13:10:37.469000000 -07:00
+  :author_name: 'Jorge Alberto Erazo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4XzUCfKHnGaA8OUsc442g4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:55:12+00:00'
+      :created_at: '2017-09-08T18:55:12+00:00'
+      :id: 4XzUCfKHnGaA8OUsc442g4
+    :body: A ti Jorge por ser parte de SABEResPODER
+    :date: !ruby/object:DateTime 2015-06-29 13:25:54.913000000 -07:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 1YVvgP4Gyg4uCUoUggusm0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:55:13+00:00'
+    :created_at: '2017-09-08T18:55:13+00:00'
+    :id: 1YVvgP4Gyg4uCUoUggusm0
+  :body: "Hola Jorge Bienvenido a SABEResPODER , en este articulo podras informacion
+    de Becas disponibles solo entra al siguiente enlace : <a href='http://bit.ly/1Gp94pf'>http://bit.ly/1Gp94pf</a>\r\nTambien
+    Colegios comunitarios de Houston 3100 Main St. Houston TX 77002 713-718-2000 te
+    pueden dar informacion."
+  :date: !ruby/object:DateTime 2015-06-29 12:26:54.199000000 -07:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 7252
