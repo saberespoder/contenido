@@ -1,0 +1,83 @@
+---
+:id: 3ggrAhpFAIwai62MyMY0mG
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:39:57+00:00'
+  :created_at: '2017-09-11T05:39:57+00:00'
+  :id: 3ggrAhpFAIwai62MyMY0mG
+:body: "<p>Tiene fecha de vencimiento el ITIN?</p>"
+:permalink: 2015-02-28_tiene-fecha-de-vencimiento-el-itin
+:date: !ruby/object:DateTime 2015-02-28 18:06:12.000000000 -08:00
+:author_name: 'Carmen Renteria '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :title: Finanzas
+  :is_active: true
+:answers:
+- :id: 5ASvOV28H6EQEI6wIAyooC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:39:56+00:00'
+    :created_at: '2017-09-11T05:39:56+00:00'
+    :id: 5ASvOV28H6EQEI6wIAyooC
+  :body: "Estimada Carmen son cinco anos si no lo a Usado nunca.\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-03 18:51:24.757000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4Mshd2O9Kg8EGU8M0yAoOG
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:39:54+00:00'
+      :created_at: '2017-09-11T05:39:54+00:00'
+      :id: 4Mshd2O9Kg8EGU8M0yAoOG
+    :body: Gracias muy amables por sus respuestas
+    :date: !ruby/object:DateTime 2015-03-03 19:19:42.653000000 -08:00
+    :author_name: 'Carmen Renteria '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: Jgcj5sLg8CWKa6g4GQKAW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:39:55+00:00'
+      :created_at: '2017-09-11T05:39:55+00:00'
+      :id: Jgcj5sLg8CWKa6g4GQKAW
+    :body: Gracias muy amables por sus respuestas
+    :date: !ruby/object:DateTime 2015-03-03 19:19:43.021000000 -08:00
+    :author_name: 'Carmen Renteria '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5vJPWgiUI80aGa0aOo2G8I
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:39:55+00:00'
+        :created_at: '2017-09-11T05:39:55+00:00'
+        :id: 5vJPWgiUI80aGa0aOo2G8I
+      :body: Estamos para servirle Carmen.///SABEResPODER
+      :date: !ruby/object:DateTime 2015-04-03 21:26:39.112000000 -07:00
+      :author_name: 'Lourdes Murrieta '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/122748/uploads_2Ftmp_2F6a813149-17fa-4bd3-90eb-ebe45ee71016_2FYO.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+- :id: JmWOChTDUYEoCUUa2GagS
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:39:56+00:00'
+    :created_at: '2017-09-11T05:39:56+00:00'
+    :id: JmWOChTDUYEoCUUa2GagS
+  :body: "Gracias por su pregunta, Si usted obtuvo un numero de ITIN y nunca lo usó
+    entonces tiene 5 anios de caducidad.   A partir de julio 2014, los ITINs otorgados
+    antes del 1 de enero del 2013 no se caducan si usted ha estado presentando sus
+    impuestos con regularidad.\r\n"
+  :date: !ruby/object:DateTime 2015-03-02 09:22:53.835000000 -08:00
+  :author_name: 'Amando Gomez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 5040

@@ -1,0 +1,111 @@
+---
+:id: 6zc5uYz6zCeo8AcGGEsw46
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:09:35+00:00'
+  :created_at: '2017-09-08T18:09:35+00:00'
+  :id: 6zc5uYz6zCeo8AcGGEsw46
+:body: "<p>En que cuidad puedo acudir?</p>"
+:permalink: en-que-cuidad-puedo-acudir
+:date: !ruby/object:DateTime 2014-10-02 12:22:05.047000000 -07:00
+:author_name: 'Juan Reyes Luce '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 7ikquCJwhUkoAeC6u6usW
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:09:35+00:00'
+    :created_at: '2017-09-08T18:09:35+00:00'
+    :id: 7ikquCJwhUkoAeC6u6usW
+  :body: Saludos Juan, este evento se llevara a cabo en el Consulado General de Mexico
+    mas cercano a usted, es totalmente gratis. SABEResPODER.
+  :date: !ruby/object:DateTime 2014-10-03 09:36:06.167000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 4y8HH5XtZ6MMUeyqE6Kyac
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:09:33+00:00'
+      :created_at: '2017-09-08T18:09:33+00:00'
+      :id: 4y8HH5XtZ6MMUeyqE6Kyac
+    :body: Vivo en passaic, será aqui
+    :date: !ruby/object:DateTime 2014-10-06 14:51:26.729000000 -07:00
+    :author_name: 'Juan Reyes Luce '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3SAiIPQw9OCogqk2k28MAY
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:09:33+00:00'
+        :created_at: '2017-09-08T18:09:33+00:00'
+        :id: 3SAiIPQw9OCogqk2k28MAY
+      :body: Hola Juan, el evento se realizara en el consulado mexicano en la ciudad
+        de Nueva York. SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-06 14:54:21.369000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  - :id: 3dtaFATNEA0m46muQCuay6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:09:34+00:00'
+      :created_at: '2017-09-08T18:09:34+00:00'
+      :id: 3dtaFATNEA0m46muQCuay6
+    :body: "Vvo. En la ciudad de Fontana. Me gustaria saber fechas del  evento de
+      salud en el consuldo de sanb\r\n\r\n\r\nSan Bernardino."
+    :date: !ruby/object:DateTime 2014-11-04 21:30:25.428000000 -08:00
+    :author_name: 'elvira ascue '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6sWiZamPrU2qe84KG8GMsQ
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:09:33+00:00'
+        :created_at: '2017-09-08T18:09:33+00:00'
+        :id: 6sWiZamPrU2qe84KG8GMsQ
+      :body: Hola Elvira. De momento el consulado de San Bernardino no tiene fechas
+        para ferias de salud, en cuanto sepamos de algún evento similar se lo estaremos
+        dando a conocer. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-05 10:49:47.333000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  - :id: 5uM2D0aEqA6G0wqm8uM2qW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:09:35+00:00'
+      :created_at: '2017-09-08T18:09:35+00:00'
+      :id: 5uM2D0aEqA6G0wqm8uM2qW
+    :body: En que fecha estará. En el consulado de San Bernardino  y horas
+    :date: !ruby/object:DateTime 2014-11-04 21:34:53.627000000 -08:00
+    :author_name: 'elvira ascue '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3qrNj0azSwskQCm8e6M26w
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:09:34+00:00'
+        :created_at: '2017-09-08T18:09:34+00:00'
+        :id: 3qrNj0azSwskQCm8e6M26w
+      :body: Hola Elvira la semana binacional de la salud fue en pasado mes de Octubre.
+        De momento el consulado no ha dado a conocer cuando habrá otra feria de salud.
+        SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-05 10:55:10.247000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 921

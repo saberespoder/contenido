@@ -1,0 +1,61 @@
+---
+:id: 1cWqhZec2KQWc4yM0C8qU8
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:34:01+00:00'
+  :created_at: '2017-09-08T18:34:01+00:00'
+  :id: 1cWqhZec2KQWc4yM0C8qU8
+:body: "<p>Para las licencias se van a necesitar las huellas?</p>"
+:permalink: para-las-licencias-se-van-a-necesitar-las-huellas
+:date: !ruby/object:DateTime 2014-11-12 03:01:47.509000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 3Qac7DTLIckSSM4SO2gUSa
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:33:59+00:00'
+    :created_at: '2017-09-08T18:33:59+00:00'
+    :id: 3Qac7DTLIckSSM4SO2gUSa
+  :body: Estimado usuario, para la licencia de conducir unicamente se toma la huella
+    degital de su dedo pulgar (gordo) y esta informacion no sera compartidad con ninguna
+    otra agencia gubernamental. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-12 10:14:11.776000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+- :id: 2FwQErK0yQqYcMWyUmYwYC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:34:00+00:00'
+    :created_at: '2017-09-08T18:34:00+00:00'
+    :id: 2FwQErK0yQqYcMWyUmYwYC
+  :body: Cuando va a estar ese programa em kansaz
+  :date: !ruby/object:DateTime 2014-11-12 08:02:21.854000000 -08:00
+  :author_name: 'Andres  '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 14vW9FaMB2MA06cUGi48Aq
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:33:59+00:00'
+      :created_at: '2017-09-08T18:33:59+00:00'
+      :id: 14vW9FaMB2MA06cUGi48Aq
+    :body: Estimado usuario, de momento no se tiene conocimiento sobre este tipo de
+      iniciativas en el estado de Kansas, pero en cuanto se tenga informacion al respecto
+      esta sera compartida con toda la comunidad. SABEResPODER
+    :date: !ruby/object:DateTime 2014-11-12 10:15:59.763000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1475

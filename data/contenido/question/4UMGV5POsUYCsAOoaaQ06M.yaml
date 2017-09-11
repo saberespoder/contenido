@@ -1,0 +1,61 @@
+---
+:id: 4UMGV5POsUYCsAOoaaQ06M
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:02:40+00:00'
+  :created_at: '2017-09-11T05:02:40+00:00'
+  :id: 4UMGV5POsUYCsAOoaaQ06M
+:body: "<p>quiero informacion en clases de ingles para mi hijo, graciad</p>"
+:permalink: 2015-09-28_quiero-informacion-en-clases-de-ingles-para-mi-hijo-graciad
+:date: !ruby/object:DateTime 2015-09-28 08:41:47.000000000 -07:00
+:author_name: 'Marvin Hernandez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 6TPNG5iK8EgueyWCiwMSOS
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:02:37+00:00'
+    :created_at: '2017-09-11T05:02:37+00:00'
+    :id: 6TPNG5iK8EgueyWCiwMSOS
+  :body: Para adultos
+  :date: !ruby/object:DateTime 2016-08-19 16:09:11.655000000 -07:00
+  :author_name: 'Alicia alvarez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 55gb12chCUwcqCUsosqgQA
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:02:37+00:00'
+      :created_at: '2017-09-11T05:02:37+00:00'
+      :id: 55gb12chCUwcqCUsosqgQA
+    :body: 'Hola estimada Alicia, agradecemos su participación. ¿En que le podemos
+      ayudar? '
+    :date: !ruby/object:DateTime 2016-08-19 16:11:29.161000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 2cQlg4qXhCYyGQACS0ME4K
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:02:38+00:00'
+    :created_at: '2017-09-11T05:02:38+00:00'
+    :id: 2cQlg4qXhCYyGQACS0ME4K
+  :body: "Hola estimada Marvin, gracias por su pregunta. Con mucho gusto le compartimos
+    información sobre las escuelas que ofrecen clases de ingles cercas de su área:
+    Round Rock Independent School Distric. 1311 Round Rock Ave.\r\nRound Rock, TX
+    78681 #SABEResPODER"
+  :date: !ruby/object:DateTime 2015-09-28 10:11:09.702000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :from_admin: false
+:legacy_id: 8512

@@ -1,0 +1,70 @@
+---
+:id: 3CFAKbVzSo6Eua0ikkew6W
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:12:16+00:00'
+  :created_at: '2017-09-08T18:12:16+00:00'
+  :id: 3CFAKbVzSo6Eua0ikkew6W
+:body: "<p>Ber.notisia.deldia </p>"
+:permalink: ber-notisia-deldia
+:date: !ruby/object:DateTime 2014-11-24 17:59:33.166000000 -08:00
+:author_name: 'Fidel Cruz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: ZFZ1PFzNwA8qSaMiiigOI
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:12:16+00:00'
+    :created_at: '2017-09-08T18:12:16+00:00'
+    :id: ZFZ1PFzNwA8qSaMiiigOI
+  :body: 'Hola Fidel, gracias por su consulta. En el siguiente articulo usted podra
+    encontra consejos para sus compras decembrinas: <a href=''http://bit.ly/1BQaiY0''>http://bit.ly/1BQaiY0</a>
+    SABEResPODER'
+  :date: !ruby/object:DateTime 2014-12-15 12:14:23.263000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 7aacN0jc64u8GgaMIWQQkq
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:12:15+00:00'
+      :created_at: '2017-09-08T18:12:15+00:00'
+      :id: 7aacN0jc64u8GgaMIWQQkq
+    :body: Ola.soy.fidel.como.ago.para.tray.amiesposa.para.los.estados.unidos
+    :date: !ruby/object:DateTime 2015-01-02 20:14:19.774000000 -08:00
+    :author_name: 'Fidel Cruz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6zikXKOJxKI0eoeYGAS24Q
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:12:15+00:00'
+        :created_at: '2017-09-08T18:12:15+00:00'
+        :id: 6zikXKOJxKI0eoeYGAS24Q
+      :body: 'Hola fidel--una disculpa por la tardada respuesta. Es usted ciudadano
+        o residente permanente? Si es así, entonces existe un proceso para la reunificacion
+        familiar. Aqui le envio un link con informacion. #SABEResPODER (<a href=''http://www.uscis.gov/sites/default/files/files/article/A1esp.pdf)''>http://www.uscis.gov/sites/default/files/files/article/A1esp.pdf)</a>'
+      :date: !ruby/object:DateTime 2015-04-06 09:50:47.292000000 -07:00
+      :author_name: Raul   - SABEResPODER
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/90/IMG_3754.JPG
+      :from_admin: true
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1849

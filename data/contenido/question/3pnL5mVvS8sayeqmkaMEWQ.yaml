@@ -1,0 +1,45 @@
+---
+:id: 3pnL5mVvS8sayeqmkaMEWQ
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:38:50+00:00'
+  :created_at: '2017-09-11T05:38:50+00:00'
+  :id: 3pnL5mVvS8sayeqmkaMEWQ
+:body: "<p>Where can I find a low cost pharmacy in West Los Angeles?</p>"
+:permalink: 2015-07-22_where-can-i-find-a-low-cost-pharmacy-in-west-los-angeles
+:date: !ruby/object:DateTime 2015-07-22 18:29:21.000000000 -07:00
+:author_name: amir hemmat  - SABEResPODER
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: J30VGwlAS42Oc2SowWmIC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:38:49+00:00'
+    :created_at: '2017-09-11T05:38:49+00:00'
+    :id: J30VGwlAS42Oc2SowWmIC
+  :body: "<a href='http://farmasep.com'>http://farmasep.com</a>"
+  :date: !ruby/object:DateTime 2015-07-22 18:35:31.439000000 -07:00
+  :author_name: Peter Coverhound  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2102/10464085_582626535191769_7902085355543472064_n.jpg
+  :from_admin: true
+- :id: 2dNTMQS0DOCoE0AS0eY6Ak
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:38:49+00:00'
+    :created_at: '2017-09-11T05:38:49+00:00'
+    :id: 2dNTMQS0DOCoE0AS0eY6Ak
+  :body: Hey Amir
+  :date: !ruby/object:DateTime 2015-07-22 18:34:57.354000000 -07:00
+  :author_name: Peter Coverhound  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2102/10464085_582626535191769_7902085355543472064_n.jpg
+  :from_admin: true
+:legacy_id: 7581

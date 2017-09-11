@@ -1,0 +1,58 @@
+---
+:id: 2fDQ038Gr6iOgoEIgmU8gA
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:44:27+00:00'
+  :created_at: '2017-09-11T05:44:27+00:00'
+  :id: 2fDQ038Gr6iOgoEIgmU8gA
+:body: "<p>Donde puede tomar clases de manejo</p>"
+:permalink: donde-puede-tomar-clases-de-manejo
+:date: !ruby/object:DateTime 2014-11-29 12:46:00.267000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 69vGHyi6iWagYuomGQ2iCG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:44:26+00:00'
+    :created_at: '2017-09-11T05:44:26+00:00'
+    :id: 69vGHyi6iWagYuomGQ2iCG
+  :body: Muchas gracias por preguntar sobre las clases de conducción. Para poder ayudarle
+    de forma más efectiva, le agradecemos nos indique cuál es su código postal.
+  :date: !ruby/object:DateTime 2014-12-17 19:15:25.338000000 -08:00
+  :author_name: 'Francy Julieth Madronero '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/60678/uploads_2Ftmp_2Fd4eb401d-d360-4fc7-9609-b2bc0bc90144_2F5506330.jpg
+  :answers:
+  - :id: 1Eiow5Gjw0o8QgYQgA6KaA
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:44:25+00:00'
+      :created_at: '2017-09-11T05:44:25+00:00'
+      :id: 1Eiow5Gjw0o8QgYQgA6KaA
+    :body: '92411'
+    :date: !ruby/object:DateTime 2014-12-30 17:53:44.826000000 -08:00
+    :author_name: 'esther reyes '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 3pLg1xFajugKymiiQ2Y8yI
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:44:26+00:00'
+      :created_at: '2017-09-11T05:44:26+00:00'
+      :id: 3pLg1xFajugKymiiQ2Y8yI
+    :body: "Los Angeles. Ca 90005\r\n"
+    :date: !ruby/object:DateTime 2015-01-07 15:51:53.395000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1920

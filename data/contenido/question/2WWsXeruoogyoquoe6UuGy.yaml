@@ -1,0 +1,95 @@
+---
+:id: 2WWsXeruoogyoquoe6UuGy
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:06:28+00:00'
+  :created_at: '2017-09-11T05:06:28+00:00'
+  :id: 2WWsXeruoogyoquoe6UuGy
+:body: "<p>Cuanto. Cuesta. El. Plan. Famil ar</p>"
+:permalink: 2015-01-20_cuanto-cuesta-el-plan-famil-ar
+:date: !ruby/object:DateTime 2015-01-20 19:44:10.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1wptnjHqbW8c8O2wMwM848
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:24+00:00'
+    :created_at: '2017-09-11T05:06:24+00:00'
+    :id: 1wptnjHqbW8c8O2wMwM848
+  :body: Gracias por. Su.  Ayuda
+  :date: !ruby/object:DateTime 2015-01-23 14:40:14.503000000 -08:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4RMFy4Zru8wsmsiYsowaiC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:25+00:00'
+    :created_at: '2017-09-11T05:06:25+00:00'
+    :id: 4RMFy4Zru8wsmsiYsowaiC
+  :body: 'Gracias  '
+  :date: !ruby/object:DateTime 2015-01-23 14:39:12.030000000 -08:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 1F97dM26I0sQQuq0eWCoG0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:25+00:00'
+    :created_at: '2017-09-11T05:06:25+00:00'
+    :id: 1F97dM26I0sQQuq0eWCoG0
+  :body: 'Gracias  '
+  :date: !ruby/object:DateTime 2015-01-23 14:39:11.815000000 -08:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 5RkpVtbh3aamS2qiYWiKeK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:27+00:00'
+    :created_at: '2017-09-11T05:06:27+00:00'
+    :id: 5RkpVtbh3aamS2qiYWiKeK
+  :body: Estimado usuario, como le podemos ayudar? A que se refiere con plan familiar?
+    Es esto referente a un seguro medico? SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-22 12:02:04.124000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 55Ppctf91uMuGooCWuqoOK
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:06:26+00:00'
+      :created_at: '2017-09-11T05:06:26+00:00'
+      :id: 55Ppctf91uMuGooCWuqoOK
+    :body: Si. Un. Seguro. Medico
+    :date: !ruby/object:DateTime 2015-01-22 17:26:50.667000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5qNrl6kyooIG4Ay8GeI0iM
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:06:26+00:00'
+        :created_at: '2017-09-11T05:06:26+00:00'
+        :id: 5qNrl6kyooIG4Ay8GeI0iM
+      :body: Estimado usuario, le recomendamos que se acerque a la ventanilla de salud
+        de su consulado mas cercano para que le brinden informacion respecto a los
+        seguros. La atencion es totalmente gratuita y no es necesario que haga una
+        cita para ser atendido. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-23 14:10:32.057000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3146

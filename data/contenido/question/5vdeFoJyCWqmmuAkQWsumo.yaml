@@ -1,0 +1,78 @@
+---
+:id: 5vdeFoJyCWqmmuAkQWsumo
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:19:54+00:00'
+  :created_at: '2017-09-11T05:19:54+00:00'
+  :id: 5vdeFoJyCWqmmuAkQWsumo
+:body: "<p>Dentista </p>"
+:permalink: 2015-09-26_dentista
+:date: !ruby/object:DateTime 2015-09-26 05:39:34.000000000 -07:00
+:author_name: 'Mireya De La Cruz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6ienlfMHscwCYeWGSq0GqO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:19:52+00:00'
+    :created_at: '2017-09-11T05:19:52+00:00'
+    :id: 6ienlfMHscwCYeWGSq0GqO
+  :body: "Ok gracias\r\n"
+  :date: !ruby/object:DateTime 2015-09-28 12:21:12.777000000 -07:00
+  :author_name: 'Mireya De La Cruz '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4rpN2bBqEEk82sakA02m2w
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:19:54+00:00'
+    :created_at: '2017-09-11T05:19:54+00:00'
+    :id: 4rpN2bBqEEk82sakA02m2w
+  :body: "Sra Mireya, gracias por su participación,  en relación a su pregunta sobre
+    dentistas en su área, hemos encontrado la siguiente información para usted: Baylor
+    College of Dentistry <a href='http://bcd.tamhsc.edu'>http://bcd.tamhsc.edu</a>
+    3302 Gaston Ave. Dallas, TX 75246 (214) 828-8100 \tConcorde Career College 12606
+    Greenville Avenue, Suite 130 Dallas, TX 75243 (469) 221-3454 Recuerde que estamos
+    para ayudarle. #SABEResPODER"
+  :date: !ruby/object:DateTime 2015-09-28 10:51:14.066000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 9SETTYgkP6IWKayewQa0K
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:19:53+00:00'
+      :created_at: '2017-09-11T05:19:53+00:00'
+      :id: 9SETTYgkP6IWKayewQa0K
+    :body: Disculpe pero mi codigo postal es elb79556
+    :date: !ruby/object:DateTime 2015-09-28 12:04:59.791000000 -07:00
+    :author_name: 'Mireya De La Cruz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6MZl2DqIlGwuiKsyGmmaGI
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:19:53+00:00'
+        :created_at: '2017-09-11T05:19:53+00:00'
+        :id: 6MZl2DqIlGwuiKsyGmmaGI
+      :body: "Gracias por recibir nuestra llamada basado en la informacion que nos
+        proporcionaron hemos encontrado la siguiente informacion:.Abilene-Taylor County
+        Public Health District \r\n850 N 6th St \r\nAbilene TX 79601 \r\n325-692-5600
+        /Presbyterian Medical Care Mission \r\n1857 Pine St Suite 100 \r\nAbilene
+        TX 79601 \r\n325-672-5601 "
+      :date: !ruby/object:DateTime 2015-09-28 12:19:20.418000000 -07:00
+      :author_name: 'Minerva Luna '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8498

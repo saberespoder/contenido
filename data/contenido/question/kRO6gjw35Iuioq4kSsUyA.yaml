@@ -1,0 +1,58 @@
+---
+:id: kRO6gjw35Iuioq4kSsUyA
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:27:43+00:00'
+  :created_at: '2017-09-08T18:27:43+00:00'
+  :id: kRO6gjw35Iuioq4kSsUyA
+:body: "<p>Salud</p>"
+:permalink: 2015-03-12_salud
+:date: !ruby/object:DateTime 2015-03-12 17:55:18.000000000 -07:00
+:author_name: 'Norma Rios '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 54MQoqYUdyewaS24MYWKAQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:42+00:00'
+    :created_at: '2017-09-08T18:27:42+00:00'
+    :id: 54MQoqYUdyewaS24MYWKAQ
+  :body: 'Estimada Norma: El Mercado de Seguros Medicos esta abierto: Para solicitar
+    visite a : www.cuidadodesalud.gov. o llamar al 1-800-318-2596. # Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-03-31 16:27:20.554000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 4ysNDjXTHOyUamWOIskmyu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:43+00:00'
+    :created_at: '2017-09-08T18:27:43+00:00'
+    :id: 4ysNDjXTHOyUamWOIskmyu
+  :body: 'Estimada Norma: Que quiere saber sobre la Salud? # Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-03-12 19:30:08.526000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1bjKMdrsseWeAauE8Q4OMw
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:27:42+00:00'
+      :created_at: '2017-09-08T18:27:42+00:00'
+      :id: 1bjKMdrsseWeAauE8Q4OMw
+    :body: Sobre seguro medicos
+    :date: !ruby/object:DateTime 2015-03-12 19:40:36.365000000 -07:00
+    :author_name: 'Norma Rios '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 5524

@@ -1,0 +1,63 @@
+---
+:id: 6Rqin1pe2QIWAI6s24cgGO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:41:57+00:00'
+  :created_at: '2017-09-11T05:41:57+00:00'
+  :id: 6Rqin1pe2QIWAI6s24cgGO
+:body: "<p>Hola sufro de sopriasi</p>"
+:permalink: 2015-09-17_hola-sufro-de-sopriasi
+:date: !ruby/object:DateTime 2015-09-17 16:58:41.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: P513h3ga8ogy0imuy8yiG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:41:56+00:00'
+    :created_at: '2017-09-11T05:41:56+00:00'
+    :id: P513h3ga8ogy0imuy8yiG
+  :body: Hola tengo acido urico
+  :date: !ruby/object:DateTime 2015-10-09 09:44:17.056000000 -07:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4GQObPofBYWcSWKSwUgcEU
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:41:57+00:00'
+    :created_at: '2017-09-11T05:41:57+00:00'
+    :id: 4GQObPofBYWcSWKSwUgcEU
+  :body: 'Hola estimado usuario, gracias por su participación, "El tratamiento de
+    la psoriasis depende de cada paciente y del tipo de la enfermedad que tenga. A
+    pesar de que no existe cura para esta enfermedad, sí se puede mantener totalmente
+    controlada y en algunos casos los síntomas (inflamación, enrojecimiento, descamación
+    y picor) no tienen por qué volver a aparecer. Los diferentes tratamientos que
+    se aplican son: fototerapia, fármacos sistemáticos, medicación sistémica Para
+    más información: <a href=''http://bit.ly/1ODnTHs''>http://bit.ly/1ODnTHs</a> SABEResPODER'
+  :date: !ruby/object:DateTime 2015-09-18 09:44:26.883000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 695dM6wwAoCYq2OASIqYyC
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:41:56+00:00'
+      :created_at: '2017-09-11T05:41:56+00:00'
+      :id: 695dM6wwAoCYq2OASIqYyC
+    :body: Puedo conctatarme contigo para saver mas el costo del tratamiento
+    :date: !ruby/object:DateTime 2015-09-18 09:48:10.927000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8348

@@ -1,0 +1,83 @@
+---
+:id: 27KWed4xA8GoIgaCg4IciW
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:12:45+00:00'
+  :created_at: '2017-09-08T18:12:45+00:00'
+  :id: 27KWed4xA8GoIgaCg4IciW
+:body: "<p>Yo no tengo seguro social como puedo agarrar una cobertura si soy indocumentado
+  Otra pregunta voy aser multado en mis taxis si no tengo aseguransa medica </p>"
+:permalink: 2015-02-05_yo-no-tengo-seguro-social-como-puedo-agarrar-una-cobertura-si-soy-indocumentado-otra-pregunta-voy-aser-multado-en-mis-taxis-si-no-tengo-aseguransa-medica
+:date: !ruby/object:DateTime 2015-02-05 16:52:00.000000000 -08:00
+:author_name: 'Julio Santillanes '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 58nxIa9lF6Y6ykkMCKgcWw
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:12:43+00:00'
+    :created_at: '2017-09-08T18:12:43+00:00'
+    :id: 58nxIa9lF6Y6ykkMCKgcWw
+  :body: "Corregido Gracias!\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-02-05 19:01:21.263000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4Ss4G2TnMs4cy2ACIEsWIu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:12:45+00:00'
+    :created_at: '2017-09-08T18:12:45+00:00'
+    :id: 4Ss4G2TnMs4cy2ACIEsWIu
+  :body: "Estimado Julio no sera multado por Usted y las personas que no tengan un
+    numero social valido no seran multadas,pero si usted tiene hijos menores nacidos
+    en Estados Unidos ellos deben estar cubiertos por algun seguro medico puede ser
+    uno que otorgue el estado, como medicaid chip le envio mas informacion.\r\n<a
+    href='https://www.cuidadodesalud.gov/es/immigrants/immigration-status/'>https://www.cuidadodesalud.gov/es/immigrants/immigration-status/</a>\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-02-05 18:50:21.808000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: r0iUeloUQSQK8e4YMcsec
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:12:44+00:00'
+      :created_at: '2017-09-08T18:12:44+00:00'
+      :id: r0iUeloUQSQK8e4YMcsec
+    :body: "Gracias muy buena respuesta mis hijas si tienen seguro medico \r\nGracias
+      y buenas noches "
+    :date: !ruby/object:DateTime 2015-02-05 18:54:27.915000000 -08:00
+    :author_name: 'Julio Santillanes '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3LY7ZUSFocC4sOamwcCwu
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:12:44+00:00'
+        :created_at: '2017-09-08T18:12:44+00:00'
+        :id: 3LY7ZUSFocC4sOamwcCwu
+      :body: 'Y mi apellido es santillanes '
+      :date: !ruby/object:DateTime 2015-02-05 18:55:11.975000000 -08:00
+      :author_name: 'Julio Santillanes '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3921

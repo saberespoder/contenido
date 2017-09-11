@@ -1,0 +1,166 @@
+---
+:id: 73kpHA4TfyUK4AICQYCYOQ
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:27:51+00:00'
+  :created_at: '2017-09-08T18:27:51+00:00'
+  :id: 73kpHA4TfyUK4AICQYCYOQ
+:body: "<p>Salud</p>"
+:permalink: 2015-03-10_salud
+:date: !ruby/object:DateTime 2015-03-10 18:45:45.000000000 -07:00
+:author_name: 'Gloria Ledezma '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: EeKxC7QOESq6OioyoQumi
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:46+00:00'
+    :created_at: '2017-09-08T18:27:46+00:00'
+    :id: EeKxC7QOESq6OioyoQumi
+  :body: Un dentistas
+  :date: !ruby/object:DateTime 2015-03-10 19:47:52.967000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4IazN7koqQAMAgIyi0Cy0M
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:46+00:00'
+    :created_at: '2017-09-08T18:27:46+00:00'
+    :id: 4IazN7koqQAMAgIyi0Cy0M
+  :body: Gracias
+  :date: !ruby/object:DateTime 2015-03-10 19:46:37.294000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3GKYroEyxGoYe2MgM0gCq6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:27:46+00:00'
+      :created_at: '2017-09-08T18:27:46+00:00'
+      :id: 3GKYroEyxGoYe2MgM0gCq6
+    :body: "Para Servirle!\r\n#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-04-01 18:10:18.149000000 -07:00
+    :author_name: 'Gabriela Umana '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 3Kjxn1IK1OGoAO6C0gI20S
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:47+00:00'
+    :created_at: '2017-09-08T18:27:47+00:00'
+    :id: 3Kjxn1IK1OGoAO6C0gI20S
+  :body: Ustedes sabes
+  :date: !ruby/object:DateTime 2015-03-10 19:45:47.555000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: eBrqhxtHheu0AioOgecSE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:48+00:00'
+    :created_at: '2017-09-08T18:27:48+00:00'
+    :id: eBrqhxtHheu0AioOgecSE
+  :body: 'Estimada Gloria: Gracias por Participar! Nos gustaria ayudarle y le sugerimos
+    ser mas especifica con su pregunta . # Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-03-10 19:40:17.537000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: Ck5e6eq2FUyMAa0wuA8Wy
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:27:47+00:00'
+      :created_at: '2017-09-08T18:27:47+00:00'
+      :id: Ck5e6eq2FUyMAa0wuA8Wy
+    :body: Nocemas
+    :date: !ruby/object:DateTime 2015-03-10 19:44:24.195000000 -07:00
+    :author_name: 'Gloria Ledezma '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+- :id: 2rrKjPAbkwAGkG4kOyms0K
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:49+00:00'
+    :created_at: '2017-09-08T18:27:49+00:00'
+    :id: 2rrKjPAbkwAGkG4kOyms0K
+  :body: Noches mas
+  :date: !ruby/object:DateTime 2015-03-10 18:56:00.907000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 6DIhoAV6qQA8aKY24aGaSq
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:49+00:00'
+    :created_at: '2017-09-08T18:27:49+00:00'
+    :id: 6DIhoAV6qQA8aKY24aGaSq
+  :body: Mi niña no tiene seguro médico
+  :date: !ruby/object:DateTime 2015-03-10 18:54:57.019000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: o6ZiqzhCWOuEcKs2Q0w04
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:27:49+00:00'
+      :created_at: '2017-09-08T18:27:49+00:00'
+      :id: o6ZiqzhCWOuEcKs2Q0w04
+    :body: "Gracias por su pregunta, le sugerimos acuda a su Ventanilla de Salud que
+      se encuentra en su Consulado y le puedan indicar los diversos recursos médicos
+      que hay disponibles gratuitos o a bajo costo, favor de acudir directamente o
+      comunicarse al:210-271-9728\tL,W,V: 9 am - 1 pm\r\nMartha López\r\n#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-04-01 18:12:33.934000000 -07:00
+    :author_name: 'Gabriela Umana '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 3JaFgGHOuIWkwSaAKMIqYM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:50+00:00'
+    :created_at: '2017-09-08T18:27:50+00:00'
+    :id: 3JaFgGHOuIWkwSaAKMIqYM
+  :body: No tengo seguro medico
+  :date: !ruby/object:DateTime 2015-03-10 18:52:36.180000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4v6v4lQkBqA6q8wu8Wim48
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:27:50+00:00'
+      :created_at: '2017-09-08T18:27:50+00:00'
+      :id: 4v6v4lQkBqA6q8wu8Wim48
+    :body: "Gracias por su pregunta, le sugerimos acuda a su Ventanilla de Salud que
+      se encuentra en su Consulado y le puedan indicar los diversos recursos médicos
+      que hay disponibles gratuitos o a bajo costo, favor de acudir directamente o
+      comunicarse al:210-271-9728\tL,W,V: 9 am - 1 pm Martha López #SABEResPODER"
+    :date: !ruby/object:DateTime 2015-04-01 18:13:04.466000000 -07:00
+    :author_name: 'Gabriela Umana '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 4nPzo0eELuukm2WUaK8kmQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:27:51+00:00'
+    :created_at: '2017-09-08T18:27:51+00:00'
+    :id: 4nPzo0eELuukm2WUaK8kmQ
+  :body: Bajar de peso
+  :date: !ruby/object:DateTime 2015-03-10 18:47:28.653000000 -07:00
+  :author_name: 'Gloria Ledezma '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 5335

@@ -1,0 +1,63 @@
+---
+:id: 1CBpfuf584scsUQqAswaKq
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:02:07+00:00'
+  :created_at: '2017-09-11T05:02:07+00:00'
+  :id: 1CBpfuf584scsUQqAswaKq
+:body: "<p>Mi nombre es rosa vivo en sacramento ca me puede recomendar un abogado
+  para mi estatus migratorio, donde puedo ir ,con quien...</p>"
+:permalink: mi-nombre-es-rosa-vivo-en-sacramento-ca-me-puede-recomendar-un-abogado-para-mi-estatus-migratorio-donde-puedo-ir-con-quien
+:date: !ruby/object:DateTime 2014-10-28 20:40:15.276000000 -07:00
+:author_name: 'Rosa Garcia '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 2QwmXp048ws8Yia6YiYm6a
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:02:07+00:00'
+    :created_at: '2017-09-11T05:02:07+00:00'
+    :id: 2QwmXp048ws8Yia6YiYm6a
+  :body: 'Gracias por su cónsula Rosa. Esta es la información de un centro de ayuda
+    migratoria de bajo costo cerca de  su localidad: California Rural Legal Assistance
+    Foundation, Inc. (Fresno Office). 814 N. Van Ness, Fresno, CA. Teléfono: (559)
+    486-6278. Le recomendamos que se ponga en contacto con esta oficina para obtener
+    detalles de sus servicios. SABEResPODER'
+  :date: !ruby/object:DateTime 2014-10-29 09:59:56.033000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2j9o4Z6kw8OQCouQioiGII
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:02:06+00:00'
+      :created_at: '2017-09-11T05:02:06+00:00'
+      :id: 2j9o4Z6kw8OQCouQioiGII
+    :body: 'GraciasAaron '
+    :date: !ruby/object:DateTime 2014-10-29 10:37:39.075000000 -07:00
+    :author_name: 'Rosa Garcia '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5u0HLFN2EgqIweKCQuwyCw
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:02:06+00:00'
+        :created_at: '2017-09-11T05:02:06+00:00'
+        :id: 5u0HLFN2EgqIweKCQuwyCw
+      :body: Estamos para servirle. Recuerde que SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-29 10:44:26.485000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1223

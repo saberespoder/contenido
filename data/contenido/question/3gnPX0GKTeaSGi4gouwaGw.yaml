@@ -1,0 +1,63 @@
+---
+:id: 3gnPX0GKTeaSGi4gouwaGw
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T17:59:30+00:00'
+  :created_at: '2017-09-08T17:59:30+00:00'
+  :id: 3gnPX0GKTeaSGi4gouwaGw
+:body: "<p>Necesito ayuda dental </p>"
+:permalink: necesito-ayuda-dental
+:date: !ruby/object:DateTime 2014-11-27 09:33:28.530000000 -08:00
+:author_name: 'Alejandro Castaneda '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6ud1mclcTCWQM6CSUcUGaA
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T17:59:29+00:00'
+    :created_at: '2017-09-08T17:59:29+00:00'
+    :id: 6ud1mclcTCWQM6CSUcUGaA
+  :body: Como saber donde esta un dentista cerca de mi casa
+  :date: !ruby/object:DateTime 2015-01-21 14:54:26.075000000 -08:00
+  :author_name: 'Esthela  '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1Wh8IJQFAcMMmYYweUmKM
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T17:59:28+00:00'
+      :created_at: '2017-09-08T17:59:28+00:00'
+      :id: 1Wh8IJQFAcMMmYYweUmKM
+    :body: 'Gracias por su pregunta Esthela. Esta es la informacion de una clinica
+      de atencio  medica de bajo costo que incluye servicios dentales: Central Care
+      Community Health Center at Yale. 4040 Yale St. Houston TX. Telefono: 713-333-1445.
+      SABEResPODER'
+    :date: !ruby/object:DateTime 2015-01-23 09:55:04.479000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 78W2aQedVe22ossU6G08ae
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T17:59:29+00:00'
+    :created_at: '2017-09-08T17:59:29+00:00'
+    :id: 78W2aQedVe22ossU6G08ae
+  :body: Estimado Alejandro, le recomendamos acuda a la ventnailla de salud de su
+    consulado para que le puedan proporcionar informacion sobre clinicas dentales
+    de bajo costo. La atencion en la ventanilla es totalmente gratuita y no es necesario
+    hacer una cita para ser atendido. SABEResPODER.
+  :date: !ruby/object:DateTime 2014-12-12 15:53:10.966000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 1914

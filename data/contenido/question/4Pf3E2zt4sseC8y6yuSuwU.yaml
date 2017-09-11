@@ -1,0 +1,48 @@
+---
+:id: 4Pf3E2zt4sseC8y6yuSuwU
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:21:04+00:00'
+  :created_at: '2017-09-11T05:21:04+00:00'
+  :id: 4Pf3E2zt4sseC8y6yuSuwU
+:body: "<p>Hola podrian en señarme a aprender inglés</p>"
+:permalink: 2015-04-25_hola-podrian-en-senarme-a-aprender-ingles
+:date: !ruby/object:DateTime 2015-04-25 11:45:59.000000000 -07:00
+:author_name: 'Mario Villatoro '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 6jZ3NVP9v2c0goUgwWimkc
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:21:04+00:00'
+    :created_at: '2017-09-11T05:21:04+00:00'
+    :id: 6jZ3NVP9v2c0goUgwWimkc
+  :body: Hola señor Mario, en unos días SABEResPODER estará lanzando un nuevo Programa
+    Interactivo para aprender Inglés, con gusto nos comunicaremos con usted una vez
+    esté disponible para darle más detalles sobre ésta excelente oportunidad#.SABEResPODER
+  :date: !ruby/object:DateTime 2015-04-27 10:01:33.407000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 62FAQbsCJOSamyyCgA6aG4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:21:03+00:00'
+      :created_at: '2017-09-11T05:21:03+00:00'
+      :id: 62FAQbsCJOSamyyCgA6aG4
+    :body: Si me interesa estoy dis ponivle
+    :date: !ruby/object:DateTime 2015-04-27 10:04:05.027000000 -07:00
+    :author_name: 'Mario Villatoro '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6613

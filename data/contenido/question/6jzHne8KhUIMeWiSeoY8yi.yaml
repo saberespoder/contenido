@@ -1,0 +1,60 @@
+---
+:id: 6jzHne8KhUIMeWiSeoY8yi
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:13:19+00:00'
+  :created_at: '2017-09-08T18:13:19+00:00'
+  :id: 6jzHne8KhUIMeWiSeoY8yi
+:body: "<p>Donde puedo resibir atension dental</p>"
+:permalink: donde-puedo-resibir-atension-dental
+:date: !ruby/object:DateTime 2014-11-07 10:10:31.448000000 -08:00
+:author_name: 'Gerardo Puente '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 10kxDfl8xCmiqa4q0euuKY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:13:19+00:00'
+    :created_at: '2017-09-08T18:13:19+00:00'
+    :id: 10kxDfl8xCmiqa4q0euuKY
+  :body: Hola Gerardo, en la ventanilla de salud de su consulado le pueden proporcionar
+    informacion sobre clinicas dentales de bajo costo. Para ser atendido en la ventanilla
+    de salud no es necesario hacer cita y la atencion es gratuita. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-07 11:15:18.042000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 61NNsZWGEoqoAAk0O82Q42
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:13:18+00:00'
+      :created_at: '2017-09-08T18:13:18+00:00'
+      :id: 61NNsZWGEoqoAAk0O82Q42
+    :body: 'Grasias aron '
+    :date: !ruby/object:DateTime 2014-11-07 12:49:28.221000000 -08:00
+    :author_name: 'Gerardo Puente '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 1ILJ7zGIHeeYqiUScIUGg8
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:13:18+00:00'
+        :created_at: '2017-09-08T18:13:18+00:00'
+        :id: 1ILJ7zGIHeeYqiUScIUGg8
+      :body: Estamos para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-07 13:03:09.993000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1425

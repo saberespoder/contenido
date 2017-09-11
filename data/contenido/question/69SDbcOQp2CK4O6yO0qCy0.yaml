@@ -1,0 +1,73 @@
+---
+:id: 69SDbcOQp2CK4O6yO0qCy0
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:08:23+00:00'
+  :created_at: '2017-09-08T18:08:23+00:00'
+  :id: 69SDbcOQp2CK4O6yO0qCy0
+:body: "<p>Sera que. Yo puedo. areglar papeles. </p>"
+:permalink: sera-que-yo-puedo-areglar-papeles
+:date: !ruby/object:DateTime 2014-10-17 14:21:03.117000000 -07:00
+:author_name: 'Leonor Rico '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 3fFXzjCSwooaK2qQoUCceA
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:08:23+00:00'
+    :created_at: '2017-09-08T18:08:23+00:00'
+    :id: 3fFXzjCSwooaK2qQoUCceA
+  :body: Hola Leonor que tipo de tramite necesita hacer? Esto para poder encontrar
+    la mejor manera de ayudarle.
+  :date: !ruby/object:DateTime 2014-10-20 12:30:36.754000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2DVVtQoGpOgkOkWEqS40YU
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:08:22+00:00'
+      :created_at: '2017-09-08T18:08:22+00:00'
+      :id: 2DVVtQoGpOgkOkWEqS40YU
+    :body: yo quisiera ver tengo 19 años de vivir aquí en jiuston yo quiero saber
+      si puedo arreglar algún tipo de papeles
+    :date: !ruby/object:DateTime 2014-10-20 12:33:16.037000000 -07:00
+    :author_name: 'Leonor Rico '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: lnj4jSH2Cs64QQsQIAOKK
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:08:21+00:00'
+        :created_at: '2017-09-08T18:08:21+00:00'
+        :id: lnj4jSH2Cs64QQsQIAOKK
+      :body: 'hola yo quisiera saber si puedo arreglar tengo 19 años de vivir aquí '
+      :date: !ruby/object:DateTime 2014-10-20 12:35:24.780000000 -07:00
+      :author_name: 'Leonor Rico '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    - :id: 1fwrJlVnlkqi2gCUOMs2aG
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:08:22+00:00'
+        :created_at: '2017-09-08T18:08:22+00:00'
+        :id: 1fwrJlVnlkqi2gCUOMs2aG
+      :body: 'Hola Leonor le recomendamos que lea el siguiente articulo sobre la accion
+        deiferid apara que pueda ver si reune todos los requisitos: <a href=''http://bit.ly/1pMfhPk''>http://bit.ly/1pMfhPk</a>
+        SABEResPODER'
+      :date: !ruby/object:DateTime 2014-10-20 12:36:40.872000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1113

@@ -1,0 +1,72 @@
+---
+:id: 1ALTvU5S7WS0G66ak2yqwu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:25:38+00:00'
+  :created_at: '2017-09-11T05:25:38+00:00'
+  :id: 1ALTvU5S7WS0G66ak2yqwu
+:body: "<p>Para mi es muy importante saber que esta pasando sobre los arreglos de
+  migracion y y salud ayuda medica</p>"
+:permalink: 2015-10-07_para-mi-es-muy-importante-saber-que-esta-pasando-sobre-los-arreglos-de-migracion-y-y-salud-ayuda-medica
+:date: !ruby/object:DateTime 2015-10-07 06:42:08.000000000 -07:00
+:author_name: 'Agueda Carmona '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 24ito2o7numWWCMYiQykkk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:25:37+00:00'
+    :created_at: '2017-09-11T05:25:37+00:00'
+    :id: 24ito2o7numWWCMYiQykkk
+  :body: 'Hola estimada Agueda, gracias por su participación, aquí estamos a sus servicios
+    por cualquier pregunta que tenga incluyendo preguntas relacionadas con inmigración
+    y la salud. ¡Estamos a sus ordenes! SABEResPODER '
+  :date: !ruby/object:DateTime 2015-10-07 09:30:36.282000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 4QZghTUOGcw4OEuW6Waikk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:25:37+00:00'
+      :created_at: '2017-09-11T05:25:37+00:00'
+      :id: 4QZghTUOGcw4OEuW6Waikk
+    :body: Como envió mi información y que ago para aser estas preguntas y respuestas
+      sobre los beneficios sobre la salud y la ayuda de medicina !!
+    :date: !ruby/object:DateTime 2015-10-16 12:33:40.786000000 -07:00
+    :author_name: 'Agueda Carmona '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3hqhywSvfOU6uysA0K6GWC
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:25:36+00:00'
+        :created_at: '2017-09-11T05:25:36+00:00'
+        :id: 3hqhywSvfOU6uysA0K6GWC
+      :body: 'Hola estimada Agueda, gracias por su comentario. No es necesario que
+        nos envié mas informacion, con la informacion que incluye en su perfil es
+        suficiente. Recuerde que aquí estamos para ayudarle. #SABEResPODE'
+      :date: !ruby/object:DateTime 2015-10-16 12:51:25.051000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8694

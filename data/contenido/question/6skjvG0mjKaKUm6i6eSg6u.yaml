@@ -1,0 +1,58 @@
+---
+:id: 6skjvG0mjKaKUm6i6eSg6u
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:34:19+00:00'
+  :created_at: '2017-09-08T18:34:19+00:00'
+  :id: 6skjvG0mjKaKUm6i6eSg6u
+:body: "<p>Como se dise dame un vaso de agua</p>"
+:permalink: 2015-04-25_como-se-dise-dame-un-vaso-de-agua
+:date: !ruby/object:DateTime 2015-04-25 13:54:38.000000000 -07:00
+:author_name: 'roberto peralta '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+- :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 3cMkhsYsesqkWYysCKmMoU
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:34:18+00:00'
+    :created_at: '2017-09-08T18:34:18+00:00'
+    :id: 3cMkhsYsesqkWYysCKmMoU
+  :body: "Hola estimado Roberto, se dice \"May you please give me one glass of water\".
+    Le recomendamos descargar una aplicación traductora a su teléfono móvil. También,
+    en unos días SABEResPODER estará lanzando un nuevo Programa Interactivo para aprender
+    inglés, con gusto nos comunicamos con usted una vez este esté disponible para
+    darle más detalles sobre esta excelente oportunidad. #SABEResPODER\r\n"
+  :date: !ruby/object:DateTime 2015-05-05 11:48:01.675000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :from_admin: false
+- :id: 2BD4xLFl12UAUYUOMWIQEi
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:34:18+00:00'
+    :created_at: '2017-09-08T18:34:18+00:00'
+    :id: 2BD4xLFl12UAUYUOMWIQEi
+  :body: 'I need to learn English becouse i don''t know anything and i want a better
+    future '
+  :date: !ruby/object:DateTime 2015-04-26 21:56:23.548000000 -07:00
+  :author_name: 'Anonimo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 6672

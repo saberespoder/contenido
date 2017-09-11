@@ -1,0 +1,60 @@
+---
+:id: 1cGjqmoK9kQCW6WG6memgE
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:38:58+00:00'
+  :created_at: '2017-09-11T05:38:58+00:00'
+  :id: 1cGjqmoK9kQCW6WG6memgE
+:body: "<p>Donde puedo ir a una clinica dental barato</p>"
+:permalink: donde-puedo-ir-a-una-clinica-dental-barato
+:date: !ruby/object:DateTime 2014-11-07 14:53:16.913000000 -08:00
+:author_name: 'Armando Ruiz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2qB0835X2cSKkAkKOG0wEi
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:38:58+00:00'
+    :created_at: '2017-09-11T05:38:58+00:00'
+    :id: 2qB0835X2cSKkAkKOG0wEi
+  :body: Hola Armando le recomendamos se acerque a la ventanilla de salud de su consulado
+    para que le proporcionen informacion al respecto. La atencion es totalmente gratuita
+    y no es necesario hacer citas para ser atendido. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-07 14:58:37.571000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 35EVRIpZvO4oKY44q2w8uS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:38:57+00:00'
+      :created_at: '2017-09-11T05:38:57+00:00'
+      :id: 35EVRIpZvO4oKY44q2w8uS
+    :body: Gracias señor muy amable
+    :date: !ruby/object:DateTime 2014-11-07 14:59:45.505000000 -08:00
+    :author_name: 'Armando Ruiz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4Q9Jl3l9kcqKc2GQIqwy8o
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:38:57+00:00'
+        :created_at: '2017-09-11T05:38:57+00:00'
+        :id: 4Q9Jl3l9kcqKc2GQIqwy8o
+      :body: Estamos para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-07 15:04:22.410000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1430

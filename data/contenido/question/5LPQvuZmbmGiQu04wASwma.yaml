@@ -1,0 +1,60 @@
+---
+:id: 5LPQvuZmbmGiQu04wASwma
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:29:24+00:00'
+  :created_at: '2017-09-08T18:29:24+00:00'
+  :id: 5LPQvuZmbmGiQu04wASwma
+:body: "<p>A partir de cuando puede aplicar </p>"
+:permalink: 2015-01-25_a-partir-de-cuando-puede-aplicar
+:date: !ruby/object:DateTime 2015-01-25 21:14:10.000000000 -08:00
+:author_name: 'Reyna Barragan '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 3S6ULMLZ1YImi4IKsyQeIY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:29:24+00:00'
+    :created_at: '2017-09-08T18:29:24+00:00'
+    :id: 3S6ULMLZ1YImi4IKsyQeIY
+  :body: Estimada Reyna, a que proceso desea usted aplicar?  SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-26 15:39:52.801000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2c8AfycXmQA2W0uMwyysMg
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:29:23+00:00'
+      :created_at: '2017-09-08T18:29:23+00:00'
+      :id: 2c8AfycXmQA2W0uMwyysMg
+    :body: Alo de migracion
+    :date: !ruby/object:DateTime 2015-01-26 15:42:27.462000000 -08:00
+    :author_name: 'Reyna Barragan '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5VRMiEPvlCemuQIoWe40wM
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:29:23+00:00'
+        :created_at: '2017-09-08T18:29:23+00:00'
+        :id: 5VRMiEPvlCemuQIoWe40wM
+      :body: Gracias por su pregunta. Referente a la accion ejecutiva, se espera que
+        a finales de febrero se de informacion detallada sobre los requisitos y tiempos
+        para que se pueda aplicar a dicho proceso. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-27 09:40:51.392000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3405

@@ -1,0 +1,79 @@
+---
+:id: JGrISnJxkqwgKIK8IoqIU
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:27:18+00:00'
+  :created_at: '2017-09-11T05:27:18+00:00'
+  :id: JGrISnJxkqwgKIK8IoqIU
+:body: "<p>Mis hijos de 7 y 17 años son ciudadanos americanos nacidos en texas yo
+  soy ilegal ambos cuentan con madicare debo de inscribirlos en algun tipo de aseguransa
+  diferente</p>"
+:permalink: mis-hijos-de-7-y-17-anos-son-ciudadanos-americanos-nacidos-en-texas-yo-soy-ilegal-ambos-cuentan-con-madicare-debo-de-inscribirlos-en-algun-tipo-de-aseguransa-diferente
+:date: !ruby/object:DateTime 2014-11-12 17:04:37.266000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 5GkG0dVCfueW2AcWs0OmM8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:27:18+00:00'
+    :created_at: '2017-09-11T05:27:18+00:00'
+    :id: 5GkG0dVCfueW2AcWs0OmM8
+  :body: Estimado usuario, no es necesario que sus hijos se inscriban en otro tipo
+    de aseguransa, pero si, usted lo desea puede inscribirlos en otra firma de seguros
+    como una opcion complementaria. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-13 10:13:00.747000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: z60mP5ZFraGuWK8awYOEo
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:27:17+00:00'
+      :created_at: '2017-09-11T05:27:17+00:00'
+      :id: z60mP5ZFraGuWK8awYOEo
+    :body: 'Y mi mujer y yo basta con el plan que tenemos de el hospital parkland '
+    :date: !ruby/object:DateTime 2014-11-13 10:18:14.271000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 8vVMai846cqUO8u4Ua4G2
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:27:17+00:00'
+        :created_at: '2017-09-11T05:27:17+00:00'
+        :id: 8vVMai846cqUO8u4Ua4G2
+      :body: Si y a como le exponiamos antes, si usted lo desea puede comprar un seguro
+        complementaria, pero no es necesario ponerlos en un seguro diferente. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-13 10:45:16.834000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1487

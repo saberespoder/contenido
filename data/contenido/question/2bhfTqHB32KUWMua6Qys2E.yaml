@@ -1,0 +1,58 @@
+---
+:id: 2bhfTqHB32KUWMua6Qys2E
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:32:23+00:00'
+  :created_at: '2017-09-11T05:32:23+00:00'
+  :id: 2bhfTqHB32KUWMua6Qys2E
+:body: "<p>Buenos dias</p>"
+:permalink: 2015-04-25_buenos-dias
+:date: !ruby/object:DateTime 2015-04-25 12:39:06.000000000 -07:00
+:author_name: 'Gerson Mazariueq '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4DhVL5pCkougo60swWEyYo
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:32:22+00:00'
+    :created_at: '2017-09-11T05:32:22+00:00'
+    :id: 4DhVL5pCkougo60swWEyYo
+  :body: Hola Gerson buenos dias diganos en que le podemos ayudar.
+  :date: !ruby/object:DateTime 2017-01-05 07:55:12.448000000 -08:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 5qzBrMVAxUMMs88IsAqSE8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:32:22+00:00'
+    :created_at: '2017-09-11T05:32:22+00:00'
+    :id: 5qzBrMVAxUMMs88IsAqSE8
+  :body: Buenos días. Estoy interesada en qué me ayuden a ubicarme un plantel en donde
+    dicten clases de Inglés gratis. Me encuentro en la área 77014 de Houston texas.
+  :date: !ruby/object:DateTime 2017-01-05 07:12:25.864000000 -08:00
+  :author_name: 'Lina Marcela velandia alejo '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 11OIu5SGGAM4g4aIym2K6K
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:32:23+00:00'
+    :created_at: '2017-09-11T05:32:23+00:00'
+    :id: 11OIu5SGGAM4g4aIym2K6K
+  :body: "¡Le damos bienvenida a nuestro programa SABEResPODER, siéntase en confianza
+    a hacer preguntas por texto, estamos a sus ordenes! #SABEResPODER"
+  :date: !ruby/object:DateTime 2015-04-27 10:50:38.094000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :from_admin: false
+:legacy_id: 6632

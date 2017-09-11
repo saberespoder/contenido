@@ -1,0 +1,49 @@
+---
+:id: 3Ue5Zp9QVqUc0IOYgS4uIU
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:14:19+00:00'
+  :created_at: '2017-09-11T05:14:19+00:00'
+  :id: 3Ue5Zp9QVqUc0IOYgS4uIU
+:body: "<p>En donde consigo um medico a bajo precio.</p>"
+:permalink: 2015-01-20_en-donde-consigo-um-medico-a-bajo-precio
+:date: !ruby/object:DateTime 2015-01-20 21:26:34.000000000 -08:00
+:author_name: 'Juana Rico '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 7uJNnlnBp626qM64w8uggK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:14:18+00:00'
+    :created_at: '2017-09-11T05:14:18+00:00'
+    :id: 7uJNnlnBp626qM64w8uggK
+  :body: Hola estimada Adriana, agradecemos su pregunta. Le recomendamos que se acerque
+    a la ventanilla de salud de su consulado para que la proporcione referencias de
+    clínicas y servicios médicos a bajo costo. La atención de la ventanilla es totalmente
+    gratis y no es necesario hacer una cita para ser atendido. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-22 18:52:37.260000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 4Much5ctZYgkw62YCy40y2
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:14:18+00:00'
+      :created_at: '2017-09-11T05:14:18+00:00'
+      :id: 4Much5ctZYgkw62YCy40y2
+    :body: 'Muchas gracias. '
+    :date: !ruby/object:DateTime 2015-01-22 18:57:53.359000000 -08:00
+    :author_name: 'Juana Rico '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3164

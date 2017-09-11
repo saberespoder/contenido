@@ -1,0 +1,82 @@
+---
+:id: 4pigk9O4lGsMKgosSQQyAg
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:29:18+00:00'
+  :created_at: '2017-09-11T05:29:18+00:00'
+  :id: 4pigk9O4lGsMKgosSQQyAg
+:body: "<p>En el consulado new york tambien VA estar el programa.</p>"
+:permalink: en-el-consulado-new-york-tambien-va-estar-el-programa
+:date: !ruby/object:DateTime 2014-10-03 11:19:51.225000000 -07:00
+:author_name: 'Rene Avila '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 4GdH8U2O9iGmWsiOqYqAya
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:29:17+00:00'
+    :created_at: '2017-09-11T05:29:17+00:00'
+    :id: 4GdH8U2O9iGmWsiOqYqAya
+  :body: Hola Rene, efectivamente SI, este evento se realizara en cada uno de los
+    consulados Mexicanos. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-03 11:31:45.635000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3bjjCO9CoEeq0e8Ukc2Km8
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:29:16+00:00'
+      :created_at: '2017-09-11T05:29:16+00:00'
+      :id: 3bjjCO9CoEeq0e8Ukc2Km8
+    :body: Gracias
+    :date: !ruby/object:DateTime 2014-10-03 11:34:38.632000000 -07:00
+    :author_name: 'Rene Avila '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 6K0In8yxskuGGM0eIQ2Ay2
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:29:17+00:00'
+      :created_at: '2017-09-11T05:29:17+00:00'
+      :id: 6K0In8yxskuGGM0eIQ2Ay2
+    :body: Q saber los horarios ...
+    :date: !ruby/object:DateTime 2014-10-03 11:36:10.099000000 -07:00
+    :author_name: 'Rene Avila '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 1W14N7gznqgKOiGyCMcEAE
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:29:16+00:00'
+        :created_at: '2017-09-11T05:29:16+00:00'
+        :id: 1W14N7gznqgKOiGyCMcEAE
+      :body: Los horarios seran los mismos del consulado, 8:00 AM a 2:00 PM SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-03 11:38:50.164000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    - :id: EvjG6uEkiO8sAAYwAKAum
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:29:16+00:00'
+        :created_at: '2017-09-11T05:29:16+00:00'
+        :id: EvjG6uEkiO8sAAYwAKAum
+      :body: 'Aquí le dejo un calendario donde aparecen los servicios que se ofrecerán
+        cada día: <a href=''https://www.facebook.com/consulmexnuevayork/photos/pcb.781510648554811/781507868555089/?type=1&theater''>https://www.facebook.com/consulmexnuevayork/photos/pcb.781510648554811/781507868555089/?type=1&theater</a>'
+      :date: !ruby/object:DateTime 2014-10-04 08:21:11.950000000 -07:00
+      :author_name: 'Raquel Villarreal '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/123820/10007492_10152383763850757_1004072927_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 979

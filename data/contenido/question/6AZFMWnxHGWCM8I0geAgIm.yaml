@@ -1,0 +1,56 @@
+---
+:id: 6AZFMWnxHGWCM8I0geAgIm
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:22:19+00:00'
+  :created_at: '2017-09-08T18:22:19+00:00'
+  :id: 6AZFMWnxHGWCM8I0geAgIm
+:body: "<p>Me interesa hacer el Ged. Mi codigo es 76110</p>"
+:permalink: 2015-01-28_me-interesa-hacer-el-ged-mi-codigo-es-76110
+:date: !ruby/object:DateTime 2015-01-28 07:08:36.000000000 -08:00
+:author_name: 'Araceli Lopez '
+:author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/96407/13015624_782949198473886_6386886278650151172_n.jpg
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 5VirQ0Y1cQ860m02OOwKC4
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:22:18+00:00'
+    :created_at: '2017-09-08T18:22:18+00:00'
+    :id: 5VirQ0Y1cQ860m02OOwKC4
+  :body: "Estimado usuario, esta es la informacion de un centro donde podra hacer
+    su examen de GED: Tarrant County College District. 5301 Campus Drive\r\nFort Worth,
+    TX. Telefono: 817-515-4535. SABEResPODER"
+  :date: !ruby/object:DateTime 2015-01-28 14:47:25.660000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2jtCyPyasM0Ayme4eMmSaU
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:22:18+00:00'
+      :created_at: '2017-09-08T18:22:18+00:00'
+      :id: 2jtCyPyasM0Ayme4eMmSaU
+    :body: Gracias
+    :date: !ruby/object:DateTime 2015-01-28 16:24:21.748000000 -08:00
+    :author_name: 'Araceli Lopez '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/96407/13015624_782949198473886_6386886278650151172_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3527

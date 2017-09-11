@@ -1,0 +1,60 @@
+---
+:id: 2byoVBq7KUI6IcEm8gaoWu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:44:29+00:00'
+  :created_at: '2017-09-11T05:44:29+00:00'
+  :id: 2byoVBq7KUI6IcEm8gaoWu
+:body: "<p>a donde puede ir al doctor para mis ijas q no tien seguro medico</p>"
+:permalink: a-donde-puede-ir-al-doctor-para-mis-ijas-q-no-tien-seguro-medico
+:date: !ruby/object:DateTime 2014-10-13 14:38:35.987000000 -07:00
+:author_name: 'Elvia Salazar '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5SdpNwasBUGg8qsGMaSyMk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:44:28+00:00'
+    :created_at: '2017-09-11T05:44:28+00:00'
+    :id: 5SdpNwasBUGg8qsGMaSyMk
+  :body: Saludos Elvia, agradecemos su pregunta. Le recomendamos se dirija a la ventanilla
+    de salud en su consulado mas cercano para que le brinden informacion gratuita
+    sobre atencion medica de bajo costo. SABEREsPODER
+  :date: !ruby/object:DateTime 2014-10-14 10:18:14.348000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 31spjgNBqwQaWeq24oukii
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:44:28+00:00'
+      :created_at: '2017-09-11T05:44:28+00:00'
+      :id: 31spjgNBqwQaWeq24oukii
+    :body: okey muchas gracias
+    :date: !ruby/object:DateTime 2014-10-14 11:08:55.526000000 -07:00
+    :author_name: 'Elvia Salazar '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5lD98FuFOgy6WqKU88Yg2i
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:44:27+00:00'
+        :created_at: '2017-09-11T05:44:27+00:00'
+        :id: 5lD98FuFOgy6WqKU88Yg2i
+      :body: Claro Elvia en SABEResPODER estamos para brindarle la mejor ayuda.
+      :date: !ruby/object:DateTime 2014-10-14 11:18:49.534000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1044

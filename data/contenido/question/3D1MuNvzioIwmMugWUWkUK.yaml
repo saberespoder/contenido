@@ -1,0 +1,60 @@
+---
+:id: 3D1MuNvzioIwmMugWUWkUK
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:28:29+00:00'
+  :created_at: '2017-09-08T18:28:29+00:00'
+  :id: 3D1MuNvzioIwmMugWUWkUK
+:body: "<p>Escuelas</p>"
+:permalink: 2015-03-14_escuelas
+:date: !ruby/object:DateTime 2015-03-14 13:47:41.000000000 -07:00
+:author_name: 'Laura Escobar '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: XTweQ3XJE2Eewm2G4O80q
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:28:28+00:00'
+    :created_at: '2017-09-08T18:28:28+00:00'
+    :id: XTweQ3XJE2Eewm2G4O80q
+  :body: "Estimada Laura: Para Cursos de Ingles: \r\n\r\n\r\n Citizenship Class.\r\n\r\n59
+    26 Woodside Ave. 2 FL.\r\n\r\n\r\nWoodside, NY 11377.\r\n\r\n\r\n(718) 478-5502
+    Ext. 209 . # Saber es Poder!"
+  :date: !ruby/object:DateTime 2015-03-19 19:33:00.381000000 -07:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 88X5zif6Zauyua88OQcew
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:28:29+00:00'
+    :created_at: '2017-09-08T18:28:29+00:00'
+    :id: 88X5zif6Zauyua88OQcew
+  :body: "Gracias por su participacion para poderla orientar de mejor manera sea un
+    poco mas especifica.\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-17 16:27:32.352000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6ePeVFkyU8KkGS2GKC6a8A
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:28:28+00:00'
+      :created_at: '2017-09-08T18:28:28+00:00'
+      :id: 6ePeVFkyU8KkGS2GKC6a8A
+    :body: "¿Donde puedo tener acceso a escuelas o cursos de inglés o repostería?"
+    :date: !ruby/object:DateTime 2015-03-17 16:31:40.304000000 -07:00
+    :author_name: 'Laura Escobar '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5635

@@ -1,0 +1,59 @@
+---
+:id: 4E83gahU6skgi6ywQ00weU
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:15:44+00:00'
+  :created_at: '2017-09-08T18:15:44+00:00'
+  :id: 4E83gahU6skgi6ywQ00weU
+:body: "<p>Cuando es el tiempo limite para esta accion ejecutiva?</p>"
+:permalink: cuando-es-el-tiempo-limite-para-esta-accion-ejecutiva
+:date: !ruby/object:DateTime 2014-12-04 11:57:52.084000000 -08:00
+:author_name: 'Antonio Yanez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 5hAtTOuNuwGMYgKGUCeEy8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:15:44+00:00'
+    :created_at: '2017-09-08T18:15:44+00:00'
+    :id: 5hAtTOuNuwGMYgKGUCeEy8
+  :body: De momento no se tiene fecha en la cual se empezara a recibir las aplicaciones
+    para la Accion Ejecutiva. SABEResPODER
+  :date: !ruby/object:DateTime 2014-12-04 12:25:57.423000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 6Jn6x68KJycsWuwE2OQsIS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:15:43+00:00'
+      :created_at: '2017-09-08T18:15:43+00:00'
+      :id: 6Jn6x68KJycsWuwE2OQsIS
+    :body: 'OK gracias '
+    :date: !ruby/object:DateTime 2014-12-04 12:27:16.278000000 -08:00
+    :author_name: 'Antonio Yanez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 42RDlN9Sxy6oKiYiAGig8W
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:15:43+00:00'
+        :created_at: '2017-09-08T18:15:43+00:00'
+        :id: 42RDlN9Sxy6oKiYiAGig8W
+      :body: Estamos para ayudarle Antonio. SABEResPODER
+      :date: !ruby/object:DateTime 2014-12-04 12:33:26.329000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2001

@@ -1,0 +1,62 @@
+---
+:id: 5vE3U6UJXOoYKKWW0wqmQk
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:46:31+00:00'
+  :created_at: '2017-09-11T05:46:31+00:00'
+  :id: 5vE3U6UJXOoYKKWW0wqmQk
+:body: "<p>Esto es solo un permiso de trabajo , osea uno no puede viajar a su pais</p>"
+:permalink: esto-es-solo-un-permiso-de-trabajo-osea-uno-no-puede-viajar-a-su-pais
+:date: !ruby/object:DateTime 2014-11-24 12:54:49.450000000 -08:00
+:author_name: 'mary  Zenil  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 6xtoqL4mB2Q0AaGWE4OyiM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:46:31+00:00'
+    :created_at: '2017-09-11T05:46:31+00:00'
+    :id: 6xtoqL4mB2Q0AaGWE4OyiM
+  :body: Hola Mario. De momento no se tiene informacion sobre si se podra viajar a
+    su pais de origen, hasta que no se tenga ningun tipo de informacion al respecto
+    toda informacion sobre el caso carece de veracidad. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-25 10:56:24.843000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 1NYDwLbN0sOAweiG2wCgi0
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:46:31+00:00'
+      :created_at: '2017-09-11T05:46:31+00:00'
+      :id: 1NYDwLbN0sOAweiG2wCgi0
+    :body: Que pasa si nunca he trabajado y es la primera vez que hago mis taxes
+    :date: !ruby/object:DateTime 2014-11-25 10:58:14.262000000 -08:00
+    :author_name: 'mary  Zenil  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2UqzUvXdcQiI6IWaAaG2IM
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:46:30+00:00'
+        :created_at: '2017-09-11T05:46:30+00:00'
+        :id: 2UqzUvXdcQiI6IWaAaG2IM
+      :body: De momento no tenemos detalles sobre cual sera la politica de requisitos
+        para los impuestos al momento de aplicar, cuando obtengamos esa informacion
+        cno mucho gusto se la estaremos compartiendo. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-25 12:24:29.116000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1838

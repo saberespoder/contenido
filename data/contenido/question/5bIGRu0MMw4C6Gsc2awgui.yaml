@@ -1,0 +1,64 @@
+---
+:id: 5bIGRu0MMw4C6Gsc2awgui
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:36:41+00:00'
+  :created_at: '2017-09-08T18:36:41+00:00'
+  :id: 5bIGRu0MMw4C6Gsc2awgui
+:body: "<p>M gustaria aserte un chequeo </p>"
+:permalink: 2015-01-15_m-gustaria-aserte-un-chequeo
+:date: !ruby/object:DateTime 2015-01-15 13:45:48.000000000 -08:00
+:author_name: 'Mario Quizhpi '
+:author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/145166/1461252_583898978348535_2076624212_n.jpg
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1qBFyq5nZ2USGsEkSkMKCQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:36:39+00:00'
+    :created_at: '2017-09-08T18:36:39+00:00'
+    :id: 1qBFyq5nZ2USGsEkSkMKCQ
+  :body: Hola Mario, como le podemos ayudar? SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-15 13:53:11.499000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3r4RLviPYc22mIyIAqyM0a
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:36:39+00:00'
+      :created_at: '2017-09-08T18:36:39+00:00'
+      :id: 3r4RLviPYc22mIyIAqyM0a
+    :body: 'Nesecito bajar de peso '
+    :date: !ruby/object:DateTime 2015-01-15 13:58:45.959000000 -08:00
+    :author_name: 'Mario Quizhpi '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/145166/1461252_583898978348535_2076624212_n.jpg
+    :answers:
+    - :id: 59hpPx3BdSkAauUcmwgcIY
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:36:39+00:00'
+        :created_at: '2017-09-08T18:36:39+00:00'
+        :id: 59hpPx3BdSkAauUcmwgcIY
+      :body: 'Estimado Mario, en el siguiente enlace usted puede encontrar informacion
+        sobre como vivir una vida mas sana: agradecemos su consulta. Le sugerimos
+        que contacte a su médico y hable con él sobre su interés en bajar de peso,
+        cada detalle de su consulta con el especialista le será de utilidad para adecuar
+        una dieta saludable para usted. Le invitamos a revisar este interesante artículo
+        de nuestro contenido: Pasos para una Vida Mejor: <a href=''http://bit.ly/1xXjxCY''>http://bit.ly/1xXjxCY</a>
+        SABEResPODER'
+      :date: !ruby/object:DateTime 2015-01-15 15:09:38.004000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2988

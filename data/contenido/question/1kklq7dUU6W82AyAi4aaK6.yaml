@@ -1,0 +1,58 @@
+---
+:id: 1kklq7dUU6W82AyAi4aaK6
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:25:51+00:00'
+  :created_at: '2017-09-08T18:25:51+00:00'
+  :id: 1kklq7dUU6W82AyAi4aaK6
+:body: "<p>Muy buenas pregutas si megusto</p>"
+:permalink: 2015-01-24_muy-buenas-pregutas-si-megusto
+:date: !ruby/object:DateTime 2015-01-24 19:50:48.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 3Yuvb6hcikI6Eiik8I22Ey
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:25:50+00:00'
+    :created_at: '2017-09-08T18:25:50+00:00'
+    :id: 3Yuvb6hcikI6Eiik8I22Ey
+  :body: Estamos para servirle. Recuerde que SABEResPODER.
+  :date: !ruby/object:DateTime 2015-01-26 14:09:13.711000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2cOVpKrq6gEEK2I6kcmEIE
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:25:50+00:00'
+      :created_at: '2017-09-08T18:25:50+00:00'
+      :id: 2cOVpKrq6gEEK2I6kcmEIE
+    :body: Si sige
+    :date: !ruby/object:DateTime 2015-01-26 14:53:58.340000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6PSdEJvmsE6aKsy824q8WS
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:25:49+00:00'
+        :created_at: '2017-09-08T18:25:49+00:00'
+        :id: 6PSdEJvmsE6aKsy824q8WS
+      :body: "Gracias!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-02-16 14:26:02.046000000 -08:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3365

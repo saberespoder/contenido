@@ -1,0 +1,48 @@
+---
+:id: 7dCunxyfssWOmw8Es4WUmk
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:03:32+00:00'
+  :created_at: '2017-09-08T18:03:32+00:00'
+  :id: 7dCunxyfssWOmw8Es4WUmk
+:body: "<p>Credencial de elector</p>"
+:permalink: 2017-08-23_credencial-de-elector
+:date: !ruby/object:DateTime 2017-08-23 12:01:44.876000000 -07:00
+:author_name: 'Pedro alberto oropeza chavez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 1FRM04rLWcWuisEA8myEmC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:03:31+00:00'
+    :created_at: '2017-09-08T18:03:31+00:00'
+    :id: 1FRM04rLWcWuisEA8myEmC
+  :body: Necesito sacar mi credencial de elector vivo en arizona como le hago
+  :date: !ruby/object:DateTime 2017-08-23 14:42:05.939000000 -07:00
+  :author_name: 'Pedro alberto oropeza chavez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: AWsVLCU0x2gWCEaqMMS62
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:03:30+00:00'
+      :created_at: '2017-09-08T18:03:30+00:00'
+      :id: AWsVLCU0x2gWCEaqMMS62
+    :body: 'Hola Pedro, para iniciar su tramite de la CREDENCIAL DE ELECTOR necesita:
+      acta de nacimiento, identificacion con foto y comprobante de domicilio, saque
+      su cita al Consulado llamando al 877-639-4835 #SABEResPODER'
+    :date: !ruby/object:DateTime 2017-08-28 14:57:43.448000000 -07:00
+    :author_name: Karla Fernandez  - SABEResPODER
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: true
+  :from_admin: false
+:legacy_id: 13403

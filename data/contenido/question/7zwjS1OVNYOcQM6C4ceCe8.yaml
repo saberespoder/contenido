@@ -1,0 +1,62 @@
+---
+:id: 7zwjS1OVNYOcQM6C4ceCe8
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:42:01+00:00'
+  :created_at: '2017-09-11T05:42:01+00:00'
+  :id: 7zwjS1OVNYOcQM6C4ceCe8
+:body: "<p>Como puedo hacer una cita con el dentista.</p>"
+:permalink: 2015-01-22_como-puedo-hacer-una-cita-con-el-dentista
+:date: !ruby/object:DateTime 2015-01-22 00:10:29.000000000 -08:00
+:author_name: 'Rene  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1z08V0XIz6OqAiSkwmQqkA
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:42:01+00:00'
+    :created_at: '2017-09-11T05:42:01+00:00'
+    :id: 1z08V0XIz6OqAiSkwmQqkA
+  :body: 'Estimado Rene, gracias por su pregunta. Esta es la informacion sobre una
+    clinica de atencion de bajo costo que incluye servicios de dentistas: Erie Humboldt
+    Park Health Center. 2750 W. North Ave. 1st Floor. Chicago IL. Telefono: 312-666-3494.
+    SABEResPODER'
+  :date: !ruby/object:DateTime 2015-02-05 10:11:01.838000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2MzvTellSMyCUUc8KkceU0
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:42:00+00:00'
+      :created_at: '2017-09-11T05:42:00+00:00'
+      :id: 2MzvTellSMyCUUc8KkceU0
+    :body: También toman xray
+    :date: !ruby/object:DateTime 2015-02-05 10:22:10.297000000 -08:00
+    :author_name: 'Rene  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5jltE29a1UKsWYeWOs6kA2
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:42:00+00:00'
+        :created_at: '2017-09-11T05:42:00+00:00'
+        :id: 5jltE29a1UKsWYeWOs6kA2
+      :body: Estimado Rene, le recomendamos que se ponga en contacto con ellos para
+        que le brinden mas detalles sobre sus servicios. SABEResPODER
+      :date: !ruby/object:DateTime 2015-02-05 15:08:45.307000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3266

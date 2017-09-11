@@ -1,0 +1,59 @@
+---
+:id: 6gTUlLbX0sS6s8o2I0aYKI
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:23:28+00:00'
+  :created_at: '2017-09-11T05:23:28+00:00'
+  :id: 6gTUlLbX0sS6s8o2I0aYKI
+:body: "<p>Mi hija es mayor de edad, quisiera saver si puedo areglar mis papeles por
+  medio de ella?</p>"
+:permalink: 2016-07-08_mi-hija-es-mayor-de-edad-quisiera-saver-si-puedo-areglar-mis-papeles-por-medio-de-ella
+:date: !ruby/object:DateTime 2016-07-08 16:41:13.838000000 -07:00
+:author_name: 'Julia rodriguez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 3N2mXLfdu0wWmc0wugkuw6
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:23:27+00:00'
+    :created_at: '2017-09-11T05:23:27+00:00'
+    :id: 3N2mXLfdu0wWmc0wugkuw6
+  :body: 'Hola estimada Julia, agradecemos su participación y con gusto le compartimos
+    la información que necesita. Si su hija es ciudadana estadounidense y mayor de
+    21 años si puede solicitar su residencia legal. Encuentre toda la información
+    sobre el proceso de solicitud y los formularios en este enlace: <a href=''http://1.usa.gov/226OK7s''>http://1.usa.gov/226OK7s</a>
+    Recuerde que aquí estamos para ayudarle. #SABEResPODER '
+  :date: !ruby/object:DateTime 2016-07-08 16:46:30.786000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: uiDOl9SASsM0gqEYkEAWs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:23:26+00:00'
+      :created_at: '2017-09-11T05:23:26+00:00'
+      :id: uiDOl9SASsM0gqEYkEAWs
+    :body: Si ella es ciudadana estado unidense
+    :date: !ruby/object:DateTime 2016-07-08 16:49:31.654000000 -07:00
+    :author_name: 'Julia rodriguez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 10925

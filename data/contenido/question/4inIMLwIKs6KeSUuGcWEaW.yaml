@@ -1,0 +1,70 @@
+---
+:id: 4inIMLwIKs6KeSUuGcWEaW
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:55:41+00:00'
+  :created_at: '2017-09-08T18:55:41+00:00'
+  :id: 4inIMLwIKs6KeSUuGcWEaW
+:body: "<p>Que. Hora. Son las clases de ingles</p>"
+:permalink: que-hora-son-las-clases-de-ingles
+:date: !ruby/object:DateTime 2014-10-30 16:52:57.251000000 -07:00
+:author_name: 'Virginia gomez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 5XUwMMv9CMEGKie86W8Eek
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:55:38+00:00'
+    :created_at: '2017-09-08T18:55:38+00:00'
+    :id: 5XUwMMv9CMEGKie86W8Eek
+  :body: Ingles
+  :date: !ruby/object:DateTime 2015-04-27 08:03:38.521000000 -07:00
+  :author_name: 'Erika Hernandez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 121vFAsUp0qGOei8KiMsYs
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:55:40+00:00'
+    :created_at: '2017-09-08T18:55:40+00:00'
+    :id: 121vFAsUp0qGOei8KiMsYs
+  :body: Hola Virginia.Las lecciones de ingles le seran enviadas automaticamente.
+    Solamente tiene que enviar la palabra "INGLES"
+  :date: !ruby/object:DateTime 2014-10-31 09:15:47.208000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 2nmnDUxULuO8GeQ4C4a6sq
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:55:39+00:00'
+      :created_at: '2017-09-08T18:55:39+00:00'
+      :id: 2nmnDUxULuO8GeQ4C4a6sq
+    :body: Ingles
+    :date: !ruby/object:DateTime 2014-10-31 09:21:59.096000000 -07:00
+    :author_name: 'Virginia gomez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: ic6mNbswHCO6aaSO6Qe0u
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:55:39+00:00'
+        :created_at: '2017-09-08T18:55:39+00:00'
+        :id: ic6mNbswHCO6aaSO6Qe0u
+      :body: Envíe la palabra “INGLES” desde su clular al número 72237. SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-31 09:25:47.907000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1263

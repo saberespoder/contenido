@@ -1,0 +1,63 @@
+---
+:id: 4nrBUS4jCgo8M0o6SKW2wO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:33:40+00:00'
+  :created_at: '2017-09-08T18:33:40+00:00'
+  :id: 4nrBUS4jCgo8M0o6SKW2wO
+:body: "<p>como la puedo octener</p>"
+:permalink: 2015-02-22_como-la-puedo-octener
+:date: !ruby/object:DateTime 2015-02-22 12:54:01.000000000 -08:00
+:author_name: 'Josue Ochoa '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 51EOEntdIcu6k022U6uIGE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:33:39+00:00'
+    :created_at: '2017-09-08T18:33:39+00:00'
+    :id: 51EOEntdIcu6k022U6uIGE
+  :body: 'Estimado Josue: La Ciudad habilitará centros para realizar las solicitudes
+    en instituciones comunitarias de los cinco condados. 1. Para obtener la IDNYC
+    tendrán que llenar un formulario (haga click) <a href=''http://www1.nyc.gov/assets/idnyc/downloads/pdf/application-materials/application_spanish.pdf''>http://www1.nyc.gov/assets/idnyc/downloads/pdf/application-materials/application_spanish.pdf</a>
+    2. Reúna los documentos que acrediten su identidad y residencia. 3. Saque una
+    cita. <a href=''http://www1.nyc.gov/site/idnyc/card/make-an-appointment.page''>http://www1.nyc.gov/site/idnyc/card/make-an-appointment.page</a>
+    . Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-02-24 14:05:34.137000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 63Z2hRTVzaY2OUse4wqIYk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:33:40+00:00'
+    :created_at: '2017-09-08T18:33:40+00:00'
+    :id: 63Z2hRTVzaY2OUse4wqIYk
+  :body: 'Estimado Josue: Que necesita obtener? Podria aclararnos su pregunta? Saber
+    es Poder!'
+  :date: !ruby/object:DateTime 2015-02-24 12:37:54.282000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4hzYFpiUGAoaw4kksKq6SE
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:33:39+00:00'
+      :created_at: '2017-09-08T18:33:39+00:00'
+      :id: 4hzYFpiUGAoaw4kksKq6SE
+    :body: el carnec de   NEW YORK
+    :date: !ruby/object:DateTime 2015-02-24 12:50:36.335000000 -08:00
+    :author_name: 'Josue Ochoa '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 4664

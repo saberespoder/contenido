@@ -1,0 +1,77 @@
+---
+:id: 6GQI1VOnqoa2wmmWaOsIsO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:14:07+00:00'
+  :created_at: '2017-09-08T18:14:07+00:00'
+  :id: 6GQI1VOnqoa2wmmWaOsIsO
+:body: "<p>Tengo mi matricula consular pero esta no tiene mi direccion actual es ese
+  un problema para poder obtener mi licensia?</p>"
+:permalink: tengo-mi-matricula-consular-pero-esta-no-tiene-mi-direccion-actual-es-ese-un-problema-para-poder-obtener-mi-licensia
+:date: !ruby/object:DateTime 2014-09-25 13:51:42.760000000 -07:00
+:author_name: 'Diana  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 3Peaxls864mKKE2U66OKwo
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:14:06+00:00'
+    :created_at: '2017-09-08T18:14:06+00:00'
+    :id: 3Peaxls864mKKE2U66OKwo
+  :body: 'Tienes que ir a consulado a que pertenezca para poder obtener otra '
+  :date: !ruby/object:DateTime 2015-09-08 15:23:56.708000000 -07:00
+  :author_name: 'Rocio  Martinez  '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 6Ev5G9XiQEOkmmgmauC8CE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:14:06+00:00'
+    :created_at: '2017-09-08T18:14:06+00:00'
+    :id: 6Ev5G9XiQEOkmmgmauC8CE
+  :body: Si tiene k tener su domicilio actual.
+  :date: !ruby/object:DateTime 2014-10-06 17:09:22.518000000 -07:00
+  :author_name: 'Maria Farfan '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 7Kz8pGCqAwwYO0kEIKAGc0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:14:07+00:00'
+    :created_at: '2017-09-08T18:14:07+00:00'
+    :id: 7Kz8pGCqAwwYO0kEIKAGc0
+  :body: Hola Diana, agradecemos su pregunta sobre la actualización de su dirección.
+    En efecto si es necesario que usted actualice sus datos ya que su licencia le
+    será enviada a su dirección domiciliar y también, tomando en consideración que
+    su licencia será su identificación personal, es importante que usted tenga su
+    dirección actual. SABEResPODER
+  :date: !ruby/object:DateTime 2014-09-30 09:42:34.876000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 854

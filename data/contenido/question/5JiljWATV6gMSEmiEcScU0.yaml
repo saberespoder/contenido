@@ -1,0 +1,71 @@
+---
+:id: 5JiljWATV6gMSEmiEcScU0
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:05:31+00:00'
+  :created_at: '2017-09-11T05:05:31+00:00'
+  :id: 5JiljWATV6gMSEmiEcScU0
+:body: "<p>Que documentos tengo que llevar?</p>"
+:permalink: 2015-03-18_que-documentos-tengo-que-llevar
+:date: !ruby/object:DateTime 2015-03-18 18:49:48.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 6zbn0fQVd6Uuq6IWQ8Wykc
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:05:29+00:00'
+    :created_at: '2017-09-11T05:05:29+00:00'
+    :id: 6zbn0fQVd6Uuq6IWQ8Wykc
+  :body: "Gracias por su pregunta cual es el tramite que le interesa realizar?\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-20 18:42:59.081000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 29zfCo2bV2m8os6yeUiYwk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:05:30+00:00'
+    :created_at: '2017-09-11T05:05:30+00:00'
+    :id: 29zfCo2bV2m8os6yeUiYwk
+  :body: Solo Una identificacion y comprobante de domicilio con tu nombre
+  :date: !ruby/object:DateTime 2015-03-19 18:38:47.319000000 -07:00
+  :author_name: 'Alondra Becerra '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6HHwJVjyXCIqwwuu6iygoi
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:05:30+00:00'
+      :created_at: '2017-09-11T05:05:30+00:00'
+      :id: 6HHwJVjyXCIqwwuu6iygoi
+    :body: Gracias... pense que necesitaba pasaporte, ID y un acta de Nacimiento.
+      . Estaba confundida en eso
+    :date: !ruby/object:DateTime 2015-03-19 18:43:56.024000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6WJvKT6Uw0QGmo0yiS0u6S
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:05:29+00:00'
+        :created_at: '2017-09-11T05:05:29+00:00'
+        :id: 6WJvKT6Uw0QGmo0yiS0u6S
+      :body: Agradecemos  su pregunta pero para poder ayudarle mejor necesitamos saber  cual
+        es el tramite que le interesa realizar? //SABEResPODER
+      :date: !ruby/object:DateTime 2015-03-20 20:36:23.689000000 -07:00
+      :author_name: 'Lourdes Murrieta '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/122748/uploads_2Ftmp_2F6a813149-17fa-4bd3-90eb-ebe45ee71016_2FYO.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5816

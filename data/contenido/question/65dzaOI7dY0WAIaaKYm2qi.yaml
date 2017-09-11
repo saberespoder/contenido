@@ -1,0 +1,189 @@
+---
+:id: 65dzaOI7dY0WAIaaKYm2qi
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:08:04+00:00'
+  :created_at: '2017-09-08T18:08:04+00:00'
+  :id: 65dzaOI7dY0WAIaaKYm2qi
+:body: "<p>yo no soy culpable</p>"
+:permalink: yo-no-soy-culpable
+:date: !ruby/object:DateTime 2014-10-22 16:53:58.426000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :title: Finanzas
+  :is_active: true
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+- :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :title: Trabajo
+  :is_active: false
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 5888gIyqAM0K2mQGgmSSA2
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:07:58+00:00'
+    :created_at: '2017-09-08T18:07:58+00:00'
+    :id: 5888gIyqAM0K2mQGgmSSA2
+  :body: como te puedo ayudar
+  :date: !ruby/object:DateTime 2016-02-07 18:59:53.855000000 -08:00
+  :author_name: 'Jorge García '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1QWbQ8FBpuOUkqsa6OCWYa
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:07:58+00:00'
+      :created_at: '2017-09-08T18:07:58+00:00'
+      :id: 1QWbQ8FBpuOUkqsa6OCWYa
+    :body: 'Hola estimado Jorge, gracias por su participación, ¡Le damos bienvenida
+      a nuestro programa SABEResPODER, siéntase en confianza a hacer preguntas por
+      texto, estamos a sus ordenes! #SABEResPODER '
+    :date: !ruby/object:DateTime 2016-02-08 09:00:30.049000000 -08:00
+    :author_name: 'Jenny Alfaro '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 4ZkUeMe9ra8COQGIMAkaM4
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:08:01+00:00'
+    :created_at: '2017-09-08T18:08:01+00:00'
+    :id: 4ZkUeMe9ra8COQGIMAkaM4
+  :body: Donde puedo encontrar trabajo.
+  :date: !ruby/object:DateTime 2015-04-22 17:28:02.698000000 -07:00
+  :author_name: 'Ana Villarreal '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5nU7zEoW2IqamyeuKggK8w
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:07:59+00:00'
+      :created_at: '2017-09-08T18:07:59+00:00'
+      :id: 5nU7zEoW2IqamyeuKggK8w
+    :body: Donde me dan clase de ingles grstis
+    :date: !ruby/object:DateTime 2015-04-22 17:29:26.586000000 -07:00
+    :author_name: 'Ana Villarreal '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 3M6y3xzoyssWQ4UQCcAaEs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:07:59+00:00'
+      :created_at: '2017-09-08T18:07:59+00:00'
+      :id: 3M6y3xzoyssWQ4UQCcAaEs
+    :body: Agradecemos su participación,  con gusto le podemos informar  cuando haya
+      algunas oportunidades de trabajo disponibles o proyectos en donde tenga la posibilidad
+      de obtener alguna compensación económica.#SABEResPODER
+    :date: !ruby/object:DateTime 2015-04-23 14:08:54.668000000 -07:00
+    :author_name: 'Jenny Alfaro '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+    :from_admin: false
+  - :id: PCZJpoLowUIo8Ikkg2GeY
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:08:00+00:00'
+      :created_at: '2017-09-08T18:08:00+00:00'
+      :id: PCZJpoLowUIo8Ikkg2GeY
+    :body: "Gracias por su participación, aquí hay unas dos opciones: 1535 W. Highland
+      Ave\r\nSan Bernardino, CA 92411 909-880-6700; 1288 North D Street\r\nSan Bernardino,
+      CA 92405 909-383-6940 #SABEResPODER"
+    :date: !ruby/object:DateTime 2015-04-23 14:13:05.542000000 -07:00
+    :author_name: 'Jenny Alfaro '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 4lV8J1IDcc2WwII08iqyY6
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:08:03+00:00'
+    :created_at: '2017-09-08T18:08:03+00:00'
+    :id: 4lV8J1IDcc2WwII08iqyY6
+  :body: Cuando uno es reportado y sale salida boluntaria.si te buelven agarrar k
+    tiempo te castiganyo en el 2008 me reportaron...
+  :date: !ruby/object:DateTime 2014-11-08 17:54:50.955000000 -08:00
+  :author_name: 'Antonio Aguilar '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: Lw4MadbIYgSo0MeUuQ2i8
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:08:02+00:00'
+      :created_at: '2017-09-08T18:08:02+00:00'
+      :id: Lw4MadbIYgSo0MeUuQ2i8
+    :body: 'Hola estimado Antonio, agradecemos su pregunta. Para evitar inconveniencias
+      le recomendamos acuda o se ponga en contacto con el departamento de Protección
+      de su consulado. El Consulado de México cuenta con un Departamento de Protección
+      en donde hay expertos legales y ellos le pueden dar la información y asesoría
+      que necesita. SABEResPODER '
+    :date: !ruby/object:DateTime 2015-04-09 13:47:13.751000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :answers:
+    - :id: 2mTRrBXqnGSIaugiUI8Ao6
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:08:02+00:00'
+        :created_at: '2017-09-08T18:08:02+00:00'
+        :id: 2mTRrBXqnGSIaugiUI8Ao6
+      :body: Gracias
+      :date: !ruby/object:DateTime 2015-04-09 13:49:38.413000000 -07:00
+      :author_name: 'Antonio Aguilar '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+- :id: 3QPp0oKQxaaqOqmKkaSg0o
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:08:03+00:00'
+    :created_at: '2017-09-08T18:08:03+00:00'
+    :id: 3QPp0oKQxaaqOqmKkaSg0o
+  :body: Buenos dias, gracias por participar en el Programa de SABEResPODER, con gusto
+    podermos apoyarlo con informacion de educacion, ingles, salud, etc. Haga su pregunta!
+  :date: !ruby/object:DateTime 2014-10-23 08:59:47.069000000 -07:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :from_admin: true
+:legacy_id: 1154

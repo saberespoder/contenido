@@ -1,0 +1,85 @@
+---
+:id: 72kl8LMgZqIy4GWW2QkiQO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:45:09+00:00'
+  :created_at: '2017-09-11T05:45:09+00:00'
+  :id: 72kl8LMgZqIy4GWW2QkiQO
+:body: "<p>Donde podran asesorarme </p>"
+:permalink: donde-podran-asesorarme
+:date: !ruby/object:DateTime 2014-09-29 12:43:37.071000000 -07:00
+:author_name: 'CRISTIAN SIRIANI '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 1wIZAjKJKASWeE6c2k8KC8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:45:08+00:00'
+    :created_at: '2017-09-11T05:45:08+00:00'
+    :id: 1wIZAjKJKASWeE6c2k8KC8
+  :body: Como puedo prepararme más rápido para tomar el ged?
+  :date: !ruby/object:DateTime 2017-08-28 22:35:15.686000000 -07:00
+  :author_name: 'Hamlet gil '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4ygNu4OExO086iQAoG8woc
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:45:07+00:00'
+      :created_at: '2017-09-11T05:45:07+00:00'
+      :id: 4ygNu4OExO086iQAoG8woc
+    :body: Hola Hamlet, aprovecha de los recursos en <a href='http://www.spanishged365.com'>http://www.spanishged365.com</a>
+      para prepararte mas rapido.
+    :date: !ruby/object:DateTime 2017-08-29 12:18:56.369000000 -07:00
+    :author_name: Oscar Gamez  - SABEResPODER
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/33/oscar.jpg
+    :from_admin: true
+  :from_admin: false
+- :id: gKBuxkRve8AQw4SAmeu8i
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:45:09+00:00'
+    :created_at: '2017-09-11T05:45:09+00:00'
+    :id: gKBuxkRve8AQw4SAmeu8i
+  :body: Hola Cristian. Que tipo de asesoria necesita?
+  :date: !ruby/object:DateTime 2014-09-30 09:47:44.399000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 5OAjb8xKcEUmwSqqokMeuK
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:45:09+00:00'
+      :created_at: '2017-09-11T05:45:09+00:00'
+      :id: 5OAjb8xKcEUmwSqqokMeuK
+    :body: "MIGRatoria\r\n"
+    :date: !ruby/object:DateTime 2014-09-30 09:48:50.702000000 -07:00
+    :author_name: 'CRISTIAN SIRIANI '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5mcd5kjjBmUmmkEOy6sgWe
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:45:08+00:00'
+        :created_at: '2017-09-11T05:45:08+00:00'
+        :id: 5mcd5kjjBmUmmkEOy6sgWe
+      :body: 'Gracias Cristian, revise aquí la información de una oficina de ayuda
+        migratoria en su localidad: Central American Resource Center (Los Angeles
+        Office). 2845 W. 7th St, Los Angeles, CA. Teléfono: (213) 385-7800. Esperamos
+        que la información le sea de mucha ayuda. SABEResPODER'
+      :date: !ruby/object:DateTime 2014-09-30 10:12:35.714000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 874

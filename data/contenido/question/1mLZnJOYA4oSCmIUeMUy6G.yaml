@@ -1,0 +1,85 @@
+---
+:id: 1mLZnJOYA4oSCmIUeMUy6G
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:13:35+00:00'
+  :created_at: '2017-09-08T18:13:35+00:00'
+  :id: 1mLZnJOYA4oSCmIUeMUy6G
+:body: "<p>Quiero encontrar un doctor o cliniica economica</p>"
+:permalink: 2015-03-25_quiero-encontrar-un-doctor-o-cliniica-economica
+:date: !ruby/object:DateTime 2015-03-25 17:16:33.000000000 -07:00
+:author_name: 'Elvia Trejo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 3nNZHyGBoAGSMqao60eqoG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:13:34+00:00'
+    :created_at: '2017-09-08T18:13:34+00:00'
+    :id: 3nNZHyGBoAGSMqao60eqoG
+  :body: "Gracias por su pregunta, le sugerimos acuda a su Ventanilla de Salud que
+    se encuentra en su Consulado y le puedan indicar los diversos recursos médicos
+    que hay disponibles gratuitos o a bajo costo, favor de acudir directamente o comunicarse
+    a:Francisco Gamez/Cristina Mitchell\t214-932-0636/972-607-5038\tL a V: 8 am -
+    1 pm\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-25 17:41:34.745000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: S2UtHlKumOoCauaqI2ym
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:13:32+00:00'
+      :created_at: '2017-09-08T18:13:32+00:00'
+      :id: S2UtHlKumOoCauaqI2ym
+    :body: Muchas gracias por la informacion,
+    :date: !ruby/object:DateTime 2015-03-25 17:44:33.382000000 -07:00
+    :author_name: 'Elvia Trejo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 64DoMFFWW4WU08ei0UK2OU
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:13:32+00:00'
+        :created_at: '2017-09-08T18:13:32+00:00'
+        :id: 64DoMFFWW4WU08ei0UK2OU
+      :body: "Gracias \r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-25 17:49:23.798000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: 17YG68JSsOicMSu6yMuYYI
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:13:34+00:00'
+      :created_at: '2017-09-08T18:13:34+00:00'
+      :id: 17YG68JSsOicMSu6yMuYYI
+    :body: Muchas gracias
+    :date: !ruby/object:DateTime 2015-03-25 17:45:03.500000000 -07:00
+    :author_name: 'Elvia Trejo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 25y4cW3ide8y6Q4sKkQiUi
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:13:33+00:00'
+        :created_at: '2017-09-08T18:13:33+00:00'
+        :id: 25y4cW3ide8y6Q4sKkQiUi
+      :body: "Gracias!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-03-25 17:48:56.981000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 5980

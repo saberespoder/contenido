@@ -1,0 +1,88 @@
+---
+:id: 5bFgJpUVTq0WA6UGYwiW0C
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:44:52+00:00'
+  :created_at: '2017-09-11T05:44:52+00:00'
+  :id: 5bFgJpUVTq0WA6UGYwiW0C
+:body: "<p>Necesito hacer examen médico. Que puedo hacer </p>"
+:permalink: necesito-hacer-examen-medico-que-puedo-hacer
+:date: !ruby/object:DateTime 2014-09-12 14:09:00.723000000 -07:00
+:author_name: 'Julia Rojas '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1fq9t6ZICisWywMCyC4CiE
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:44:51+00:00'
+    :created_at: '2017-09-11T05:44:51+00:00'
+    :id: 1fq9t6ZICisWywMCyC4CiE
+  :body: Necesito exsamen de sangre
+  :date: !ruby/object:DateTime 2014-10-10 13:47:48.397000000 -07:00
+  :author_name: 'Maria Elena '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1nWp728p76QoccmOoQymAq
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:44:50+00:00'
+      :created_at: '2017-09-11T05:44:50+00:00'
+      :id: 1nWp728p76QoccmOoQymAq
+    :body: Mamografía. Y el papanicolao iré w
+    :date: !ruby/object:DateTime 2014-10-10 14:12:43.694000000 -07:00
+    :author_name: 'Julia Rojas '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5wFJPILOdUEgKias0Q0k0E
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:44:49+00:00'
+        :created_at: '2017-09-11T05:44:49+00:00'
+        :id: 5wFJPILOdUEgKias0Q0k0E
+      :body: Hola Julia, le recomendamos asista a la Semana Binacional de la Salud
+        que se estará celebrando en todos los consulados mexicanos hasta el día 18
+        de este mes para que pueda obtener información sobre este tipo de exámenes
+        y de muchas otras opciones que a usted le puedan ser útiles. La atención es
+        totalmente gratis y se atenderá en los horarios hábiles del consulado, 8:00
+        am a 2:00 pm. SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-10 18:45:34.799000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  - :id: 604v0kLpWow6mgC6GgMo8e
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:44:50+00:00'
+      :created_at: '2017-09-11T05:44:50+00:00'
+      :id: 604v0kLpWow6mgC6GgMo8e
+    :body: "Hola estimada Maria Elena, disculpe la tardanza de nuestra respuesta.
+      ¿Ya recibió la ayuda que necesitaba? #SABEResPODER\r\n"
+    :date: !ruby/object:DateTime 2015-06-25 10:31:18.253000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 5n3zFQC1vGYeK8eyAkKSys
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:44:51+00:00'
+    :created_at: '2017-09-11T05:44:51+00:00'
+    :id: 5n3zFQC1vGYeK8eyAkKSys
+  :body: Gracias por su pregunta Julia. ¿Qué tipo de examen necesita hacer? Esta información
+    nos podría ayudara a ubicarle la mejor opción de una clínica de atención médica
+    de bajo costo. SABEResPODER.
+  :date: !ruby/object:DateTime 2014-09-15 09:54:42.211000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 736

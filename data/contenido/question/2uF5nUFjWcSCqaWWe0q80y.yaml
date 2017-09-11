@@ -1,0 +1,60 @@
+---
+:id: 2uF5nUFjWcSCqaWWe0q80y
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:22:06+00:00'
+  :created_at: '2017-09-11T05:22:06+00:00'
+  :id: 2uF5nUFjWcSCqaWWe0q80y
+:body: "<p>Me gustaría saber si ya se puede hacer una cita en el DMV</p>"
+:permalink: me-gustaria-saber-si-ya-se-puede-hacer-una-cita-en-el-dmv
+:date: !ruby/object:DateTime 2014-10-20 16:09:19.874000000 -07:00
+:author_name: 'Rosa Martín del Campo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 2xfECpVeEso0AmYiIGywSY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:22:06+00:00'
+    :created_at: '2017-09-11T05:22:06+00:00'
+    :id: 2xfECpVeEso0AmYiIGywSY
+  :body: Hola Rosa. La recepcion de aplicaciones para la licencia inciarian a partir
+    de enero del 2015, desde ya le recomendamos revise todos los requisitos y de ser
+    posible empieze a estudiar para su examen teorico. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-20 16:15:30.598000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 5aL5zEjhVSo8yqgWAY2cmc
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:22:05+00:00'
+      :created_at: '2017-09-11T05:22:05+00:00'
+      :id: 5aL5zEjhVSo8yqgWAY2cmc
+    :body: Gracias está bien eso hare
+    :date: !ruby/object:DateTime 2014-10-20 16:17:53.708000000 -07:00
+    :author_name: 'Rosa Martín del Campo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 51jgBzIjtKyO2C08mIq88g
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:22:05+00:00'
+        :created_at: '2017-09-11T05:22:05+00:00'
+        :id: 51jgBzIjtKyO2C08mIq88g
+      :body: Estamios para servirl. Recuerde que SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-20 16:20:36.747000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1135

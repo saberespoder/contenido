@@ -1,0 +1,74 @@
+---
+:id: 5h1tt0GlEkeIkkW4qQ8W2k
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:35:57+00:00'
+  :created_at: '2017-09-11T05:35:57+00:00'
+  :id: 5h1tt0GlEkeIkkW4qQ8W2k
+:body: "<p>Oiga me interesa un una clinica dental </p>"
+:permalink: 2015-01-21_oiga-me-interesa-un-una-clinica-dental
+:date: !ruby/object:DateTime 2015-01-21 08:04:07.000000000 -08:00
+:author_name: 'Elsa Meza '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2kgvpSpDq026OaGw4eYeUy
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:35:55+00:00'
+    :created_at: '2017-09-11T05:35:55+00:00'
+    :id: 2kgvpSpDq026OaGw4eYeUy
+  :body: Gracias por la informacion
+  :date: !ruby/object:DateTime 2015-01-23 14:50:52.117000000 -08:00
+  :author_name: 'Elsa Meza '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 2Q2MvQWQJGC4UQc2yEc4y8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:35:57+00:00'
+    :created_at: '2017-09-11T05:35:57+00:00'
+    :id: 2Q2MvQWQJGC4UQc2yEc4y8
+  :body: Hola estimada Elsa, agradecemos su pregunta. Le recomendamos que se acerque
+    a la ventanilla de salud de su consulado para que le proporcionen información
+    sobre clínicas dentales de bajo costo. La atención de la ventanilla es totalmente
+    gratis y no es necesario hacer una cita para ser atendido. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-22 15:19:08.668000000 -08:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: lFxOd25cZMQYOwqQk0CEW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:35:56+00:00'
+      :created_at: '2017-09-11T05:35:56+00:00'
+      :id: lFxOd25cZMQYOwqQk0CEW
+    :body: Clinica dental en dento
+    :date: !ruby/object:DateTime 2015-01-22 19:08:20.934000000 -08:00
+    :author_name: 'Elsa Meza '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6k0DaFp62kuQOC4aO4oqwI
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:35:56+00:00'
+        :created_at: '2017-09-11T05:35:56+00:00'
+        :id: 6k0DaFp62kuQOC4aO4oqwI
+      :body: 'Estimada Elsa, esta es la informacion sobre la clinica mas cercana a
+        su localidad: Christian Community Action -Adult Health Center. 200 South Mill
+        St. Lewisville TX. Telefono: 972-219-4325. SABEResPODER'
+      :date: !ruby/object:DateTime 2015-01-23 14:46:46.354000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3203

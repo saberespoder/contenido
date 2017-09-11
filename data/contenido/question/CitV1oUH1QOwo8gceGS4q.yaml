@@ -1,0 +1,48 @@
+---
+:id: CitV1oUH1QOwo8gceGS4q
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:28:14+00:00'
+  :created_at: '2017-09-08T18:28:14+00:00'
+  :id: CitV1oUH1QOwo8gceGS4q
+:body: "<p>Hola</p>"
+:permalink: hola
+:date: !ruby/object:DateTime 2014-11-19 17:21:48.294000000 -08:00
+:author_name: 'Jose Bosques '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 50H4JwcwbSYySg0mkQccKC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:28:13+00:00'
+    :created_at: '2017-09-08T18:28:13+00:00'
+    :id: 50H4JwcwbSYySg0mkQccKC
+  :body: Hola Jose gracias por participar en el Programa de SABEResPODER, recuerda
+    que podemos apoyarte con informacion que necesites, solo basta que escribas tu
+    pregunta!
+  :date: !ruby/object:DateTime 2014-11-20 08:17:02.846000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :answers:
+  - :id: 3dHHarQ0OAAmS6k2m4yig2
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:28:13+00:00'
+      :created_at: '2017-09-08T18:28:13+00:00'
+      :id: 3dHHarQ0OAAmS6k2m4yig2
+    :body: Hola no podría hablar con un abogado de migración
+    :date: !ruby/object:DateTime 2014-11-21 04:08:26.363000000 -08:00
+    :author_name: 'Jose Bosques '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 1589

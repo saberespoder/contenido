@@ -1,0 +1,61 @@
+---
+:id: 2K6SWwPLfGqMamoeoMSKKo
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:44:14+00:00'
+  :created_at: '2017-09-11T05:44:14+00:00'
+  :id: 2K6SWwPLfGqMamoeoMSKKo
+:body: "<p>Salud</p>"
+:permalink: salud
+:date: !ruby/object:DateTime 2014-09-08 13:51:01.678000000 -07:00
+:author_name: 'Jose Alvarez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 38042Q5hNegouwggwYoQam
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:44:13+00:00'
+    :created_at: '2017-09-11T05:44:13+00:00'
+    :id: 38042Q5hNegouwggwYoQam
+  :body: 'Hola mi nombre es jesus quisiera saber donde me pueden ayudar para un plan
+    medico familiar '
+  :date: !ruby/object:DateTime 2015-01-15 17:31:58.194000000 -08:00
+  :author_name: 'Jesus Garcia '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5kre4V39XGoSWwGA0AIoe4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:44:13+00:00'
+      :created_at: '2017-09-11T05:44:13+00:00'
+      :id: 5kre4V39XGoSWwGA0AIoe4
+    :body: Gracias por su pregunta Jesus, le recomendamos que se acerque a la ventanilla
+      de salud de su consulado mas cercano para que le proporcionen informacion al
+      respecto. La atencion de la ventanilla es totalmente gratuita y no es necesario
+      hacer una cita para ser atendido. SABEResPODER
+    :date: !ruby/object:DateTime 2015-01-16 10:14:23.362000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 4VkP7BL5XG4UgmuM8iUkuu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:44:14+00:00'
+    :created_at: '2017-09-11T05:44:14+00:00'
+    :id: 4VkP7BL5XG4UgmuM8iUkuu
+  :body: Hola Jose, en que le podemos ayudar referente a salud?
+  :date: !ruby/object:DateTime 2014-09-08 15:26:53.848000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 666

@@ -1,0 +1,91 @@
+---
+:id: 5YcHdDTnr2c2sWeE6emSow
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:56:47+00:00'
+  :created_at: '2017-09-08T18:56:47+00:00'
+  :id: 5YcHdDTnr2c2sWeE6emSow
+:body: "<p>c</p>"
+:permalink: 2015-11-03_c
+:date: !ruby/object:DateTime 2015-11-03 16:04:09.000000000 -08:00
+:author_name: 'Juana Delgado '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4TZN3s9lII0AyGKKqu6U4m
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:56:46+00:00'
+    :created_at: '2017-09-08T18:56:46+00:00'
+    :id: 4TZN3s9lII0AyGKKqu6U4m
+  :body: 'como puedo encontrar un dentista en dallas tx para mi mi zip code es 75220
+    grasias  '
+  :date: !ruby/object:DateTime 2015-11-03 16:05:36.911000000 -08:00
+  :author_name: 'Juana Delgado '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 1AoziuIsMEOYg6QmYI8Owi
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:56:45+00:00'
+      :created_at: '2017-09-08T18:56:45+00:00'
+      :id: 1AoziuIsMEOYg6QmYI8Owi
+    :body: "Sra. Juana gracias por su participación,  en relación a su pregunta sobre
+      dentistas, hemos encontrado la siguiente información para usted:\"Baylor College
+      of Dentistry\"\r\n3302 Gaston Ave.\r\nDallas, TX 75246\r\n(214) 828-8100 / \"Community
+      Dental Care\"\r\n1420 W. Mockingbird L., #500\r\nDallas, TX 75247\r\n(214) 630-7080
+      / \"Central Dallas Ministries Community Health Services\"\r\n801 N. Peak Street\r\nDallas,
+      TX 75205\r\n(214)821-8644 Ext. 108 / \"Parkland Health and Hospital System\"\r\n5201
+      Harry Hines\r\nDallas, TX 75235\r\n(214) 590-5489.Recuerde que estamos para
+      ayudarle.#SABEResPODER"
+    :date: !ruby/object:DateTime 2015-11-03 16:22:18.949000000 -08:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4ta1gLsDvq8y6U0C8WyWYM
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:56:34+00:00'
+        :created_at: '2017-09-08T18:56:34+00:00'
+        :id: 4ta1gLsDvq8y6U0C8WyWYM
+      :body: muchisimas grasias por su ayuda cree usted que este servicio sea muy
+        caro o muy combeniente para gente sencilla humilde ?
+      :date: !ruby/object:DateTime 2015-11-03 16:25:31.209000000 -08:00
+      :author_name: 'Juana Delgado '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  - :id: 2YO3zcEI08EusgyGwqMieC
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:56:46+00:00'
+      :created_at: '2017-09-08T18:56:46+00:00'
+      :id: 2YO3zcEI08EusgyGwqMieC
+    :body: Sra. Juana son de bajo costo, tambien cuentan con planes de pago ademas
+      tarifa depende del ingreso de la persona.
+    :date: !ruby/object:DateTime 2015-11-03 16:35:52.373000000 -08:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3b7Enqji2s8iMoksi6G82I
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:56:45+00:00'
+        :created_at: '2017-09-08T18:56:45+00:00'
+        :id: 3b7Enqji2s8iMoksi6G82I
+      :body: 'ok muchisimas grasias por toda su ayuda me fue muy util '
+      :date: !ruby/object:DateTime 2015-11-03 16:39:26.759000000 -08:00
+      :author_name: 'Juana Delgado '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 9307

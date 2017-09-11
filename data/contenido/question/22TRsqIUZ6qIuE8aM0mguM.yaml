@@ -1,0 +1,59 @@
+---
+:id: 22TRsqIUZ6qIuE8aM0mguM
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:00:16+00:00'
+  :created_at: '2017-09-08T18:00:16+00:00'
+  :id: 22TRsqIUZ6qIuE8aM0mguM
+:body: "<p>Trámite de IFE</p>"
+:permalink: 2017-09-04_tramite-de-ife
+:date: !ruby/object:DateTime 2017-09-04 17:12:28.343000000 -07:00
+:author_name: 'Madain Roblero Velasquez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: nq9EN8a1b2O64a6oG42WY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:00:15+00:00'
+    :created_at: '2017-09-08T18:00:15+00:00'
+    :id: nq9EN8a1b2O64a6oG42WY
+  :body: 'Para tramitar su Credencial de Elector necesita: acta de nacimiento original,
+    identificación con fotografía y un comprobante de domicilio. Saque su cita en
+    Mexitel al 1-877-639-4835  '
+  :date: !ruby/object:DateTime 2017-09-04 18:27:15.972000000 -07:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :answers:
+  - :id: 4eywETN1CgyoSKQuwOo8Ic
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:00:14+00:00'
+      :created_at: '2017-09-08T18:00:14+00:00'
+      :id: 4eywETN1CgyoSKQuwOo8Ic
+    :body: Nada más tengo la acta original
+    :date: !ruby/object:DateTime 2017-09-04 18:28:46.063000000 -07:00
+    :author_name: 'Madain Roblero Velasquez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+- :id: 3Gh5qqMZrWQKMA8ycGsW4c
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:00:15+00:00'
+    :created_at: '2017-09-08T18:00:15+00:00'
+    :id: 3Gh5qqMZrWQKMA8ycGsW4c
+  :body: 'Quiero tramitar mi credencial para votar con fotografía '
+  :date: !ruby/object:DateTime 2017-09-04 17:13:08.384000000 -07:00
+  :author_name: 'Madain Roblero Velasquez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 13488

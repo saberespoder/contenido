@@ -1,0 +1,54 @@
+---
+:id: 54XFzpQ1kskySEAowYuQag
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:02:28+00:00'
+  :created_at: '2017-09-11T05:02:28+00:00'
+  :id: 54XFzpQ1kskySEAowYuQag
+:body: "<p>Ingles</p>"
+:permalink: 2015-03-16_ingles
+:date: !ruby/object:DateTime 2015-03-16 10:14:51.000000000 -07:00
+:author_name: 'Carmen alatorre '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :title: Finanzas
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: JcnhWfsmo6W4sYK8kAuak
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:02:26+00:00'
+    :created_at: '2017-09-11T05:02:26+00:00'
+    :id: JcnhWfsmo6W4sYK8kAuak
+  :body: "Gracias por su pregunta Usted puede enviarnos un texto al 72237 con la palabra
+    Ingles.\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-03-17 14:25:59.530000000 -07:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 1Ar6OfDmbOq466M6mSqGKC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:02:27+00:00'
+    :created_at: '2017-09-11T05:02:27+00:00'
+    :id: 1Ar6OfDmbOq466M6mSqGKC
+  :body: 'Como  aprnder ingles de mi celular '
+  :date: !ruby/object:DateTime 2015-03-16 10:20:03.115000000 -07:00
+  :author_name: 'Carmen alatorre '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 5708

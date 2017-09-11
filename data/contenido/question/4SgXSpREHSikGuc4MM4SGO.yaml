@@ -1,0 +1,62 @@
+---
+:id: 4SgXSpREHSikGuc4MM4SGO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:37:29+00:00'
+  :created_at: '2017-09-11T05:37:29+00:00'
+  :id: 4SgXSpREHSikGuc4MM4SGO
+:body: "<p>Como obtener mi itin </p>"
+:permalink: 2015-02-28_como-obtener-mi-itin
+:date: !ruby/object:DateTime 2015-02-28 13:21:47.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 2mqFwOU2JKWU8G4kuKSMeq
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:37:29+00:00'
+    :created_at: '2017-09-11T05:37:29+00:00'
+    :id: 2mqFwOU2JKWU8G4kuKSMeq
+  :body: 'Estimado Usuario: Puedes solicitar un ITIN a traves del formulario W-7,
+    directamente en el IRS.Para Mayor informacion: saberespoder.com/itin. Gracias
+    por Participar! Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-03-02 19:39:54.778000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: HnCK7bo1CUioCOoikMwmO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:37:28+00:00'
+      :created_at: '2017-09-11T05:37:28+00:00'
+      :id: HnCK7bo1CUioCOoikMwmO
+    :body: Como le puedo aser
+    :date: !ruby/object:DateTime 2015-03-02 20:03:14.721000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3sI5Xzb4ZiUSeqoWM2CGI8
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:37:28+00:00'
+        :created_at: '2017-09-11T05:37:28+00:00'
+        :id: 3sI5Xzb4ZiUSeqoWM2CGI8
+      :body: 'Hola estimado usuario, agradecemos su pregunta. Encuentre en este enlace
+        la información que necesita para solicitar su número de ITIN: <a href=''http://www.saberespoder.com/articulos/finanzas/pasos-para-solicitar-un-itin''>http://www.saberespoder.com/articulos/finanzas/pasos-para-solicitar-un-itin</a>
+        SABEResPODER '
+      :date: !ruby/object:DateTime 2015-04-02 14:36:30.156000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 4989

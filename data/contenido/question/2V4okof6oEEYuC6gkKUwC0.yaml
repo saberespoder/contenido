@@ -1,0 +1,60 @@
+---
+:id: 2V4okof6oEEYuC6gkKUwC0
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:08:27+00:00'
+  :created_at: '2017-09-11T05:08:27+00:00'
+  :id: 2V4okof6oEEYuC6gkKUwC0
+:body: "<p>Hola soy isabel quiero saber si aunque no fui ala escuela puedo calificar
+  para el permiso de estudiantes o si me escribo a una escuela todabia bale</p>"
+:permalink: 2014-12-15_hola-soy-isabel-quiero-saber-si-aunque-no-fui-ala-escuela-puedo-calificar-para-el-permiso-de-estudiantes-o-si-me-escribo-a-una-escuela-todabia-bale
+:date: !ruby/object:DateTime 2014-12-15 13:13:24.000000000 -08:00
+:author_name: 'Mayra Cano '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 6io58gF8iIUMYy8cG42oy
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:08:27+00:00'
+    :created_at: '2017-09-11T05:08:27+00:00'
+    :id: 6io58gF8iIUMYy8cG42oy
+  :body: Hola Isabel, para calificar al DACA, usted debe estar en una escuela (sacando
+    el GED) o poseer un certificado del GED. SABEResPODER
+  :date: !ruby/object:DateTime 2014-12-15 13:25:29.943000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 1pF6uLv0g4U8IKmwAE8ACm
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:08:26+00:00'
+      :created_at: '2017-09-11T05:08:26+00:00'
+      :id: 1pF6uLv0g4U8IKmwAE8ACm
+    :body: Gracias por contestar buenas tardes
+    :date: !ruby/object:DateTime 2014-12-15 13:55:30.476000000 -08:00
+    :author_name: 'Mayra Cano '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5ILWIvk4W4KsA666Wsk4k6
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:08:26+00:00'
+        :created_at: '2017-09-11T05:08:26+00:00'
+        :id: 5ILWIvk4W4KsA666Wsk4k6
+      :body: Estamos para ayudarle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-12-15 14:12:12.161000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2208

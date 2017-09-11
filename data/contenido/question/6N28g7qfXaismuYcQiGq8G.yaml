@@ -1,0 +1,61 @@
+---
+:id: 6N28g7qfXaismuYcQiGq8G
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:01:51+00:00'
+  :created_at: '2017-09-11T05:01:51+00:00'
+  :id: 6N28g7qfXaismuYcQiGq8G
+:body: "<p>Necesito una cobertura medica ,,no muy cara ??alguna k me recomienden </p>"
+:permalink: necesito-una-cobertura-medica-no-muy-cara-alguna-k-me-recomienden
+:date: !ruby/object:DateTime 2014-11-20 19:58:02.494000000 -08:00
+:author_name: 'liz  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2yFHOoj3jqiO2GG80SSe0O
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:01:50+00:00'
+    :created_at: '2017-09-11T05:01:50+00:00'
+    :id: 2yFHOoj3jqiO2GG80SSe0O
+  :body: Gracias por su pregunta, le sugerimos que acuda a la Ventanila de Salud de
+    su Consulado, ya que ellos cuentan con muchos recursos de salud que le podran
+    ser convenientes a usted.
+  :date: !ruby/object:DateTime 2014-11-21 11:55:32.890000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :answers:
+  - :id: 6n7kFxGde8cgeOe8Ka08AA
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:01:49+00:00'
+      :created_at: '2017-09-11T05:01:49+00:00'
+      :id: 6n7kFxGde8cgeOe8Ka08AA
+    :body: Oo ok grasias
+    :date: !ruby/object:DateTime 2014-11-21 15:50:52.092000000 -08:00
+    :author_name: 'liz  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+- :id: 6YIjYMqiAg8MSSa2CSq6ok
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:01:50+00:00'
+    :created_at: '2017-09-11T05:01:50+00:00'
+    :id: 6YIjYMqiAg8MSSa2CSq6ok
+  :body: Gracias por su pregunta, le sugerimos que acuda a la Ventanila de Salud de
+    su Consulado, ya que ellos cuentan con muchos recursos de salud que le podran
+    ser convenientes a usted.
+  :date: !ruby/object:DateTime 2014-11-21 11:55:31.330000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :from_admin: true
+:legacy_id: 1689

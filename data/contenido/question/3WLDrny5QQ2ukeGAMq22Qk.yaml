@@ -1,0 +1,64 @@
+---
+:id: 3WLDrny5QQ2ukeGAMq22Qk
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:22:38+00:00'
+  :created_at: '2017-09-11T05:22:38+00:00'
+  :id: 3WLDrny5QQ2ukeGAMq22Qk
+:body: "<p>Pregunta tas del tes de manejo</p>"
+:permalink: 2014-12-13_pregunta-tas-del-tes-de-manejo
+:date: !ruby/object:DateTime 2014-12-13 16:15:36.000000000 -08:00
+:author_name: 'Ma rbella Lara '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 6QOphli4BUeMUUM4k8gEOS
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:22:37+00:00'
+    :created_at: '2017-09-11T05:22:37+00:00'
+    :id: 6QOphli4BUeMUUM4k8gEOS
+  :body: Hola Marbella, agradecemos su pregunta. Estamos trabajando en crear ejemplos
+    del examen de manejo escrito; pero siempre recomendamos que se estudie el manual
+    de conductor del DMV para poder superar el examen de manera satisfactoria. SABEResPODER
+  :date: !ruby/object:DateTime 2014-12-15 10:14:22.794000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+- :id: 6Fd8jjOsMM0gcykIsIWiyu
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:22:38+00:00'
+    :created_at: '2017-09-11T05:22:38+00:00'
+    :id: 6Fd8jjOsMM0gcykIsIWiyu
+  :body: Preguntas y respuestas del examen de manejo cdl
+  :date: !ruby/object:DateTime 2014-12-15 06:03:50.320000000 -08:00
+  :author_name: 'Laura Toxqui '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 39kaubgWYoSMOAYmEKykMk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:22:37+00:00'
+      :created_at: '2017-09-11T05:22:37+00:00'
+      :id: 39kaubgWYoSMOAYmEKykMk
+    :body: Hola Laura. Nosotros no podemos proporcionarle las preguntas que le apareceran
+      en el examen a la hora que usted se presente, asi como tampoco podemos proporcionarle
+      las respuestas de dichas preguntas. Lo que si podemos proporcionarle y estamos
+      trabajando en ello, son ejemplos de preguntas basados en el manual del conductor
+      de California. Ademas, siempre le recomendamos a nuestros usuarios que estudien
+      el manual para poder pasar su examen escrito. SABEResPODER
+    :date: !ruby/object:DateTime 2014-12-15 10:16:16.104000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2189

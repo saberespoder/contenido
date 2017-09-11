@@ -1,0 +1,49 @@
+---
+:id: 4zFJVAoiFimIIII28MkOa4
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:41:37+00:00'
+  :created_at: '2017-09-11T05:41:37+00:00'
+  :id: 4zFJVAoiFimIIII28MkOa4
+:body: "<p>Hola como puedo garrar ayuda médica </p>"
+:permalink: 2014-12-29_hola-como-puedo-garrar-ayuda-medica
+:date: !ruby/object:DateTime 2014-12-29 13:14:55.000000000 -08:00
+:author_name: 'Juan Resendiz  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2nIisEbniQEO4UIMCkWyO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:41:37+00:00'
+    :created_at: '2017-09-11T05:41:37+00:00'
+    :id: 2nIisEbniQEO4UIMCkWyO
+  :body: "Sr. Juan gracias por su pregunta, le sugerimos que acuda a la Ventanilla
+    de Salud del Consulado de Houston y pregunte por Gloria Hernández o llame al\t713-778-6105\tL
+    a V: 8 am - 1 pm. Ya que tienen diversos recursos medicos gratuitos o a bajo costo
+    que pudieran ser de utilidad."
+  :date: !ruby/object:DateTime 2015-02-04 08:07:49.574000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :answers:
+  - :id: 6JGhl9CZziS8EwEIgQkgW6
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:41:36+00:00'
+      :created_at: '2017-09-11T05:41:36+00:00'
+      :id: 6JGhl9CZziS8EwEIgQkgW6
+    :body: 'Munchas crasias Daniela '
+    :date: !ruby/object:DateTime 2015-02-04 09:26:43.409000000 -08:00
+    :author_name: 'Juan Resendiz  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 2417

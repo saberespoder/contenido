@@ -1,0 +1,60 @@
+---
+:id: 5OUlw8iDVSIKSk4S00QyeS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:34:29+00:00'
+  :created_at: '2017-09-08T18:34:29+00:00'
+  :id: 5OUlw8iDVSIKSk4S00QyeS
+:body: "<p>Tes de manejo</p>"
+:permalink: 2015-04-13_tes-de-manejo
+:date: !ruby/object:DateTime 2015-04-13 23:10:47.000000000 -07:00
+:author_name: 'Janeth quinones '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 6HcNk2CRJ6C4Ii4WoYA2u0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:34:29+00:00'
+    :created_at: '2017-09-08T18:34:29+00:00'
+    :id: 6HcNk2CRJ6C4Ii4WoYA2u0
+  :body: "Gracias por su pregunta con gusto le envío el siguiente link para que obtenga
+    el manual de conducir y algunas preguntas de práctica para el examen escrito y
+    manos a la obra a estudiar se ha dicho!\r\n<a href='http://contenido.saberespoder.com/articulos/educaci%C3%B3n/pasos-para-prepararse-para-el-examen-de-conducir-escrito'>http://contenido.saberespoder.com/articulos/educaci%C3%B3n/pasos-para-prepararse-para-el-examen-de-conducir-escrito</a>\r\n"
+  :date: !ruby/object:DateTime 2015-04-14 08:01:45.693000000 -07:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :answers:
+  - :id: 3RKuwWvsS4qo0qc0C8MqSQ
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:34:29+00:00'
+      :created_at: '2017-09-08T18:34:29+00:00'
+      :id: 3RKuwWvsS4qo0qc0C8MqSQ
+    :body: Mil gracias
+    :date: !ruby/object:DateTime 2015-04-14 08:03:33.129000000 -07:00
+    :author_name: 'Janeth quinones '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 7D0lWW8nQWAEO600SWKYGm
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:34:28+00:00'
+        :created_at: '2017-09-08T18:34:28+00:00'
+        :id: 7D0lWW8nQWAEO600SWKYGm
+      :body: "Para Servirle!\r\n#SABEResPODER"
+      :date: !ruby/object:DateTime 2015-04-14 16:52:23.757000000 -07:00
+      :author_name: 'Gabriela Umana '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 6355

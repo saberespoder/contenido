@@ -1,0 +1,48 @@
+---
+:id: 3ZtBYtHD0c6Ke4q6eWOE0E
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:34:42+00:00'
+  :created_at: '2017-09-11T05:34:42+00:00'
+  :id: 3ZtBYtHD0c6Ke4q6eWOE0E
+:body: "<p>Hola nesecito un dentista para bajos recursos area d denton gracias </p>"
+:permalink: 2015-05-08_hola-nesecito-un-dentista-para-bajos-recursos-area-d-denton-gracias
+:date: !ruby/object:DateTime 2015-05-08 20:49:08.000000000 -07:00
+:author_name: 'Edith Martinez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 7nMAyovBFCKeoYekSAMwuK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:34:41+00:00'
+    :created_at: '2017-09-11T05:34:41+00:00'
+    :id: 7nMAyovBFCKeoYekSAMwuK
+  :body: 'Gracias por su pregunta le envio la direccion. Baylor College of Dentistry
+    <a href=''http://bcd.tamhsc.edu''>http://bcd.tamhsc.edu</a> 3302 Gaston Ave. Dallas,
+    TX 75246 (214) 828-8100 #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-05-11 17:07:12.590000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 9xROTcpO48eciagGCcE0I
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:34:41+00:00'
+      :created_at: '2017-09-11T05:34:41+00:00'
+      :id: 9xROTcpO48eciagGCcE0I
+    :body: Gracias
+    :date: !ruby/object:DateTime 2015-05-11 17:11:22.538000000 -07:00
+    :author_name: 'Edith Martinez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6941

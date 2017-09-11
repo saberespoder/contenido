@@ -1,0 +1,97 @@
+---
+:id: 5QatZeREQ0wQwQ28Y2GuiO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:33:34+00:00'
+  :created_at: '2017-09-11T05:33:34+00:00'
+  :id: 5QatZeREQ0wQwQ28Y2GuiO
+:body: "<p>Trabajo</p>"
+:permalink: trabajo
+:date: !ruby/object:DateTime 2014-10-16 14:12:15.470000000 -07:00
+:author_name: 'Juana Gomez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 1AzMqsgCOAIMkqwiecMkaG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:33:32+00:00'
+    :created_at: '2017-09-11T05:33:32+00:00'
+    :id: 1AzMqsgCOAIMkqwiecMkaG
+  :body: 'claro que si le bamos a yudar '
+  :date: !ruby/object:DateTime 2014-10-30 10:44:37.872000000 -07:00
+  :author_name: 'Maria Martinez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 2q9i1iCDEkyCyOwyEqsKCW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:33:31+00:00'
+      :created_at: '2017-09-11T05:33:31+00:00'
+      :id: 2q9i1iCDEkyCyOwyEqsKCW
+    :body: Habrá un trabajo para mi
+    :date: !ruby/object:DateTime 2014-10-30 10:52:16.573000000 -07:00
+    :author_name: 'Juana Gomez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  - :id: 26YqEQbh4QIwiYsKQsmkeO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:33:32+00:00'
+      :created_at: '2017-09-11T05:33:32+00:00'
+      :id: 26YqEQbh4QIwiYsKQsmkeO
+    :body: Hola usted tendrá un trabajo para mi
+    :date: !ruby/object:DateTime 2014-10-30 11:00:10.500000000 -07:00
+    :author_name: 'Juana Gomez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2C5UlLXgW04wI28oe2CCIi
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:33:31+00:00'
+        :created_at: '2017-09-11T05:33:31+00:00'
+        :id: 2C5UlLXgW04wI28oe2CCIi
+      :body: El Programa de SABEResPODER ayuda a informar a nuestra comunidad via
+        texto sobre trabajos cuando hay disponibles u algun proyecto adicional de
+        ganar dinero., ya tenemos su informacion basica y con mucho gusto le haremos
+        saber de alguna oportunidad laboral.
+      :date: !ruby/object:DateTime 2014-10-30 11:39:32.154000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+- :id: 6rALznt7WgMW6EQAogU20u
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:33:33+00:00'
+    :created_at: '2017-09-11T05:33:33+00:00'
+    :id: 6rALznt7WgMW6EQAogU20u
+  :body: muy bien
+  :date: !ruby/object:DateTime 2014-10-29 15:53:33.605000000 -07:00
+  :author_name: 'Maria Martinez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 4k3tgOG0ByacuW08cUw8IO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:33:33+00:00'
+    :created_at: '2017-09-11T05:33:33+00:00'
+    :id: 4k3tgOG0ByacuW08cUw8IO
+  :body: El Programa de SABEResPODER ayuda a informar a nuestra comunidad via texto
+    sobre trabajos cuando hay disponibles u algun proyecto adicional de ganar dinero.,
+    ya tenemos su informacion basica y con mucho gusto le haremos saber de alguna
+    oportunidad laboral.
+  :date: !ruby/object:DateTime 2014-10-20 22:33:05.828000000 -07:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :from_admin: true
+:legacy_id: 1090

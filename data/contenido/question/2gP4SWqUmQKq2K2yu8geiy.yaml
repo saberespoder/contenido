@@ -1,0 +1,67 @@
+---
+:id: 2gP4SWqUmQKq2K2yu8geiy
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:00:37+00:00'
+  :created_at: '2017-09-08T18:00:37+00:00'
+  :id: 2gP4SWqUmQKq2K2yu8geiy
+:body: "<p>Examen de manejo</p>"
+:permalink: examen-de-manejo
+:date: !ruby/object:DateTime 2014-11-07 10:14:47.032000000 -08:00
+:author_name: 'Rosemarie fonseca '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 1r5O7G5o4QaGAIwUcses24
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:00:36+00:00'
+    :created_at: '2017-09-08T18:00:36+00:00'
+    :id: 1r5O7G5o4QaGAIwUcses24
+  :body: Gracias por sí ayuda y conocimiento de investigar para ayudar a sí hente
+  :date: !ruby/object:DateTime 2015-01-15 10:45:11.457000000 -08:00
+  :author_name: 'Araceli Acuna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 6Obx3aQAlagKACAWWkSm2S
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:00:35+00:00'
+      :created_at: '2017-09-08T18:00:35+00:00'
+      :id: 6Obx3aQAlagKACAWWkSm2S
+    :body: Es un gusto poder ayudarle. SABEResPODER
+    :date: !ruby/object:DateTime 2015-01-15 12:50:27.111000000 -08:00
+    :author_name: 'Aaron Paguaga '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 31GTBmZzkQyaEWiEcSE8g0
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:00:36+00:00'
+    :created_at: '2017-09-08T18:00:36+00:00'
+    :id: 31GTBmZzkQyaEWiEcSE8g0
+  :body: Rosemarie los examanes de manejo tanto escrito como practico se hacen en
+    el DMV. Usted pued obtener una copia del manual de conductor de California en
+    su idioma totalmente gratis en cualquier oficina del DMV. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-07 11:17:06.132000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :from_admin: false
+:legacy_id: 1426

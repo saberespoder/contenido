@@ -1,0 +1,61 @@
+---
+:id: 2mx1M6T5GgOi6Wq2e2wqE
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:55:45+00:00'
+  :created_at: '2017-09-08T18:55:45+00:00'
+  :id: 2mx1M6T5GgOi6Wq2e2wqE
+:body: "<p>Donde puedo encontrar medicos especialistas de la piel </p>"
+:permalink: donde-puedo-encontrar-medicos-especialistas-de-la-piel
+:date: !ruby/object:DateTime 2014-10-22 15:14:11.576000000 -07:00
+:author_name: 'Jose Antonio Garcia '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1PiCtZp9Xe6ucqMsMYSSgG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:55:45+00:00'
+    :created_at: '2017-09-08T18:55:45+00:00'
+    :id: 1PiCtZp9Xe6ucqMsMYSSgG
+  :body: Hola Jose Antonio. Le recomendamos que se acerque a la ventanilla de salud
+    de su consulado para que le puedan brindar informacion detallada al respecto.
+    Para asistir a la ventanilla no se necesita de hacer citas y la atencion es completamente
+    gratis. SABEResPODER
+  :date: !ruby/object:DateTime 2014-10-22 15:49:55.796000000 -07:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 3sK0FtBsreoguSSo6i84GS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:55:44+00:00'
+      :created_at: '2017-09-08T18:55:44+00:00'
+      :id: 3sK0FtBsreoguSSo6i84GS
+    :body: 'Gracias '
+    :date: !ruby/object:DateTime 2014-10-22 15:51:26.216000000 -07:00
+    :author_name: 'Jose Antonio Garcia '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 7UOqeMw1DG6y4gYSSo0EQ
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:55:44+00:00'
+        :created_at: '2017-09-08T18:55:44+00:00'
+        :id: 7UOqeMw1DG6y4gYSSo0EQ
+      :body: Para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-10-22 15:53:20.264000000 -07:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1152

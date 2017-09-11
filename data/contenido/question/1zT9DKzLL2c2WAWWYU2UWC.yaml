@@ -1,0 +1,66 @@
+---
+:id: 1zT9DKzLL2c2WAWWYU2UWC
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:36:32+00:00'
+  :created_at: '2017-09-11T05:36:32+00:00'
+  :id: 1zT9DKzLL2c2WAWWYU2UWC
+:body: "<p>Como obtengo Cuidado de Salud </p>"
+:permalink: 2016-08-22_como-obtengo-cuidado-de-salud
+:date: !ruby/object:DateTime 2016-08-22 16:15:44.184000000 -07:00
+:author_name: 'Brenda Lisseth Carranza '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 5aDYgj8aPYug6Aiuo0q6IQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:36:31+00:00'
+    :created_at: '2017-09-11T05:36:31+00:00'
+    :id: 5aDYgj8aPYug6Aiuo0q6IQ
+  :body: 'Hola estimada Brenda, agradecemos su participación. En relación a su pregunta,
+    le sugerimos visite o se comunique con su Ventanilla de Salud en el Consulado
+    Mexicano de Los Angeles ya que la Ventanilla cuenta con exámenes preventivos y
+    referencias a clínicas completamente gratis. Para ser atendido en la Ventanilla
+    no se necesita una cita y esta abierta de Lunes a Viernes de 9am- 1pm. No dude
+    en comentar si desea más información o tiene otra pregunta. Recuerde que aquí
+    estamos para ayudarle #SABEResPODER '
+  :date: !ruby/object:DateTime 2016-08-22 16:30:07.871000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: 2gCQezjt7agssQ88OQY6Aa
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:36:31+00:00'
+      :created_at: '2017-09-11T05:36:31+00:00'
+      :id: 2gCQezjt7agssQ88OQY6Aa
+    :body: 'Soy de Guatemala '
+    :date: !ruby/object:DateTime 2016-08-22 16:46:52.241000000 -07:00
+    :author_name: 'Brenda Lisseth Carranza '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5JuKdVQL8AUS0A0IY08G2I
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:36:30+00:00'
+        :created_at: '2017-09-11T05:36:30+00:00'
+        :id: 5JuKdVQL8AUS0A0IY08G2I
+      :body: 'Hola estimada Brenda, gracias por su respuesta y lamentamos la confusion.
+        Le gustaría que le compartamos información sobre clínicas a bajo costo cerca
+        de usted? '
+      :date: !ruby/object:DateTime 2016-08-23 09:09:54.906000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 11253

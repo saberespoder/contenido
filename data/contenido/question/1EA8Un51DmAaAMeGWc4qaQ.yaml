@@ -1,0 +1,59 @@
+---
+:id: 1EA8Un51DmAaAMeGWc4qaQ
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:17:26+00:00'
+  :created_at: '2017-09-11T05:17:26+00:00'
+  :id: 1EA8Un51DmAaAMeGWc4qaQ
+:body: "<p>K pelicula esta para este viernes </p>"
+:permalink: k-pelicula-esta-para-este-viernes
+:date: !ruby/object:DateTime 2014-11-26 05:28:57.542000000 -08:00
+:author_name: 'Jose Hernandez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2tK1nx3hKEe4gISCG8eKOe
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:17:25+00:00'
+    :created_at: '2017-09-11T05:17:25+00:00'
+    :id: 2tK1nx3hKEe4gISCG8eKOe
+  :body: La pelicula que se estara promocionando es Big Hero 6, usted recibira un
+    mensaje dandole los horarios a los que usted podra asistir. SABEResPODER
+  :date: !ruby/object:DateTime 2014-11-26 09:45:06.168000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: oWxaY8wsICMyIKeqkow4A
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:17:25+00:00'
+      :created_at: '2017-09-11T05:17:25+00:00'
+      :id: oWxaY8wsICMyIKeqkow4A
+    :body: "Ok gracias\r\n"
+    :date: !ruby/object:DateTime 2014-11-26 10:17:48.764000000 -08:00
+    :author_name: 'Jose Hernandez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 4fpruiVYTKkCio0KOCAWS6
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:17:24+00:00'
+        :created_at: '2017-09-11T05:17:24+00:00'
+        :id: 4fpruiVYTKkCio0KOCAWS6
+      :body: Estamos para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-26 10:30:33.325000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1885

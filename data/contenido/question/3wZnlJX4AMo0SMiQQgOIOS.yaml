@@ -1,0 +1,48 @@
+---
+:id: 3wZnlJX4AMo0SMiQQgOIOS
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:46:08+00:00'
+  :created_at: '2017-09-11T05:46:08+00:00'
+  :id: 3wZnlJX4AMo0SMiQQgOIOS
+:body: "<p>Quiero saber si la tarjeta para medicamentos recetados,tiene vencimiento!!</p>"
+:permalink: quiero-saber-si-la-tarjeta-para-medicamentos-recetados-tiene-vencimiento
+:date: !ruby/object:DateTime 2014-12-07 12:04:08.631000000 -08:00
+:author_name: 'Daniel Torres '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 160dah2WIYoqsysoUmuauy
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:46:08+00:00'
+    :created_at: '2017-09-11T05:46:08+00:00'
+    :id: 160dah2WIYoqsysoUmuauy
+  :body: Las tarjetas de descuentos para medicamentos no suelen tener vencimiento.
+    Sin embargo, para comparar precios entre farmacias le recomendamos siempre consultar
+    primero farmasep.com
+  :date: !ruby/object:DateTime 2014-12-08 07:54:14.167000000 -08:00
+  :author_name: Raul   - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/90/IMG_3754.JPG
+  :answers:
+  - :id: 2YcMxy27NKM8ua8igOMAcs
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:46:08+00:00'
+      :created_at: '2017-09-11T05:46:08+00:00'
+      :id: 2YcMxy27NKM8ua8igOMAcs
+    :body: Ok muchas gracias x su respuesta!!!
+    :date: !ruby/object:DateTime 2014-12-08 15:36:40.134000000 -08:00
+    :author_name: 'Daniel Torres '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 2062

@@ -1,0 +1,73 @@
+---
+:id: 6fm3IchyVyKG8YqW8KUCQu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:40:19+00:00'
+  :created_at: '2017-09-11T05:40:19+00:00'
+  :id: 6fm3IchyVyKG8YqW8KUCQu
+:body: "<p>Estan dando tambien ID bajo esta ley?</p>"
+:permalink: 2015-09-25_estan-dando-tambien-id-bajo-esta-ley
+:date: !ruby/object:DateTime 2015-09-25 18:28:38.000000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :title: Finanzas
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2Z8kD6e4so020USyCWyam4
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:40:19+00:00'
+    :created_at: '2017-09-11T05:40:19+00:00'
+    :id: 2Z8kD6e4so020USyCWyam4
+  :body: 'Hola estimado usuario, gracias por su participación,  en relación a su pregunta
+    sobre el AB60, hemos encontrado la siguiente información para usted, desafortunadamente
+    la licencia AB60 no so puede usar para abordar un avión ni meterse en un edificio
+    federal. La licencia es solo para manejar y identificarse. Recuerde que estamos
+    para ayudarle. #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-09-28 10:48:53.643000000 -07:00
+  :author_name: 'Jenny Alfaro '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+  :answers:
+  - :id: 23eXf92Z0wCqcW6E6c00GS
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:40:18+00:00'
+      :created_at: '2017-09-11T05:40:18+00:00'
+      :id: 23eXf92Z0wCqcW6E6c00GS
+    :body: "Gracias por su respuesta pero mi pregunta es la siguiente: Tengo un familiar
+      que solo quiere sacar ID pero no licencia,,, se puede Hacer eso bajo la ley
+      AB60\r\n\r\nGracias"
+    :date: !ruby/object:DateTime 2015-09-28 11:01:14.335000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 5UX8iSFiNyUyesEc2u062g
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:40:18+00:00'
+        :created_at: '2017-09-11T05:40:18+00:00'
+        :id: 5UX8iSFiNyUyesEc2u062g
+      :body: 'Hola estimado usuario, gracias por su comentario. Bajo la ley AB60 solo
+        se puede sacar la licencia. #SABEResPODER'
+      :date: !ruby/object:DateTime 2015-09-28 12:04:39.701000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 8494

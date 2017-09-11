@@ -1,0 +1,71 @@
+---
+:id: 1CPJYTxLR2WIYYq6u6ygKu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:30:40+00:00'
+  :created_at: '2017-09-08T18:30:40+00:00'
+  :id: 1CPJYTxLR2WIYYq6u6ygKu
+:body: "<p>Riverside</p>"
+:permalink: 2015-11-17_riverside
+:date: !ruby/object:DateTime 2015-11-17 11:41:45.000000000 -08:00
+:author_name: 'Gaby Cruz '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :title: Trabajo
+  :is_active: false
+:answers:
+- :id: 7KJf6Aza1yi02yIWEQQcgS
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:37+00:00'
+    :created_at: '2017-09-08T18:30:37+00:00'
+    :id: 7KJf6Aza1yi02yIWEQQcgS
+  :body: 'Gracias espero su respuesta s.r.Minerva. '
+  :date: !ruby/object:DateTime 2015-11-17 15:48:42.510000000 -08:00
+  :author_name: 'Gaby Cruz '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 1PUU49uUBqwWwgiEGoqEek
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:39+00:00'
+    :created_at: '2017-09-08T18:30:39+00:00'
+    :id: 1PUU49uUBqwWwgiEGoqEek
+  :body: 'Hola Sra. Gaby. Bienvenida a SABEResPODER tiene preguntas? Nosotros le ayudamos!  '
+  :date: !ruby/object:DateTime 2015-11-17 14:53:30.042000000 -08:00
+  :author_name: 'Minerva Luna '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: sIbZuWyR1uGMMosWaYagK
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:30:39+00:00'
+      :created_at: '2017-09-08T18:30:39+00:00'
+      :id: sIbZuWyR1uGMMosWaYagK
+    :body: Sabe de algun trabajo en riverside
+    :date: !ruby/object:DateTime 2015-11-17 15:07:14.831000000 -08:00
+    :author_name: 'Gaby Cruz '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: ZmTLiu7BQIgKMim2IKkKS
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:30:38+00:00'
+        :created_at: '2017-09-08T18:30:38+00:00'
+        :id: ZmTLiu7BQIgKMim2IKkKS
+      :body: Agradecemos su participación Sra Gaby,  con gusto le podemos informar  cuando
+        haya algunas oportunidades de trabajo disponibles o proyectos en donde tenga
+        la posibilidad de obtener alguna compensación económica.#SABEResPODER
+      :date: !ruby/object:DateTime 2015-11-17 15:16:31.754000000 -08:00
+      :author_name: 'Minerva Luna '
+      :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 9534

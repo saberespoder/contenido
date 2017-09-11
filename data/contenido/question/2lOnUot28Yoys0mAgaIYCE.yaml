@@ -1,0 +1,58 @@
+---
+:id: 2lOnUot28Yoys0mAgaIYCE
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:06:51+00:00'
+  :created_at: '2017-09-11T05:06:51+00:00'
+  :id: 2lOnUot28Yoys0mAgaIYCE
+:body: "<p>Tengo que ser legalmente de aki para tener el seguro??</p>"
+:permalink: 2015-02-05_tengo-que-ser-legalmente-de-aki-para-tener-el-seguro
+:date: !ruby/object:DateTime 2015-02-05 21:04:54.000000000 -08:00
+:author_name: 'Rosalina  Roman '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 33ZrKn2556yiMuS8S0EgCM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:49+00:00'
+    :created_at: '2017-09-11T05:06:49+00:00'
+    :id: 33ZrKn2556yiMuS8S0EgCM
+  :body: Hola. Quiero saber donde consigo las formas o aplicaciones para el DACA
+  :date: !ruby/object:DateTime 2015-02-19 20:14:29.774000000 -08:00
+  :author_name: 'Rosa Zumaya '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/143111/uploads_2Ftmp_2F74fcfd23-4935-4b8d-91f1-afff30eb91aa_2Fimage.jpg
+  :from_admin: false
+- :id: 70IJN8WGPeeCYiiwwwuGoK
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:06:50+00:00'
+    :created_at: '2017-09-11T05:06:50+00:00'
+    :id: 70IJN8WGPeeCYiiwwwuGoK
+  :body: Las personas que estan obligadas a tener un seguro medico son los residentes
+    y ciudadanos legales de USA.de lo contrario no es obligatorio aunque es conveniente.
+  :date: !ruby/object:DateTime 2015-02-06 10:55:31.745000000 -08:00
+  :author_name: Daniella Cesar  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/21/uploads_2Ftmp_2F1cc34674-f49c-44c1-a1e9-e29e79958399_2Funnamed%2B_2825_29.jpg
+  :answers:
+  - :id: 6w06sfPaJUQCkuAQAMSu4c
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:06:50+00:00'
+      :created_at: '2017-09-11T05:06:50+00:00'
+      :id: 6w06sfPaJUQCkuAQAMSu4c
+    :body: Entonces yo no puedo tener un seguro médico??
+    :date: !ruby/object:DateTime 2015-02-06 11:41:53.900000000 -08:00
+    :author_name: 'Rosalina  Roman '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 3971

@@ -1,0 +1,72 @@
+---
+:id: 1bFBv2bXmKIoe0C8a4umuY
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:26:51+00:00'
+  :created_at: '2017-09-08T18:26:51+00:00'
+  :id: 1bFBv2bXmKIoe0C8a4umuY
+:body: "<p>Hola buenos Dias yo soy de Longview tx a dos horas de Dallas para la ventanilla
+  de salud se ocupa sita ? </p>"
+:permalink: 2015-01-23_hola-buenos-dias-yo-soy-de-longview-tx-a-dos-horas-de-dallas-para-la-ventanilla-de-salud-se-ocupa-sita
+:date: !ruby/object:DateTime 2015-01-23 07:03:49.000000000 -08:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 4hpEhyE8VWmQo8O6GiQMWa
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:26:51+00:00'
+    :created_at: '2017-09-08T18:26:51+00:00'
+    :id: 4hpEhyE8VWmQo8O6GiQMWa
+  :body: Estimado usuario, para asistir a la ventanilla de salud usted no necesita
+    de hacer una cita para que le atiendan. SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-23 15:18:53.064000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: JzegW8S6aG2ya0SUIOqK4
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:26:49+00:00'
+      :created_at: '2017-09-08T18:26:49+00:00'
+      :id: JzegW8S6aG2ya0SUIOqK4
+    :body: Que horario tiene la ventanilla d salud?
+    :date: !ruby/object:DateTime 2015-01-23 15:21:01.175000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 2yrPfiSwT2aYq2s6mUQoYe
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:26:48+00:00'
+        :created_at: '2017-09-08T18:26:48+00:00'
+        :id: 2yrPfiSwT2aYq2s6mUQoYe
+      :body: Estimado usuario, la ventanilla de salud atiende en los horarios normales
+        del consulado. De 8:00 am a 1:00 pm. SABEResPODER
+      :date: !ruby/object:DateTime 2015-01-26 09:16:48.078000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  - :id: 1sbW8XWXpuKoQmAcoIYiYO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:26:49+00:00'
+      :created_at: '2017-09-08T18:26:49+00:00'
+      :id: 1sbW8XWXpuKoQmAcoIYiYO
+    :body: Gracias por su ayuda...
+    :date: !ruby/object:DateTime 2015-01-23 15:21:36.734000000 -08:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 3310

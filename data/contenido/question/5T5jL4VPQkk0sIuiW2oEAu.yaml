@@ -1,0 +1,59 @@
+---
+:id: 5T5jL4VPQkk0sIuiW2oEAu
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:50:03+00:00'
+  :created_at: '2017-09-08T18:50:03+00:00'
+  :id: 5T5jL4VPQkk0sIuiW2oEAu
+:body: "<p>Salud</p>"
+:permalink: 2015-02-11_salud
+:date: !ruby/object:DateTime 2015-02-11 16:15:25.000000000 -08:00
+:author_name: 'cesar duran '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: mRDe68B7QO2y2Ac6Ewo2C
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:50:02+00:00'
+    :created_at: '2017-09-08T18:50:02+00:00'
+    :id: mRDe68B7QO2y2Ac6Ewo2C
+  :body: 'Estimado Cesar : Para poder ofrecer informacion util a su inquietud, podria
+    ser especifico en lo que necesita saber con respecto a la salud? Gracias por Participar!
+    Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-02-16 15:42:06.164000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 2wrfaLW9juSOIUW8suyiG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:50:03+00:00'
+    :created_at: '2017-09-08T18:50:03+00:00'
+    :id: 2wrfaLW9juSOIUW8suyiG
+  :body: "Estimado Cesar le envio mas informacion Gracias.\r\n<a href='http://contenido.saberespoder.com/articulos/salud/con-la-salud-no-se-juega-beneficios-de-la-ventanilla-de-salud'>http://contenido.saberespoder.com/articulos/salud/con-la-salud-no-se-juega-beneficios-de-la-ventanilla-de-salud</a>\r\n#SABEResPODER"
+  :date: !ruby/object:DateTime 2015-02-16 14:07:33.323000000 -08:00
+  :author_name: 'Gabriela Umana '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3BxBkjtlqU66CmmQmuus4u
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:50:02+00:00'
+      :created_at: '2017-09-08T18:50:02+00:00'
+      :id: 3BxBkjtlqU66CmmQmuus4u
+    :body: Salud
+    :date: !ruby/object:DateTime 2015-02-16 15:33:12.723000000 -08:00
+    :author_name: 'cesar duran '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 4208

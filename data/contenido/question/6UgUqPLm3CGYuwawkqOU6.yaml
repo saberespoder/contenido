@@ -1,0 +1,62 @@
+---
+:id: 6UgUqPLm3CGYuwawkqOU6
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:08:06+00:00'
+  :created_at: '2017-09-08T18:08:06+00:00'
+  :id: 6UgUqPLm3CGYuwawkqOU6
+:body: "<p>Necesito sacar mi itin</p>"
+:permalink: necesito-sacar-mi-itin
+:date: !ruby/object:DateTime 2014-11-04 22:43:17.260000000 -08:00
+:author_name: 'antonio santiago '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 1g1Wr4mKIqiM6KuOSQweYi
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:08:06+00:00'
+    :created_at: '2017-09-08T18:08:06+00:00'
+    :id: 1g1Wr4mKIqiM6KuOSQweYi
+  :body: 'Hola Antonio. Gracias por su pregunta. Usted puede sacar su número ITIN
+    con un agente de impuestos autorizado. Es totalmente gratis. Aquí le proporcionamos
+    la información sobre una agencia de impuestos donde usted puede ir a solicitar
+    su ITIN: GATEWAY PLAZA. 1612 W ROSECRAN AVE. COMPTON, CA. Telefono: 310-223-1746.
+    SABEResPODER'
+  :date: !ruby/object:DateTime 2014-11-05 11:02:00.479000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 53AmZ4MaLS6isIikeGY8KY
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:08:05+00:00'
+      :created_at: '2017-09-08T18:08:05+00:00'
+      :id: 53AmZ4MaLS6isIikeGY8KY
+    :body: 'Ok muchas gracias '
+    :date: !ruby/object:DateTime 2014-11-05 11:03:26.106000000 -08:00
+    :author_name: 'antonio santiago '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 3TLVVVsMIEYsACQsgOSiOm
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-08T18:08:04+00:00'
+        :created_at: '2017-09-08T18:08:04+00:00'
+        :id: 3TLVVVsMIEYsACQsgOSiOm
+      :body: Estamos para servirle. SABEResPODER
+      :date: !ruby/object:DateTime 2014-11-05 11:58:40.421000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 1337

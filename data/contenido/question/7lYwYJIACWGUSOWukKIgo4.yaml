@@ -1,0 +1,49 @@
+---
+:id: 7lYwYJIACWGUSOWukKIgo4
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:39:28+00:00'
+  :created_at: '2017-09-08T18:39:28+00:00'
+  :id: 7lYwYJIACWGUSOWukKIgo4
+:body: "<p>Quiero sa ver el número telefónico de las librerías en queens</p>"
+:permalink: 2015-02-23_quiero-sa-ver-el-numero-telefonico-de-las-librerias-en-queens
+:date: !ruby/object:DateTime 2015-02-23 09:27:35.000000000 -08:00
+:author_name: 'Miguel Vazquez Mo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 6qaLwy7sv6U0iAAEqS2u6K
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:39:28+00:00'
+    :created_at: '2017-09-08T18:39:28+00:00'
+    :id: 6qaLwy7sv6U0iAAEqS2u6K
+  :body: 'Estimado Miguel:  Revisa el siguiente link en donde podras encontrar las
+    diferentes localizaciones para que te adecues a la mas conveniente e incluso te
+    permite obtener las horas de operacion y sus telefonos: www.queenslibrary.org/.
+    Gracias por Participar! Saber es Poder!'
+  :date: !ruby/object:DateTime 2015-02-23 11:55:08.558000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 5Wpow8eH4Wy0ckay6Gem4Q
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:39:27+00:00'
+      :created_at: '2017-09-08T18:39:27+00:00'
+      :id: 5Wpow8eH4Wy0ckay6Gem4Q
+    :body: Hola
+    :date: !ruby/object:DateTime 2015-02-23 12:21:17.985000000 -08:00
+    :author_name: 'Miguel Vazquez Mo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 4721

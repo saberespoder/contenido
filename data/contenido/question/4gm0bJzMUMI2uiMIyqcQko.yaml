@@ -1,0 +1,62 @@
+---
+:id: 4gm0bJzMUMI2uiMIyqcQko
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:35:12+00:00'
+  :created_at: '2017-09-11T05:35:12+00:00'
+  :id: 4gm0bJzMUMI2uiMIyqcQko
+:body: "<p>Como puedo hacer una petision</p>"
+:permalink: 2015-01-07_como-puedo-hacer-una-petision
+:date: !ruby/object:DateTime 2015-01-07 14:44:07.000000000 -08:00
+:author_name: 'Patricia Ortiz  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+:answers:
+- :id: 6Tilp0oFt6w4ga8SSysgmC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:35:10+00:00'
+    :created_at: '2017-09-11T05:35:10+00:00'
+    :id: 6Tilp0oFt6w4ga8SSysgmC
+  :body: Estimada Patricia, gracias por seguir participando. Indiquenos en que estado
+    se encuentra, así le enviaremos los números de contacto del DMV en el área donde
+    reside. SABEResPODER
+  :date: !ruby/object:DateTime 2015-02-04 14:44:19.723000000 -08:00
+  :author_name: 'Francy Julieth Madronero '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/60678/uploads_2Ftmp_2Fd4eb401d-d360-4fc7-9609-b2bc0bc90144_2F5506330.jpg
+  :from_admin: false
+- :id: 2NtmINpGjm2kqSUAqqwcuA
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:35:11+00:00'
+    :created_at: '2017-09-11T05:35:11+00:00'
+    :id: 2NtmINpGjm2kqSUAqqwcuA
+  :body: Hola Patricia. En lo que se refiere a peticiones, le recomendamos que se
+    ponga en contacto con un abogado de inmigracion para que le pueda guiar en el
+    proceso de someter uan peticion con el Centro de Inmigracion y Ciudadania de los
+    Estados Unidos (USCIS, por sus siglas en ingles). SABEResPODER
+  :date: !ruby/object:DateTime 2015-01-14 15:48:36.425000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: 105xcBDKpkysocicY24oWW
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:35:11+00:00'
+      :created_at: '2017-09-11T05:35:11+00:00'
+      :id: 105xcBDKpkysocicY24oWW
+    :body: Donde puedo sacar una cita en el DMV
+    :date: !ruby/object:DateTime 2015-01-20 13:21:09.814000000 -08:00
+    :author_name: 'Patricia Ortiz  '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2721

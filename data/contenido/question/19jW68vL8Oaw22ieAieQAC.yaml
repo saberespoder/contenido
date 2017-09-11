@@ -1,0 +1,50 @@
+---
+:id: 19jW68vL8Oaw22ieAieQAC
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:30:54+00:00'
+  :created_at: '2017-09-08T18:30:54+00:00'
+  :id: 19jW68vL8Oaw22ieAieQAC
+:body: "<p>buenos dias disculpa el dmv abrira los sabados pars lo de la lisensia es
+  q supuestamente tengo la sita un sabado y tengo esa duda</p>"
+:permalink: 2014-12-31_buenos-dias-disculpa-el-dmv-abrira-los-sabados-pars-lo-de-la-lisensia-es-q-supuestamente-tengo-la-sita-un-sabado-y-tengo-esa-duda
+:date: !ruby/object:DateTime 2014-12-31 05:38:03.000000000 -08:00
+:author_name: 'Hugo Sotelo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 270uUrnaQwIm8UyMkqou2y
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:30:53+00:00'
+    :created_at: '2017-09-08T18:30:53+00:00'
+    :id: 270uUrnaQwIm8UyMkqou2y
+  :body: 'Hola Hugo! Gracias por su pregunta. En efecto, muchas oficinas del DMV sí
+    estarán abiertas los sábados. Aquí le dejo un artículo con más información: <a
+    href=''https://www.dmv.ca.gov/portal/dmv/detail/pubs/newsrel/newsrel14/2014_71''>https://www.dmv.ca.gov/portal/dmv/detail/pubs/newsrel/newsrel14/2014_71</a>
+    Suerte en la entrevista! #SABEResPODER'
+  :date: !ruby/object:DateTime 2014-12-31 06:43:46.684000000 -08:00
+  :author_name: 'Raquel Villarreal '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/123820/10007492_10152383763850757_1004072927_n.jpg
+  :answers:
+  - :id: 11iqDYwzZIYwaI6Ua06myk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:30:51+00:00'
+      :created_at: '2017-09-08T18:30:51+00:00'
+      :id: 11iqDYwzZIYwaI6Ua06myk
+    :body: grasias
+    :date: !ruby/object:DateTime 2014-12-31 06:58:36.855000000 -08:00
+    :author_name: 'Hugo Sotelo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2489

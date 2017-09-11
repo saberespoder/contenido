@@ -1,0 +1,58 @@
+---
+:id: 5AOfs3oU1yu4sQSoMo6uKE
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:26:20+00:00'
+  :created_at: '2017-09-11T05:26:20+00:00'
+  :id: 5AOfs3oU1yu4sQSoMo6uKE
+:body: "<p>Hola ay alguien que tenga Un hijo con autismo? Yo tengo uno! </p>"
+:permalink: 2015-06-07_hola-ay-alguien-que-tenga-un-hijo-con-autismo-yo-tengo-uno
+:date: !ruby/object:DateTime 2015-06-07 09:23:14.000000000 -07:00
+:author_name: 'Jazmin  '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 2oXrbUIWy8q8isOoECI0EW
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:26:19+00:00'
+    :created_at: '2017-09-11T05:26:19+00:00'
+    :id: 2oXrbUIWy8q8isOoECI0EW
+  :body: 'Hola estimada Jazmin, agradecemos su pregunta. El autismo es un trastorno
+    que afecta a uno de cada 150 niños, en el enlace encuentre un listado de recursos
+    en español para padres que tienen hijos con autismo: <a href=''https://www.autismspeaks.org/family-services/non-english-resources/spanish''>https://www.autismspeaks.org/family-services/non-english-resources/spanish</a>
+    #SABEResPODER'
+  :date: !ruby/object:DateTime 2015-06-08 10:52:41.416000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :from_admin: false
+- :id: u9i63XcN3igIaK2q6ceIQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:26:19+00:00'
+    :created_at: '2017-09-11T05:26:19+00:00'
+    :id: u9i63XcN3igIaK2q6ceIQ
+  :body: Tengo Un Tio q tambien tiene Un Nino con autismo y se supone q el aplico
+    para la residencia x medio de el y si pudo y fui con Un Abogado y le platique
+    mi situasion y me dijo q no podia! Al menos q se apruebe lo del DAPA!
+  :date: !ruby/object:DateTime 2015-06-07 09:39:57.229000000 -07:00
+  :author_name: 'Jazmin  '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+:legacy_id: 7070

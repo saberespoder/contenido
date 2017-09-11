@@ -1,0 +1,110 @@
+---
+:id: 4aiDpdyr7OqsAkcGgyMMq8
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:29:54+00:00'
+  :created_at: '2017-09-11T05:29:54+00:00'
+  :id: 4aiDpdyr7OqsAkcGgyMMq8
+:body: "<p>Educacion </p>"
+:permalink: 2015-04-28_educacion
+:date: !ruby/object:DateTime 2015-04-28 05:31:45.000000000 -07:00
+:author_name: 'Guadalupe Moran '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+:answers:
+- :id: 1Ti1PPAAKYYWEyOyk068mG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:29:50+00:00'
+    :created_at: '2017-09-11T05:29:50+00:00'
+    :id: 1Ti1PPAAKYYWEyOyk068mG
+  :body: Voy tratar de  entrar
+  :date: !ruby/object:DateTime 2015-04-28 10:56:26.335000000 -07:00
+  :author_name: 'Guadalupe Moran '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 1f6IvnoZ9SeoQMC6AmI4GC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:29:51+00:00'
+    :created_at: '2017-09-11T05:29:51+00:00'
+    :id: 1f6IvnoZ9SeoQMC6AmI4GC
+  :body: Gracias tratar
+  :date: !ruby/object:DateTime 2015-04-28 10:55:38.607000000 -07:00
+  :author_name: 'Guadalupe Moran '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 6edgrwHSMMCIUiyY46acY6
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:29:52+00:00'
+    :created_at: '2017-09-11T05:29:52+00:00'
+    :id: 6edgrwHSMMCIUiyY46acY6
+  :body: "Ingles 72237\r\n"
+  :date: !ruby/object:DateTime 2015-04-28 10:54:31.374000000 -07:00
+  :author_name: 'Guadalupe Moran '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 2tDBEdq7xqCImIQagaQqQa
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:29:51+00:00'
+      :created_at: '2017-09-11T05:29:51+00:00'
+      :id: 2tDBEdq7xqCImIQagaQqQa
+    :body: 'En un nuevo mensaje envié la palabra INGLES al numero 72237. #SABEResPODER'
+    :date: !ruby/object:DateTime 2015-04-28 11:08:10.149000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 2DT13wngUIasueekasqKAA
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:29:53+00:00'
+    :created_at: '2017-09-11T05:29:53+00:00'
+    :id: 2DT13wngUIasueekasqKAA
+  :body: 'Hola estimada Guadalupe, agradecemos su interés por la educación. ¿Tiene
+    un tema de educación en especifico que le gustaría que le compartiéramos información?
+    #SABEResPODER '
+  :date: !ruby/object:DateTime 2015-04-28 10:36:24.757000000 -07:00
+  :author_name: 'Alma Alvarado '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+  :answers:
+  - :id: vLfuIykHteqOuOmguwWEi
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:29:53+00:00'
+      :created_at: '2017-09-11T05:29:53+00:00'
+      :id: vLfuIykHteqOuOmguwWEi
+    :body: Si yo estoy tomando clase a horita para GED pero necesito a prender mas
+      Ingles como guia para examen porque las clase son Ingles
+    :date: !ruby/object:DateTime 2015-04-28 10:43:00.566000000 -07:00
+    :author_name: 'Guadalupe Moran '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6owqcnolOgiWyUGe8GSoIg
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:29:52+00:00'
+        :created_at: '2017-09-11T05:29:52+00:00'
+        :id: 6owqcnolOgiWyUGe8GSoIg
+      :body: 'Al enviar la palabra INGLES como mensaje de texto al 72237 puede empezar
+        a aprender y practicar su ingles con SABEResPODER. También, en unos días SABEResPODER
+        estará lanzando un nuevo Programa Interactivo para aprender inglés, con gusto
+        nos comunicamos con usted una vez este esté disponible para darle más detalles
+        sobre esta excelente oportunidad. #SABEResPODER'
+      :date: !ruby/object:DateTime 2015-04-28 10:52:30.938000000 -07:00
+      :author_name: 'Alma Alvarado '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 6858

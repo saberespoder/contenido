@@ -1,0 +1,63 @@
+---
+:id: YgU44gmqSQEQEu64sQS60
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-11T05:36:52+00:00'
+  :created_at: '2017-09-11T05:36:52+00:00'
+  :id: YgU44gmqSQEQEu64sQS60
+:body: "<p>Busco una clinica comunitaria en plano tx</p>"
+:permalink: 2014-12-14_busco-una-clinica-comunitaria-en-plano-tx
+:date: !ruby/object:DateTime 2014-12-14 02:08:18.000000000 -08:00
+:author_name: 'Jesus Garazua '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1OrIz6eh5m2kgksaoGikSQ
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-11T05:36:52+00:00'
+    :created_at: '2017-09-11T05:36:52+00:00'
+    :id: 1OrIz6eh5m2kgksaoGikSQ
+  :body: 'Hola Jesus, gracias por su pregunta. A continuacion le proporcionamos la
+    informacion sobre una clinica de atencion a bajo costo. Le recomendamos tambien,
+    que se ponga en contacto con ellos para obtener mayor informacion sobre los servicios
+    ofrecidos: Planned Parenthood - Plano Clinic. 810 N Central Expressway Ste. 116.
+    Plano TX. Telefono: 972-424-631. SABEResPODER'
+  :date: !ruby/object:DateTime 2014-12-15 10:32:56.044000000 -08:00
+  :author_name: 'Aaron Paguaga '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+  :answers:
+  - :id: LwoszPd58kUWwaqAICMuk
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-11T05:36:51+00:00'
+      :created_at: '2017-09-11T05:36:51+00:00'
+      :id: LwoszPd58kUWwaqAICMuk
+    :body: El numero esta mal
+    :date: !ruby/object:DateTime 2015-01-25 13:40:22.468000000 -08:00
+    :author_name: 'Jesus Garazua '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :answers:
+    - :id: 6cbDDi2nvymawY0eqaeU0Q
+      :_meta:
+        :content_type_id: answer
+        :updated_at: '2017-09-11T05:36:51+00:00'
+        :created_at: '2017-09-11T05:36:51+00:00'
+        :id: 6cbDDi2nvymawY0eqaeU0Q
+      :body: "Planned Parenthood - Plano Clinic\r\n810 N Central Expressway Ste. 116.
+        Plano TX. Telefono: 972-424-6311. SABEResPODER"
+      :date: !ruby/object:DateTime 2015-01-26 15:18:49.173000000 -08:00
+      :author_name: 'Aaron Paguaga '
+      :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/112751/1083111_540305609_9903623_n.jpg
+      :from_admin: false
+    :from_admin: false
+  :from_admin: false
+:legacy_id: 2192

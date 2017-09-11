@@ -1,0 +1,47 @@
+---
+:id: tTJexfCfi8k2i0EUuUsaO
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:53:24+00:00'
+  :created_at: '2017-09-08T18:53:24+00:00'
+  :id: tTJexfCfi8k2i0EUuUsaO
+:body: "<p>Clinicas gratuitas </p>"
+:permalink: clinicas-gratuitas
+:date: !ruby/object:DateTime 2014-10-07 13:45:23.731000000 -07:00
+:author_name: 'Isabel Vasquez '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+:answers:
+- :id: 1iilr9oWJkAWum2ek4ekYc
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:53:24+00:00'
+    :created_at: '2017-09-08T18:53:24+00:00'
+    :id: 1iilr9oWJkAWum2ek4ekYc
+  :body: Hola Isabel, existen clinicas gratuitas o a bajo costo en Sacramento.  Para
+    encontrar una ceras a usted, llame al (916) 924-7988.  Suerte!
+  :date: !ruby/object:DateTime 2014-10-08 15:50:42.960000000 -07:00
+  :author_name: Oscar Gamez  - SABEResPODER
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/33/oscar.jpg
+  :answers:
+  - :id: 210EqavxRmI6USog68euIc
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:53:23+00:00'
+      :created_at: '2017-09-08T18:53:23+00:00'
+      :id: 210EqavxRmI6USog68euIc
+    :body: Gracias Oscar Gomez
+    :date: !ruby/object:DateTime 2014-10-08 18:17:06.540000000 -07:00
+    :author_name: 'Isabel Vasquez '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: true
+:legacy_id: 1019

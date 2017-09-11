@@ -1,0 +1,354 @@
+---
+:id: 5g6PPWw3DqEOGwoMYImagq
+:_meta:
+  :content_type_id: question
+  :updated_at: '2017-09-08T18:17:18+00:00'
+  :created_at: '2017-09-08T18:17:18+00:00'
+  :id: 5g6PPWw3DqEOGwoMYImagq
+:body: "<p>Necesito saber que es bueno para la gente epiléptico?</p>"
+:permalink: necesito-saber-que-es-bueno-para-la-gente-epileptico
+:date: !ruby/object:DateTime 2014-09-16 18:28:50.856000000 -07:00
+:author_name: 'Anonimo '
+:author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+:categories:
+- :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T11:01:01+00:00'
+    :id: 2xAYd9tWy4yWC6ukGKAQ2e
+  :title: Finanzas
+  :is_active: true
+- :id: 5M520DaYikSaMsm8oYEgY4
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:37+00:00'
+    :created_at: '2017-04-06T11:02:05+00:00'
+    :id: 5M520DaYikSaMsm8oYEgY4
+  :title: Inmigración
+  :is_active: true
+- :id: 3PBlzueiRywOqI0CM22uS6
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-04-24T07:15:40+00:00'
+    :created_at: '2017-04-06T11:01:26+00:00'
+    :id: 3PBlzueiRywOqI0CM22uS6
+  :title: Salud
+  :is_active: true
+- :id: 2111cvVzhe24g8cEsCygma
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T13:07:28+00:00'
+    :created_at: '2017-04-06T11:01:42+00:00'
+    :id: 2111cvVzhe24g8cEsCygma
+  :title: Educación
+  :is_active: true
+- :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:04+00:00'
+    :id: 7AE7VuVbRCYe6SwuOI06Sa
+  :title: Trabajo
+  :is_active: false
+- :id: 4nWGshyp96EMYSGK8KM08
+  :_meta:
+    :content_type_id: category
+    :updated_at: '2017-08-15T12:09:19+00:00'
+    :created_at: '2017-04-06T10:58:48+00:00'
+    :id: 4nWGshyp96EMYSGK8KM08
+  :title: Noticias
+  :is_active: false
+:answers:
+- :id: 4dgYRvXtFmuY8OguSKI6MM
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:05+00:00'
+    :created_at: '2017-09-08T18:17:05+00:00'
+    :id: 4dgYRvXtFmuY8OguSKI6MM
+  :body: "Pues mira el medico le tiene que recetar unas pastillas para controlar esos
+    ataques epilepticod.\r\nComo consejo si una persona pasa por una ataque en ese
+    momento hacer lo siguiente.\r\n-Acudir inmediatamente despues de que cae al suelo.\r\n-Tomar
+    la cabeza con fuerza para q no se golpe.\r\n-Irle poniendo poca agua en la frente
+    para q reaccione.\r\n-No permitir que cierre la boca durante el ataque."
+  :date: !ruby/object:DateTime 2016-05-27 09:16:27.466000000 -07:00
+  :author_name: 'Alvaro Guzman '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/364032/uploads_2Ftmp_2F406bcbd6-467a-4631-a5a5-8f51fc00d903_2FIMG_20160523_221004.jpg
+  :from_admin: false
+- :id: KMVVPrhzSmwEo8gQYkmAO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:06+00:00'
+    :created_at: '2017-09-08T18:17:06+00:00'
+    :id: KMVVPrhzSmwEo8gQYkmAO
+  :body: "Nesecito saber la misma pregunta \r\nAlguien podrá decir q es bueno para
+    ese problema"
+  :date: !ruby/object:DateTime 2016-02-14 06:28:07.884000000 -08:00
+  :author_name: 'Adan Rocha '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 7eHWgQI5A4GQAISiS0AQQC
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:17:05+00:00'
+      :created_at: '2017-09-08T18:17:05+00:00'
+      :id: 7eHWgQI5A4GQAISiS0AQQC
+    :body: "Sr. Adan gracias por su participacion en relacion a su pregunta. Un diagnóstico
+      cuidadoso y exacto del tipo de epilepsia que padece el enfermo es fundamental
+      para encontrar un tratamiento efectivo. Hay muchas formas diferentes de tratar
+      la epilepsia. Los tratamientos actuales pueden controlar los ataques, al menos
+      durante cierto tiempo, en aproximadamente un 80% de los pacientes con epilepsia.
+      Sin embargo el 20% restante de los pacientes epilépticos tienen ataques que
+      no se pueden tratar adecuadamente con los medios disponibles actualmente, por
+      lo que se hace absolutamente necesario una mejora en los tratamientos o la aparición
+      de otros nuevos.\r\n\r\nLa duración del tratamiento variará en función de cada
+      paciente y el tipo de epilepsia que padezca. En algunos casos puede tratarse
+      de unos pocos años, mientras que para algunos pacientes tendrá que someterse
+      al tratamiento de manera indefinida.Las posibilidades de tratamiento de la epilepsia
+      son la medicación, la cirugía y una dieta alimenticia específica. La mayoría
+      de las veces, lo que se aplica es una combinación de las dos o de las tres modalidades."
+    :date: !ruby/object:DateTime 2016-02-15 14:19:48.083000000 -08:00
+    :author_name: 'Minerva Luna '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: SntDGT5aMKiUmWO8Q4MEk
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:07+00:00'
+    :created_at: '2017-09-08T18:17:07+00:00'
+    :id: SntDGT5aMKiUmWO8Q4MEk
+  :body: Jalatela todos los días .excelente remedio para la epilepxia
+  :date: !ruby/object:DateTime 2015-12-06 10:52:47.014000000 -08:00
+  :author_name: 'darwin  de leon '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 2ka9zszNTC4cQqYUccKOQo
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:17:06+00:00'
+      :created_at: '2017-09-08T18:17:06+00:00'
+      :id: 2ka9zszNTC4cQqYUccKOQo
+    :body: "Hola estimado Darwin, gracias por su participación, los estudios recientes
+      en los países de ingresos bajos y medianos han revelado que hasta un 70% de
+      los niños y adultos diagnosticados recientemente de epilepsia pueden tratarse
+      con éxito (es decir, tener sus convulsiones completamente controladas) con fármacos
+      anticonvulsionantes. Además, después de 2 a 5 años de tratamiento eficaz y una
+      vez desaparecidas las convulsiones, los medicamentos se pueden retirar a un
+      70% de los niños y un 60% de los adultos, sin riesgo de ulterior recaída.\r\n\r\nEn
+      los países de ingresos bajos y medianos, aproximadamente las tres cuartas partes
+      de las personas epilépticas podrían no recibir el tratamiento necesario. Esto
+      se denomina “brecha terapéutica”.\r\nEn muchos países de ingresos bajos y medianos
+      la disponibilidad de medicamentos antiepilépticos es baja. Un estudio reciente
+      reveló que la disponibilidad media de medicamentos antiepilépticos genéricos
+      en el sector público de los países de ingresos bajos y medianos era inferior
+      al 50%. Esto podría ser un obstáculo para acceder al tratamiento.\r\nLa mayor
+      parte de los casos de epilepsia se pueden diagnosticar y tratar en el nivel
+      de atención primaria de salud sin necesidad de ningún equipo sofisticado.\r\nLos
+      proyectos de demostración de la OMS indican que la capacitación de los dispensadores
+      de atención primaria de salud para que puedan diagnosticar y tratar casos de
+      epilepsia puede reducir realmente la brecha de tratamiento de la epilepsia.
+      No obstante, la falta de dispensadores de atención de salud capacitados puede
+      ser un obstáculo para el tratamiento de las personas epilépticas.\r\nEn los
+      pacientes que responden mal al tratamiento farmacológico puede resultar útil
+      el tratamiento quirúrgico. Para mas información: <a href='http://bit.ly/1oiEdPC'>http://bit.ly/1oiEdPC</a>
+      Recuerde que estamos para ayudarle. SABEResPODER"
+    :date: !ruby/object:DateTime 2015-12-07 09:09:50.718000000 -08:00
+    :author_name: 'Jenny Alfaro '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/185611/IMG_2057.jpg
+    :from_admin: false
+  :from_admin: false
+- :id: 3Ze2tk6usokWs60YQSi0UY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:07+00:00'
+    :created_at: '2017-09-08T18:17:07+00:00'
+    :id: 3Ze2tk6usokWs60YQSi0UY
+  :body: "Hola\r\nPrimero que nada creo q te refieres a los ataques epilépticos, desafortunadamente
+    no existe remedio casero únicamente existen tratamientos médicos bajo estricta
+    supervisión y control del medico responsable !!!\r\n\r\n\r\nSaludos"
+  :date: !ruby/object:DateTime 2015-10-17 08:37:16.844000000 -07:00
+  :author_name: 'Emma Cuellar '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 1Qo7uUiBRKgOU2MGssgCGm
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:07+00:00'
+    :created_at: '2017-09-08T18:17:07+00:00'
+    :id: 1Qo7uUiBRKgOU2MGssgCGm
+  :body: La verdad que como esta la tecnología ahora eso lo puedes buscar en Google
+    o YouTube .
+  :date: !ruby/object:DateTime 2015-09-23 10:11:06.108000000 -07:00
+  :author_name: 'disleivys hernandez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 279GdYnIBmaOAMa8EmSSGG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:09+00:00'
+    :created_at: '2017-09-08T18:17:09+00:00'
+    :id: 279GdYnIBmaOAMa8EmSSGG
+  :body: Necesito trabajo de contador
+  :date: !ruby/object:DateTime 2015-09-18 20:38:38.913000000 -07:00
+  :author_name: 'Gustavo Hernandez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 4HX3MgLZ4IYUKSSaSwm4sO
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:17:08+00:00'
+      :created_at: '2017-09-08T18:17:08+00:00'
+      :id: 4HX3MgLZ4IYUKSSaSwm4sO
+    :body: Buscalo
+    :date: !ruby/object:DateTime 2015-09-19 06:42:36.697000000 -07:00
+    :author_name: 'Anonimo '
+    :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+    :from_admin: false
+  :from_admin: false
+- :id: 1Etfs559LGMMSQIkCsKmOY
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:10+00:00'
+    :created_at: '2017-09-08T18:17:10+00:00'
+    :id: 1Etfs559LGMMSQIkCsKmOY
+  :body: Arroz
+  :date: !ruby/object:DateTime 2015-09-18 20:37:19.249000000 -07:00
+  :author_name: 'Gustavo Hernandez '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 3IKJ7Ywx1CgoUa4ygkI6Sq
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:10+00:00'
+    :created_at: '2017-09-08T18:17:10+00:00'
+    :id: 3IKJ7Ywx1CgoUa4ygkI6Sq
+  :body: Inyecciones de complejo b y hierro juntos por 6 semanas c/3 dia y otras pastillas
+    Que No Recuerdo el nombre
+  :date: !ruby/object:DateTime 2015-09-03 15:11:08.492000000 -07:00
+  :author_name: 'Eduardo Pantoja '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: 67YtTrT9IIAiM6OyAIQye8
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:11+00:00'
+    :created_at: '2017-09-08T18:17:11+00:00'
+    :id: 67YtTrT9IIAiM6OyAIQye8
+  :body: 5it
+  :date: !ruby/object:DateTime 2015-07-20 10:11:26.894000000 -07:00
+  :author_name: 'jose quiroz '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: false
+- :id: qZcOH9yFrMsEsKmUcEWeC
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:12+00:00'
+    :created_at: '2017-09-08T18:17:12+00:00'
+    :id: qZcOH9yFrMsEsKmUcEWeC
+  :body: Eswue nome acuerdo bien que es
+  :date: !ruby/object:DateTime 2015-06-15 16:05:34.849000000 -07:00
+  :author_name: 'Maria Luisa Barrera '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3SKxKce29q2Qg6u4YaWQyw
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:17:11+00:00'
+      :created_at: '2017-09-08T18:17:11+00:00'
+      :id: 3SKxKce29q2Qg6u4YaWQyw
+    :body: 'Hola estimada María, agradecemos su comentario. ¿Cómo la podemos ayudar?
+      #SABEResPODER'
+    :date: !ruby/object:DateTime 2015-06-25 09:26:02.379000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 2sp5XZhAHaquWKiEoGiAAG
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:15+00:00'
+    :created_at: '2017-09-08T18:17:15+00:00'
+    :id: 2sp5XZhAHaquWKiEoGiAAG
+  :body: "Hola quisiera saber de clínicas dentales de bajo costo\r\n\r\n\r\n\r\n\r\n\r\n"
+  :date: !ruby/object:DateTime 2015-05-19 19:43:21.087000000 -07:00
+  :author_name: 'Marcela Diaz '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: YP4OrfAnAW2SMyUiwuywu
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:17:12+00:00'
+      :created_at: '2017-09-08T18:17:12+00:00'
+      :id: YP4OrfAnAW2SMyUiwuywu
+    :body: 'Hola estimada Marcela, con mucho gusto le compartimos la información de
+      dos clínicas que ofrecen servicios dentales cerca de su área residencial. Le
+      recomendamos visite o se comunique con las clínicas: Aldine Health Center -
+      HHS 4755 Aldine Mail Route Rd. Houston TX 77039. Tel. 281-985-7600 y Acres Home
+      Health Center (HHS) 818 Ringold St. Houston TX 77088 Tel. 281-448-6391 #SABEResPODER'
+    :date: !ruby/object:DateTime 2015-06-25 09:32:25.636000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 2KtgoksiR204SwoyckgmEe
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:16+00:00'
+    :created_at: '2017-09-08T18:17:16+00:00'
+    :id: 2KtgoksiR204SwoyckgmEe
+  :body: "Estimada Aracelis: Si su hija es su dependiente durante 6 meses o mas; Ud.
+    puede reportarla. Le sugerimos acuda a su Oficina de Impuestos de su confianza
+    para que le puedan ayudar, solo asegúrese de que sea un lugar certificado, confiable
+    y con experiencia. \r\n\r\nCon gusto nosotros podemos enviarle un cupón de descuento
+    de una Oficina de Impuestos certificada.  \r\n\r\n\r\n<a href='http://contenido.saberespoder.com/cupones/finanzas/aproveche-descuento-en-su-preparacion-de-impuestos'>http://contenido.saberespoder.com/cupones/finanzas/aproveche-descuento-en-su-preparacion-de-impuestos</a>
+    . Saber es Poder!\r\n"
+  :date: !ruby/object:DateTime 2015-03-05 18:00:59.695000000 -08:00
+  :author_name: Martha Faria  - SABEResPODER
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :from_admin: true
+- :id: 4fUAC4n0y4gIm48GuiSG4O
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:17+00:00'
+    :created_at: '2017-09-08T18:17:17+00:00'
+    :id: 4fUAC4n0y4gIm48GuiSG4O
+  :body: Puedo reportar ami hija de 18 años qe está estudiando? ??
+  :date: !ruby/object:DateTime 2015-01-31 14:20:07.988000000 -08:00
+  :author_name: 'Aracelis Piña '
+  :author_userpic: "//d3psfyzxfabkyj.cloudfront.net/assets/def_avatar2-b72fd391d2ff10bf50cf334ad0efbb23.jpg"
+  :answers:
+  - :id: 3pwu8X81baaQSEUQKk0kog
+    :_meta:
+      :content_type_id: answer
+      :updated_at: '2017-09-08T18:17:16+00:00'
+      :created_at: '2017-09-08T18:17:16+00:00'
+      :id: 3pwu8X81baaQSEUQKk0kog
+    :body: 'Hola estimada Aracelis: Si su hija es su dependiente durante 6 meses o
+      mas; Ud. puede reportarla. Le sugerimos acuda a su Oficina de Impuestos de su
+      confianza para que le puedan ayudar, solo asegúrese de que sea un lugar certificado,
+      confiable y con experiencia. Con gusto nosotros podemos enviarle un cupón de
+      descuento de una Oficina de Impuestos certificada. <a href=''http://contenido.saberespoder.com/cupones/finanzas/aproveche-descuento-en-su-preparacion-de-impuestos.''>http://contenido.saberespoder.com/cupones/finanzas/aproveche-descuento-en-su-preparacion-de-impuestos.</a>
+      #SABEResPODER'
+    :date: !ruby/object:DateTime 2015-06-25 09:34:36.596000000 -07:00
+    :author_name: 'Alma Alvarado '
+    :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/2043/uploads_2Ftmp_2F08c9852d-0d18-4e6e-a894-4638355dba86_2FIMG_4264.jpeg
+    :from_admin: false
+  :from_admin: false
+- :id: 7c0rUm6yJy8mY6uygqgOKO
+  :_meta:
+    :content_type_id: answer
+    :updated_at: '2017-09-08T18:17:17+00:00'
+    :created_at: '2017-09-08T18:17:17+00:00'
+    :id: 7c0rUm6yJy8mY6uygqgOKO
+  :body: 'Hola! Muchas gracias por su pregunta. En muchos casos, la epilepsia es una
+    enfermedad crónica, hay que consultar con el médico para seguir las indicaciones
+    que tenga al pie de la letra. Si no cuenta con un profesional médico todavía,
+    te recomiendo hacer una búsqueda en el siguiente enlace para ubicar clínicas gratis
+    o de bajo costo cerca de usted: <a href=''http://www.needymeds.org/free_clinics.taf''>http://www.needymeds.org/free_clinics.taf</a>
+    ¿Le respondí su pregunta? Recuerde: ¡SABEResPODER!'
+  :date: !ruby/object:DateTime 2014-09-19 11:46:21.472000000 -07:00
+  :author_name: 'Raquel Villarreal '
+  :author_userpic: https://d219r5liba2haj.cloudfront.net/uploads/user/pic_url/123820/10007492_10152383763850757_1004072927_n.jpg
+  :from_admin: false
+:legacy_id: 751
