@@ -2,7 +2,8 @@ require 'hashugar'
 
 module ContenidoHelpers
   def self.included(klass)
-    models       = %w(article category page author question).freeze
+    models = %w(article category page author)
+    models.push 'question' unless ENV['REBUILD_QUESTIONS'] == 'false'
     entry_models = (models - %w(article category))
 
     # Make models available inside config file

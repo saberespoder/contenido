@@ -8,10 +8,10 @@ set :content_url,        ENV["URL"]
 set :content_title,      'SABEResPODER'
 set :content_subtitle,   'Elija su ruta al conocimiento'
 set :questions_subtitle, 'Bienvenido al portal de conocimiento de SEP. ¿Tiene preguntas? ¡Tenemos respuestas!'
-set :platform_url,       ENV["PLATFORM_URL"]
-set :phone_number,       ENV["PHONE_NUMBER"]
-set :feed_articles,      ENV["ARTICLES_PER_FEED"].to_i
-set :widget_url,         ENV["WIDGET_URL"]
+set :platform_url,       ENV['PLATFORM_URL']
+set :phone_number,       ENV['PHONE_NUMBER']
+set :feed_articles,      ENV['ARTICLES_PER_FEED'].to_i
+set :widget_url,         ENV['WIDGET_URL']
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
@@ -97,20 +97,22 @@ end
 
 # Questions routes
 
-proxy "/preguntas/index.html", "/questions/index.html",
-  locals: { grouped_questions: question_groups }
+if models.include?('question')
+  proxy "/preguntas/index.html", "/questions/index.html",
+    locals: { grouped_questions: question_groups }
 
-category_entries.each do |category|
-  if question_groups[category.title]
-    proxy "/preguntas/#{category.title.downcase}.html", "/questions/category.html",
-      locals: { category_title: category.title, category_questions: question_groups[category.title] }
+  category_entries.each do |category|
+    if question_groups[category.title]
+      proxy "/preguntas/#{category.title.downcase}.html", "/questions/category.html",
+        locals: { category_title: category.title, category_questions: question_groups[category.title] }
+    end
   end
-end
 
-questions.each do |question|
-  question.categories.each do |category|
-    proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/questions/show.html",
-      locals: { question: question, answers: question.answers, related: related_articles(question) }
+  questions.each do |question|
+    question.categories.each do |category|
+      proxy "/preguntas/#{category.title.downcase}/#{question.permalink}.html", "/questions/show.html",
+        locals: { question: question, answers: question.answers, related: related_articles(question) }
+    end
   end
 end
 
