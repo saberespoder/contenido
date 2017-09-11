@@ -30,6 +30,6 @@ script:
     fi'
   - 'if [ ${TRAVIS_BRANCH} = "staging" ]; then
         CONTENTFUL_ACCESS_TOKEN=${CONTENTFUL_ACCESS_TOKEN_DEV} CONTENTFUL_SPACE_ID=${CONTENTFUL_SPACE_ID_DEV} bundle exec middleman contentful;
-        ENV_NAME=staging WIDGET_URL=${WIDGET_URL_DEV} URL=${URL_DEV} bundle exec middleman build --no-parallel;
+        ENV_NAME=staging URL=${URL_DEV} bundle exec middleman build --no-parallel;
         AWS_BUCKET=${AWS_BUCKET_DEV} AWS_REGION=${AWS_REGION_DEV} AWS_KEY=${AWS_KEY_DEV} AWS_SECRET=${AWS_SECRET_DEV} bundle exec middleman s3_sync;
     fi'

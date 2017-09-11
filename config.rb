@@ -11,7 +11,12 @@ set :questions_subtitle, 'Bienvenido al portal de conocimiento de SEP. ¿Tiene p
 set :platform_url,       ENV["PLATFORM_URL"]
 set :phone_number,       ENV["PHONE_NUMBER"]
 set :feed_articles,      ENV["ARTICLES_PER_FEED"].to_i
-set :widget_url,         ENV["WIDGET_URL"]
+
+if ENV["ENV_NAME"] == 'staging'
+  set :widget_url, 'https://sepcontentdev.s3-website-us-west-1.amazonaws.com/widget/current/widget.js'
+else
+  set :widget_url, 'http://sepcontent.s3-website-us-east-1.amazonaws.com/widget/current/widget.js'
+end
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
