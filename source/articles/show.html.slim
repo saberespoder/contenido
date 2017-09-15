@@ -30,7 +30,8 @@
       .article__text= Markdown.new(article.body).to_html
       = partial 'buttons', locals: { position: :bottom }
 
-    - unless article.display_widget == false
+    - if article.display_widget != false
       .article__questions= partial 'widget'
 
-= partial 'related', locals: { related: related }
+- if article.display_related != false
+  = partial 'related', locals: { related: related }

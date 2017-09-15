@@ -80,3 +80,4 @@
   :is_active: false
 :is_offer: false
 :display_widget: true
+:display_related: true
