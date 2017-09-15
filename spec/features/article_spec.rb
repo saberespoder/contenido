@@ -15,11 +15,6 @@ describe 'article', type: :feature do
       expect(page.find('h1')).to have_content('Campaña de Momentos: Consejo para padres con hijas entre 8 y 10 años')
     end
 
-    it 'has related articles block' do
-      expect(page).to have_selector('.placeholder')
-      expect(page.find('.placeholder')).to have_content('Contenido Relacionado')
-    end
-
     it 'has links to parent categories' do
       categories = page.find('.article__categories')
       expect(categories.find_all('a').length).to eq(2)
@@ -53,6 +48,23 @@ describe 'article', type: :feature do
     it 'displayed if not defined' do
       click_link('Aprenda inglés fácilmente desde su teléfono móvil')
       expect(page).to have_selector('#sep-widget')
+    end
+  end
+
+  context 'related articles state' do
+    it 'does not displayed if defined to false' do
+      click_link('Campaña de Momentos: Consejo para padres con hijas entre 8 y 10 años')
+      expect(page).not_to have_selector('.placeholder')
+    end
+    it 'displayed if defined to true' do
+      click_link('El top 6 del Q&A')
+      expect(page).to have_selector('.placeholder')
+      expect(page.find('.placeholder')).to have_content('Contenido Relacionado')
+    end
+    it 'displayed if not defined' do
+      click_link('Aprenda inglés fácilmente desde su teléfono móvil')
+      expect(page).to have_selector('.placeholder')
+      expect(page.find('.placeholder')).to have_content('Contenido Relacionado')
     end
   end
 end
