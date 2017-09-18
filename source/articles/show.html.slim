@@ -12,7 +12,7 @@
         | #{partial "author", locals: { author: article_author(article) }}
         <span class="article__categories">in #{category_links(article.categories)}</span>
 
-    .article__image
+    .article__image class="article__image--#{article.image_style == 'contain' ? 'contain' : 'cover' }"
       - if article.image
         - if article.image_href
           = link_to article.image_href, target: :blank, title: article.title do
