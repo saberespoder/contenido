@@ -15,6 +15,7 @@ set :widget_url,         ENV['WIDGET_URL']
 
 page "/feed.xml", layout: false
 page "404.html",  layout: :errors, directory_index: false
+page "maintenance.html",  layout: :errors, directory_index: false
 
 set :slim, { ugly: true, format: :html }
 #set :relative_links, true
