@@ -1,6 +1,7 @@
 require 'lib/contenido_helpers'
 helpers ContenidoHelpers
 include ContenidoHelpers
+include ContentfulMiddleman::Helpers
 
 activate :dotenv
 
@@ -93,6 +94,15 @@ articles.each do |article|
   article.categories.each do |category|
     proxy article_path(article, category), "/articles/show.html",
       locals: { article: article, related: related_articles(article) }
+  end
+end
+
+# Preview
+
+with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
+  preview.entries.each do |entry|
+    proxy "/articulos/preview/#{entry.id}.html", "/articles/show.html",
+      locals: { article: entry, related: [] }
   end
 end
 
