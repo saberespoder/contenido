@@ -1,6 +1,7 @@
 require 'lib/contenido_helpers'
 helpers ContenidoHelpers
 include ContenidoHelpers
+include ContentfulMiddleman::Helpers
 
 activate :dotenv
 
@@ -69,13 +70,25 @@ end
 # Contentful setup
 
 activate :contentful do |f|
-  f.cda_query     = { limit: 1000 }
-  f.all_entries   = true
   f.space         = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
+  f.all_entries   = true
+  f.cda_query     = { limit: 1000 }
   models.each { |model| f.content_types[model] = model }
 end
 
+# Article previews
+
+if ENV['BUILD_MODE'] == 'preview'
+  with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
+    preview.entries.each do |entry|
+      if entry.content_type.id == 'article'
+        proxy "/articulos/preview/#{entry.id}.html", "/articles/preview.html",
+          locals: { id: entry.id }
+      end
+    end
+  end
+end
 
 # Articles routes
 
@@ -144,10 +157,10 @@ categories.each do |category|
 
   proxy "/#{category.legacy_slug}.xml", "/feed.xml",
     layout: false, locals: { category_articles: category_articles }
+end
 
-  # Pages routes
+# Pages routes
 
-  pages.each do |page|
-    proxy "/#{page.slug}.html", "/pages/show.html", locals: { article: page }
-  end
+pages.each do |page|
+  proxy "/#{page.slug}.html", "/pages/show.html", locals: { article: page }
 end

@@ -1,0 +1,34 @@
+- with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
+  - preview.clear_cache
+  - article = preview.entry(id)
+
+  .container
+    .article data-view-share-this="//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
+
+      .article__headline
+        h1= article.title
+        .article__author
+          - if article.try(:author)
+            | #{partial "author", locals: { author: article_author(article) }}
+          <span class="article__categories">in #{category_links(article.categories)}</span>
+
+      .article__image class="article__image--#{article.try(:image_style) == 'contain' ? 'contain' : 'cover' }"
+        - if article.try(:image)
+          - if article.try(:image_href)
+            = link_to article.image_href, target: :blank, title: article.title do
+              = image_tag article.image.url
+          - else
+            = image_tag article.image.url
+
+      .social
+        .sharethis-inline-share-buttons
+
+      hr
+
+      .article__inner
+        = partial 'buttons', locals: { position: :top, article: article }
+        .article__text= Markdown.new(article.body).to_html
+        = partial 'buttons', locals: { position: :bottom, article: article }
+
+      - if article.display_widget != false
+        .article__questions= partial 'widget'
