@@ -1,4 +1,4 @@
-- if article.buttons
+- if article.try(:buttons)
   - buttons = article.buttons.select { |b| b.position == position.to_s }
   - buttons.any?
     .buttons class="buttons--#{position}"

@@ -70,13 +70,23 @@ end
 # Contentful setup
 
 activate :contentful do |f|
-  f.cda_query     = { limit: 1000 }
-  f.all_entries   = true
   f.space         = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
+  f.all_entries   = true
+  f.cda_query     = { limit: 1000 }
   models.each { |model| f.content_types[model] = model }
 end
 
+# Article previews
+
+with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
+  preview.entries.each do |entry|
+    if entry.content_type.id == 'article'
+      proxy "/articulos/preview/#{entry.id}.html", "/articles/preview.html",
+        locals: { id: entry.id }
+    end
+  end
+end
 
 # Articles routes
 
@@ -94,15 +104,6 @@ articles.each do |article|
   article.categories.each do |category|
     proxy article_path(article, category), "/articles/show.html",
       locals: { article: article, related: related_articles(article) }
-  end
-end
-
-# Preview
-
-with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
-  preview.entries.each do |entry|
-    proxy "/articulos/preview/#{entry.id}.html", "/articles/show.html",
-      locals: { article: entry, related: [] }
   end
 end
 
@@ -154,10 +155,10 @@ categories.each do |category|
 
   proxy "/#{category.legacy_slug}.xml", "/feed.xml",
     layout: false, locals: { category_articles: category_articles }
+end
 
-  # Pages routes
+# Pages routes
 
-  pages.each do |page|
-    proxy "/#{page.slug}.html", "/pages/show.html", locals: { article: page }
-  end
+pages.each do |page|
+  proxy "/#{page.slug}.html", "/pages/show.html", locals: { article: page }
 end
