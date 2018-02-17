@@ -10,7 +10,7 @@
       h1= title
       .article__author
         | #{partial "author", locals: { author: article_author(article) }}
-        <span class="article__categories">in #{category_links(article.categories)}</span>
+        span.article__categories in #{category_links(article.categories)}
 
     .article__image class="article__image--#{article.image_style == 'contain' ? 'contain' : 'cover' }"
       - if article.image
