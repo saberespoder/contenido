@@ -10,7 +10,7 @@
         .article__author
           - if article.try(:author)
             | #{partial "author", locals: { author: article.author }}
-          <span class="article__categories">in #{category_links(article.categories)}</span>
+          span.article__categories in #{category_links(article.categories.map { |c| preview.entry(c.id) })}
 
       .article__image class="article__image--#{article.try(:image_style) == 'contain' ? 'contain' : 'cover' }"
         - if article.try(:image)
