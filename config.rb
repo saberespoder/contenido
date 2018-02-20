@@ -81,11 +81,9 @@ end
 
 if ENV['BUILD_MODE'] == 'preview'
   with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
-    preview.entries.each do |entry|
-      if entry.content_type.id == 'article'
-        proxy "/articulos/preview/#{entry.id}.html", "/articles/preview.html",
-          locals: { id: entry.id }
-      end
+    preview.entries(limit: 1000).each do |entry|
+      proxy "/articulos/preview/#{entry.id}.html", "/articles/preview.html",
+        locals: { id: entry.id }
     end
   end
 end
