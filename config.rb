@@ -1,7 +1,10 @@
 require 'lib/contenido_helpers'
-helpers ContenidoHelpers
+require 'lib/webhook_reload_handler'
+
 include ContenidoHelpers
 include ContentfulMiddleman::Helpers
+
+helpers ContenidoHelpers
 
 activate :dotenv
 
@@ -70,10 +73,12 @@ end
 # Contentful setup
 
 activate :contentful do |f|
-  f.space         = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
-  f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
-  f.all_entries   = true
-  f.cda_query     = { limit: 1000 }
+  f.space              = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
+  f.access_token       = ENV["CONTENTFUL_ACCESS_TOKEN"]
+  f.cda_query          = { limit: 1000 }
+  f.all_entries        = true
+  f.rebuild_on_webhook = true
+  f.webhook_controller = WebhookReloadHandler
   models.each { |model| f.content_types[model] = model }
 end
 
