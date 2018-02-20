@@ -36,7 +36,7 @@ GEM
     compass-import-once (1.0.5)
       sass (>= 3.2, < 3.5)
     concurrent-ruby (1.0.5)
-    contentful (2.2.2)
+    contentful (2.4.0)
       http (> 0.8, < 3.0)
       multi_json (~> 1)
     contentful-webhook-listener (0.3.0)
