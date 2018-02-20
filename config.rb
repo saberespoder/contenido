@@ -1,7 +1,10 @@
 require 'lib/contenido_helpers'
-helpers ContenidoHelpers
+require 'lib/webhook_reload_handler'
+
 include ContenidoHelpers
 include ContentfulMiddleman::Helpers
+
+helpers ContenidoHelpers
 
 activate :dotenv
 
@@ -70,10 +73,12 @@ end
 # Contentful setup
 
 activate :contentful do |f|
-  f.space         = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
-  f.access_token  = ENV["CONTENTFUL_ACCESS_TOKEN"]
-  f.all_entries   = true
-  f.cda_query     = { limit: 1000 }
+  f.space              = { contenido: ENV["CONTENTFUL_SPACE_ID"] }
+  f.access_token       = ENV["CONTENTFUL_ACCESS_TOKEN"]
+  f.cda_query          = { limit: 1000 }
+  f.all_entries        = true
+  f.rebuild_on_webhook = true
+  f.webhook_controller = WebhookReloadHandler
   models.each { |model| f.content_types[model] = model }
 end
 
@@ -81,11 +86,9 @@ end
 
 if ENV['BUILD_MODE'] == 'preview'
   with_preview(space: ENV['CONTENTFUL_SPACE_ID'], access_token: ENV['CONTENTFUL_PREVIEW_TOKEN']) do |preview|
-    preview.entries.each do |entry|
-      if entry.content_type.id == 'article'
-        proxy "/articulos/preview/#{entry.id}.html", "/articles/preview.html",
-          locals: { id: entry.id }
-      end
+    preview.entries(limit: 1000).each do |entry|
+      proxy "/articulos/preview/#{entry.id}.html", "/articles/preview.html",
+        locals: { id: entry.id }
     end
   end
 end
