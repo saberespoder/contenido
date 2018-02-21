@@ -70,7 +70,7 @@ module ContenidoHelpers
   end
 
   def category_links(categories)
-    categories.select(&:is_active).map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
+    categories.select { |category| category.try(:is_active) }.map { |category| link_to(category.title, "/#{category.title.downcase}").html_safe }.join(", ")
   end
 
   def previous_page(slicer)
