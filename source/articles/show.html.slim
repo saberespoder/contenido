@@ -4,7 +4,7 @@
   = partial "opengraph", locals: { title: title, description: truncate(strip_tags(article.body), length: 200), url: "#{config[:content_url]}#{article_path(article)}", image: article.image && article.image.url }
 
 .container
-  .article data-view-share-this="//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
+  .article data-view-trackable='pid' data-view-share-this="//platform-api.sharethis.com/js/sharethis.js#property=#{ENV["SHARETHIS"]}&product=inline-share-buttons"
 
     .article__headline
       h1= title
